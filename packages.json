@@ -1132,7 +1132,7 @@
   {
     "package": "rebird",
     "url": "https://github.com/ropensci/rebird",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "redland",
