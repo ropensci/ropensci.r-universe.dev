@@ -1051,7 +1051,7 @@
       "url": "https://github.com/ropensci/charlatan",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 04:45:02",
+      "date_last_commit": "2024-10-18 10:42:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1171,7 +1171,7 @@
       "url": "https://github.com/ropensci/citecorp",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 16:21:35",
+      "date_last_commit": "2024-10-18 12:57:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3370,7 +3370,7 @@
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 12:29:16",
+      "date_last_commit": "2024-10-18 08:05:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-18 07:57 UTC"
+  "date": "2024-10-19 08:00 UTC"
 }

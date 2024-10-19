@@ -15140,7 +15140,7 @@
     "codeRepository": "https://github.com/ropensci/citecorp",
     "issueTracker": "https://github.com/ropensci/citecorp/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0.94",
+    "version": "0.3.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -43620,11 +43620,6 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "bold",
-        "name": "bold"
       }
     ],
     "softwareRequirements": {
