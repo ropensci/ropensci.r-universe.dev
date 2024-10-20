@@ -29767,7 +29767,7 @@
     "codeRepository": "https://github.com/ropensci/git2r",
     "issueTracker": "https://github.com/ropensci/git2r/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.33.0.9000",
+    "version": "0.35.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -41958,14 +41958,14 @@
         "@type": "SoftwareApplication",
         "identifier": "RSQLite",
         "name": "RSQLite",
-        "version": ">= 2.3.5",
+        "version": ">= 2.3.7.9014",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=RSQLite"
+        "sameAs": "https://github.com/r-dbi/RSQLite"
       },
       {
         "@type": "SoftwareApplication",

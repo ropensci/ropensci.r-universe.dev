@@ -1591,7 +1591,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-10 14:08:31",
+      "date_last_commit": "2024-10-19 15:14:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2331,7 +2331,7 @@
       "url": "https://github.com/ropensci/git2r",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 06:17:02",
+      "date_last_commit": "2024-10-20 07:33:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3270,7 +3270,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-29 18:19:00",
+      "date_last_commit": "2024-10-19 12:04:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3910,7 +3910,7 @@
       "url": "https://github.com/ropensci/plater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2022-02-11 19:24:48",
+      "date_last_commit": "2024-10-20 00:50:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5250,7 +5250,7 @@
       "url": "https://github.com/ropensci/rvertnet",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-11 16:02:32",
+      "date_last_commit": "2024-10-19 14:55:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-19 08:00 UTC"
+  "date": "2024-10-20 07:56 UTC"
 }
