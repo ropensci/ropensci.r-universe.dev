@@ -2331,7 +2331,7 @@
       "url": "https://github.com/ropensci/git2r",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-20 07:33:07",
+      "date_last_commit": "2024-10-21 05:25:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3270,7 +3270,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-19 12:04:58",
+      "date_last_commit": "2024-10-20 17:47:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5304,7 +5304,7 @@
       "github": "https://github.com/ropensci/skynet",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/214",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/skynet",
@@ -5312,7 +5312,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-09-12 13:29:02",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -6110,7 +6110,7 @@
       "url": "https://github.com/ropensci/tsbox",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-17 16:35:57",
+      "date_last_commit": "2024-10-20 11:15:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6390,7 +6390,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 11:13:26",
+      "date_last_commit": "2024-10-21 03:05:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-20 07:56 UTC"
+  "date": "2024-10-21 08:00 UTC"
 }
