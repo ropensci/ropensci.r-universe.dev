@@ -3390,7 +3390,7 @@
       "url": "https://github.com/ropensci/ohun",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-21 20:19:30",
+      "date_last_commit": "2024-10-22 16:12:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-11 16:27:30",
+      "date_last_commit": "2024-10-22 20:05:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5710,7 +5710,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-02 16:39:59",
+      "date_last_commit": "2024-10-23 00:40:06",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6170,7 +6170,7 @@
       "url": "https://github.com/ropensci/universe",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-14 14:36:22",
+      "date_last_commit": "2024-10-22 14:08:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-22 07:56 UTC"
+  "date": "2024-10-23 08:00 UTC"
 }
