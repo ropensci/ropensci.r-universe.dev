@@ -53,7 +53,7 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-10 11:54:45",
+      "date_last_commit": "2024-10-23 12:25:13",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -224,7 +224,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-07 08:17:33",
+      "date_last_commit": "2024-10-20 12:28:17",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-10 15:14:14",
+      "date_last_commit": "2024-10-23 17:44:27",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-17 08:46:27",
+      "date_last_commit": "2024-10-22 12:29:52",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/Permian-Global-Research/rsi",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-21 23:21:49",
+      "date_last_commit": "2024-10-24 00:23:14",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-07 16:55:27",
+      "date_last_commit": "2024-10-22 12:30:28",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2024-10-14 16:32:22",
+      "date_last_commit": "2024-10-19 11:12:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -2970,7 +2970,7 @@
       "url": "https://github.com/ropensci/mapscanner",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-19 15:09:08",
+      "date_last_commit": "2024-10-23 11:25:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3430,7 +3430,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-16 14:56:43",
+      "date_last_commit": "2024-10-23 19:15:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3550,7 +3550,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-25 11:04:13",
+      "date_last_commit": "2024-10-19 11:21:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3590,7 +3590,7 @@
       "url": "https://github.com/ropensci/osmplotr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-17 18:54:59",
+      "date_last_commit": "2024-10-20 11:23:30",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3910,7 +3910,7 @@
       "url": "https://github.com/ropensci/plater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-20 00:50:42",
+      "date_last_commit": "2024-10-23 23:36:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5003,14 +5003,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/rredlist",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/663",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-04 16:08:26",
+      "date_last_commit": "2024-10-23 21:53:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-22 20:05:46",
+      "date_last_commit": "2024-10-23 15:48:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-23 08:00 UTC"
+  "date": "2024-10-24 07:57 UTC"
 }

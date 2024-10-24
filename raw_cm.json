@@ -506,7 +506,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/autotest",
     "issueTracker": "https://github.com/ropensci-review-tools/autotest/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.0.2.209",
+    "version": "0.0.2.211",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -2593,7 +2593,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.61",
+    "version": "0.1.2.63",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3689,7 +3689,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0",
+    "version": "0.2.0.37",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4407,7 +4407,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.0.56",
+    "version": "0.1.0.58",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5021,7 +5021,7 @@
     "codeRepository": "https://github.com/Permian-Global-Research/rsi",
     "issueTracker": "https://github.com/Permian-Global-Research/rsi/issues",
     "license": "Apache License 2",
-    "version": "0.3.0.9000",
+    "version": "0.3.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5390,7 +5390,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/srr",
     "issueTracker": "https://github.com/ropensci-review-tools/srr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.3.19",
+    "version": "0.1.3.20",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6216,7 +6216,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.5",
+    "version": "0.2.1.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -36780,7 +36780,7 @@
     "codeRepository": "https://github.com/ropensci/mapscanner",
     "issueTracker": "https://github.com/ropensci/mapscanner/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1",
+    "version": "0.1.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -46483,7 +46483,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.23",
+    "version": "0.2.5.25",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -47079,7 +47079,7 @@
     "codeRepository": "https://github.com/ropensci/osmplotr",
     "issueTracker": "https://github.com/ropensci/osmplotr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.5.4",
+    "version": "0.3.5.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -50820,7 +50820,7 @@
     "codeRepository": "https://github.com/ropensci/plater",
     "issueTracker": "https://github.com/ropensci/plater/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65364,7 +65364,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
-        "version": ">= 0.4.0",
+        "version": ">= 0.6.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -65467,6 +65467,11 @@
       }
     ],
     "readme": "https://github.com/ropensci/rredlist/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/663",
+      "provider": "https://ropensci.org"
+    },
     "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
@@ -73557,6 +73562,19 @@
       }
     ],
     "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "autometric",
+        "name": "autometric",
+        "version": ">= 0.0.5.9002",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://github.com/wlandau/autometric"
+      },
       {
         "@type": "SoftwareApplication",
         "identifier": "bslib",
