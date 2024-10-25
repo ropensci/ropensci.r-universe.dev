@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 17:44:27",
+      "date_last_commit": "2024-10-24 15:58:37",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2024-10-19 11:12:27",
+      "date_last_commit": "2024-10-24 12:18:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3430,7 +3430,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 19:15:17",
+      "date_last_commit": "2024-10-24 18:13:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-24 07:57 UTC"
+  "date": "2024-10-25 08:00 UTC"
 }
