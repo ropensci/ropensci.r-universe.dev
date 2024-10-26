@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-16 15:45:52",
+      "date_last_commit": "2024-10-25 15:49:54",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3050,7 +3050,7 @@
       "url": "https://github.com/ropensci/medrxivr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-21 19:27:13",
+      "date_last_commit": "2024-10-25 11:29:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3910,7 +3910,7 @@
       "url": "https://github.com/ropensci/plater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 23:36:07",
+      "date_last_commit": "2024-10-25 18:48:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-25 08:00 UTC"
+  "date": "2024-10-26 07:57 UTC"
 }
