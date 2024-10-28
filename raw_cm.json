@@ -5624,7 +5624,7 @@
     "codeRepository": "https://github.com/YuLab-SMU/treeio",
     "issueTracker": "https://github.com/YuLab-SMU/treeio/issues",
     "license": "https://spdx.org/licenses/Artistic-2.0",
-    "version": "1.29.1",
+    "version": "1.29.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -41903,7 +41903,7 @@
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.10.7",
+    "version": "0.10.7.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -85256,6 +85256,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "diffobj",
+        "name": "diffobj",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=diffobj"
       }
     ],
     "softwareRequirements": {
