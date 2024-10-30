@@ -194,7 +194,7 @@
     "codeRepository": "https://github.com/CornellLabofOrnithology/auk",
     "issueTracker": "\n    https://github.com/CornellLabofOrnithology/auk/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.7.1",
+    "version": "0.8.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14101,7 +14101,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 2.1.0",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -14109,32 +14109,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "vcr",
-        "name": "vcr",
-        "version": ">= 0.5",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=vcr"
       }
     ],
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
-        "identifier": "R",
-        "name": "R",
-        "version": ">= 3.5.0"
+        "identifier": "methods",
+        "name": "methods"
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "methods",
-        "name": "methods"
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 3.5.0"
       },
       "3": {
         "@type": "SoftwareApplication",
@@ -36282,7 +36269,7 @@
     "codeRepository": "https://github.com/ropensci/lingtypology",
     "issueTracker": "https://github.com/ropensci/lingtypology/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.1.19",
+    "version": "1.1.20",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

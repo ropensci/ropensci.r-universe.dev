@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 17:26:05",
+      "date_last_commit": "2024-10-29 14:30:39",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1071,7 +1071,7 @@
       "url": "https://github.com/ropensci/chirps",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-04-25 08:06:33",
+      "date_last_commit": "2024-10-29 11:07:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2930,7 +2930,7 @@
       "url": "https://github.com/ropensci/lingtypology",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-20 20:38:02",
+      "date_last_commit": "2024-10-29 21:11:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4150,7 +4150,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-10 14:25:14",
+      "date_last_commit": "2024-10-29 21:12:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5710,7 +5710,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-29 07:41:54",
+      "date_last_commit": "2024-10-29 20:56:28",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6130,7 +6130,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-15 08:07:06",
+      "date_last_commit": "2024-10-29 09:33:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-29 08:00 UTC"
+  "date": "2024-10-30 07:56 UTC"
 }
