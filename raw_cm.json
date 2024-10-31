@@ -3689,7 +3689,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.46",
+    "version": "0.2.0.47",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5588,7 +5588,7 @@
     "codeRepository": "https://github.com/YuLab-SMU/treeio",
     "issueTracker": "https://github.com/YuLab-SMU/treeio/issues",
     "license": "https://spdx.org/licenses/Artistic-2.0",
-    "version": "1.29.2",
+    "version": "1.31.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -63922,6 +63922,13 @@
       },
       {
         "@type": "Person",
+        "givenName": "Zhe",
+        "familyName": "Dong",
+        "email": "dongzhe053@gmail.com",
+        "@id": "https://orcid.org/0009-0007-5298-8355"
+      },
+      {
+        "@type": "Person",
         "givenName": "Ron",
         "familyName": "Beiden",
         "email": "beiden@post.bgu.ac.il"
@@ -64775,7 +64782,7 @@
     "codeRepository": "https://github.com/ropensci/Rpolyhedra",
     "issueTracker": "https://github.com/ropensci/Rpolyhedra/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65022,15 +65029,15 @@
       },
       "9": {
         "@type": "SoftwareApplication",
-        "identifier": "git2r",
-        "name": "git2r",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=git2r"
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
       "SystemRequirements": null
     },
@@ -73486,7 +73493,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.8.0.9003",
+    "version": "1.8.0.9005",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

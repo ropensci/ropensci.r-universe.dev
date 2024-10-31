@@ -205,7 +205,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-26 11:26:12",
+      "date_last_commit": "2024-10-30 15:24:47",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-24 15:58:37",
+      "date_last_commit": "2024-10-30 09:47:08",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -414,7 +414,7 @@
       "url": "https://github.com/YuLab-SMU/treeio",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-27 10:53:33",
+      "date_last_commit": "2024-10-30 08:42:34",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2411,7 +2411,7 @@
       "url": "https://github.com/ropensci/GLMMcosinor",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-19 05:20:27",
+      "date_last_commit": "2024-10-31 06:21:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2511,7 +2511,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-14 13:14:43",
+      "date_last_commit": "2024-10-30 11:40:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4910,7 +4910,7 @@
       "url": "https://github.com/ropensci/rOPTRAM",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-23 05:33:39",
+      "date_last_commit": "2024-10-30 16:31:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4970,7 +4970,7 @@
       "url": "https://github.com/ropensci/Rpolyhedra",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2022-10-01 14:47:34",
+      "date_last_commit": "2024-10-30 21:02:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-11 16:28:35",
+      "date_last_commit": "2024-10-30 15:19:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 15:48:12",
+      "date_last_commit": "2024-10-30 16:55:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6130,7 +6130,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-29 09:33:40",
+      "date_last_commit": "2024-10-30 08:35:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-30 07:56 UTC"
+  "date": "2024-10-31 07:57 UTC"
 }
