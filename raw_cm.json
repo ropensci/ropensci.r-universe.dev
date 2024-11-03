@@ -15,7 +15,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -200,7 +200,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -512,7 +512,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -821,7 +821,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -1212,7 +1212,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -1434,7 +1434,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -1526,7 +1526,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -1674,7 +1674,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -1964,7 +1964,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -2147,7 +2147,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -2314,7 +2314,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -2599,7 +2599,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -2955,7 +2955,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -3314,7 +3314,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -3695,7 +3695,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -4038,7 +4038,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -4413,7 +4413,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -4769,7 +4769,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -5027,7 +5027,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -5322,7 +5322,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -5396,7 +5396,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -5594,7 +5594,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://www.bioconductor.org",
       "@type": "Organization",
@@ -6098,7 +6098,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -6222,7 +6222,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -6414,7 +6414,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -6625,7 +6625,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -6942,7 +6942,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -7009,7 +7009,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -7425,7 +7425,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -7746,7 +7746,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -7898,7 +7898,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -8007,7 +8007,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -8208,7 +8208,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -8527,7 +8527,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -8738,7 +8738,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -9099,7 +9099,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -9340,7 +9340,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -9407,18 +9407,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "spelling",
-        "name": "spelling",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=spelling"
       },
       {
         "@type": "SoftwareApplication",
@@ -9639,7 +9627,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -9919,7 +9907,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -10112,7 +10100,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -10257,7 +10245,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -10566,7 +10554,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -10769,7 +10757,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -11172,7 +11160,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -11336,7 +11324,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -11508,7 +11496,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -11869,7 +11857,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -12022,7 +12010,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -12503,7 +12491,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -12648,7 +12636,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -13078,7 +13066,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -13240,7 +13228,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -13497,7 +13485,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -13792,7 +13780,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -13987,7 +13975,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -14253,7 +14241,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -14374,7 +14362,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -14754,7 +14742,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -14890,7 +14878,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15133,7 +15121,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15284,7 +15272,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15517,7 +15505,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15621,7 +15609,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15713,7 +15701,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -15985,7 +15973,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -16472,7 +16460,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -16641,7 +16629,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -16889,7 +16877,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -17260,7 +17248,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -17447,7 +17435,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -17902,7 +17890,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -18023,7 +18011,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -18317,7 +18305,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -18520,7 +18508,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -18654,7 +18642,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -18918,7 +18906,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -19333,7 +19321,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -19575,7 +19563,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -19891,7 +19879,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -20123,7 +20111,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -20480,7 +20468,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -20859,7 +20847,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -21069,7 +21057,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -21410,7 +21398,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -21735,7 +21723,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -21832,7 +21820,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -22002,7 +21990,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -22668,7 +22656,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -23024,7 +23012,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -23458,7 +23446,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -23655,7 +23643,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -23936,7 +23924,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -24152,7 +24140,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -24271,7 +24259,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -24610,7 +24598,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -24888,7 +24876,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -25325,7 +25313,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -25487,7 +25475,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -25907,7 +25895,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -26082,7 +26070,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -26298,7 +26286,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -26552,7 +26540,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -26880,7 +26868,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -27104,7 +27092,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -27222,7 +27210,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -27353,7 +27341,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -27663,7 +27651,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -27930,7 +27918,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -28243,7 +28231,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -28320,7 +28308,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -28498,7 +28486,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -28650,7 +28638,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -28870,7 +28858,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -29165,7 +29153,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -29221,7 +29209,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -29454,7 +29442,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -29573,7 +29561,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -29760,7 +29748,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -29890,7 +29878,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -30102,13 +30090,13 @@
     "codeRepository": "https://github.com/ropensci/gitignore",
     "issueTracker": "https://github.com/ropensci/gitignore/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.7.9000",
+    "version": "0.1.8.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -30320,7 +30308,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -30556,19 +30544,19 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "GLMMcosinor",
-    "description": "Allows users to fit a cosinor model using the 'glmmTMB' framework. This extends on existing cosinor modelling packages, including 'cosinor' and 'circacompare', by including a wide range of available link functions and the capability to fit mixed models. The cosinor model is described by Cornelissen (2014) <doi:10.1186/1742-4682-11-16>.",
-    "name": "GLMMcosinor: Fit a Cosinor Model Using a Generalised Mixed Modelling Framework",
+    "description": "Allows users to fit a cosinor model using the 'glmmTMB' framework. This extends on existing cosinor modeling packages, including 'cosinor' and 'circacompare', by including a wide range of available link functions and the capability to fit mixed models. The cosinor model is described by Cornelissen (2014) <doi:10.1186/1742-4682-11-16>.",
+    "name": "GLMMcosinor: Fit a Cosinor Model Using a Generalized Mixed Modeling Framework",
     "relatedLink": ["https://github.com/ropensci/GLMMcosinor", "https://docs.ropensci.org/GLMMcosinor/"],
     "codeRepository": "https://github.com/ropensci/GLMMcosinor",
     "issueTracker": "https://github.com/ropensci/GLMMcosinor/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.9000",
+    "version": "0.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -30890,7 +30878,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 2.10"
+        "version": ">= 4.1.0"
       },
       "SystemRequirements": null
     },
@@ -30919,7 +30907,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -31232,7 +31220,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -31439,7 +31427,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -31547,7 +31535,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -31946,7 +31934,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -32238,7 +32226,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -32419,7 +32407,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -32670,7 +32658,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Organization",
@@ -32816,7 +32804,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -32908,7 +32896,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -33038,7 +33026,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -33170,7 +33158,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -33376,7 +33364,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -33765,7 +33753,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -34192,7 +34180,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -34302,7 +34290,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -34695,7 +34683,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "maintainer": [
       {
         "@type": "Person",
@@ -34751,7 +34739,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -34870,7 +34858,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -34969,7 +34957,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -35150,7 +35138,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -35463,7 +35451,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -35681,7 +35669,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -35773,7 +35761,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -35984,7 +35972,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -36275,7 +36263,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -36523,7 +36511,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -36773,7 +36761,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -37205,7 +37193,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -37396,7 +37384,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -37770,7 +37758,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -38079,7 +38067,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -38361,7 +38349,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -38704,7 +38692,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -39283,7 +39271,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -39702,7 +39690,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -39989,7 +39977,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -40303,7 +40291,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -40593,7 +40581,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -40725,7 +40713,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -41000,7 +40988,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -41435,7 +41423,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -41860,7 +41848,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -42180,7 +42168,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -42479,7 +42467,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -42826,7 +42814,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -43234,7 +43222,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -43438,7 +43426,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -43897,7 +43885,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -44218,7 +44206,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -44822,7 +44810,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -45130,7 +45118,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -45433,7 +45421,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -45542,7 +45530,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -45872,7 +45860,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -46267,7 +46255,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -46471,7 +46459,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -46871,7 +46859,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -47067,7 +47055,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -47347,7 +47335,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -47569,7 +47557,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -47794,7 +47782,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -48008,7 +47996,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -48199,7 +48187,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -48353,7 +48341,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -48687,7 +48675,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -48810,7 +48798,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -49082,7 +49070,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -49412,7 +49400,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -49768,7 +49756,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -49923,7 +49911,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -50089,7 +50077,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -50366,7 +50354,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -50671,7 +50659,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -50808,7 +50796,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -50963,7 +50951,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -51324,7 +51312,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -51469,7 +51457,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -51577,7 +51565,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -51952,7 +51940,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -52178,7 +52166,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -52255,7 +52243,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -52366,7 +52354,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -52700,7 +52688,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -52946,7 +52934,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -53330,7 +53318,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -53627,7 +53615,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -53846,7 +53834,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -54318,7 +54306,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -54581,7 +54569,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -54902,7 +54890,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -55019,7 +55007,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -55391,7 +55379,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -55665,7 +55653,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -56031,7 +56019,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -56424,7 +56412,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -56594,7 +56582,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -56923,7 +56911,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -57163,7 +57151,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -57400,7 +57388,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -57710,7 +57698,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -58455,7 +58443,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -58625,7 +58613,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -58859,7 +58847,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -59173,7 +59161,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -59385,7 +59373,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -59685,7 +59673,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -59807,7 +59795,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -60242,7 +60230,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -60414,7 +60402,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -60550,7 +60538,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -60666,7 +60654,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -60945,7 +60933,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -61193,7 +61181,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -61357,7 +61345,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -61514,7 +61502,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -61864,7 +61852,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -62085,7 +62073,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -62384,7 +62372,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -62479,7 +62467,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -62555,7 +62543,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -63000,7 +62988,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -63409,7 +63397,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -63669,7 +63657,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -63902,7 +63890,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -64214,7 +64202,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -64543,7 +64531,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -64788,7 +64776,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -64862,18 +64850,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "dplyr",
-        "name": "dplyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
       {
         "@type": "SoftwareApplication",
@@ -65029,6 +65005,18 @@
       },
       "9": {
         "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
         "provider": {
@@ -65066,7 +65054,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -65281,7 +65269,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -65476,7 +65464,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -65562,7 +65550,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -65977,7 +65965,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -66035,7 +66023,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -66476,7 +66464,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -66669,7 +66657,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -66884,7 +66872,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -67052,7 +67040,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -67264,7 +67252,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -67717,7 +67705,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -68295,7 +68283,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "maintainer": [
       {
         "@type": "Person",
@@ -68492,7 +68480,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -68704,7 +68692,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -68771,7 +68759,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -69272,7 +69260,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -69517,7 +69505,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -69807,7 +69795,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -70016,7 +70004,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -70169,13 +70157,13 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -70433,7 +70421,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -70550,7 +70538,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -70767,7 +70755,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -71027,7 +71015,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -71173,7 +71161,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -71538,7 +71526,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -71963,7 +71951,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -72469,7 +72457,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -72658,7 +72646,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -72799,7 +72787,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -73034,7 +73022,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -73194,7 +73182,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -73493,13 +73481,13 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.8.0.9005",
+    "version": "1.8.0.9006",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -74275,7 +74263,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -74543,7 +74531,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -74886,7 +74874,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -75434,7 +75422,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -75673,7 +75661,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -75943,7 +75931,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -76296,7 +76284,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -76469,7 +76457,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -76705,7 +76693,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -77217,7 +77205,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -77553,7 +77541,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -77867,7 +77855,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -78059,7 +78047,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -78292,7 +78280,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -78493,7 +78481,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -78746,7 +78734,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -78991,7 +78979,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -79267,7 +79255,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -79505,7 +79493,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -79773,7 +79761,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -79925,7 +79913,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -80114,7 +80102,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -80247,7 +80235,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -80639,7 +80627,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -80896,7 +80884,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -81163,7 +81151,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -81341,7 +81329,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -81406,7 +81394,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -81594,7 +81582,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -81659,7 +81647,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -81978,7 +81966,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -82260,7 +82248,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -82607,7 +82595,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -82827,7 +82815,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -83358,7 +83346,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -83545,7 +83533,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -84000,7 +83988,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -84705,7 +84693,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -85110,7 +85098,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -85360,7 +85348,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -85565,7 +85553,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -85782,7 +85770,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -85952,7 +85940,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -86068,7 +86056,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -86155,7 +86143,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "provider": {
       "@id": "https://cran.r-project.org",
       "@type": "Organization",
@@ -86549,7 +86537,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -86779,7 +86767,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -86932,7 +86920,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -87291,7 +87279,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -87441,7 +87429,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",
@@ -87568,7 +87556,7 @@
       "name": "R",
       "url": "https://r-project.org"
     },
-    "runtimePlatform": "R version 4.4.1 (2024-06-14)",
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
     "author": [
       {
         "@type": "Person",

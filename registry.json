@@ -167,7 +167,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-28 20:58:56",
+      "date_last_commit": "2024-11-02 08:55:26",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -711,7 +711,7 @@
       "url": "https://github.com/ropensci/beastier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-06 14:37:12",
+      "date_last_commit": "2024-11-02 15:14:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2371,7 +2371,7 @@
       "url": "https://github.com/ropensci/gitignore",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-23 11:00:17",
+      "date_last_commit": "2024-11-01 20:45:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2398,8 +2398,8 @@
     },
     {
       "name": "GLMMcosinor",
-      "description": "Fit a Cosinor Model Using a Generalised Mixed Modelling Framework",
-      "details": "Allows users to fit a cosinor model using the 'glmmTMB' framework. This extends on existing cosinor modelling packages, including 'cosinor' and 'circacompare', by including a wide range of available link functions and the capability to fit mixed models. The cosinor model is described by Cornelissen (2014) <doi:10.1186/1742-4682-11-16>.",
+      "description": "Fit a Cosinor Model Using a Generalized Mixed Modeling Framework",
+      "details": "Allows users to fit a cosinor model using the 'glmmTMB' framework. This extends on existing cosinor modeling packages, including 'cosinor' and 'circacompare', by including a wide range of available link functions and the capability to fit mixed models. The cosinor model is described by Cornelissen (2014) <doi:10.1186/1742-4682-11-16>.",
       "maintainer": "Rex Parsons",
       "keywords": "",
       "github": "https://github.com/ropensci/GLMMcosinor",
@@ -2411,7 +2411,7 @@
       "url": "https://github.com/ropensci/GLMMcosinor",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-31 06:21:21",
+      "date_last_commit": "2024-10-31 23:03:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3570,7 +3570,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-17 18:37:10",
+      "date_last_commit": "2024-11-02 11:12:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4970,7 +4970,7 @@
       "url": "https://github.com/ropensci/Rpolyhedra",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 21:02:59",
+      "date_last_commit": "2024-10-31 16:27:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5390,7 +5390,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-08 17:42:23",
+      "date_last_commit": "2024-11-01 14:54:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 16:55:04",
+      "date_last_commit": "2024-11-01 18:00:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-10-31 07:57 UTC"
+  "date": "2024-11-03 08:08 UTC"
 }
