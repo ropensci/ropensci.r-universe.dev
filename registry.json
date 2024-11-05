@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-01 12:32:17",
+      "date_last_commit": "2024-11-04 15:55:20",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-28 17:53:54",
+      "date_last_commit": "2024-11-04 17:08:43",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2091,7 +2091,7 @@
       "url": "https://github.com/ropensci/FedData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-04-08 01:44:37",
+      "date_last_commit": "2024-11-05 06:20:20",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2411,7 +2411,7 @@
       "url": "https://github.com/ropensci/GLMMcosinor",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-31 23:03:26",
+      "date_last_commit": "2024-11-04 23:48:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3550,7 +3550,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-19 11:21:44",
+      "date_last_commit": "2024-11-04 09:43:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4150,7 +4150,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-29 21:12:09",
+      "date_last_commit": "2024-11-04 20:36:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4350,7 +4350,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-18 10:41:05",
+      "date_last_commit": "2024-11-04 17:06:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 15:19:23",
+      "date_last_commit": "2024-11-04 21:08:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-01 18:00:16",
+      "date_last_commit": "2024-11-04 19:41:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6430,7 +6430,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-27 05:04:57",
+      "date_last_commit": "2024-11-05 05:52:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-04 07:56 UTC"
+  "date": "2024-11-05 08:01 UTC"
 }
