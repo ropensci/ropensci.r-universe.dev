@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 17:08:43",
+      "date_last_commit": "2024-11-05 13:59:47",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 09:47:08",
+      "date_last_commit": "2024-11-05 18:10:36",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -2091,7 +2091,7 @@
       "url": "https://github.com/ropensci/FedData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 06:20:20",
+      "date_last_commit": "2024-11-05 14:16:45",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3043,14 +3043,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/medrxivr",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/380",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/medrxivr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-25 11:29:37",
+      "date_last_commit": "2024-11-05 20:59:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4150,7 +4150,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 20:36:14",
+      "date_last_commit": "2024-11-05 15:21:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5023,14 +5023,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/rrlite",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/6",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rrlite",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2018-01-15 09:54:35",
+      "date_last_commit": "2024-11-05 08:23:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6430,7 +6430,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 05:52:09",
+      "date_last_commit": "2024-11-05 17:45:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-05 08:01 UTC"
+  "date": "2024-11-06 07:56 UTC"
 }
