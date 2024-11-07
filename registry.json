@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 13:59:47",
+      "date_last_commit": "2024-11-06 19:54:10",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3270,7 +3270,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-27 15:00:32",
+      "date_last_commit": "2024-11-07 07:47:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5210,7 +5210,7 @@
       "url": "https://github.com/ropensci/ruODK",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-15 04:51:48",
+      "date_last_commit": "2024-11-06 09:46:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 19:41:21",
+      "date_last_commit": "2024-11-06 18:31:57",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-06 07:56 UTC"
+  "date": "2024-11-07 08:00 UTC"
 }
