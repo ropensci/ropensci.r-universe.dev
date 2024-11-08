@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-06 19:54:10",
+      "date_last_commit": "2024-11-07 16:43:28",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2078,8 +2078,8 @@
     },
     {
       "name": "FedData",
-      "description": "Functions to Automate Downloading Geospatial Data Available from\n    Several Federated Data Sources",
-      "details": "Functions to automate downloading geospatial data available from several federated data sources (mainly sources maintained by the US Federal government). Currently, the package enables extraction from nine datasets: The National Elevation Dataset digital elevation models (1 and 1/3 arc-second; USGS); The National Hydrography Dataset (USGS); The Soil Survey Geographic (SSURGO) database from the National Cooperative Soil Survey (NCSS), which is led by the Natural Resources Conservation Service (NRCS) under the USDA; the Global Historical Climatology Network (GHCN), coordinated by National Climatic Data Center at NOAA; the Daymet gridded estimates of daily weather parameters for North America, version 4, available from the Oak Ridge National Laboratory's Distributed Active Archive Center (DAAC); the International Tree Ring Data Bank; the National Land Cover Database (NLCD); the Cropland Data Layer from the National Agricultural Statistics Service; and the PAD-US dataset of protected area boundaries from the USGS.",
+      "description": "Download Geospatial Data Available from\n    Several Federated Data Sources",
+      "details": "Download geospatial data available from several federated data sources (mainly sources maintained by the US Federal government). Currently, the package enables extraction from nine datasets: The National Elevation Dataset digital elevation models (<https://www.usgs.gov/3d-elevation-program> 1 and 1/3 arc-second; USGS); The National Hydrography Dataset (<https://www.usgs.gov/national-hydrography/national-hydrography-dataset>; USGS); The Soil Survey Geographic (SSURGO) database from the National Cooperative Soil Survey (<https://websoilsurvey.sc.egov.usda.gov/>; NCSS), which is led by the Natural Resources Conservation Service (NRCS) under the USDA; the Global Historical Climatology Network (<https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily>; GHCN), coordinated by National Climatic Data Center at NOAA; the Daymet gridded estimates of daily weather parameters for North America, version 4, available from the Oak Ridge National Laboratory's Distributed Active Archive Center (<https://daymet.ornl.gov/>; DAAC); the International Tree Ring Data Bank; the National Land Cover Database (<https://www.mrlc.gov/>; NLCD); the Cropland Data Layer from the National Agricultural Statistics Service (<https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php>; NASS); and the PAD-US dataset of protected area boundaries (<https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-overview>; USGS).",
       "maintainer": "R. Kyle Bocinsky",
       "keywords": "",
       "github": "https://github.com/ropensci/FedData",
@@ -2091,7 +2091,7 @@
       "url": "https://github.com/ropensci/FedData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 14:16:45",
+      "date_last_commit": "2024-11-07 13:40:32",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3570,7 +3570,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-02 11:12:02",
+      "date_last_commit": "2024-11-07 14:17:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 21:08:18",
+      "date_last_commit": "2024-11-07 21:54:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-06 18:31:57",
+      "date_last_commit": "2024-11-07 23:01:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-07 08:00 UTC"
+  "date": "2024-11-08 07:56 UTC"
 }

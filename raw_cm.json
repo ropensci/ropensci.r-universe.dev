@@ -2949,7 +2949,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.1.44",
+    "version": "0.4.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -27378,8 +27378,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "FedData",
-    "description": "Functions to automate downloading geospatial data available from several federated data sources (mainly sources maintained by the US Federal government). Currently, the package enables extraction from nine datasets: The National Elevation Dataset digital elevation models (1 and 1/3 arc-second; USGS); The National Hydrography Dataset (USGS); The Soil Survey Geographic (SSURGO) database from the National Cooperative Soil Survey (NCSS), which is led by the Natural Resources Conservation Service (NRCS) under the USDA; the Global Historical Climatology Network (GHCN), coordinated by National Climatic Data Center at NOAA; the Daymet gridded estimates of daily weather parameters for North America, version 4, available from the Oak Ridge National Laboratory's Distributed Active Archive Center (DAAC); the International Tree Ring Data Bank; the National Land Cover Database (NLCD); the Cropland Data Layer from the National Agricultural Statistics Service; and the PAD-US dataset of protected area boundaries from the USGS.",
-    "name": "FedData: Functions to Automate Downloading Geospatial Data Available from\n    Several Federated Data Sources",
+    "description": "Download geospatial data available from several federated data sources (mainly sources maintained by the US Federal government). Currently, the package enables extraction from nine datasets: The National Elevation Dataset digital elevation models (<https://www.usgs.gov/3d-elevation-program> 1 and 1/3 arc-second; USGS); The National Hydrography Dataset (<https://www.usgs.gov/national-hydrography/national-hydrography-dataset>; USGS); The Soil Survey Geographic (SSURGO) database from the National Cooperative Soil Survey (<https://websoilsurvey.sc.egov.usda.gov/>; NCSS), which is led by the Natural Resources Conservation Service (NRCS) under the USDA; the Global Historical Climatology Network (<https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily>; GHCN), coordinated by National Climatic Data Center at NOAA; the Daymet gridded estimates of daily weather parameters for North America, version 4, available from the Oak Ridge National Laboratory's Distributed Active Archive Center (<https://daymet.ornl.gov/>; DAAC); the International Tree Ring Data Bank; the National Land Cover Database (<https://www.mrlc.gov/>; NLCD); the Cropland Data Layer from the National Agricultural Statistics Service (<https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php>; NASS); and the PAD-US dataset of protected area boundaries (<https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-overview>; USGS).",
+    "name": "FedData: Download Geospatial Data Available from\n    Several Federated Data Sources",
     "relatedLink": ["https://docs.ropensci.org/FedData/", "https://github.com/ropensci/FedData"],
     "codeRepository": "https://github.com/ropensci/FedData",
     "issueTracker": "https://github.com/ropensci/FedData/issues",
@@ -27507,6 +27507,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "usethis",
+        "name": "usethis",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=usethis"
       }
     ],
     "softwareRequirements": {
@@ -27638,18 +27650,6 @@
       },
       "12": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "13": {
-        "@type": "SoftwareApplication",
         "identifier": "progress",
         "name": "progress",
         "provider": {
@@ -27660,7 +27660,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=progress"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -27672,7 +27672,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -27684,7 +27684,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "16": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
@@ -27697,7 +27697,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "17": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -27710,7 +27710,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "arcgislayers",
         "name": "arcgislayers",
@@ -27723,7 +27723,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=arcgislayers"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "ggplot2",
         "name": "ggplot2",
@@ -27735,7 +27735,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ggplot2"
       },
-      "20": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -27746,6 +27746,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
+      },
+      "20": {
+        "@type": "SoftwareApplication",
+        "identifier": "magrittr",
+        "name": "magrittr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
       "SystemRequirements": "GDAL (>= 3.1.0)"
     },
@@ -47136,19 +47148,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
-        "identifier": "evaluate",
-        "name": "evaluate",
-        "version": ">= 0.23",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://github.com/r-lib/evaluate"
       },
       "SystemRequirements": null
     },
@@ -73329,7 +73328,7 @@
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.10.0.9002",
+    "version": "0.10.0.9004",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73634,7 +73633,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.8.0.9008",
+    "version": "1.8.0.9009",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73703,7 +73702,7 @@
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://github.com/wlandau/autometric"
+        "sameAs": "https://CRAN.R-project.org/package=autometric"
       },
       {
         "@type": "SoftwareApplication",
