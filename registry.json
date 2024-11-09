@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 16:43:28",
+      "date_last_commit": "2024-11-08 08:50:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3570,7 +3570,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 14:17:36",
+      "date_last_commit": "2024-11-08 14:57:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4970,7 +4970,7 @@
       "url": "https://github.com/ropensci/Rpolyhedra",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-31 16:27:01",
+      "date_last_commit": "2024-10-31 19:51:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5650,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 23:01:12",
+      "date_last_commit": "2024-11-08 17:32:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5710,7 +5710,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-29 20:56:28",
+      "date_last_commit": "2024-11-09 06:23:21",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-08 07:56 UTC"
+  "date": "2024-11-09 07:57 UTC"
 }
