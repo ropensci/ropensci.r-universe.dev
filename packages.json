@@ -1331,11 +1331,6 @@
     "branch": "master"
   },
   {
-    "package": "rtweet",
-    "url": "https://github.com/ropensci/rtweet",
-    "branch": "master"
-  },
-  {
     "package": "ruODK",
     "url": "https://github.com/ropensci/ruODK",
     "branch": "main"
