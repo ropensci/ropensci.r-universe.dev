@@ -592,7 +592,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:19:03",
+      "date_last_commit": "2024-11-09 23:08:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3270,7 +3270,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 07:47:46",
+      "date_last_commit": "2024-11-09 17:44:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-09 07:57 UTC"
+  "date": "2024-11-10 07:57 UTC"
 }

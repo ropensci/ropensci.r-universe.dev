@@ -7940,7 +7940,7 @@
     "codeRepository": "https://github.com/ropensci/av",
     "issueTracker": "https://github.com/ropensci/av/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.2",
+    "version": "0.9.3.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
