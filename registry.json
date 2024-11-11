@@ -3270,7 +3270,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-09 17:44:00",
+      "date_last_commit": "2024-11-10 13:35:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5176,26 +5176,6 @@
       "staff_maintained": false
     },
     {
-      "name": "rtweet",
-      "description": "Collecting Twitter Data",
-      "details": "An implementation of calls designed to collect and organize Twitter data via Twitter's REST and stream Application Program Interfaces (API), which can be found at the following URL: <https://developer.twitter.com/en/docs>.",
-      "maintainer": "Lluís Revilla Sancho",
-      "keywords": "",
-      "github": "https://github.com/ropensci/rtweet",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/302",
-      "on_cran": true,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/rtweet",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2024-04-15 22:41:01",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "ruODK",
       "description": "An R Client for the ODK Central API",
       "details": "Access and tidy up data from the 'ODK Central' API. 'ODK Central' is a clearinghouse for digitally captured data using ODK <https://docs.getodk.org/central-intro/>. It manages user accounts and permissions, stores form definitions, and allows data collection clients like 'ODK Collect' to connect to it for form download and submission upload. The 'ODK Central' API is documented at <https://docs.getodk.org/central-api/>.",
@@ -5630,7 +5610,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 21:54:24",
+      "date_last_commit": "2024-11-11 01:20:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5650,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-08 17:32:00",
+      "date_last_commit": "2024-11-10 22:54:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-10 07:57 UTC"
+  "date": "2024-11-11 07:56 UTC"
 }
