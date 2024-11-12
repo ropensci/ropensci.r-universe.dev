@@ -2593,7 +2593,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.63",
+    "version": "0.1.2.68",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -2949,7 +2949,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.2.1",
+    "version": "0.4.2.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4455,7 +4455,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.0.58",
+    "version": "0.1.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -27391,6 +27391,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -46515,6 +46521,7 @@
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
+        "version": ">= 1.0.6",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -72897,6 +72904,14 @@
         "@id": "https://orcid.org/0000-0003-1878-3253"
       }
     ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Rudolf",
+        "familyName": "Siegel",
+        "@id": "https://orcid.org/0000-0002-6021-804X"
+      }
+    ],
     "copyrightHolder": [
       {
         "@type": "Organization",
@@ -73180,7 +73195,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.8.0.9013",
+    "version": "1.8.0.9014",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73538,16 +73553,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "qs",
-        "name": "qs",
-        "version": ">= 0.24.1",
+        "identifier": "qs2",
+        "name": "qs2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=qs"
+        "sameAs": "https://CRAN.R-project.org/package=qs2"
       },
       {
         "@type": "SoftwareApplication",
