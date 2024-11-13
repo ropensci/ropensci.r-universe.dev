@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2024-10-24 12:18:41",
+      "date_last_commit": "2024-11-12 12:09:57",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3550,7 +3550,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 09:43:49",
+      "date_last_commit": "2024-11-12 13:42:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4350,7 +4350,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 17:06:47",
+      "date_last_commit": "2024-11-12 10:53:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-11 18:54:56",
+      "date_last_commit": "2024-11-12 19:53:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5930,7 +5930,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-16 04:22:57",
+      "date_last_commit": "2024-11-12 15:30:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-12 08:01 UTC"
+  "date": "2024-11-13 07:57 UTC"
 }
