@@ -2511,7 +2511,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 11:40:58",
+      "date_last_commit": "2024-11-13 20:09:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3430,7 +3430,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-24 18:13:06",
+      "date_last_commit": "2024-11-13 18:07:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-12 19:53:34",
+      "date_last_commit": "2024-11-13 21:57:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6350,7 +6350,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-09-20 22:05:19",
+      "date_last_commit": "2024-11-13 15:57:18",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-13 07:57 UTC"
+  "date": "2024-11-14 08:01 UTC"
 }
