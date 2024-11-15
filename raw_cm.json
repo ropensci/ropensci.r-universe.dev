@@ -73195,7 +73195,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.8.0.9014",
+    "version": "1.8.0.9015",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73257,7 +73257,14 @@
         "@type": "SoftwareApplication",
         "identifier": "autometric",
         "name": "autometric",
-        "version": ">= 0.1.0"
+        "version": ">= 0.1.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=autometric"
       },
       {
         "@type": "SoftwareApplication",
@@ -85008,18 +85015,6 @@
       },
       "8": {
         "@type": "SoftwareApplication",
-        "identifier": "base64enc",
-        "name": "base64enc",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=base64enc"
-      },
-      "9": {
-        "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
         "provider": {
@@ -85030,7 +85025,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",

@@ -2093,7 +2093,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-11-07 13:40:32",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-13 21:57:54",
+      "date_last_commit": "2024-11-14 22:55:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6410,7 +6410,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 17:45:54",
+      "date_last_commit": "2024-11-14 15:04:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-14 08:01 UTC"
+  "date": "2024-11-15 08:01 UTC"
 }
