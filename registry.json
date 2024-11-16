@@ -1331,7 +1331,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-24 08:15:08",
+      "date_last_commit": "2024-11-15 17:18:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1751,7 +1751,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-16 12:40:39",
+      "date_last_commit": "2024-11-15 19:50:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4890,7 +4890,7 @@
       "url": "https://github.com/ropensci/robotstxt",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-17 15:25:45",
+      "date_last_commit": "2024-11-15 19:32:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5598,7 +5598,7 @@
     {
       "name": "tarchetypes",
       "description": "Archetypes for Targets",
-      "details": "Function-oriented Make-like declarative pipelines for Statistics and data science are supported in the 'targets' R package. As an extension to 'targets', the 'tarchetypes' package provides convenient user-side functions to make 'targets' easier to use. By establishing reusable archetypes for common kinds of targets and pipelines, these functions help express complicated reproducible pipelines concisely and compactly. The methods in this package were influenced by the 'drake' R package by Will Landau (2018) <doi:10.21105/joss.00550>.",
+      "details": "Function-oriented Make-like declarative pipelines for Statistics and data science are supported in the 'targets' R package. As an extension to 'targets', the 'tarchetypes' package provides convenient user-side functions to make 'targets' easier to use. By establishing reusable archetypes for common kinds of targets and pipelines, these functions help express complicated reproducible pipelines concisely and compactly. The methods in this package were influenced by the 'targets' R package. by Will Landau (2018) <doi:10.21105/joss.00550>.",
       "maintainer": "William Michael Landau",
       "keywords": "",
       "github": "https://github.com/ropensci/tarchetypes",
@@ -5610,7 +5610,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-11 14:27:08",
+      "date_last_commit": "2024-11-15 16:03:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-15 08:01 UTC"
+  "date": "2024-11-16 07:57 UTC"
 }

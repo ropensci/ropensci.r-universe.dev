@@ -16920,7 +16920,7 @@
     "codeRepository": "https://github.com/ropensci/comtradr",
     "issueTracker": "https://github.com/ropensci/comtradr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23055,7 +23055,7 @@
     "codeRepository": "https://github.com/ropensci/dynamite",
     "issueTracker": "https://github.com/ropensci/dynamite/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.5.4",
+    "version": "1.5.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23094,18 +23094,6 @@
       }
     ],
     "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "bookdown",
-        "name": "bookdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=bookdown"
-      },
       {
         "@type": "SoftwareApplication",
         "identifier": "cmdstanr",
@@ -23173,39 +23161,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "pder",
-        "name": "pder",
+        "identifier": "quarto",
+        "name": "quarto",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=pder"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "pryr",
-        "name": "pryr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pryr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+        "sameAs": "https://CRAN.R-project.org/package=quarto"
       },
       {
         "@type": "SoftwareApplication",
@@ -72876,13 +72840,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "tarchetypes",
-    "description": "Function-oriented Make-like declarative pipelines for Statistics and data science are supported in the 'targets' R package. As an extension to 'targets', the 'tarchetypes' package provides convenient user-side functions to make 'targets' easier to use. By establishing reusable archetypes for common kinds of targets and pipelines, these functions help express complicated reproducible pipelines concisely and compactly. The methods in this package were influenced by the 'drake' R package by Will Landau (2018) <doi:10.21105/joss.00550>.",
+    "description": "Function-oriented Make-like declarative pipelines for Statistics and data science are supported in the 'targets' R package. As an extension to 'targets', the 'tarchetypes' package provides convenient user-side functions to make 'targets' easier to use. By establishing reusable archetypes for common kinds of targets and pipelines, these functions help express complicated reproducible pipelines concisely and compactly. The methods in this package were influenced by the 'targets' R package. by Will Landau (2018) <doi:10.21105/joss.00550>.",
     "name": "tarchetypes: Archetypes for Targets",
     "relatedLink": ["https://docs.ropensci.org/tarchetypes/", "https://github.com/ropensci/tarchetypes"],
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.10.0.9004",
+    "version": "0.11.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
