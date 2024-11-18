@@ -1751,7 +1751,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-15 19:50:44",
+      "date_last_commit": "2024-11-18 07:08:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3530,7 +3530,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-12 07:52:28",
+      "date_last_commit": "2024-11-17 20:37:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-14 22:55:10",
+      "date_last_commit": "2024-11-18 03:06:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-17 07:56 UTC"
+  "date": "2024-11-18 07:57 UTC"
 }
