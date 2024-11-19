@@ -205,7 +205,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 15:24:47",
+      "date_last_commit": "2024-11-18 14:45:16",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2024-11-12 12:09:57",
+      "date_last_commit": "2024-11-18 14:39:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1751,7 +1751,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 07:08:18",
+      "date_last_commit": "2024-11-18 09:42:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2731,7 +2731,7 @@
       "url": "https://github.com/ropensci/jagstargets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-06 14:16:17",
+      "date_last_commit": "2024-11-18 14:11:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3430,7 +3430,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-13 18:07:07",
+      "date_last_commit": "2024-11-18 15:26:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3530,7 +3530,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-17 20:37:04",
+      "date_last_commit": "2024-11-18 11:26:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4390,7 +4390,7 @@
       "url": "https://github.com/ropensci/RefManageR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2023-08-30 13:40:32",
+      "date_last_commit": "2024-11-19 06:37:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4710,7 +4710,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-02 19:23:23",
+      "date_last_commit": "2024-11-18 16:24:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5610,7 +5610,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-15 16:03:39",
+      "date_last_commit": "2024-11-18 17:50:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-18 07:57 UTC"
+  "date": "2024-11-19 07:56 UTC"
 }

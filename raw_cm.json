@@ -6264,7 +6264,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.3",
+    "version": "0.2.2.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34389,7 +34389,7 @@
     "codeRepository": "https://github.com/ropensci/jagstargets",
     "issueTracker": "https://github.com/ropensci/jagstargets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.1.9000",
+    "version": "1.2.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34465,6 +34465,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "qs",
+        "name": "qs",
+        "version": ">= 0.23.2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=qs"
       },
       {
         "@type": "SoftwareApplication",
@@ -34593,16 +34606,15 @@
       },
       "6": {
         "@type": "SoftwareApplication",
-        "identifier": "qs",
-        "name": "qs",
-        "version": ">= 0.23.2",
+        "identifier": "qs2",
+        "name": "qs2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=qs"
+        "sameAs": "https://CRAN.R-project.org/package=qs2"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -45083,6 +45095,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "rrapply",
+        "name": "rrapply",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rrapply"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "covr",
         "name": "covr",
         "provider": {
@@ -45133,6 +45157,18 @@
       },
       "4": {
         "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
         "provider": {
@@ -45143,7 +45179,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -46353,7 +46389,7 @@
     "codeRepository": "https://github.com/ropensci/osmapiR",
     "issueTracker": "https://github.com/ropensci/osmapiR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.9003",
+    "version": "0.2.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -46524,7 +46560,7 @@
         ],
         "name": "osmapiR: An 'OpenStreetMap API' implementation for R",
         "identifier": "10.21105/joss.07151",
-        "description": "R package version 0.2.1.9003",
+        "description": "R package version 0.2.2.9000",
         "pagination": "7151",
         "@id": "https://doi.org/10.21105/joss.07151",
         "sameAs": "https://doi.org/10.21105/joss.07151",
@@ -57233,11 +57269,11 @@
     "identifier": "RefManageR",
     "description": "Provides tools for importing and working with bibliographic references. It greatly enhances the 'bibentry' class by providing a class 'BibEntry' which stores 'BibTeX' and 'BibLaTeX' references, supports 'UTF-8' encoding, and can be easily searched by any field, by date ranges, and by various formats for name lists (author by last names, translator by full names, etc.). Entries can be updated, combined, sorted, printed in a number of styles, and exported. 'BibTeX' and 'BibLaTeX' '.bib' files can be read into 'R' and converted to 'BibEntry' objects. Interfaces to 'NCBI Entrez', 'CrossRef', and 'Zotero' are provided for importing references and references can be created from locally stored 'PDF' files using 'Poppler'. Includes functions for citing and generating a bibliography with hyperlinks for documents prepared with 'RMarkdown' or 'RHTML'.",
     "name": "RefManageR: Straightforward 'BibTeX' and 'BibLaTeX' Bibliography Management",
-    "relatedLink": "https://github.com/ropensci/RefManageR/",
+    "relatedLink": ["https://github.com/ropensci/RefManageR/", "https://docs.ropensci.org/RefManageR/"],
     "codeRepository": "https://github.com/ropensci/RefManageR",
     "issueTracker": "https://github.com/ropensci/RefManageR/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.4.0",
+    "version": "1.4.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -57257,6 +57293,14 @@
         "familyName": "McLean",
         "email": "mathew.w.mclean@gmail.com",
         "@id": "https://orcid.org/0000-0002-7891-9645"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Andy",
+        "familyName": "Bunn",
+        "email": "bunna@wwu.edu"
       }
     ],
     "maintainer": [
@@ -57392,10 +57436,34 @@
       },
       "9": {
         "@type": "SoftwareApplication",
+        "identifier": "stringi",
+        "name": "stringi",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=stringi"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "R.utils",
+        "name": "R.utils",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=R.utils"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "10": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "bibtex",
         "name": "bibtex",
@@ -57408,7 +57476,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=bibtex"
       },
-      "11": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -61431,7 +61499,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.12.4",
+    "version": "0.13.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -71458,14 +71526,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "pct",
-        "name": "pct",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pct"
+        "name": "pct"
       },
       {
         "@type": "SoftwareApplication",
@@ -71813,14 +71874,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "pct",
-        "name": "pct",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pct"
+        "name": "pct"
       },
       {
         "@type": "SoftwareApplication",
