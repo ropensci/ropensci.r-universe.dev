@@ -224,7 +224,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-11 13:03:56",
+      "date_last_commit": "2024-11-19 18:24:01",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-11 13:44:05",
+      "date_last_commit": "2024-11-19 16:22:52",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1111,7 +1111,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-03 15:09:07",
+      "date_last_commit": "2024-11-20 07:09:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3430,7 +3430,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 15:26:20",
+      "date_last_commit": "2024-11-19 16:16:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3870,7 +3870,7 @@
       "url": "https://github.com/ropensci/piggyback",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2024-06-11 22:55:22",
+      "date_last_commit": "2024-11-19 22:30:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4710,7 +4710,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 16:24:34",
+      "date_last_commit": "2024-11-19 17:26:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5370,7 +5370,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-01 14:54:20",
+      "date_last_commit": "2024-11-19 22:54:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-19 07:56 UTC"
+  "date": "2024-11-20 08:00 UTC"
 }
