@@ -2593,7 +2593,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.76",
+    "version": "0.1.2.77",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73231,7 +73231,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.9.0.9001",
+    "version": "1.9.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

@@ -224,7 +224,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-20 08:37:09",
+      "date_last_commit": "2024-11-21 13:22:58",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4470,7 +4470,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-20 15:58:05",
+      "date_last_commit": "2024-11-21 23:56:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-21 03:26:36",
+      "date_last_commit": "2024-11-21 19:28:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-21 07:57 UTC"
+  "date": "2024-11-22 07:58 UTC"
 }
