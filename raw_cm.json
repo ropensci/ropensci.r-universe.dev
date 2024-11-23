@@ -46994,7 +46994,7 @@
     "codeRepository": "https://github.com/ropensci/osmextract",
     "issueTracker": "https://github.com/ropensci/osmextract/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.5.1.900",
+    "version": "0.5.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

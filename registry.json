@@ -224,7 +224,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-21 13:22:58",
+      "date_last_commit": "2024-11-23 01:05:00",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3570,7 +3570,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-08 14:57:30",
+      "date_last_commit": "2024-11-22 14:54:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-11-22 07:58 UTC"
+  "date": "2024-11-23 07:59 UTC"
 }
