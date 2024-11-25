@@ -84841,7 +84841,7 @@
     "codeRepository": "https://github.com/ropensci/webmockr",
     "issueTracker": "https://github.com/ropensci/webmockr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.2.91",
+    "version": "1.9.9.91",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
