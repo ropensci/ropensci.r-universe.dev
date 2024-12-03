@@ -1031,7 +1031,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-28 15:51:59",
+      "date_last_commit": "2024-12-02 09:11:57",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2711,7 +2711,7 @@
       "url": "https://github.com/ropensci/internetarchive",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2020-05-20 02:48:26",
+      "date_last_commit": "2024-12-02 09:32:45",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -5690,7 +5690,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-09 06:23:21",
+      "date_last_commit": "2024-12-02 17:06:16",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-02 08:00 UTC"
+  "date": "2024-12-03 07:56 UTC"
 }
