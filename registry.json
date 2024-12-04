@@ -1711,7 +1711,7 @@
       "url": "https://github.com/ropensci/drake",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-18 19:09:32",
+      "date_last_commit": "2024-12-03 19:23:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2731,7 +2731,7 @@
       "url": "https://github.com/ropensci/jagstargets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 14:11:19",
+      "date_last_commit": "2024-12-03 12:24:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4710,7 +4710,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-25 09:55:04",
+      "date_last_commit": "2024-12-03 08:28:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5470,7 +5470,7 @@
       "url": "https://github.com/ropensci/stantargets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-17 17:37:08",
+      "date_last_commit": "2024-12-03 12:23:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-21 19:28:50",
+      "date_last_commit": "2024-12-03 19:14:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6656,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-03 07:56 UTC"
+  "date": "2024-12-04 07:56 UTC"
 }
