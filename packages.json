@@ -1288,7 +1288,7 @@
   {
     "package": "rredlist",
     "url": "https://github.com/ropensci/rredlist",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "rrlite",
