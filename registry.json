@@ -438,6 +438,24 @@
       "staff_maintained": false
     },
     {
+      "name": "agroclimatico",
+      "description": "Índices y Estadísticos Climáticos e Hidrológicos",
+      "details": "Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica.",
+      "maintainer": "Paola Corrales",
+      "keywords": "",
+      "github": "https://github.com/ropensci/agroclimatico",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/599",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/agroclimatico",
+      "date_last_commit": "2024-12-05 03:33:31",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "allcontributors",
       "description": "Acknowledge all Contributors to a Project",
       "details": "Acknowledge all contributors to a project via a single function call. The function appends to a 'README' or other specified file(s) a table with names of all individuals who contributed via code or repository issues. The package also includes several additional functions to extract and quantify contributions to any repository.",
@@ -5610,7 +5628,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 17:50:09",
+      "date_last_commit": "2024-12-04 11:53:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5648,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-03 19:14:41",
+      "date_last_commit": "2024-12-04 11:17:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6656,5 +6674,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-04 07:56 UTC"
+  "date": "2024-12-05 07:57 UTC"
 }
