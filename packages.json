@@ -135,6 +135,11 @@
     "branch": "master"
   },
   {
+    "package": "aeolus",
+    "url": "https://github.com/ropenscilabs/aeolus",
+    "branch": "main"
+  },
+  {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
     "branch": "master"
