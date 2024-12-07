@@ -4328,7 +4328,7 @@
       "url": "https://github.com/ropensci/rdhs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-02 10:09:24",
+      "date_last_commit": "2024-12-06 15:31:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6554,6 +6554,24 @@
       "staff_maintained": false
     },
     {
+      "name": "aeolus",
+      "description": "What the Package Does (One Line, Title Case)",
+      "details": "What the package does (one paragraph).",
+      "maintainer": "Maëlle Salmon",
+      "keywords": "",
+      "github": "https://github.com/ropenscilabs/aeolus",
+      "status": "https://www.repostatus.org#concept",
+      "onboarding": "",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "experimental",
+      "url": "https://github.com/ropenscilabs/aeolus",
+      "date_last_commit": "2024-12-06 14:33:12",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "deposits",
       "description": "A universal client for depositing and accessing research data\n    anywhere",
       "details": "A universal client for depositing and accessing research data anywhere. Currently supported services are zenodo and figshare.",
@@ -6674,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-06 07:59 UTC"
+  "date": "2024-12-07 07:56 UTC"
 }
