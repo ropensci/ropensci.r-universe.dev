@@ -600,6 +600,11 @@
     "branch": "master"
   },
   {
+    "package": "gigs",
+    "url": "https://github.com/ropensci/gigs",
+    "branch": "master"
+  },
+  {
     "package": "gistr",
     "url": "https://github.com/ropensci/gistr",
     "branch": "master"
