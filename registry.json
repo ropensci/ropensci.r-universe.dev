@@ -1189,7 +1189,7 @@
       "url": "https://github.com/ropensci/citecorp",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-18 12:57:36",
+      "date_last_commit": "2024-12-09 12:36:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1609,7 +1609,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-25 12:22:56",
+      "date_last_commit": "2024-12-09 13:55:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2029,7 +2029,7 @@
       "url": "https://github.com/ropensci/excluder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-01-27 17:41:28",
+      "date_last_commit": "2024-12-09 19:38:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3188,7 +3188,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-09 07:31:42",
+      "date_last_commit": "2024-12-10 03:46:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3696,7 +3696,7 @@
     {
       "name": "patentsview",
       "description": "An R Client to the 'PatentsView' API",
-      "details": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's seven endpoints, and parse the data that comes back.",
+      "details": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
       "maintainer": "Christopher Baker",
       "keywords": "",
       "github": "https://github.com/ropensci/patentsview",
@@ -3708,7 +3708,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-30 01:56:57",
+      "date_last_commit": "2024-12-10 02:06:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5388,7 +5388,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-26 13:30:58",
+      "date_last_commit": "2024-12-09 19:28:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6566,7 +6566,7 @@
       "on_bioc": false,
       "type": "experimental",
       "url": "https://github.com/ropenscilabs/aeolus",
-      "date_last_commit": "2024-12-06 14:33:12",
+      "date_last_commit": "2024-12-09 14:58:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-09 07:56 UTC"
+  "date": "2024-12-10 07:56 UTC"
 }

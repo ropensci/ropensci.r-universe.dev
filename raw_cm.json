@@ -48677,7 +48677,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "patentsview",
-    "description": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's seven endpoints, and parse the data that comes back.",
+    "description": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
     "name": "patentsview: An R Client to the 'PatentsView' API",
     "relatedLink": "https://docs.ropensci.org/patentsview/index.html",
     "codeRepository": "https://github.com/ropensci/patentsview",
@@ -70287,7 +70287,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70417,7 +70417,7 @@
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
-        "version": ">= 1.10.5",
+        "version": ">= 1.15.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
