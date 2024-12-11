@@ -11912,7 +11912,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.16.3",
+    "version": "0.16.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -27722,7 +27722,7 @@
     "codeRepository": "https://github.com/ropensci/FedData",
     "issueTracker": "https://github.com/ropensci/FedData/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "4.1.0",
+    "version": "4.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -27780,6 +27780,19 @@
       }
     ],
     "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "arcgislayers",
+        "name": "arcgislayers",
+        "version": ">= 0.2.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=arcgislayers"
+      },
       {
         "@type": "SoftwareApplication",
         "identifier": "knitr",
@@ -28056,19 +28069,6 @@
       },
       "17": {
         "@type": "SoftwareApplication",
-        "identifier": "arcgislayers",
-        "name": "arcgislayers",
-        "version": ">= 0.2.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=arcgislayers"
-      },
-      "18": {
-        "@type": "SoftwareApplication",
         "identifier": "ggplot2",
         "name": "ggplot2",
         "provider": {
@@ -28079,7 +28079,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ggplot2"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -28091,7 +28091,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
       },
-      "20": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
@@ -28102,6 +28102,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
+      },
+      "20": {
+        "@type": "SoftwareApplication",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
       "SystemRequirements": "GDAL (>= 3.1.0)"
     },
@@ -30024,6 +30036,7 @@
     "readme": "https://github.com/ropensci/ghql/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active"
   },
+  {},
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
@@ -59135,13 +59148,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rerddap",
-    "description": "General purpose R client for 'ERDDAP' servers. Includes functions to search for 'datasets', get summary information on 'datasets', and fetch 'datasets', in either 'csv' or 'netCDF' format. 'ERDDAP' information: <https://upwell.pfeg.noaa.gov/erddap/information.html>.",
-    "name": "rerddap: General Purpose Client for 'ERDDAP' Servers",
+    "description": "General purpose R client for 'ERDDAP™' servers. Includes functions to search for 'datasets', get summary information on 'datasets', and fetch 'datasets', in either 'csv' or 'netCDF' format. 'ERDDAP™' information: <https://upwell.pfeg.noaa.gov/erddap/information.html>.",
+    "name": "rerddap: General Purpose Client for 'ERDDAP™' Servers",
     "relatedLink": ["https://docs.ropensci.org/rerddap/", "https://github.com/ropensci/rerddap"],
     "codeRepository": "https://github.com/ropensci/rerddap",
     "issueTracker": "https://github.com/ropensci/rerddap/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -59316,6 +59329,18 @@
       },
       "10": {
         "@type": "SoftwareApplication",
+        "identifier": "nanoparquet",
+        "name": "nanoparquet",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=nanoparquet"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
         "identifier": "ncdf4",
         "name": "ncdf4",
         "version": ">= 1.16",
@@ -59327,7 +59352,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ncdf4"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -59339,12 +59364,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",

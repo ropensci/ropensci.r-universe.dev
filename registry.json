@@ -909,7 +909,7 @@
       "url": "https://github.com/ropensci/bowerbird",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-23 00:54:04",
+      "date_last_commit": "2024-12-10 23:19:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2109,7 +2109,7 @@
       "url": "https://github.com/ropensci/FedData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-07 13:40:32",
+      "date_last_commit": "2024-12-10 23:10:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4475,8 +4475,8 @@
     },
     {
       "name": "rerddap",
-      "description": "General Purpose Client for 'ERDDAP' Servers",
-      "details": "General purpose R client for 'ERDDAP' servers. Includes functions to search for 'datasets', get summary information on 'datasets', and fetch 'datasets', in either 'csv' or 'netCDF' format. 'ERDDAP' information: <https://upwell.pfeg.noaa.gov/erddap/information.html>.",
+      "description": "General Purpose Client for 'ERDDAP™' Servers",
+      "details": "General purpose R client for 'ERDDAP™' servers. Includes functions to search for 'datasets', get summary information on 'datasets', and fetch 'datasets', in either 'csv' or 'netCDF' format. 'ERDDAP™' information: <https://upwell.pfeg.noaa.gov/erddap/information.html>.",
       "maintainer": "Roy Mendelssohn",
       "keywords": "",
       "github": "https://github.com/ropensci/rerddap",
@@ -4488,7 +4488,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-01 22:41:37",
+      "date_last_commit": "2024-12-10 20:24:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5648,7 +5648,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-04 11:17:55",
+      "date_last_commit": "2024-12-10 14:23:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-10 07:56 UTC"
+  "date": "2024-12-11 08:01 UTC"
 }
