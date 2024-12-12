@@ -689,7 +689,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-07 21:45:56",
+      "date_last_commit": "2024-12-11 17:17:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2289,7 +2289,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-04 04:29:18",
+      "date_last_commit": "2024-12-11 12:23:33",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3048,7 +3048,7 @@
       "url": "https://github.com/ropensci/mctq",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-12 22:28:47",
+      "date_last_commit": "2024-12-12 03:49:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-11 08:01 UTC"
+  "date": "2024-12-12 08:00 UTC"
 }
