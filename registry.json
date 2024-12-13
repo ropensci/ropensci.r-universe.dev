@@ -849,7 +849,7 @@
       "url": "https://github.com/ropensci/biomartr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-06-30 14:07:15",
+      "date_last_commit": "2024-12-12 22:02:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5708,7 +5708,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-02 17:06:16",
+      "date_last_commit": "2024-12-13 01:31:48",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6555,8 +6555,8 @@
     },
     {
       "name": "aeolus",
-      "description": "What the Package Does (One Line, Title Case)",
-      "details": "What the package does (one paragraph).",
+      "description": "Unleash Useful Linebreaks in Markdown Documents",
+      "details": "Add linebreaks at the end of sentences and remove other linebreaks.",
       "maintainer": "Maëlle Salmon",
       "keywords": "",
       "github": "https://github.com/ropenscilabs/aeolus",
@@ -6566,7 +6566,7 @@
       "on_bioc": false,
       "type": "experimental",
       "url": "https://github.com/ropenscilabs/aeolus",
-      "date_last_commit": "2024-12-09 14:58:20",
+      "date_last_commit": "2024-12-12 15:23:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-12 08:00 UTC"
+  "date": "2024-12-13 07:57 UTC"
 }
