@@ -73630,7 +73630,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.9.1",
+    "version": "1.9.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

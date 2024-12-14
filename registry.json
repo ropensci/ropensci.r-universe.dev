@@ -889,7 +889,7 @@
       "url": "https://github.com/ropensci/bold",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-06-25 23:39:06",
+      "date_last_commit": "2024-12-13 22:53:13",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2289,7 +2289,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-11 12:23:33",
+      "date_last_commit": "2024-12-14 04:10:15",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4788,7 +4788,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-10 18:40:39",
+      "date_last_commit": "2024-12-13 16:52:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5648,7 +5648,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-10 14:23:24",
+      "date_last_commit": "2024-12-13 20:54:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6428,7 +6428,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-26 13:31:47",
+      "date_last_commit": "2024-12-14 04:24:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-13 07:57 UTC"
+  "date": "2024-12-14 07:58 UTC"
 }
