@@ -5370,7 +5370,7 @@
     "codeRepository": "https://github.com/r-lib/sodium",
     "issueTracker": "https://github.com/r-lib/sodium/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.3.2",
+    "version": "1.4.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -29694,7 +29694,7 @@
     "codeRepository": "https://github.com/ropensci/getCRUCLdata",
     "issueTracker": "https://github.com/ropensci/getCRUCLdata/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.3",
+    "version": "1.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -29782,6 +29782,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "roxyglobals",
+        "name": "roxyglobals",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=roxyglobals"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "spelling",
         "name": "spelling",
         "provider": {
@@ -29815,6 +29827,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=viridis"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
       }
     ],
     "softwareRequirements": {
@@ -29822,9 +29846,21 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.2.0"
+        "version": ">= 4.0.0"
       },
       "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
@@ -29836,7 +29872,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
@@ -29848,7 +29884,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=data.table"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "hoardr",
         "name": "hoardr",
@@ -29860,7 +29896,19 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=hoardr"
       },
-      "5": {
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
@@ -29872,7 +29920,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "6": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
@@ -35237,7 +35285,7 @@
     "codeRepository": "https://github.com/ropensci/jqr",
     "issueTracker": "https://github.com/ropensci/jqr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.3.5",
+    "version": "1.4.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
