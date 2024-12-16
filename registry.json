@@ -610,7 +610,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-14 23:17:12",
+      "date_last_commit": "2024-11-09 23:08:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -2289,7 +2289,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-15 03:22:54",
+      "date_last_commit": "2024-12-15 09:56:32",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3708,7 +3708,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-10 02:06:48",
+      "date_last_commit": "2024-12-15 21:37:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6528,7 +6528,7 @@
       "url": "https://github.com/ropensci/xslt",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:18:15",
+      "date_last_commit": "2024-12-15 22:06:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6692,5 +6692,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-15 07:56 UTC"
+  "date": "2024-12-16 07:56 UTC"
 }
