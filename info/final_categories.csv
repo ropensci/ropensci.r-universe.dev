@@ -22,6 +22,8 @@ sodium,scalereprod,FALSE
 srr,scalereprod,FALSE
 treeio,data-extraction,FALSE
 wmm,data-extraction,FALSE
+agroclimatico,scalereprod,FALSE
+allcontributors,scalereprod,FALSE
 allodb,data-extraction,FALSE
 antanym,data-access,FALSE
 antiword,literature,FALSE
@@ -258,7 +260,6 @@ RSelenium,http-tools,FALSE
 rsnps,data-access,FALSE
 rsvg,image-processing,FALSE
 rtika,literature,FALSE
-rtweet,data-access,FALSE
 ruODK,scalereprod,FALSE
 rusda,data-access,FALSE
 rvertnet,data-access,FALSE
@@ -327,7 +328,7 @@ worrms,taxonomy,FALSE
 writexl,data-extraction,FALSE
 xslt,data-extraction,FALSE
 yfR,data-access,FALSE
-allcontributors,scalereprod,TRUE
+aeolus,scalereprod,TRUE
 deposits,data-publication,TRUE
 icepalace,scalereprod,TRUE
 qcoder,data-extraction,TRUE
