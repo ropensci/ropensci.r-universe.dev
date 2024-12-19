@@ -1120,11 +1120,6 @@
     "branch": "main"
   },
   {
-    "package": "rdefra",
-    "url": "https://github.com/ropensci/rdefra",
-    "branch": "master"
-  },
-  {
     "package": "rdflib",
     "url": "https://github.com/ropensci/rdflib",
     "branch": "master"
