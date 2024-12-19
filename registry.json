@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-04 15:55:20",
+      "date_last_commit": "2024-12-19 05:50:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -450,6 +450,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/agroclimatico",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2024-12-05 03:33:31",
       "github_archived": false,
       "cran_archived": false,
@@ -469,7 +471,7 @@
       "type": "active",
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
-      "ropenscilabs": true,
+      "ropenscilabs": false,
       "date_last_commit": "2024-11-29 17:33:41",
       "github_archived": false,
       "cran_archived": false,
@@ -3188,7 +3190,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-10 03:46:25",
+      "date_last_commit": "2024-12-18 11:02:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4274,26 +4276,6 @@
       "staff_maintained": false
     },
     {
-      "name": "rdefra",
-      "description": "Interact with the UK AIR Pollution Database from DEFRA",
-      "details": "This packages allows to retrieve air pollution data from the Air Information Resource (UK-AIR, <https://uk-air.defra.gov.uk/>) of the Department for Environment, Food and Rural Affairs (DEFRA) in the United Kingdom. UK-AIR does not provide a public API for programmatic access to data, therefore this package scrapes the HTML pages to get relevant information. The package is described in Vitolo et al. (2016) \"rdefra: Interact with the UK AIR Pollution Database from DEFRA\" <doi:10.21105/joss.00051>.",
-      "maintainer": "Claudia Vitolo",
-      "keywords": "",
-      "github": "https://github.com/ropensci/rdefra",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/68",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/rdefra",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2024-07-18 00:05:15",
-      "github_archived": false,
-      "cran_archived": true,
-      "staff_maintained": false
-    },
-    {
       "name": "rdflib",
       "description": "Tools to Manipulate and Query Semantic Data",
       "details": "The Resource Description Framework, or 'RDF' is a widely used data representation model that forms the cornerstone of the Semantic Web. 'RDF' represents data as a graph rather than the familiar data table or rectangle of relational databases. The 'rdflib' package provides a friendly and concise user interface for performing common tasks on 'RDF' data, such as reading, writing and converting between the various serializations of 'RDF' data, including 'rdfxml', 'turtle', 'nquads', 'ntriples', and 'json-ld'; creating new 'RDF' graphs, and performing graph queries using 'SPARQL'. This package wraps the low level 'redland' R package which provides direct bindings to the 'redland' C library. Additionally, the package supports the newer and more developer friendly 'JSON-LD' format through the 'jsonld' package. The package interface takes inspiration from the Python 'rdflib' library.",
@@ -4728,7 +4710,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-03 08:28:44",
+      "date_last_commit": "2024-12-18 11:14:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6566,6 +6548,8 @@
       "on_bioc": false,
       "type": "experimental",
       "url": "https://github.com/ropenscilabs/aeolus",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": true,
       "date_last_commit": "2024-12-12 15:23:12",
       "github_archived": false,
       "cran_archived": false,
@@ -6692,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-18 07:58 UTC"
+  "date": "2024-12-19 08:00 UTC"
 }
