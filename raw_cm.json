@@ -57176,7 +57176,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.6"
+        "version": ">= 4.0"
       },
       "SystemRequirements": null
     },
@@ -86486,18 +86486,6 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
-        "identifier": "brio",
-        "name": "brio",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=brio"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
         "version": ">= 3.0.0",
@@ -86525,6 +86513,18 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "brio",
+        "name": "brio",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=brio"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
         "provider": {
@@ -86535,7 +86535,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -86547,7 +86547,31 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "3": {
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "rstudioapi",
+        "name": "rstudioapi",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rstudioapi"
+      },
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "tinkr",
         "name": "tinkr",
@@ -86560,7 +86584,7 @@
         },
         "sameAs": "https://github.com/ropensci/tinkr"
       },
-      "4": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "tokenizers",
         "name": "tokenizers",
@@ -86572,7 +86596,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tokenizers"
       },
-      "5": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
