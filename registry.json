@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-19 10:45:28",
+      "date_last_commit": "2024-12-20 08:28:01",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4710,7 +4710,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-18 11:14:42",
+      "date_last_commit": "2024-12-20 18:45:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5610,7 +5610,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-04 11:53:18",
+      "date_last_commit": "2024-12-20 20:35:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-17 15:27:11",
+      "date_last_commit": "2024-12-20 21:36:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-20 07:56 UTC"
+  "date": "2024-12-21 07:57 UTC"
 }
