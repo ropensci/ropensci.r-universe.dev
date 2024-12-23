@@ -12038,7 +12038,14 @@
       "5": {
         "@type": "SoftwareApplication",
         "identifier": "CopernicusMarine",
-        "name": "CopernicusMarine"
+        "name": "CopernicusMarine",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=CopernicusMarine"
       },
       "6": {
         "@type": "SoftwareApplication",
