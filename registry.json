@@ -472,7 +472,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-29 17:33:41",
+      "date_last_commit": "2024-12-23 23:39:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -612,7 +612,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-09 23:08:39",
+      "date_last_commit": "2024-12-23 13:06:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5630,7 +5630,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-20 21:36:10",
+      "date_last_commit": "2024-12-23 21:01:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6390,7 +6390,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-18 20:43:12",
+      "date_last_commit": "2024-12-23 21:28:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-23 07:57 UTC"
+  "date": "2024-12-24 07:59 UTC"
 }

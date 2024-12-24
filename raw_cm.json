@@ -6638,7 +6638,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.6",
+    "version": "0.2.2.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73416,7 +73416,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.9.1.9001",
+    "version": "1.9.1.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -84803,6 +84803,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
+        "version": ">= 0.6.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
