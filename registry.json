@@ -1811,7 +1811,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-23 05:32:20",
+      "date_last_commit": "2024-12-26 04:09:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-25 07:56 UTC"
+  "date": "2024-12-26 07:56 UTC"
 }
