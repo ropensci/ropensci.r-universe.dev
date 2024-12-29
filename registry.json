@@ -1811,7 +1811,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-26 04:09:12",
+      "date_last_commit": "2024-12-29 04:20:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3450,7 +3450,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-19 16:16:08",
+      "date_last_commit": "2024-12-29 01:51:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3710,7 +3710,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-15 21:37:31",
+      "date_last_commit": "2024-12-28 22:07:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4050,7 +4050,7 @@
       "url": "https://github.com/ropensci/prismjs",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:18:25",
+      "date_last_commit": "2024-12-28 11:21:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4530,7 +4530,7 @@
       "url": "https://github.com/ropensci/rfishbase",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-21 04:59:23",
+      "date_last_commit": "2024-12-29 03:20:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6676,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2024-12-28 08:00 UTC"
+  "date": "2024-12-29 07:56 UTC"
 }
