@@ -214,7 +214,6 @@ rcites,data-access,FALSE
 rcrossref,literature,FALSE
 rdatacite,literature,FALSE
 rdataretriever,data-access,FALSE
-rdefra,data-access,FALSE
 rdflib,data-extraction,FALSE
 rdhs,data-access,FALSE
 rdryad,data-access,FALSE
