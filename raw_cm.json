@@ -2949,7 +2949,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.2.21",
+    "version": "0.4.3.14",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3350,7 +3350,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/pkgmatch/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#wip"
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -5075,7 +5075,7 @@
     "codeRepository": "https://github.com/Permian-Global-Research/rsi",
     "issueTracker": "https://github.com/Permian-Global-Research/rsi/issues",
     "license": "Apache License 2",
-    "version": "0.3.1.9000",
+    "version": "0.3.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7329,7 +7329,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "1992, updated 2024",
+        "datePublished": "1992, updated 2025",
         "author": [
           {
             "@type": "Organization",
@@ -7545,14 +7545,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "SurvMetrics",
-        "name": "SurvMetrics",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=SurvMetrics"
+        "name": "SurvMetrics"
       },
       {
         "@type": "SoftwareApplication",
@@ -9154,7 +9147,7 @@
     "codeRepository": "https://github.com/ropensci/baRulho",
     "issueTracker": "https://github.com/ropensci/baRulho/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -9458,7 +9451,7 @@
     "citation": [
       {
         "@type": "ScholarlyArticle",
-        "datePublished": "2023",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -9486,13 +9479,16 @@
             "familyName": "Rico-Guevara"
           }
         ],
-        "name": "baRulho: quantifying habitat-induced degradation of (animal) acoustic signals in R",
+        "name": "Quantifying degradation in animal acoustic signals with the R package baRulho.",
+        "identifier": "https://doi.org/10.1111/2041-210X.14481",
+        "@id": "https://doi.org/10.1111/2041-210X.14481",
+        "sameAs": "https://doi.org/10.1111/2041-210X.14481",
         "isPartOf": {
           "@type": "PublicationIssue",
-          "datePublished": "2023",
+          "datePublished": "2025",
           "isPartOf": {
             "@type": ["PublicationVolume", "Periodical"],
-            "name": "bioRxiv"
+            "name": "Methods in Ecology and Evolution"
           }
         }
       }
@@ -11912,7 +11908,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.16.4",
+    "version": "0.16.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -13901,7 +13897,7 @@
     "codeRepository": "https://github.com/ropensci/cffr",
     "issueTracker": "https://github.com/ropensci/cffr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.1.1",
+    "version": "1.1.1.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14391,7 +14387,7 @@
     "codeRepository": "https://github.com/ropensci/chirps",
     "issueTracker": "https://github.com/ropensci/chirps/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.5",
+    "version": "1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18925,7 +18921,7 @@
     "codeRepository": "https://github.com/ropensci/cyphr",
     "issueTracker": "https://github.com/ropensci/cyphr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.5",
+    "version": "1.1.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18990,6 +18986,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -24024,7 +24021,7 @@
     "codeRepository": "https://github.com/ropensci/eDNAjoint",
     "issueTracker": "https://github.com/ropensci/eDNAjoint/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2",
+    "version": "0.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24117,7 +24114,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.4.0"
+        "version": ">= 3.5"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -24181,22 +24178,10 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
@@ -24209,7 +24194,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "RcppParallel",
         "name": "RcppParallel",
@@ -24222,7 +24207,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RcppParallel"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "rlist",
         "name": "rlist",
@@ -24234,7 +24219,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlist"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "rstan",
         "name": "rstan",
@@ -24247,7 +24232,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstan"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "rstantools",
         "name": "rstantools",
@@ -24260,7 +24245,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstantools"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -24272,7 +24257,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "scales",
         "name": "scales",
@@ -32683,6 +32668,7 @@
         "@type": "SoftwareApplication",
         "identifier": "readMDTable",
         "name": "readMDTable",
+        "version": ">= 0.3.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -33442,7 +33428,7 @@
     "codeRepository": "https://github.com/ropensci/hoardr",
     "issueTracker": "https://github.com/ropensci/hoardr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38367,7 +38353,7 @@
         "@type": "SoftwareApplication",
         "identifier": "covr",
         "name": "covr",
-        "version": ">= 3.6.2",
+        "version": ">= 3.6.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38380,13 +38366,13 @@
         "@type": "SoftwareApplication",
         "identifier": "datasets",
         "name": "datasets",
-        "version": ">= 4.2.0"
+        "version": ">= 4.3"
       },
       {
         "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
-        "version": ">= 1.43",
+        "version": ">= 1.49",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38412,7 +38398,7 @@
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
-        "version": ">= 2.1.4",
+        "version": ">= 2.1.5",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38425,7 +38411,7 @@
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
-        "version": ">= 1.1.1",
+        "version": ">= 1.1.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38438,7 +38424,7 @@
         "@type": "SoftwareApplication",
         "identifier": "rmarkdown",
         "name": "rmarkdown",
-        "version": ">= 2.23",
+        "version": ">= 2.29",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38451,7 +38437,7 @@
         "@type": "SoftwareApplication",
         "identifier": "spelling",
         "name": "spelling",
-        "version": ">= 2.2.1",
+        "version": ">= 2.3.1",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38464,13 +38450,13 @@
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats",
-        "version": ">= 4.2.0"
+        "version": ">= 4.3"
       },
       {
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 3.1.10",
+        "version": ">= 3.2.2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38483,7 +38469,7 @@
         "@type": "SoftwareApplication",
         "identifier": "usethis",
         "name": "usethis",
-        "version": ">= 2.2.2",
+        "version": ">= 3.1.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38496,7 +38482,7 @@
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils",
-        "version": ">= 4.2.0"
+        "version": ">= 4.3"
       }
     ],
     "softwareRequirements": {
@@ -38504,13 +38490,13 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.2"
+        "version": ">= 4.3"
       },
       "2": {
         "@type": "SoftwareApplication",
         "identifier": "checkmate",
         "name": "checkmate",
-        "version": ">= 2.2.0",
+        "version": ">= 2.3.2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38523,7 +38509,7 @@
         "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
-        "version": ">= 3.6.1",
+        "version": ">= 3.6.3",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38536,7 +38522,7 @@
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
-        "version": ">= 1.1.2",
+        "version": ">= 1.1.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38562,7 +38548,7 @@
         "@type": "SoftwareApplication",
         "identifier": "lifecycle",
         "name": "lifecycle",
-        "version": ">= 1.0.3",
+        "version": ">= 1.0.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38575,7 +38561,7 @@
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
-        "version": ">= 1.9.2",
+        "version": ">= 1.9.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38590,7 +38576,7 @@
     "citation": [
       {
         "@type": "CreativeWork",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -39834,19 +39820,13 @@
     "codeRepository": "https://github.com/ropensci/mregions2",
     "issueTracker": "https://github.com/ropensci/mregions2/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -39859,7 +39839,7 @@
         "@type": "Person",
         "givenName": "Lotte",
         "familyName": "Pohl",
-        "email": "lotte.pohl@imbrsea.eu",
+        "email": "lotte.pohl@vliz.be",
         "@id": "https://orcid.org/0000-0002-7607-7018"
       }
     ],
@@ -44383,7 +44363,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -56877,7 +56857,7 @@
     "codeRepository": "https://github.com/ropensci/readODS",
     "issueTracker": "https://github.com/ropensci/readODS/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.3.1",
+    "version": "2.3.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -57117,6 +57097,7 @@
         "@type": "SoftwareApplication",
         "identifier": "minty",
         "name": "minty",
+        "version": ">= 0.0.5",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -58725,7 +58706,7 @@
     "citation": [
       {
         "@type": "CreativeWork",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -60506,7 +60487,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -61032,6 +61013,13 @@
         "familyName": "Salmon",
         "email": "maelle.salmon@yahoo.se",
         "@id": "https://orcid.org/0000-0002-2815-0399"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Jonathan",
+        "familyName": "Elchison",
+        "email": "JElchison@gmail.com",
+        "@id": "https://orcid.org/0009-0004-0787-3426"
       }
     ],
     "contributor": [
@@ -61703,7 +61691,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.13.5",
+    "version": "0.14.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -61730,6 +61718,43 @@
         "familyName": "Baumann",
         "email": "baumann-philipp@protonmail.com",
         "@id": "https://orcid.org/0000-0002-3194-8975"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Richard J.",
+        "familyName": "Acton",
+        "email": "actonr@babraham.ac.uk",
+        "@id": "https://orcid.org/0000-0002-2574-9611"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Jordi",
+        "familyName": "Rosell",
+        "email": "jroselln@gmail.com",
+        "@id": "https://orcid.org/0000-0002-4349-1458"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Elio",
+        "familyName": "Campitelli",
+        "email": "eliocampitelli@gmail.com",
+        "@id": "https://orcid.org/0000-0002-7742-9230"
+      },
+      {
+        "@type": "Person",
+        "givenName": "László",
+        "familyName": "Kupcsik",
+        "email": "koopac@gmail.com",
+        "@id": "https://orcid.org/0000-0003-3535-5496"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Michael",
+        "familyName": "Heming",
+        "email": "mhem@mailbox.org",
+        "@id": "https://orcid.org/0000-0002-9568-2790"
       }
     ],
     "maintainer": [
@@ -68695,7 +68720,7 @@
     "codeRepository": "https://github.com/ropensci/skimr",
     "issueTracker": "https://github.com/ropensci/skimr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.1.5",
+    "version": "2.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -68878,30 +68903,6 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
-        "identifier": "covr",
-        "name": "covr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=covr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "crayon",
-        "name": "crayon",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=crayon"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
         "provider": {
@@ -68976,7 +68977,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 2.0.0",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -69021,7 +69022,7 @@
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
-        "version": ">= 0.8.0",
+        "version": ">= 1.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -69167,6 +69168,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vctrs",
         "name": "vctrs",
+        "version": ">= 0.5.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -71456,13 +71458,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "stats19",
-    "description": "Tools to help download, process and analyse the UK road collision data collected using the 'STATS19' form. The datasets are provided as 'CSV' files with detailed road safety information about the circumstances of car crashes and other incidents on the roads resulting in casualties in Great Britain from 1979 to present. Tables are available on 'colissions' with the circumstances (e.g. speed limit of road), information about 'vehicles' involved (e.g. type of vehicle), and 'casualties' (e.g. age). The statistics relate only to events on public roads that were reported to the police, and subsequently recorded, using the 'STATS19' collision reporting form. See the Department for Transport website <https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data> for more information on these datasets. The package is described in a paper in the Journal of Open Source Software (Lovelace et al. 2019) <doi:10.21105/joss.01181>. See Gilardi et al. (2022) <doi:10.1111/rssa.12823>, Vidal-Tortosa et al. (2021) <doi:10.1016/j.jth.2021.101291>, and Tait et al. (2023) <doi:10.1016/j.aap.2022.106895> for examples of how the data can be used for methodological and empirical road safety research.",
+    "description": "Tools to help download, process and analyse the UK road collision data collected using the 'STATS19' form. The datasets are provided as 'CSV' files with detailed road safety information about the circumstances of car crashes and other incidents on the roads resulting in casualties in Great Britain from 1979 to present. Tables are available on 'colissions' with the circumstances (e.g. speed limit of road), information about 'vehicles' involved (e.g. type of vehicle), and 'casualties' (e.g. age). The statistics relate only to events on public roads that were reported to the police, and subsequently recorded, using the 'STATS19' collision reporting form. See the Department for Transport website <https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data> for more information on these datasets. The package is described in a paper in the Journal of Open Source Software (Lovelace et al. 2019) <doi:10.21105/joss.01181>. See Gilardi et al. (2022) <doi:10.1111/rssa.12823>, Vidal-Tortosa et al. (2021) <doi:10.1016/j.jth.2021.101291>, and Tait et al. (2023) <doi:10.1016/j.aap.2022.106895> for examples of how the data can be used for methodological and empirical road safety research.",
     "name": "stats19: Work with Open Road Traffic Casualty Data from Great Britain",
     "relatedLink": ["https://github.com/ropensci/stats19", "https://docs.ropensci.org/stats19/"],
     "codeRepository": "https://github.com/ropensci/stats19",
     "issueTracker": "https://github.com/ropensci/stats19/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "3.2.0",
+    "version": "3.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -71726,11 +71728,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "pct",
-        "name": "pct"
       },
       {
         "@type": "SoftwareApplication",
@@ -72386,12 +72383,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -72709,7 +72700,7 @@
     "codeRepository": "https://github.com/ropensci/tabulapdf",
     "issueTracker": "https://github.com/ropensci/tabulapdf/issues/",
     "license": "Apache License 2",
-    "version": "1.0.5.4",
+    "version": "1.0.5.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -73417,7 +73408,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.9.1.9003",
+    "version": "1.10.0.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75552,7 +75543,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
