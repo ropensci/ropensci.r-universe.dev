@@ -100,5 +100,9 @@
   {
    "package": "rsi",
     "url": "https://github.com/Permian-Global-Research/rsi/"
+  },
+  {
+   "package": "emodnet.wfs",
+    "url": "https://github.com/EMODnet/emodnet.wfs/"
   }
 ]
