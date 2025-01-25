@@ -134,6 +134,23 @@
       "staff_maintained": true
     },
     {
+      "name": "emodnet.wfs",
+      "description": "Access EMODnet Web Feature Service data through R",
+      "details": "Access and interrogate EMODnet (European Marine Observation and Data Network) Web Feature Service data through R.",
+      "maintainer": "Salvador Fernández-Bejarano",
+      "keywords": "",
+      "github": "https://github.com/EMODnet/emodnet.wfs",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/653",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/EMODnet/emodnet.wfs",
+      "date_last_commit": "2024-12-06 07:47:57",
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "frictionless",
       "description": "Read and Write Frictionless Data Packages",
       "details": "Read and write Frictionless Data Packages. A 'Data Package' (<https://specs.frictionlessdata.io/data-package/>) is a simple container format and standard to describe and package a collection of (tabular) data. It is typically used to publish FAIR (<https://www.go-fair.org/fair-principles/>) and open datasets.",
@@ -1800,7 +1817,7 @@
       "name": "eDNAjoint",
       "description": "Joint Modeling of Traditional and Environmental DNA Survey Data in a Bayesian Framework",
       "details": "Models integrate environmental DNA (eDNA) detection data and traditional survey data to jointly estimate species catch rate (see package vignette: <https://ednajoint.netlify.app/>). Models can be used with count data via traditional survey methods (i.e., trapping, electrofishing, visual) and replicated eDNA detection/nondetection data via polymerase chain reaction (i.e., PCR or qPCR) from multiple survey locations. Estimated parameters include probability of a false positive eDNA detection, a site-level covariates that scale the sensitivity of eDNA surveys relative to traditional surveys, and catchability coefficients for traditional gear types. Models are implemented with a Bayesian framework (Markov chain Monte Carlo) using the 'Stan' probabilistic programming language.",
-      "maintainer": "Abigail G. Keller",
+      "maintainer": "Anon Maintainer",
       "keywords": "",
       "github": "https://github.com/ropensci/eDNAjoint",
       "status": "https://www.repostatus.org#active",
@@ -1811,7 +1828,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-18 02:10:59",
+      "date_last_commit": "2025-01-25 03:41:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2371,7 +2388,7 @@
       "url": "https://github.com/ropensci/git2rdata",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-06 12:28:06",
+      "date_last_commit": "2025-01-24 18:58:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4710,7 +4727,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-23 09:05:42",
+      "date_last_commit": "2025-01-24 09:18:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5270,7 +5287,7 @@
       "url": "https://github.com/ropensci/skimr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-24 00:05:57",
+      "date_last_commit": "2025-01-24 22:58:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6676,5 +6693,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-01-24 07:01 UTC"
+  "date": "2025-01-25 08:01 UTC"
 }
