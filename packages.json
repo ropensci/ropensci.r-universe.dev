@@ -232,7 +232,7 @@
   {
     "package": "beautier",
     "url": "https://github.com/ropensci/beautier",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "bib2df",
