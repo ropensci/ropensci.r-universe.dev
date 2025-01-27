@@ -10522,6 +10522,11 @@
       },
       {
         "@type": "Person",
+        "givenName": "Jianhui",
+        "familyName": "Wang"
+      },
+      {
+        "@type": "Person",
         "givenName": "Jana",
         "familyName": "Riederer",
         "@id": "https://orcid.org/0000-0001-6951-9984"
@@ -14314,7 +14319,7 @@
     "codeRepository": "https://github.com/ropensci/cffr",
     "issueTracker": "https://github.com/ropensci/cffr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.2.0",
+    "version": "1.2.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34891,6 +34896,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "magick",
+        "name": "magick",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=magick"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "mockery",
         "name": "mockery",
         "provider": {
@@ -35051,8 +35068,15 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "grDevices",
-        "name": "grDevices"
+        "identifier": "imager",
+        "name": "imager",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=imager"
       },
       "8": {
         "@type": "SoftwareApplication",
