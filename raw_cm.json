@@ -1668,7 +1668,7 @@
     "identifier": "emodnet.wfs",
     "description": "Access and interrogate EMODnet (European Marine Observation and Data Network) Web Feature Service data through R.",
     "name": "emodnet.wfs: Access EMODnet Web Feature Service data through R",
-    "relatedLink": ["https://emodnet.github.io/emodnet.wfs/", "https://github.com/EMODnet/emodnet.wfs"],
+    "relatedLink": ["https://docs.ropensci.org/emodnet.wfs/", "https://github.com/EMODnet/emodnet.wfs"],
     "codeRepository": "https://github.com/EMODnet/emodnet.wfs",
     "issueTracker": "https://github.com/EMODnet/emodnet.wfs/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -1928,7 +1928,7 @@
         "@type": "SoftwareApplication",
         "identifier": "ows4R",
         "name": "ows4R",
-        "version": ">= 0.4",
+        "version": ">= 0.4.1",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -35184,7 +35184,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=zeallot"
       },
-      "SystemRequirements": "libtiff, libbz2, libdeflate, libjpeg, liblzma,\n    libwebp, libzstd, zlib"
+      "SystemRequirements": "fftw3, libtiff, libbz2, libdeflate, libjpeg, liblzma,\n    libwebp, libzstd, X11, zlib"
     },
     "fileSize": "NAKB",
     "citation": [
@@ -74046,7 +74046,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.0.9001",
+    "version": "1.10.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
