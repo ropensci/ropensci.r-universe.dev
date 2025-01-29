@@ -135,8 +135,8 @@
     },
     {
       "name": "emodnet.wfs",
-      "description": "Access EMODnet Web Feature Service data through R",
-      "details": "Access and interrogate EMODnet (European Marine Observation and Data Network) Web Feature Service data through R.",
+      "description": "Access 'EMODnet' Web Feature Service data through R",
+      "details": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
       "maintainer": "Salvador Fernández-Bejarano",
       "keywords": "biology, dataproducts, emodnet, marine-data, wfs",
       "github": "https://github.com/EMODnet/emodnet.wfs",
@@ -146,7 +146,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/EMODnet/emodnet.wfs",
-      "date_last_commit": "2025-01-27 14:31:45",
+      "date_last_commit": "2025-01-28 10:32:52",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -629,7 +629,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-23 13:06:35",
+      "date_last_commit": "2025-01-29 00:04:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4187,7 +4187,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 15:21:58",
+      "date_last_commit": "2025-01-28 23:12:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5027,7 +5027,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-11 14:26:56",
+      "date_last_commit": "2025-01-28 20:45:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5287,7 +5287,7 @@
       "url": "https://github.com/ropensci/skimr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-24 22:58:23",
+      "date_last_commit": "2025-01-28 22:58:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5647,7 +5647,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-27 19:48:02",
+      "date_last_commit": "2025-01-28 18:53:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6693,5 +6693,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-01-28 07:57 UTC"
+  "date": "2025-01-29 08:02 UTC"
 }

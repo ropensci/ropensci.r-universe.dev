@@ -1666,8 +1666,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "emodnet.wfs",
-    "description": "Access and interrogate EMODnet (European Marine Observation and Data Network) Web Feature Service data through R.",
-    "name": "emodnet.wfs: Access EMODnet Web Feature Service data through R",
+    "description": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
+    "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service data through R",
     "relatedLink": ["https://docs.ropensci.org/emodnet.wfs/", "https://github.com/EMODnet/emodnet.wfs"],
     "codeRepository": "https://github.com/EMODnet/emodnet.wfs",
     "issueTracker": "https://github.com/EMODnet/emodnet.wfs/issues",
@@ -8707,7 +8707,7 @@
     "codeRepository": "https://github.com/ropensci/av",
     "issueTracker": "https://github.com/ropensci/av/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.3.9000",
+    "version": "0.9.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -66262,7 +66262,7 @@
     "codeRepository": "https://github.com/ropensci/rredlist",
     "issueTracker": "https://github.com/ropensci/rredlist/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.7.1.9000",
+    "version": "1.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -66372,6 +66372,78 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "webmockr",
+        "name": "webmockr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=webmockr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "microbenchmark",
+        "name": "microbenchmark",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=microbenchmark"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "ggplot2",
+        "name": "ggplot2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "patchwork",
+        "name": "patchwork",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=patchwork"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "vdiffr",
+        "name": "vdiffr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vdiffr"
       }
     ],
     "softwareRequirements": {
@@ -66413,6 +66485,42 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
       "SystemRequirements": null
     },
     "applicationCategory": "Biodiversity",
@@ -66422,7 +66530,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2024",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -66438,7 +66546,7 @@
         "name": "rredlist: 'IUCN' Red List Client",
         "identifier": "10.32614/CRAN.package.rredlist",
         "url": "https://docs.ropensci.org/rredlist/",
-        "description": "R package version 0.7.1.9000",
+        "description": "R package version 1.0.0",
         "@id": "https://doi.org/10.32614/CRAN.package.rredlist",
         "sameAs": "https://doi.org/10.32614/CRAN.package.rredlist"
       }
@@ -69506,6 +69614,11 @@
         "givenName": "Henry",
         "familyName": "Morgan Stewart",
         "email": "henry.morganstewart@gmail.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Olivier",
+        "familyName": "Roy"
       }
     ],
     "copyrightHolder": [
@@ -74046,7 +74159,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.0.9002",
+    "version": "1.10.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
