@@ -629,7 +629,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-29 00:04:52",
+      "date_last_commit": "2025-01-29 21:24:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5707,7 +5707,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-17 01:33:20",
+      "date_last_commit": "2025-01-29 23:41:14",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6693,5 +6693,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-01-29 08:02 UTC"
+  "date": "2025-01-30 08:01 UTC"
 }
