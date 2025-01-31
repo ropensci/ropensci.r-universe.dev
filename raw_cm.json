@@ -30568,7 +30568,337 @@
     "readme": "https://github.com/ropensci/ghql/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active"
   },
-  {},
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "gigs",
+    "description": "Convert between anthropometric measures and z-scores/centiles in multiple growth standards, and classify fetal, newborn, and child growth accordingly. With a simple interface to growth standards from the World Health Organisation and International Fetal and Newborn Growth Consortium for the 21st Century, gigs makes growth assessment easy and reproducible for clinicians, researchers and policy-makers.",
+    "name": "gigs: Assess Fetal, Newborn, and Child Growth with International Standards",
+    "relatedLink": ["https://github.com/ropensci/gigs/", "https://docs.ropensci.org/gigs"],
+    "codeRepository": "https://github.com/ropensci/gigs",
+    "issueTracker": "https://github.com/ropensci/gigs/issues",
+    "license": "https://spdx.org/licenses/GPL-3.0",
+    "version": "0.5.2.9000",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": ["Simon", "R"],
+        "familyName": "Parker",
+        "email": "simon.parker1471@outlook.com",
+        "@id": "https://orcid.org/0009-0003-8214-4496"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Linda",
+        "familyName": "Vesel",
+        "@id": "https://orcid.org/0000-0003-3753-4172"
+      },
+      {
+        "@type": "Person",
+        "givenName": ["Eric", "O"],
+        "familyName": "Ohuma",
+        "@id": "https://orcid.org/0000-0002-3116-2593"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Linda",
+        "familyName": "Vesel",
+        "@id": "https://orcid.org/0000-0003-3753-4172"
+      },
+      {
+        "@type": "Person",
+        "givenName": ["Eric", "O"],
+        "familyName": "Ohuma",
+        "@id": "https://orcid.org/0000-0002-3116-2593"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Organization",
+        "name": "London School of Hygiene & Tropical Medicine"
+      }
+    ],
+    "funder": [
+      {
+        "@type": "Organization",
+        "name": "Bill & Melinda Gates Foundation"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": ["Simon", "R"],
+        "familyName": "Parker",
+        "email": "simon.parker1471@outlook.com",
+        "@id": "https://orcid.org/0009-0003-8214-4496"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "units",
+        "name": "units",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=units"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "ggsci",
+        "name": "ggsci",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggsci"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "bench",
+        "name": "bench",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=bench"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "cowplot",
+        "name": "cowplot",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cowplot"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "viridis",
+        "name": "viridis",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=viridis"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "mfp",
+        "name": "mfp",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=mfp"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "version": ">= 1.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "checkmate",
+        "name": "checkmate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=checkmate"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "gamlss.dist",
+        "name": "gamlss.dist",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gamlss.dist"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "vctrs",
+        "name": "vctrs",
+        "version": ">= 0.4.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vctrs"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "SoftwareSourceCode",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": ["Simon", "R"],
+            "familyName": "Parker"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Linda",
+            "familyName": "Vesel"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Eric", "O"],
+            "familyName": "Ohuma"
+          }
+        ],
+        "name": "{gigs}: Assess Fetal, Newborn, and Child Growth with International Standards",
+        "url": "https://github.com/ropensci/gigs/",
+        "description": "0.5.2.9000"
+      }
+    ],
+    "readme": "https://github.com/ropensci/gigs/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/626",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
+    "keywords": ["anthropometry", "growth-standards", "intergrowth", "who"]
+  },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",

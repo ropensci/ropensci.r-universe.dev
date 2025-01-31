@@ -2334,6 +2334,24 @@
       "staff_maintained": false
     },
     {
+      "name": "gigs",
+      "description": "Assess Fetal, Newborn, and Child Growth with International Standards",
+      "details": "Convert between anthropometric measures and z-scores/centiles in multiple growth standards, and classify fetal, newborn, and child growth accordingly. With a simple interface to growth standards from the World Health Organisation and International Fetal and Newborn Growth Consortium for the 21st Century, gigs makes growth assessment easy and reproducible for clinicians, researchers and policy-makers.",
+      "maintainer": "Simon R Parker",
+      "keywords": "anthropometry, growth-standards, intergrowth, who",
+      "github": "https://github.com/ropensci/gigs",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/626",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/gigs",
+      "date_last_commit": "2025-01-31 09:01:02",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "gistr",
       "description": "Work with 'GitHub' 'Gists'",
       "details": "Work with 'GitHub' 'gists' from 'R' (e.g., <https://en.wikipedia.org/wiki/GitHub#Gist>, <https://docs.github.com/en/github/writing-on-github/creating-gists/>). A 'gist' is simply one or more files with code/text/images/etc. This package allows the user to create new 'gists', update 'gists' with new files, rename files, delete files, get and delete 'gists', star and 'un-star' 'gists', fork 'gists', open a 'gist' in your default browser, get embed code for a 'gist', list 'gist' 'commits', and get rate limit information when 'authenticated'. Some requests require authentication and some do not. 'Gists' website: <https://gist.github.com/>.",
@@ -4667,7 +4685,7 @@
       "url": "https://github.com/ropensci/riem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-20 14:12:43",
+      "date_last_commit": "2025-01-31 08:46:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6693,5 +6711,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-01-31 08:01 UTC"
+  "date": "2025-01-31 09:08 UTC"
 }
