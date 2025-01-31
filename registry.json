@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-20 08:28:01",
+      "date_last_commit": "2025-01-31 06:43:33",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3207,7 +3207,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-18 11:02:51",
+      "date_last_commit": "2025-01-31 02:10:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5627,7 +5627,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-08 16:15:13",
+      "date_last_commit": "2025-01-30 17:20:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5647,7 +5647,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-28 18:53:22",
+      "date_last_commit": "2025-01-30 14:32:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5707,7 +5707,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-29 23:41:14",
+      "date_last_commit": "2025-01-30 23:38:32",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6693,5 +6693,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-01-30 08:01 UTC"
+  "date": "2025-01-31 08:01 UTC"
 }
