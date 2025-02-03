@@ -85,6 +85,11 @@
     "branch": "master"
   },
   {
+    "package": "QuadratiK-package",
+    "url": "https://github.com/ropensci/QuadratiK-package",
+    "branch": "master"
+  },
+  {
     "package": "RNeXML",
     "url": "https://github.com/ropensci/RNeXML",
     "branch": "master"
