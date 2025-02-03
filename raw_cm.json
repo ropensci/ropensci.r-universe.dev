@@ -76491,11 +76491,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "taxize",
-        "name": "taxize"
       }
     ],
     "softwareRequirements": {
@@ -76638,6 +76633,12 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=hoardr"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "taxize",
+        "name": "taxize",
+        "sameAs": "https://github.com/ropensci/taxize"
       },
       "SystemRequirements": null
     },
