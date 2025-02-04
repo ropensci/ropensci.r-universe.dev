@@ -612,7 +612,7 @@
   {
     "package": "gigs",
     "url": "https://github.com/ropensci/gigs",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "gistr",
