@@ -85,8 +85,8 @@
     "branch": "master"
   },
   {
-    "package": "QuadratiK-package",
-    "url": "https://github.com/ropensci/QuadratiK-package",
+    "package": "QuadratiK",
+    "url": "https://github.com/ropensci/QuadratiK",
     "branch": "master"
   },
   {
