@@ -7960,7 +7960,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "SurvMetrics",
-        "name": "SurvMetrics"
+        "name": "SurvMetrics",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=SurvMetrics"
       },
       {
         "@type": "SoftwareApplication",
@@ -63133,7 +63140,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.14.6",
+    "version": "0.14.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -85077,7 +85084,7 @@
     "codeRepository": "https://github.com/ropensci/weathercan",
     "issueTracker": "https://github.com/ropensci/weathercan/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -85114,6 +85121,39 @@
         "familyName": "Cazelles",
         "email": "kevin.cazelles@gmail.com",
         "@id": "https://orcid.org/0000-0001-6619-9874"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Richard",
+        "familyName": "Littauer",
+        "email": "richard.littauer@gmail.com",
+        "@id": "https://orcid.org/0000-0001-5428-7535"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Shandiya",
+        "familyName": "Balasubramaniam",
+        "@id": "https://orcid.org/0000-0001-9928-9964"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Mark",
+        "familyName": "Ciechanowski",
+        "@id": "https://orcid.org/0000-0002-3732-5939"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Jeremy",
+        "familyName": "Selva",
+        "email": "jeremy1189.jjs@gmail.com",
+        "@id": "https://orcid.org/0000-0002-4498-2662"
+      },
+      {
+        "@type": "Person",
+        "givenName": ["Kelli", "F."],
+        "familyName": "Johnson",
+        "email": "kelli.johnson@noaa.gov",
+        "@id": "https://orcid.org/0000-0002-5149-451X"
       }
     ],
     "maintainer": [
