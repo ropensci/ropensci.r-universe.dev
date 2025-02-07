@@ -1068,7 +1068,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 17:42:34",
+      "date_last_commit": "2025-02-06 11:46:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4423,7 +4423,7 @@
       "url": "https://github.com/ropensci/rebird",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 22:47:49",
+      "date_last_commit": "2025-02-06 19:32:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4623,7 +4623,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:23:27",
+      "date_last_commit": "2025-02-06 13:25:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4763,7 +4763,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 22:49:35",
+      "date_last_commit": "2025-02-07 05:33:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5683,7 +5683,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 16:06:48",
+      "date_last_commit": "2025-02-06 18:29:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5731,7 +5731,7 @@
     {
       "name": "taxize",
       "description": "Taxonomic Information from Around the Web",
-      "details": "Interacts with a suite of web APIs for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. Some of the APIs supported include NCBI eutils (<https://www.ncbi.nlm.nih.gov/books/NBK25501/>), Encyclopedia of Life (<https://eol.org/docs/what-is-eol/data-services>), Global Biodiversity Information Facility (<https://techdocs.gbif.org/en/openapi/>), Integrated Taxonomic Information System (<https://itis.gov/web_service.html>), and many more. Links to the API documentation for other supported APIs are available in the documentation for their respective functions in this package.",
+      "details": "Interacts with a suite of web application programming interfaces (API) for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. Some of the services supported include 'NCBI E-utilities' (<https://www.ncbi.nlm.nih.gov/books/NBK25501/>), 'Encyclopedia of Life' (<https://eol.org/docs/what-is-eol/data-services>), 'Global Biodiversity Information Facility' (<https://techdocs.gbif.org/en/openapi/>), and many more. Links to the API documentation for other supported services are available in the documentation for their respective functions in this package.",
       "maintainer": "Zachary Foster",
       "keywords": "api, api-client, api-wrapper, biodiversity, biology, darwincore, data, identifiers, json, names, nomenclature, species, taxize, taxonomy, web",
       "github": "https://github.com/ropensci/taxize",
@@ -5743,7 +5743,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 16:21:38",
+      "date_last_commit": "2025-02-06 19:42:27",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6729,5 +6729,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-06 08:01 UTC"
+  "date": "2025-02-07 07:57 UTC"
 }

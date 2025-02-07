@@ -61578,7 +61578,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.1.1",
+    "version": "3.8.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -61768,6 +61768,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "bit64",
+        "name": "bit64",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=bit64"
       }
     ],
     "softwareRequirements": {
@@ -61972,7 +61984,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.1.1"
+        "description": "R package version 3.8.1.2"
       },
       {
         "@type": "ScholarlyArticle",
@@ -74996,7 +75008,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.1.9002",
+    "version": "1.10.1.9003",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -76378,7 +76390,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "taxize",
-    "description": "Interacts with a suite of web APIs for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. Some of the APIs supported include NCBI eutils (<https://www.ncbi.nlm.nih.gov/books/NBK25501/>), Encyclopedia of Life (<https://eol.org/docs/what-is-eol/data-services>), Global Biodiversity Information Facility (<https://techdocs.gbif.org/en/openapi/>), Integrated Taxonomic Information System (<https://itis.gov/web_service.html>), and many more. Links to the API documentation for other supported APIs are available in the documentation for their respective functions in this package.",
+    "description": "Interacts with a suite of web application programming interfaces (API) for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. Some of the services supported include 'NCBI E-utilities' (<https://www.ncbi.nlm.nih.gov/books/NBK25501/>), 'Encyclopedia of Life' (<https://eol.org/docs/what-is-eol/data-services>), 'Global Biodiversity Information Facility' (<https://techdocs.gbif.org/en/openapi/>), and many more. Links to the API documentation for other supported services are available in the documentation for their respective functions in this package.",
     "name": "taxize: Taxonomic Information from Around the Web",
     "relatedLink": ["https://docs.ropensci.org/taxize/", "https://github.com/ropensci/taxize", "https://taxize.dev"],
     "codeRepository": "https://github.com/ropensci/taxize",
