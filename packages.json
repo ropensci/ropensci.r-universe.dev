@@ -370,11 +370,6 @@
     "branch": "master"
   },
   {
-    "package": "clifro",
-    "url": "https://github.com/ropensci/clifro",
-    "branch": "master"
-  },
-  {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
     "branch": "main"
