@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:27:05",
+      "date_last_commit": "2025-02-07 09:32:16",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -260,7 +260,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-03 14:57:23",
+      "date_last_commit": "2025-02-07 08:11:39",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-19 16:22:52",
+      "date_last_commit": "2025-02-07 09:59:31",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -708,7 +708,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-23 22:00:20",
+      "date_last_commit": "2025-02-07 17:25:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1274,26 +1274,6 @@
       "staff_maintained": true
     },
     {
-      "name": "clifro",
-      "description": "Easily Download and Visualise Climate Data from CliFlo",
-      "details": "CliFlo is a web portal to the New Zealand National Climate Database and provides public access (via subscription) to around 6,500 various climate stations (see <https://cliflo.niwa.co.nz/> for more information). Collating and manipulating data from CliFlo (hence clifro) and importing into R for further analysis, exploration and visualisation is now straightforward and coherent. The user is required to have an internet connection, and a current CliFlo subscription (free) if data from stations, other than the public Reefton electronic weather station, is sought.",
-      "maintainer": "Blake Seers",
-      "keywords": "api, cliflo, climate, climate-data, climate-stations, data, kml, national-climate-database, opensci, rain, temperature, weather, wind, windrose, zealand",
-      "github": "https://github.com/ropensci/clifro",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": true,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/clifro",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2023-03-09 06:42:07",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "codemetar",
       "description": "Generate 'CodeMeta' Metadata for R Packages",
       "details": "The 'Codemeta' Project defines a 'JSON-LD' format for describing software metadata, as detailed at <https://codemeta.github.io>. This package provides utilities to generate, parse, and modify 'codemeta.json' files automatically for R packages, as well as tools and examples for working with 'codemeta.json' 'JSON-LD' more generally.",
@@ -1488,7 +1468,7 @@
       "url": "https://github.com/ropensci/cyphr",
       "ropensci_category": "security",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-15 09:24:31",
+      "date_last_commit": "2025-02-07 10:13:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1668,7 +1648,7 @@
       "url": "https://github.com/ropensci/dendroNetwork",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-13 08:25:10",
+      "date_last_commit": "2025-02-07 15:11:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2228,7 +2208,7 @@
       "url": "https://github.com/ropensci/gendercoder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-23 22:36:28",
+      "date_last_commit": "2025-02-08 04:18:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2308,7 +2288,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-06 03:30:01",
+      "date_last_commit": "2025-02-07 08:08:30",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2866,7 +2846,7 @@
       "url": "https://github.com/ropensci/jsonvalidate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-03-25 16:39:16",
+      "date_last_commit": "2025-02-07 11:47:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3025,7 +3005,7 @@
       "url": "https://github.com/ropensci/mapscanner",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 11:25:27",
+      "date_last_commit": "2025-02-07 10:55:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3485,7 +3465,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-27 14:48:05",
+      "date_last_commit": "2025-02-07 22:58:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3645,7 +3625,7 @@
       "url": "https://github.com/ropensci/osmplotr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-20 11:23:30",
+      "date_last_commit": "2025-02-07 08:44:08",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4643,7 +4623,7 @@
       "url": "https://github.com/ropensci/rglobi",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-10-06 13:55:47",
+      "date_last_commit": "2025-02-07 14:20:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4763,7 +4743,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 05:33:58",
+      "date_last_commit": "2025-02-07 19:39:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5523,7 +5503,7 @@
       "url": "https://github.com/ropensci/stantargets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-03 12:23:37",
+      "date_last_commit": "2025-02-07 17:50:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5737,7 +5717,7 @@
       "github": "https://github.com/ropensci/taxize",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/taxize",
@@ -5745,7 +5725,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-02-06 19:42:27",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -6203,7 +6183,7 @@
       "url": "https://github.com/ropensci/universe",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-22 14:08:12",
+      "date_last_commit": "2025-02-07 09:08:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6363,7 +6343,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-09 18:06:28",
+      "date_last_commit": "2025-02-07 18:35:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6463,7 +6443,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:32:36",
+      "date_last_commit": "2025-02-07 14:36:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6729,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-07 07:57 UTC"
+  "date": "2025-02-08 08:00 UTC"
 }

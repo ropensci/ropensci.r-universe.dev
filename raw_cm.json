@@ -1426,6 +1426,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=yaml"
       },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -3354,7 +3360,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.15",
+    "version": "0.4.3.16",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4869,7 +4875,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.2",
+    "version": "0.1.1.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -9586,7 +9592,7 @@
     "codeRepository": "https://github.com/ropensci/baRulho",
     "issueTracker": "https://github.com/ropensci/baRulho/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -9919,7 +9925,7 @@
           }
         ],
         "name": "Quantifying degradation in animal acoustic signals with the R package baRulho.",
-        "identifier": "https://doi.org/10.1111/2041-210X.14481",
+        "identifier": "10.1111/2041-210X.14481",
         "@id": "https://doi.org/10.1111/2041-210X.14481",
         "sameAs": "https://doi.org/10.1111/2041-210X.14481",
         "isPartOf": {
@@ -12819,7 +12825,14 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.9.97"
+        "version": ">= 0.9.97",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "6": {
         "@type": "SoftwareApplication",
@@ -16571,279 +16584,6 @@
     "readme": "https://github.com/ropensci/cld3/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/",
     "keywords": ["cld", "cld3", "language-detection", "language-detector", "protobuf", "cpp"]
-  },
-  {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
-    "identifier": "clifro",
-    "description": "CliFlo is a web portal to the New Zealand National Climate Database and provides public access (via subscription) to around 6,500 various climate stations (see <https://cliflo.niwa.co.nz/> for more information). Collating and manipulating data from CliFlo (hence clifro) and importing into R for further analysis, exploration and visualisation is now straightforward and coherent. The user is required to have an internet connection, and a current CliFlo subscription (free) if data from stations, other than the public Reefton electronic weather station, is sought.",
-    "name": "clifro: Easily Download and Visualise Climate Data from CliFlo",
-    "relatedLink": ["https://docs.ropensci.org/clifro/", "https://github.com/ropensci/clifro"],
-    "codeRepository": "https://github.com/ropensci/clifro",
-    "issueTracker": "https://github.com/ropensci/clifro/issues",
-    "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "3.2.5.9003",
-    "programmingLanguage": {
-      "@type": "ComputerLanguage",
-      "name": "R",
-      "url": "https://r-project.org"
-    },
-    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
-    "author": [
-      {
-        "@type": "Person",
-        "givenName": "Blake",
-        "familyName": "Seers",
-        "email": "blake.seers@gmail.com",
-        "@id": "http://orcid.org/0000-0001-6841-4312"
-      }
-    ],
-    "maintainer": [
-      {
-        "@type": "Person",
-        "givenName": "Blake",
-        "familyName": "Seers",
-        "email": "blake.seers@gmail.com",
-        "@id": "http://orcid.org/0000-0001-6841-4312"
-      }
-    ],
-    "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "spelling",
-        "name": "spelling",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=spelling"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "knitr",
-        "name": "knitr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "pander",
-        "name": "pander",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pander"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
-      }
-    ],
-    "softwareRequirements": {
-      "1": {
-        "@type": "SoftwareApplication",
-        "identifier": "methods",
-        "name": "methods"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "stats",
-        "name": "stats"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "graphics",
-        "name": "graphics"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "lubridate",
-        "name": "lubridate",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lubridate"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "xml2",
-        "name": "xml2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=xml2"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
-        "identifier": "utils",
-        "name": "utils"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
-        "identifier": "ggplot2",
-        "name": "ggplot2",
-        "version": ">= 2.0.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
-      },
-      "9": {
-        "@type": "SoftwareApplication",
-        "identifier": "scales",
-        "name": "scales",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=scales"
-      },
-      "10": {
-        "@type": "SoftwareApplication",
-        "identifier": "RColorBrewer",
-        "name": "RColorBrewer",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=RColorBrewer"
-      },
-      "11": {
-        "@type": "SoftwareApplication",
-        "identifier": "reshape2",
-        "name": "reshape2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=reshape2"
-      },
-      "12": {
-        "@type": "SoftwareApplication",
-        "identifier": "rvest",
-        "name": "rvest",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rvest"
-      },
-      "13": {
-        "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "14": {
-        "@type": "SoftwareApplication",
-        "identifier": "stringr",
-        "name": "stringr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=stringr"
-      },
-      "SystemRequirements": null
-    },
-    "applicationCategory": "DataAccess",
-    "isPartOf": "\"https://ropensci.org\"",
-    "keywords": ["opensci", "zealand", "weather", "climate", "cliflo", "data", "api", "windrose", "rain", "wind", "temperature", "climate-data", "climate-stations", "kml", "national-climate-database"],
-    "fileSize": "NAKB",
-    "citation": [
-      {
-        "datePublished": "2015",
-        "author": [
-          {
-            "@type": "Person",
-            "givenName": "Blake",
-            "familyName": "Seers"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Nick",
-            "familyName": "Shears"
-          }
-        ],
-        "name": "New Zealand's Climate Data in R --- An Introduction to clifro",
-        "url": "http://stattech.wordpress.fos.auckland.ac.nz/2015-02-new-zealands-climate-data-in-r-an-introduction-to-clifro/"
-      }
-    ],
-    "readme": "https://github.com/ropensci/clifro/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -21954,7 +21694,7 @@
     "codeRepository": "https://github.com/ropensci/dendroNetwork",
     "issueTracker": "https://github.com/ropensci/dendroNetwork/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34228,7 +33968,14 @@
       "7": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize"
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "SystemRequirements": null
     },
@@ -36439,7 +36186,7 @@
     "codeRepository": "https://github.com/ropensci/jsonvalidate",
     "issueTracker": "https://github.com/ropensci/jsonvalidate/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.4.2",
+    "version": "1.5.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38250,7 +37997,7 @@
     "codeRepository": "https://github.com/ropensci/mapscanner",
     "issueTracker": "https://github.com/ropensci/mapscanner/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.1",
+    "version": "0.1.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -46575,7 +46322,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 2.10"
+        "version": ">= 3.5"
       },
       "SystemRequirements": null
     },
@@ -48577,7 +48324,7 @@
     "codeRepository": "https://github.com/ropensci/osmplotr",
     "issueTracker": "https://github.com/ropensci/osmplotr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.5.6",
+    "version": "0.3.5.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51088,7 +50835,14 @@
       "5": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize"
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "6": {
         "@type": "SoftwareApplication",
@@ -59987,7 +59741,14 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.9.97"
+        "version": ">= 0.9.97",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "35": {
         "@type": "SoftwareApplication",
@@ -64944,7 +64705,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize"
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       {
         "@type": "SoftwareApplication",
@@ -69939,7 +69707,14 @@
       "7": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize"
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "8": {
         "@type": "SoftwareApplication",
@@ -72360,7 +72135,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize"
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       {
         "@type": "SoftwareApplication",
@@ -72903,16 +72685,15 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "qs",
-        "name": "qs",
-        "version": ">= 0.23.2",
+        "identifier": "qs2",
+        "name": "qs2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=qs"
+        "sameAs": "https://CRAN.R-project.org/package=qs2"
       },
       "8": {
         "@type": "SoftwareApplication",
@@ -72949,7 +72730,7 @@
         "@type": "SoftwareApplication",
         "identifier": "targets",
         "name": "targets",
-        "version": ">= 1.6.0",
+        "version": ">= 1.9.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -76403,6 +76184,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -77144,6 +76931,12 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
         "sameAs": "https://github.com/ropensci/taxize"
       },
       "13": {
@@ -81255,7 +81048,14 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.7.4"
+        "version": ">= 0.7.4",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
       "9": {
         "@type": "SoftwareApplication",
