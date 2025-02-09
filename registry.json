@@ -728,7 +728,7 @@
       "url": "https://github.com/ropensci/BaseSet",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2023-12-17 11:33:42",
+      "date_last_commit": "2025-02-08 17:08:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -956,7 +956,7 @@
     {
       "name": "c14bazAAR",
       "description": "Download and Prepare C14 Dates from Different Source Databases",
-      "details": "Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, agrichange, aida, austarch, bda, calpal, caribbean, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, neonet, neonetatl, nerd, p3k14c, pacea, palmisano, rado.nb, rxpand, sard.",
+      "details": "Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, agrichange, aida, austarch, bda, calpal, caribbean, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, neonet, neonetatl, nerd, p3k14c, pacea, palmisano, rado.nb, rxpand, sard, xronos.",
       "maintainer": "Clemens Schmid",
       "keywords": "archaeology, radiocarbon-dates",
       "github": "https://github.com/ropensci/c14bazAAR",
@@ -968,7 +968,7 @@
       "url": "https://github.com/ropensci/c14bazAAR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-05-31 14:43:03",
+      "date_last_commit": "2025-02-08 12:19:02",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2208,7 +2208,7 @@
       "url": "https://github.com/ropensci/gendercoder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-08 04:18:35",
+      "date_last_commit": "2025-02-09 06:22:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2282,15 +2282,15 @@
       "github": "https://github.com/ropensci/getCRUCLdata",
       "status": "https://www.repostatus.org/",
       "onboarding": "https://github.com/ropensci/software-review/issues/96",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 08:08:30",
+      "date_last_commit": "2025-02-08 12:09:27",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -3085,7 +3085,7 @@
       "url": "https://github.com/ropensci/medrxivr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 20:59:29",
+      "date_last_commit": "2025-02-09 06:22:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3345,7 +3345,7 @@
       "url": "https://github.com/ropensci/npi",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-11-15 05:50:04",
+      "date_last_commit": "2025-02-08 23:32:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5403,7 +5403,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-09 19:28:24",
+      "date_last_commit": "2025-02-08 20:12:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6443,7 +6443,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 14:36:27",
+      "date_last_commit": "2025-02-09 05:46:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-08 08:00 UTC"
+  "date": "2025-02-09 07:59 UTC"
 }

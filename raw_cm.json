@@ -10113,7 +10113,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 2.1.0",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -12884,13 +12884,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "c14bazAAR",
-    "description": "Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, agrichange, aida, austarch, bda, calpal, caribbean, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, neonet, neonetatl, nerd, p3k14c, pacea, palmisano, rado.nb, rxpand, sard.",
+    "description": "Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, agrichange, aida, austarch, bda, calpal, caribbean, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, neonet, neonetatl, nerd, p3k14c, pacea, palmisano, rado.nb, rxpand, sard, xronos.",
     "name": "c14bazAAR: Download and Prepare C14 Dates from Different Source Databases",
     "relatedLink": ["https://docs.ropensci.org/c14bazAAR", "https://github.com/ropensci/c14bazAAR"],
     "codeRepository": "https://github.com/ropensci/c14bazAAR",
     "issueTracker": "https://github.com/ropensci/c14bazAAR/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "5.0.0",
+    "version": "5.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -13315,6 +13315,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
+        "identifier": "yyjsonr",
+        "name": "yyjsonr",
+        "version": ">= 0.1.20",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=yyjsonr"
       },
       "SystemRequirements": null
     },
@@ -29202,7 +29215,7 @@
     "relatedLink": "https://github.com/ropensci/gendercoder",
     "codeRepository": "https://github.com/ropensci/gendercoder",
     "issueTracker": "https://github.com/ropensci/gendercoder/issues",
-    "license": "https://spdx.org/licenses/MIT",
+    "license": "https://spdx.org/licenses/GPL-2.0",
     "version": "0.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
@@ -29936,6 +29949,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -71660,6 +71679,7 @@
         "@type": "SoftwareApplication",
         "identifier": "units",
         "name": "units",
+        "version": ">= 0.8-6",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
