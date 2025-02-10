@@ -29949,12 +29949,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -78051,7 +78045,7 @@
     "codeRepository": "https://github.com/ropensci/tic",
     "issueTracker": "https://github.com/ropensci/tic/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.14.0",
+    "version": "0.14.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -78061,9 +78055,15 @@
     "author": [
       {
         "@type": "Person",
+        "givenName": "Eli",
+        "familyName": "Miller",
+        "email": "eli@eli.dev",
+        "@id": "https://orcid.org/0000-0002-2127-9456"
+      },
+      {
+        "@type": "Person",
         "givenName": "Patrick",
         "familyName": "Schratz",
-        "email": "patrick.schratz@gmail.com",
         "@id": "https://orcid.org/0000-0003-0748-6624"
       },
       {
@@ -78100,10 +78100,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Patrick",
-        "familyName": "Schratz",
-        "email": "patrick.schratz@gmail.com",
-        "@id": "https://orcid.org/0000-0003-0748-6624"
+        "givenName": "Eli",
+        "familyName": "Miller",
+        "email": "eli@eli.dev",
+        "@id": "https://orcid.org/0000-0002-2127-9456"
       }
     ],
     "softwareSuggestions": [

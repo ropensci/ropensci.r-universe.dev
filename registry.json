@@ -2282,15 +2282,15 @@
       "github": "https://github.com/ropensci/getCRUCLdata",
       "status": "https://www.repostatus.org/",
       "onboarding": "https://github.com/ropensci/software-review/issues/96",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-08 12:09:27",
+      "date_last_commit": "2025-02-10 04:51:56",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -5832,7 +5832,7 @@
       "name": "tic",
       "description": "CI-Agnostic Workflow Definitions",
       "details": "Provides a way to describe common build and deployment workflows for R-based projects: packages, websites (e.g. blogdown, pkgdown), or data processing (e.g. research compendia). The recipe is described independent of the continuous integration tool used for processing the workflow (e.g. 'GitHub Actions' or 'Circle CI'). This package has been peer-reviewed by rOpenSci (v0.3.0.9004).",
-      "maintainer": "Patrick Schratz",
+      "maintainer": "Eli Miller",
       "keywords": "appveyor, continuous-integration, deployment, githubactions, travis-ci",
       "github": "https://github.com/ropensci/tic",
       "status": "https://www.repostatus.org#active",
@@ -5843,7 +5843,7 @@
       "url": "https://github.com/ropensci/tic",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:24:10",
+      "date_last_commit": "2025-02-09 17:54:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6263,7 +6263,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:42:28",
+      "date_last_commit": "2025-02-09 16:33:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-09 07:59 UTC"
+  "date": "2025-02-10 07:57 UTC"
 }
