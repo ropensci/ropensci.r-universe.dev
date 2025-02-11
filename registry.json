@@ -241,7 +241,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-03 11:59:58",
+      "date_last_commit": "2025-02-10 11:24:20",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1068,7 +1068,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-06 11:46:56",
+      "date_last_commit": "2025-02-10 20:18:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4743,7 +4743,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 19:39:20",
+      "date_last_commit": "2025-02-10 17:18:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5663,7 +5663,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-06 18:29:55",
+      "date_last_commit": "2025-02-10 15:57:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-10 07:57 UTC"
+  "date": "2025-02-11 07:58 UTC"
 }
