@@ -241,7 +241,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-10 11:24:20",
+      "date_last_commit": "2025-02-11 14:37:07",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -260,7 +260,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 08:11:39",
+      "date_last_commit": "2025-02-11 09:57:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 09:59:31",
+      "date_last_commit": "2025-02-11 10:54:35",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2726,7 +2726,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-27 22:03:32",
+      "date_last_commit": "2025-02-11 13:08:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4743,7 +4743,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-10 17:18:37",
+      "date_last_commit": "2025-02-11 11:51:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6343,7 +6343,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 18:35:19",
+      "date_last_commit": "2025-02-12 00:55:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6443,7 +6443,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-09 05:46:01",
+      "date_last_commit": "2025-02-11 16:56:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-11 07:58 UTC"
+  "date": "2025-02-12 07:56 UTC"
 }
