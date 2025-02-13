@@ -241,7 +241,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-11 14:37:07",
+      "date_last_commit": "2025-02-12 12:48:51",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-11 10:54:35",
+      "date_last_commit": "2025-02-12 13:09:41",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -489,7 +489,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-23 23:39:21",
+      "date_last_commit": "2025-02-12 13:07:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -728,7 +728,7 @@
       "url": "https://github.com/ropensci/BaseSet",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-08 17:08:47",
+      "date_last_commit": "2025-02-12 21:59:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1148,7 +1148,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-20 07:09:58",
+      "date_last_commit": "2025-02-12 13:15:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4092,7 +4092,7 @@
     },
     {
       "name": "quadkeyr",
-      "description": "Tools for converting QuadKey-identified datasets (Microsoft's Bing Maps Tile System) into raster images and analyzing Meta (Facebook) Mobility Data.",
+      "description": "Tools for converting QuadKey-identified datasets (Microsoft's Bing Maps Tile System) into raster images and analyzing Meta (Facebook) Mobility Data",
       "details": "'Quadkeyr' functions generate raster images based on QuadKey-identified data, facilitating efficient integration of Tile Maps data into R workflows. In particular, 'Quadkeyr' provides support to process and analyze Facebook mobility datasets within the R environment.",
       "maintainer": "Florencia D'Andrea",
       "keywords": "geospatial, quadkey, raster, tilemap",
@@ -4105,7 +4105,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-03-21 15:28:11",
+      "date_last_commit": "2025-02-12 20:28:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4191,7 +4191,7 @@
     {
       "name": "rangr",
       "description": "Mechanistic Simulation of Species Range Dynamics",
-      "details": "Species range dynamics simulation toolset.",
+      "details": "The 'rangr' package integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>",
       "maintainer": "Katarzyna Markowska",
       "keywords": "",
       "github": "https://github.com/ropensci/rangr",
@@ -4203,7 +4203,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-03 22:33:32",
+      "date_last_commit": "2025-02-12 22:04:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-12 07:56 UTC"
+  "date": "2025-02-13 08:00 UTC"
 }

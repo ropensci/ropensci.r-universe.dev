@@ -3004,7 +3004,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.110",
+    "version": "0.1.2.111",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4875,7 +4875,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.4",
+    "version": "0.1.1.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7057,7 +7057,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.8",
+    "version": "0.2.2.12",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15263,7 +15263,7 @@
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53652,7 +53652,7 @@
     "@type": "SoftwareSourceCode",
     "identifier": "quadkeyr",
     "description": "'Quadkeyr' functions generate raster images based on QuadKey-identified data, facilitating efficient integration of Tile Maps data into R workflows. In particular, 'Quadkeyr' provides support to process and analyze Facebook mobility datasets within the R environment.",
-    "name": "quadkeyr: Tools for converting QuadKey-identified datasets (Microsoft's Bing Maps Tile System) into raster images and analyzing Meta (Facebook) Mobility Data.",
+    "name": "quadkeyr: Tools for converting QuadKey-identified datasets (Microsoft's Bing Maps Tile System) into raster images and analyzing Meta (Facebook) Mobility Data",
     "relatedLink": ["https://docs.ropensci.org/quadkeyr/", "https://github.com/ropensci/quadkeyr"],
     "codeRepository": "https://github.com/ropensci/quadkeyr",
     "issueTracker": "https://github.com/ropensci/quadkeyr/issues",
@@ -55352,7 +55352,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rangr",
-    "description": "Species range dynamics simulation toolset.",
+    "description": "The 'rangr' package integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>",
     "name": "rangr: Mechanistic Simulation of Species Range Dynamics",
     "relatedLink": ["https://github.com/ropensci/rangr", "https://docs.ropensci.org/rangr/", "https://doi.org/10.1111/2041-210X.14475"],
     "codeRepository": "https://github.com/ropensci/rangr",
