@@ -858,6 +858,11 @@
     "branch": "main"
   },
   {
+    "package": "commonmetar",
+    "url": "https://github.com/ropensci-org/commonmetar/",
+    "branch": "main"
+  },
+  {
     "package": "comtradr",
     "url": "https://github.com/ropensci/comtradr",
     "branch": "main",
