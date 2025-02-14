@@ -241,7 +241,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 12:25:19",
+      "date_last_commit": "2025-02-14 09:05:14",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3625,7 +3625,7 @@
       "url": "https://github.com/ropensci/osmplotr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 08:44:08",
+      "date_last_commit": "2025-02-14 12:36:52",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4743,7 +4743,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 12:00:21",
+      "date_last_commit": "2025-02-14 12:52:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-14 08:05 UTC"
+  "date": "2025-02-14 13:02 UTC"
 }

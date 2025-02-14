@@ -3004,7 +3004,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.113",
+    "version": "0.1.2.115",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -48337,7 +48337,7 @@
     "codeRepository": "https://github.com/ropensci/osmplotr",
     "issueTracker": "https://github.com/ropensci/osmplotr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.5.8",
+    "version": "0.3.5.21",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
