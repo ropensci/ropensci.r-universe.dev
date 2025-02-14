@@ -203,7 +203,7 @@
       "url": "https://github.com/ropensci-org/gitcellar",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:27:11",
+      "date_last_commit": "2025-02-14 05:53:51",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -241,7 +241,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 12:48:51",
+      "date_last_commit": "2025-02-13 12:25:19",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -260,7 +260,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-11 09:57:18",
+      "date_last_commit": "2025-02-13 12:53:03",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -298,7 +298,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 18:10:36",
+      "date_last_commit": "2025-02-13 12:31:48",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 13:09:41",
+      "date_last_commit": "2025-02-13 12:41:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -489,7 +489,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 13:07:23",
+      "date_last_commit": "2025-02-13 12:55:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1148,7 +1148,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 13:15:48",
+      "date_last_commit": "2025-02-13 14:57:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3585,7 +3585,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-12 13:42:49",
+      "date_last_commit": "2025-02-13 11:44:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4105,7 +4105,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 20:28:52",
+      "date_last_commit": "2025-02-13 16:23:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4191,7 +4191,7 @@
     {
       "name": "rangr",
       "description": "Mechanistic Simulation of Species Range Dynamics",
-      "details": "The 'rangr' package integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>",
+      "details": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>.",
       "maintainer": "Katarzyna Markowska",
       "keywords": "",
       "github": "https://github.com/ropensci/rangr",
@@ -4203,7 +4203,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 22:04:09",
+      "date_last_commit": "2025-02-13 11:47:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4743,7 +4743,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-11 11:51:32",
+      "date_last_commit": "2025-02-13 12:00:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5823,7 +5823,7 @@
       "url": "https://github.com/ropensci/textreuse",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-05 15:43:45",
+      "date_last_commit": "2025-02-14 06:53:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6709,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-13 08:00 UTC"
+  "date": "2025-02-14 08:05 UTC"
 }

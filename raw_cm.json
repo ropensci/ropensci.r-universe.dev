@@ -3004,7 +3004,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.111",
+    "version": "0.1.2.113",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3360,7 +3360,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.18",
+    "version": "0.4.3.27",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4156,7 +4156,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.48",
+    "version": "0.2.0.50",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4875,7 +4875,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.5",
+    "version": "0.1.1.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7057,7 +7057,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.12",
+    "version": "0.2.2.13",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15259,7 +15259,7 @@
     "identifier": "chopin",
     "description": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on future and mirai parallel backends, terra and sf functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from `par_pad_*` functions to `par_grid`, `par_hierarchy`, or `par_multirasters` functions. Virtually any functions accepting classes in terra or sf packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function `extract_at`, which uses exactextractr, with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation (`summarize_aw`) and summation of exponentially decaying weights (`summarize_sedc`) are also provided.",
     "name": "chopin: Computation of Spatial Data by Hierarchical and Objective Partitioning of Inputs for Parallel Processing",
-    "relatedLink": ["https://docs.ropensci.org/chopin", "https://github.com/ropensci/chopin"],
+    "relatedLink": ["https://docs.ropensci.org/chopin/", "https://github.com/ropensci/chopin"],
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -47752,7 +47752,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.26",
+    "version": "0.2.5.28",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55352,7 +55352,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rangr",
-    "description": "The 'rangr' package integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>",
+    "description": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>.",
     "name": "rangr: Mechanistic Simulation of Species Range Dynamics",
     "relatedLink": ["https://github.com/ropensci/rangr", "https://docs.ropensci.org/rangr/", "https://doi.org/10.1111/2041-210X.14475"],
     "codeRepository": "https://github.com/ropensci/rangr",
