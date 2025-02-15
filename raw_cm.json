@@ -1534,6 +1534,165 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "commonmetar",
+    "description": "Uses the commonmeta Go library to generate random DOI strings.",
+    "name": "commonmetar: Wraps Commonmeta For rOpenSci Blog's Needs",
+    "relatedLink": ["https://docs.ropensci.org/commonmetar/", "https://github.com/maelle/commonmetar"],
+    "codeRepository": "https://github.com/maelle/commonmetar",
+    "issueTracker": "https://github.com/maelle/commonmetar/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.0.0.9000",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Maëlle",
+        "familyName": "Salmon",
+        "email": "msmaellesalmon@gmail.com",
+        "@id": "https://orcid.org/0000-0002-2815-0399"
+      }
+    ],
+    "funder": [
+      {
+        "@type": "Organization",
+        "name": "rOpenSci"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Maëlle",
+        "familyName": "Salmon",
+        "email": "msmaellesalmon@gmail.com",
+        "@id": "https://orcid.org/0000-0002-2815-0399"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "fs",
+        "name": "fs",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=fs"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "gh",
+        "name": "gh",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gh"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "processx",
+        "name": "processx",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=processx"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rappdirs",
+        "name": "rappdirs",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rappdirs"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "readme": "https://github.com/maelle/commonmetar/blob/HEAD/README.md",
+    "developmentStatus": []
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "credentials",
     "description": "Setup and retrieve HTTPS and SSH credentials for use with 'git' and other services. For HTTPS remotes the package interfaces the 'git-credential' utility which 'git' uses to store HTTP usernames and passwords. For SSH remotes we provide convenient functions to find or generate appropriate SSH keys. The package both helps the user to setup a local git installation, and also provides a back-end for git/ssh client libraries to authenticate with existing user credentials.",
     "name": "credentials: Tools for Managing SSH and Git Credentials",
@@ -55365,6 +55524,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.2 (2024-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -62926,7 +63091,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.15.0",
+    "version": "0.15.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

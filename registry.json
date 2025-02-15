@@ -115,6 +115,23 @@
       "staff_maintained": true
     },
     {
+      "name": "commonmetar",
+      "description": "Wraps Commonmeta For rOpenSci Blog's Needs",
+      "details": "Uses the commonmeta Go library to generate random DOI strings.",
+      "maintainer": "Maëlle Salmon",
+      "keywords": "",
+      "github": "https://github.com/maelle/commonmetar",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/maelle/commonmetar",
+      "date_last_commit": "2025-02-14 14:11:08",
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "credentials",
       "description": "Tools for Managing SSH and Git Credentials",
       "details": "Setup and retrieve HTTPS and SSH credentials for use with 'git' and other services. For HTTPS remotes the package interfaces the 'git-credential' utility which 'git' uses to store HTTP usernames and passwords. For SSH remotes we provide convenient functions to find or generate appropriate SSH keys. The package both helps the user to setup a local git installation, and also provides a back-end for git/ssh client libraries to authenticate with existing user credentials.",
@@ -708,7 +725,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 17:25:15",
+      "date_last_commit": "2025-02-14 20:51:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1068,7 +1085,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-10 20:18:31",
+      "date_last_commit": "2025-02-14 17:33:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1568,7 +1585,7 @@
       "url": "https://github.com/ropensci/DataSpaceR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-06-24 00:46:23",
+      "date_last_commit": "2025-02-15 01:20:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4197,7 +4214,7 @@
       "github": "https://github.com/ropensci/rangr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/595",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rangr",
@@ -4743,7 +4760,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-14 12:52:29",
+      "date_last_commit": "2025-02-15 07:33:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6709,5 +6726,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-14 13:02 UTC"
+  "date": "2025-02-15 08:00 UTC"
 }
