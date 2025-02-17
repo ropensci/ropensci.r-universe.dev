@@ -258,7 +258,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-14 09:05:14",
+      "date_last_commit": "2025-02-16 15:22:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4160,7 +4160,7 @@
       "url": "https://github.com/ropensci/qualR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-19 21:01:48",
+      "date_last_commit": "2025-02-17 00:47:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4240,7 +4240,7 @@
       "url": "https://github.com/ropensci/rb3",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-14 09:29:17",
+      "date_last_commit": "2025-02-16 16:56:58",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6360,7 +6360,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-12 00:55:56",
+      "date_last_commit": "2025-02-17 03:43:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6726,5 +6726,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-16 07:56 UTC"
+  "date": "2025-02-17 07:57 UTC"
 }

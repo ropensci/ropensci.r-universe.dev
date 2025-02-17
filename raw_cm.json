@@ -3163,7 +3163,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.115",
+    "version": "0.1.2.116",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55742,7 +55742,7 @@
     "codeRepository": "https://github.com/ropensci/rb3",
     "issueTracker": "https://github.com/ropensci/rb3/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
