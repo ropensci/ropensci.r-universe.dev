@@ -2196,7 +2196,7 @@
   {
     "package": "pkgreviewr",
     "url": "https://github.com/ropensci-org/pkgreviewr",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "pkgstats",
