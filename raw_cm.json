@@ -1614,6 +1614,18 @@
       },
       "2": {
         "@type": "SoftwareApplication",
+        "identifier": "clipr",
+        "name": "clipr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=clipr"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
         "provider": {
@@ -1624,7 +1636,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
@@ -1636,7 +1648,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=fs"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "gh",
         "name": "gh",
@@ -1648,7 +1660,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=gh"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "processx",
         "name": "processx",
@@ -1660,7 +1672,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=processx"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rappdirs",
         "name": "rappdirs",
@@ -1672,7 +1684,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rappdirs"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -3163,7 +3175,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.116",
+    "version": "0.1.2.119",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5034,7 +5046,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.6",
+    "version": "0.1.1.9",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -9745,7 +9757,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "baRulho",
-    "description": "Intended to facilitate acoustic analysis of (animal) sound transmission experiments, which typically aim to quantify changes in signal structure when transmitted in a given habitat by broadcasting and re-recording animal sounds at increasing distances. The package offers a workflow with functions to prepare the data set for analysis as well as to calculate and visualize several degradation metrics, including blur ratio, signal-to-noise ratio, excess attenuation and envelope correlation among others (Dabelsteen et al 1993 <doi:10.1121/1.406682>).",
+    "description": "Intended to facilitate acoustic analysis of (animal) sound propagation experiments, which typically aim to quantify changes in signal structure when transmitted in a given habitat by broadcasting and re-recording animal sounds at increasing distances. The package offers a workflow with functions to prepare the data set for analysis as well as to calculate and visualize several degradation metrics, including blur ratio, signal-to-noise ratio, excess attenuation and envelope correlation among others (Dabelsteen et al 1993 <doi:10.1121/1.406682>).",
     "name": "baRulho: Quantifying (Animal) Sound Degradation  ",
     "relatedLink": ["https://github.com/ropensci/baRulho", "https://docs.ropensci.org/baRulho/"],
     "codeRepository": "https://github.com/ropensci/baRulho",
@@ -10116,7 +10128,7 @@
     "codeRepository": "https://github.com/ropensci/BaseSet",
     "issueTracker": "https://github.com/ropensci/BaseSet/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.0.9002",
+    "version": "1.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -10287,7 +10299,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.0.0"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -10304,22 +10316,10 @@
       },
       "3": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -10331,7 +10331,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
@@ -63273,7 +63273,8 @@
       "url": "https://github.com/ropensci/software-review/issues/625",
       "provider": "https://ropensci.org"
     },
-    "developmentStatus": []
+    "developmentStatus": [],
+    "keywords": ["nix", "peer-reviewed", "reproducibility", "reproducible-research"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
