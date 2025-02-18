@@ -506,7 +506,7 @@
   {
     "package": "babette",
     "url": "https://github.com/ropensci/babette",
-    "branch": "master",
+    "branch": "main",
     "metadata": {
       "review": {
         "id": 209,
@@ -520,7 +520,7 @@
   {
     "package": "beastier",
     "url": "https://github.com/ropensci/beastier",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "beautier",
@@ -1674,7 +1674,7 @@
   {
     "package": "mauricer",
     "url": "https://github.com/ropensci/mauricer",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "mcbette",
@@ -3250,7 +3250,7 @@
   {
     "package": "tracerer",
     "url": "https://github.com/ropensci/tracerer",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "tradestatistics",
