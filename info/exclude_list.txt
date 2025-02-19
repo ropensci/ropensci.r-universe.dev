@@ -14,6 +14,7 @@ buffy
 buffy-api
 cchecksapi
 champions-program
+ChampionsProgram
 champions-program-playbook
 cheatsheets
 citation_tracking
@@ -62,7 +63,6 @@ lumier
 madewithr
 miner
 miner_book
-MODISTools
 neurobio
 nneo
 notary-repos
@@ -233,3 +233,4 @@ testprivate
 ropensci.github.io
 censo2017-cartografias
 climatrends
+starchart

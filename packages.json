@@ -2,87 +2,254 @@
   {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
-    "branch": "master"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 359,
+        "status": "reviewed",
+        "version": "0.0.10",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/359"
+      }
+    }
   },
   {
     "package": "CRediTas",
     "url": "https://github.com/ropensci/CRediTas",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 576,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/576"
+      }
+    }
   },
   {
     "package": "CoordinateCleaner",
     "url": "https://github.com/ropensci/CoordinateCleaner",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 210,
+        "status": "reviewed",
+        "version": "1.1-0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/210"
+      }
+    }
   },
   {
     "package": "DataPackageR",
     "url": "https://github.com/ropensci/DataPackageR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 230,
+        "status": "reviewed",
+        "version": "0.13.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/230"
+      }
+    }
   },
   {
     "package": "DataSpaceR",
     "url": "https://github.com/ropensci/DataSpaceR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 261,
+        "status": "reviewed",
+        "version": "0.5.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/261"
+      }
+    }
   },
   {
     "package": "DoOR.data",
     "url": "https://github.com/ropensci/DoOR.data",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 35,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/35"
+      }
+    }
   },
   {
     "package": "DoOR.functions",
     "url": "https://github.com/ropensci/DoOR.functions",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 34,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/34"
+      }
+    }
   },
   {
     "package": "EDIutils",
     "url": "https://github.com/ropensci/EDIutils",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 498,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/498"
+      }
+    }
   },
   {
     "package": "EML",
     "url": "https://github.com/ropensci/EML",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 80,
+        "status": "pending",
+        "version": "1.0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/80"
+      }
+    }
   },
   {
     "package": "EndoMineR",
     "url": "https://github.com/ropensci/EndoMineR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 153,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/153"
+      }
+    }
   },
   {
     "package": "FedData",
     "url": "https://github.com/ropensci/FedData",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 13,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/13"
+      }
+    }
   },
   {
     "package": "GLMMcosinor",
     "url": "https://github.com/ropensci/GLMMcosinor",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 603,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/603"
+      }
+    }
   },
   {
     "package": "GSODR",
     "url": "https://github.com/ropensci/GSODR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 79,
+        "status": "reviewed",
+        "version": "0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/79"
+      }
+    }
   },
   {
     "package": "MODIStsp",
     "url": "https://github.com/ropensci/MODIStsp",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 184,
+        "status": "reviewed",
+        "version": "1.3.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/184"
+      }
+    }
   },
   {
     "package": "MtreeRing",
     "url": "https://github.com/ropensci/MtreeRing",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 287,
+        "status": "reviewed",
+        "version": "1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/287"
+      }
+    }
   },
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 188,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/188"
+      }
+    }
   },
   {
     "package": "PostcodesioR",
     "url": "https://github.com/ropensci/PostcodesioR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 176,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/176"
+      }
+    }
+  },
+  {
+    "package": "QuadratiK",
+    "url": "https://github.com/ropensci/QuadratiK",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 632,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/632"
+      }
+    }
   },
   {
     "package": "RNeXML",
@@ -102,22 +269,58 @@
   {
     "package": "RefManageR",
     "url": "https://github.com/ropensci/RefManageR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 119,
+        "status": "reviewed",
+        "version": "0.14.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/119"
+      }
+    }
   },
   {
     "package": "Rpolyhedra",
     "url": "https://github.com/ropensci/Rpolyhedra",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 157,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/157"
+      }
+    }
   },
   {
     "package": "SymbiotaR2",
     "url": "https://github.com/ropensci/SymbiotaR2",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 373,
+        "status": "reviewed",
+        "version": "0.0-1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/373"
+      }
+    }
   },
   {
     "package": "UCSCXenaTools",
     "url": "https://github.com/ropensci/UCSCXenaTools",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 315,
+        "status": "reviewed",
+        "version": "1.2.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/315"
+      }
+    }
   },
   {
     "package": "USAboundaries",
@@ -135,19 +338,47 @@
     "branch": "master"
   },
   {
+    "package": "aeolus",
+    "url": "https://github.com/ropenscilabs/aeolus",
+    "branch": "main"
+  },
+  {
+    "package": "agroclimatico",
+    "url": "https://github.com/ropensci/agroclimatico",
+    "branch": "master"
+  },
+  {
     "package": "allcontributors",
-    "url": "https://github.com/ropenscilabs/allcontributors",
+    "url": "https://github.com/ropensci/allcontributors",
     "branch": "main"
   },
   {
     "package": "allodb",
     "url": "https://github.com/ropensci/allodb",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 436,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/436"
+      }
+    }
   },
   {
     "package": "antanym",
     "url": "https://github.com/ropensci/antanym",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 198,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/198"
+      }
+    }
   },
   {
     "package": "antiword",
@@ -157,22 +388,58 @@
   {
     "package": "aorsf",
     "url": "https://github.com/ropensci/aorsf",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 532,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/532"
+      }
+    }
   },
   {
     "package": "arkdb",
     "url": "https://github.com/ropensci/arkdb",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 224,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/224"
+      }
+    }
   },
   {
     "package": "assertr",
     "url": "https://github.com/tonyfischetti/assertr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 23,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/23"
+      }
+    }
   },
   {
     "package": "auk",
     "url": "https://github.com/CornellLabofOrnithology/auk",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 136,
+        "status": "reviewed",
+        "version": "0.0.2.900",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/136"
+      }
+    }
   },
   {
     "package": "autotest",
@@ -187,17 +454,44 @@
   {
     "package": "awardFindR",
     "url": "https://github.com/ropensci/awardFindR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 432,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/432"
+      }
+    }
   },
   {
     "package": "baRcodeR",
     "url": "https://github.com/ropensci/baRcodeR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 338,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/338"
+      }
+    }
   },
   {
     "package": "baRulho",
     "url": "https://github.com/ropensci/baRulho",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 609,
+        "status": "reviewed",
+        "version": "2.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/609"
+      }
+    }
   },
   {
     "package": "babeldown",
@@ -212,22 +506,40 @@
   {
     "package": "babette",
     "url": "https://github.com/ropensci/babette",
-    "branch": "master"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 209,
+        "status": "reviewed",
+        "version": "1.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/209"
+      }
+    }
   },
   {
     "package": "beastier",
     "url": "https://github.com/ropensci/beastier",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "beautier",
     "url": "https://github.com/ropensci/beautier",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "bib2df",
     "url": "https://github.com/ropensci/bib2df",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 124,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/124"
+      }
+    }
   },
   {
     "package": "bibtex",
@@ -237,7 +549,16 @@
   {
     "package": "bikedata",
     "url": "https://github.com/ropensci/bikedata",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 116,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/116"
+      }
+    }
   },
   {
     "package": "binman",
@@ -247,12 +568,30 @@
   {
     "package": "biomartr",
     "url": "https://github.com/ropensci/biomartr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 93,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/93"
+      }
+    }
   },
   {
     "package": "birdsize",
     "url": "https://github.com/ropensci/birdsize",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 577,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/577"
+      }
+    }
   },
   {
     "package": "bold",
@@ -262,7 +601,16 @@
   {
     "package": "bowerbird",
     "url": "https://github.com/ropensci/bowerbird",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 139,
+        "status": "reviewed",
+        "version": "0.3.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/139"
+      }
+    }
   },
   {
     "package": "brranching",
@@ -272,52 +620,156 @@
   {
     "package": "c14bazAAR",
     "url": "https://github.com/ropensci/c14bazAAR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 333,
+        "status": "reviewed",
+        "version": "1.0.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/333"
+      }
+    }
   },
   {
     "package": "cRegulome",
     "url": "https://github.com/ropensci/cRegulome",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 149,
+        "status": "reviewed",
+        "version": "0.99.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/149"
+      }
+    }
   },
   {
     "package": "camsRad",
     "url": "https://github.com/ropensci/camsRad",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 72,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/72"
+      }
+    }
   },
   {
     "package": "canaper",
     "url": "https://github.com/ropensci/canaper",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 475,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/475"
+      }
+    }
   },
   {
     "package": "cde",
     "url": "https://github.com/ropensci/cde",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 284,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/284"
+      }
+    }
   },
   {
     "package": "censo2017",
     "url": "https://github.com/ropensci/censo2017",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 414,
+        "status": "reviewed",
+        "version": "0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/414"
+      }
+    }
   },
   {
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 463,
+        "status": "reviewed",
+        "version": "0.0.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/463"
+      }
+    }
   },
   {
     "package": "charlatan",
     "url": "https://github.com/ropensci/charlatan",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 94,
+        "status": "reviewed",
+        "version": "0.0.6.9560",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/94"
+      }
+    }
   },
   {
     "package": "chirps",
     "url": "https://github.com/ropensci/chirps",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 357,
+        "status": "reviewed",
+        "version": "0.0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/357"
+      }
+    }
   },
   {
     "package": "chlorpromazineR",
     "url": "https://github.com/ropensci/chlorpromazineR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 307,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/307"
+      }
+    }
+  },
+  {
+    "package": "chopin",
+    "url": "https://github.com/ropensci/chopin",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 638,
+        "status": "reviewed",
+        "version": "0.6.2.20240423",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/638"
+      }
+    }
   },
   {
     "package": "chromer",
@@ -327,7 +779,16 @@
   {
     "package": "circle",
     "url": "https://github.com/ropensci/circle",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 356,
+        "status": "reviewed",
+        "version": "0.7.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/356"
+      }
+    }
   },
   {
     "package": "citecorp",
@@ -350,24 +811,46 @@
     "branch": "master"
   },
   {
-    "package": "clifro",
-    "url": "https://github.com/ropensci/clifro",
-    "branch": "master"
-  },
-  {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 130,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/130"
+      }
+    }
   },
   {
     "package": "coder",
     "url": "https://github.com/ropensci/coder",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 381,
+        "status": "reviewed",
+        "version": "0.11.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/381"
+      }
+    }
   },
   {
     "package": "colocr",
     "url": "https://github.com/ropensci/colocr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 243,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/243"
+      }
+    }
   },
   {
     "package": "commonmark",
@@ -375,14 +858,37 @@
     "branch": "main"
   },
   {
+    "package": "commonmetar",
+    "url": "https://github.com/ropensci-org/commonmetar/",
+    "branch": "main"
+  },
+  {
     "package": "comtradr",
     "url": "https://github.com/ropensci/comtradr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 613,
+        "status": "reviewed",
+        "version": "0.4.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/613"
+      }
+    }
   },
   {
     "package": "concstats",
     "url": "https://github.com/ropensci/concstats",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 559,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/559"
+      }
+    }
   },
   {
     "package": "credentials",
@@ -397,17 +903,44 @@
   {
     "package": "cyphr",
     "url": "https://github.com/ropensci/cyphr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 114,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/114"
+      }
+    }
   },
   {
     "package": "daiquiri",
     "url": "https://github.com/ropensci/daiquiri",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 535,
+        "status": "reviewed",
+        "version": "0.7.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/535"
+      }
+    }
   },
   {
     "package": "dataaimsr",
     "url": "https://github.com/ropensci/dataaimsr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 428,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/428"
+      }
+    }
   },
   {
     "package": "datapack",
@@ -417,22 +950,58 @@
   {
     "package": "dataspice",
     "url": "https://github.com/ropensci/dataspice",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 426,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/426"
+      }
+    }
   },
   {
     "package": "datefixR",
     "url": "https://github.com/ropensci/datefixR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 533,
+        "status": "reviewed",
+        "version": "0.1.4.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/533"
+      }
+    }
   },
   {
     "package": "dbparser",
     "url": "https://github.com/ropensci/dbparser",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 347,
+        "status": "reviewed",
+        "version": "1.0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/347"
+      }
+    }
   },
   {
     "package": "dendroNetwork",
     "url": "https://github.com/ropensci/dendroNetwork",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 627,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/627"
+      }
+    }
   },
   {
     "package": "deposits",
@@ -442,32 +1011,86 @@
   {
     "package": "dittodb",
     "url": "https://github.com/ropensci/dittodb",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 366,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/366"
+      }
+    }
   },
   {
     "package": "drake",
     "url": "https://github.com/ropensci/drake",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 156,
+        "status": "reviewed",
+        "version": "4.4.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/156"
+      }
+    }
   },
   {
     "package": "dwctaxon",
     "url": "https://github.com/ropensci/dwctaxon",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 574,
+        "status": "reviewed",
+        "version": "1.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/574"
+      }
+    }
   },
   {
     "package": "dynamite",
     "url": "https://github.com/ropensci/dynamite",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 554,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/554"
+      }
+    }
   },
   {
     "package": "eDNAjoint",
     "url": "https://github.com/ropensci/eDNAjoint",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 642,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/642"
+      }
+    }
   },
   {
     "package": "eia",
     "url": "https://github.com/ropensci/eia",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 342,
+        "status": "reviewed",
+        "version": "0.3.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/342"
+      }
+    }
   },
   {
     "package": "elastic",
@@ -477,22 +1100,72 @@
   {
     "package": "emld",
     "url": "https://github.com/ropensci/emld",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 269,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/269"
+      }
+    }
+  },
+  {
+    "package": "emodnet.wfs",
+    "url": "https://github.com/EMODnet/emodnet.wfs/",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 653,
+        "status": "reviewed",
+        "version": "2.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/653"
+      }
+    }
   },
   {
     "package": "epair",
     "url": "https://github.com/ropensci/epair",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 418,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/418"
+      }
+    }
   },
   {
     "package": "eph",
     "url": "https://github.com/ropensci/eph",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 593,
+        "status": "reviewed",
+        "version": "0.6.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/593"
+      }
+    }
   },
   {
     "package": "epubr",
     "url": "https://github.com/ropensci/epubr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 222,
+        "status": "reviewed",
+        "version": "0.4.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/222"
+      }
+    }
   },
   {
     "package": "essurvey",
@@ -507,22 +1180,58 @@
   {
     "package": "excluder",
     "url": "https://github.com/ropensci/excluder",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 455,
+        "status": "reviewed",
+        "version": "0.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/455"
+      }
+    }
   },
   {
     "package": "exoplanets",
     "url": "https://github.com/ropensci/exoplanets",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 309,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/309"
+      }
+    }
   },
   {
     "package": "ezknitr",
     "url": "https://github.com/ropensci/ezknitr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 56,
+        "status": "reviewed",
+        "version": "0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/56"
+      }
+    }
   },
   {
     "package": "fastMatMR",
     "url": "https://github.com/ropensci/fastMatMR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 606,
+        "status": "reviewed",
+        "version": "1.0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/606"
+      }
+    }
   },
   {
     "package": "fellingdater",
@@ -532,7 +1241,16 @@
   {
     "package": "fingertipsR",
     "url": "https://github.com/ropensci/fingertipsR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 168,
+        "status": "reviewed",
+        "version": "0.1.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/168"
+      }
+    }
   },
   {
     "package": "fluidsynth",
@@ -542,17 +1260,44 @@
   {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 495,
+        "status": "reviewed",
+        "version": "0.9.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/495"
+      }
+    }
   },
   {
     "package": "gbifdb",
     "url": "https://github.com/ropensci/gbifdb",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 492,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/492"
+      }
+    }
   },
   {
     "package": "gendercoder",
     "url": "https://github.com/ropensci/gendercoder",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 435,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/435"
+      }
+    }
   },
   {
     "package": "geojson",
@@ -577,12 +1322,35 @@
   {
     "package": "getCRUCLdata",
     "url": "https://github.com/ropensci/getCRUCLdata",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 96,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/96"
+      }
+    }
   },
   {
     "package": "ghql",
     "url": "https://github.com/ropensci/ghql",
     "branch": "master"
+  },
+  {
+    "package": "gigs",
+    "url": "https://github.com/ropensci/gigs",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 626,
+        "status": "reviewed",
+        "version": "0.4.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/626"
+      }
+    }
   },
   {
     "package": "gistr",
@@ -597,7 +1365,16 @@
   {
     "package": "git2rdata",
     "url": "https://github.com/ropensci/git2rdata",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 263,
+        "status": "reviewed",
+        "version": "0.0.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/263"
+      }
+    }
   },
   {
     "package": "gitcellar",
@@ -607,12 +1384,30 @@
   {
     "package": "gitignore",
     "url": "https://github.com/ropensci/gitignore",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 303,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/303"
+      }
+    }
   },
   {
     "package": "gittargets",
     "url": "https://github.com/ropensci/gittargets",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 486,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/486"
+      }
+    }
   },
   {
     "package": "goodpractice",
@@ -622,12 +1417,30 @@
   {
     "package": "googleLanguageR",
     "url": "https://github.com/ropensci/googleLanguageR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 127,
+        "status": "reviewed",
+        "version": {},
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/127"
+      }
+    }
   },
   {
     "package": "grainchanger",
     "url": "https://github.com/ropensci/grainchanger",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 289,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/289"
+      }
+    }
   },
   {
     "package": "graphql",
@@ -637,7 +1450,16 @@
   {
     "package": "gutenbergr",
     "url": "https://github.com/ropensci/gutenbergr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 41,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/41"
+      }
+    }
   },
   {
     "package": "handlr",
@@ -647,7 +1469,16 @@
   {
     "package": "hddtools",
     "url": "https://github.com/ropensci/hddtools",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 73,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/73"
+      }
+    }
   },
   {
     "package": "helminthR",
@@ -672,7 +1503,16 @@
   {
     "package": "hydroscoper",
     "url": "https://github.com/ropensci/hydroscoper",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 185,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/185"
+      }
+    }
   },
   {
     "package": "icepalace",
@@ -682,12 +1522,30 @@
   {
     "package": "iheatmapr",
     "url": "https://github.com/ropensci/iheatmapr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 107,
+        "status": "reviewed",
+        "version": "0.2.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/107"
+      }
+    }
   },
   {
     "package": "ijtiff",
     "url": "https://github.com/ropensci/ijtiff",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 164,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/164"
+      }
+    }
   },
   {
     "package": "internetarchive",
@@ -697,7 +1555,16 @@
   {
     "package": "jagstargets",
     "url": "https://github.com/ropensci/jagstargets",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 425,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/425"
+      }
+    }
   },
   {
     "package": "jenkins",
@@ -722,12 +1589,30 @@
   {
     "package": "jstor",
     "url": "https://github.com/ropensci/jstor",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 189,
+        "status": "reviewed",
+        "version": "0.2.6",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/189"
+      }
+    }
   },
   {
     "package": "karel",
     "url": "https://github.com/ropensci/karel",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 620,
+        "status": "reviewed",
+        "version": "0.1.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/620"
+      }
+    }
   },
   {
     "package": "katex",
@@ -742,12 +1627,30 @@
   {
     "package": "lightr",
     "url": "https://github.com/ropensci/lightr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 267,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/267"
+      }
+    }
   },
   {
     "package": "lingtypology",
     "url": "https://github.com/ropensci/lingtypology",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 95,
+        "status": "reviewed",
+        "version": "1.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/95"
+      }
+    }
   },
   {
     "package": "magick",
@@ -757,47 +1660,119 @@
   {
     "package": "mapscanner",
     "url": "https://github.com/ropensci/mapscanner",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 330,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/330"
+      }
+    }
   },
   {
     "package": "mauricer",
     "url": "https://github.com/ropensci/mauricer",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "mcbette",
     "url": "https://github.com/ropensci/mcbette",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 360,
+        "status": "reviewed",
+        "version": "1.8.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/360"
+      }
+    }
   },
   {
     "package": "mctq",
     "url": "https://github.com/ropensci/mctq",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 434,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/434"
+      }
+    }
   },
   {
     "package": "medrxivr",
     "url": "https://github.com/ropensci/medrxivr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 380,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/380"
+      }
+    }
   },
   {
     "package": "melt",
     "url": "https://github.com/ropensci/melt",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 550,
+        "status": "reviewed",
+        "version": "1.6.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/550"
+      }
+    }
   },
   {
     "package": "mregions2",
     "url": "https://github.com/ropensci/mregions2",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 590,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/590"
+      }
+    }
   },
   {
     "package": "naijR",
     "url": "https://github.com/ropensci/naijR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 600,
+        "status": "reviewed",
+        "version": "0.6.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/600"
+      }
+    }
   },
   {
     "package": "nasapower",
     "url": "https://github.com/ropensci/nasapower",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 155,
+        "status": "reviewed",
+        "version": "1.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/155"
+      }
+    }
   },
   {
     "package": "natserv",
@@ -812,7 +1787,16 @@
   {
     "package": "nlrx",
     "url": "https://github.com/ropensci/nlrx",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 262,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/262"
+      }
+    }
   },
   {
     "package": "nodbi",
@@ -822,32 +1806,86 @@
   {
     "package": "nomisr",
     "url": "https://github.com/ropensci/nomisr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 190,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/190"
+      }
+    }
   },
   {
     "package": "npi",
     "url": "https://github.com/ropensci/npi",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 505,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/505"
+      }
+    }
   },
   {
     "package": "nuts",
     "url": "https://github.com/ropensci/nuts",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 623,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/623"
+      }
+    }
   },
   {
     "package": "oai",
     "url": "https://github.com/ropensci/oai",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 19,
+        "status": "reviewed",
+        "version": "0.0.5.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/19"
+      }
+    }
   },
   {
     "package": "occCite",
     "url": "https://github.com/ropensci/occCite",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 407,
+        "status": "reviewed",
+        "version": "0.4.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/407"
+      }
+    }
   },
   {
     "package": "ohun",
     "url": "https://github.com/ropensci/ohun",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 568,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/568"
+      }
+    }
   },
   {
     "package": "onekp",
@@ -857,12 +1895,30 @@
   {
     "package": "openalexR",
     "url": "https://github.com/ropensci/openalexR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 560,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/560"
+      }
+    }
   },
   {
     "package": "opencage",
     "url": "https://github.com/ropensci/opencage",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 36,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/36"
+      }
+    }
   },
   {
     "package": "opencv",
@@ -872,37 +1928,100 @@
   {
     "package": "opentripplanner",
     "url": "https://github.com/ropensci/opentripplanner",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 295,
+        "status": "reviewed",
+        "version": "0.1.0.0000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/295"
+      }
+    }
   },
   {
     "package": "osfr",
     "url": "https://github.com/ropensci/osfr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 279,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/279"
+      }
+    }
   },
   {
     "package": "osmapiR",
     "url": "https://github.com/ropensci/osmapiR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 633,
+        "status": "reviewed",
+        "version": "0.0.0.22",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/633"
+      }
+    }
   },
   {
     "package": "osmdata",
     "url": "https://github.com/ropensci/osmdata",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 103,
+        "status": "reviewed",
+        "version": "0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/103"
+      }
+    }
   },
   {
     "package": "osmextract",
     "url": "https://github.com/ropensci/osmextract",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 395,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/395"
+      }
+    }
   },
   {
     "package": "osmplotr",
     "url": "https://github.com/ropensci/osmplotr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 27,
+        "status": "reviewed",
+        "version": "0.1-2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/27"
+      }
+    }
   },
   {
     "package": "outcomerate",
     "url": "https://github.com/ropensci/outcomerate",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 213,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/213"
+      }
+    }
   },
   {
     "package": "paleobioDB",
@@ -917,12 +2036,30 @@
   {
     "package": "parzer",
     "url": "https://github.com/ropensci/parzer",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 341,
+        "status": "reviewed",
+        "version": "0.0.4.9110",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/341"
+      }
+    }
   },
   {
     "package": "patentsview",
     "url": "https://github.com/ropensci/patentsview",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 112,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/112"
+      }
+    }
   },
   {
     "package": "pathviewr",
@@ -937,17 +2074,44 @@
   {
     "package": "phonfieldwork",
     "url": "https://github.com/ropensci/phonfieldwork",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 385,
+        "status": "reviewed",
+        "version": "0.0.8",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/385"
+      }
+    }
   },
   {
     "package": "photosearcher",
     "url": "https://github.com/ropensci/photosearcher",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 325,
+        "status": "reviewed",
+        "version": "1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/325"
+      }
+    }
   },
   {
     "package": "phruta",
     "url": "https://github.com/ropensci/phruta",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 458,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/458"
+      }
+    }
   },
   {
     "package": "phylocomr",
@@ -957,22 +2121,58 @@
   {
     "package": "phylogram",
     "url": "https://github.com/ropensci/phylogram",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 212,
+        "status": "reviewed",
+        "version": "2.0.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/212"
+      }
+    }
   },
   {
     "package": "phylotaR",
     "url": "https://github.com/ropensci/phylotaR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 187,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/187"
+      }
+    }
   },
   {
     "package": "piggyback",
     "url": "https://github.com/ropensci/piggyback",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 220,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/220"
+      }
+    }
   },
   {
     "package": "pixelclasser",
     "url": "https://github.com/ropensci/pixelclasser",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 406,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/406"
+      }
+    }
   },
   {
     "package": "pkgcheck",
@@ -980,9 +2180,23 @@
     "branch": "main"
   },
   {
+    "package": "pkgmatch",
+    "url": "https://github.com/ropensci-review-tools/pkgmatch",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 671,
+        "status": "pending",
+        "version": "0.4.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/671"
+      }
+    }
+  },
+  {
     "package": "pkgreviewr",
     "url": "https://github.com/ropensci-org/pkgreviewr",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "pkgstats",
@@ -997,7 +2211,16 @@
   {
     "package": "popler",
     "url": "https://github.com/ropensci/popler",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 254,
+        "status": "reviewed",
+        "version": "0.0.0.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/254"
+      }
+    }
   },
   {
     "package": "postdoc",
@@ -1007,7 +2230,16 @@
   {
     "package": "predictNMB",
     "url": "https://github.com/ropensci/predictNMB",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 566,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/566"
+      }
+    }
   },
   {
     "package": "prism",
@@ -1032,17 +2264,44 @@
   {
     "package": "quadkeyr",
     "url": "https://github.com/ropensci/quadkeyr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 619,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/619"
+      }
+    }
   },
   {
     "package": "qualR",
     "url": "https://github.com/ropensci/qualR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 474,
+        "status": "reviewed",
+        "version": "0.9.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/474"
+      }
+    }
   },
   {
     "package": "qualtRics",
     "url": "https://github.com/ropensci/qualtRics",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 192,
+        "status": "reviewed",
+        "version": "3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/192"
+      }
+    }
   },
   {
     "package": "quartificate",
@@ -1057,27 +2316,72 @@
   {
     "package": "rOPTRAM",
     "url": "https://github.com/ropensci/rOPTRAM",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 612,
+        "status": "reviewed",
+        "version": "0.0.1.000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/612"
+      }
+    }
   },
   {
     "package": "ramlegacy",
     "url": "https://github.com/ropensci/ramlegacy",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 264,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/264"
+      }
+    }
   },
   {
     "package": "rangr",
     "url": "https://github.com/ropensci/rangr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 595,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/595"
+      }
+    }
   },
   {
     "package": "rb3",
     "url": "https://github.com/ropensci/rb3",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 534,
+        "status": "reviewed",
+        "version": "0.0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/534"
+      }
+    }
   },
   {
     "package": "rcites",
     "url": "https://github.com/ropensci/rcites",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 244,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/244"
+      }
+    }
   },
   {
     "package": "rcrossref",
@@ -1095,19 +2399,32 @@
     "branch": "main"
   },
   {
-    "package": "rdefra",
-    "url": "https://github.com/ropensci/rdefra",
-    "branch": "master"
-  },
-  {
     "package": "rdflib",
     "url": "https://github.com/ropensci/rdflib",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 169,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/169"
+      }
+    }
   },
   {
     "package": "rdhs",
     "url": "https://github.com/ropensci/rdhs",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 238,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/238"
+      }
+    }
   },
   {
     "package": "rdryad",
@@ -1117,12 +2434,21 @@
   {
     "package": "readODS",
     "url": "https://github.com/ropensci/readODS",
-    "branch": "v2.3"
+    "branch": "v2.4",
+    "metadata": {
+      "review": {
+        "id": 386,
+        "status": "reviewed",
+        "version": "1.7.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/386"
+      }
+    }
   },
   {
     "package": "rebird",
     "url": "https://github.com/ropensci/rebird",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "redland",
@@ -1148,17 +2474,44 @@
   {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 232,
+        "status": "reviewed",
+        "version": "0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/232"
+      }
+    }
   },
   {
     "package": "rfema",
     "url": "https://github.com/ropensci/rfema",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 484,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/484"
+      }
+    }
   },
   {
     "package": "rfishbase",
     "url": "https://github.com/ropensci/rfishbase",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 137,
+        "status": "reviewed",
+        "version": "2.1.2.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/137"
+      }
+    }
   },
   {
     "package": "rfisheries",
@@ -1188,7 +2541,16 @@
   {
     "package": "riem",
     "url": "https://github.com/ropensci/riem",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 39,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/39"
+      }
+    }
   },
   {
     "package": "rinat",
@@ -1203,22 +2565,58 @@
   {
     "package": "rix",
     "url": "https://github.com/ropensci/rix",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 625,
+        "status": "reviewed",
+        "version": "0.6.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/625"
+      }
+    }
   },
   {
     "package": "rmangal",
     "url": "https://github.com/ropensci/rmangal",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 332,
+        "status": "reviewed",
+        "version": "1.9.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/332"
+      }
+    }
   },
   {
     "package": "rnassqs",
     "url": "https://github.com/ropensci/rnassqs",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 298,
+        "status": "reviewed",
+        "version": "0.4.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/298"
+      }
+    }
   },
   {
     "package": "rnaturalearth",
     "url": "https://github.com/ropensci/rnaturalearth",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 22,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/22"
+      }
+    }
   },
   {
     "package": "rnaturalearthdata",
@@ -1238,7 +2636,16 @@
   {
     "package": "roadoi",
     "url": "https://github.com/ropensci/roadoi",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 115,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/115"
+      }
+    }
   },
   {
     "package": "roblog",
@@ -1248,7 +2655,16 @@
   {
     "package": "robotstxt",
     "url": "https://github.com/ropensci/robotstxt",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 25,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/25"
+      }
+    }
   },
   {
     "package": "roreviewapi",
@@ -1263,32 +2679,86 @@
   {
     "package": "rotl",
     "url": "https://github.com/ropensci/rotl",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 17,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/17"
+      }
+    }
   },
   {
     "package": "rperseus",
     "url": "https://github.com/ropensci/rperseus",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 145,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/145"
+      }
+    }
   },
   {
     "package": "rppo",
     "url": "https://github.com/ropensci/rppo",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 207,
+        "status": "reviewed",
+        "version": "1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/207"
+      }
+    }
   },
   {
     "package": "rredlist",
     "url": "https://github.com/ropensci/rredlist",
-    "branch": "master"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 663,
+        "status": "reviewed",
+        "version": "0.7.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/663"
+      }
+    }
   },
   {
     "package": "rrlite",
     "url": "https://github.com/ropensci/rrlite",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 6,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/6"
+      }
+    }
   },
   {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 118,
+        "status": "reviewed",
+        "version": "0.1.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/118"
+      }
+    }
   },
   {
     "package": "rrricanesdata",
@@ -1298,12 +2768,30 @@
   {
     "package": "rsat",
     "url": "https://github.com/ropensci/rsat",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 437,
+        "status": "reviewed",
+        "version": "0.1.14",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/437"
+      }
+    }
   },
   {
     "package": "rsi",
     "url": "https://github.com/Permian-Global-Research/rsi/",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 636,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/636"
+      }
+    }
   },
   {
     "package": "rsnps",
@@ -1318,22 +2806,44 @@
   {
     "package": "rtika",
     "url": "https://github.com/ropensci/rtika",
-    "branch": "master"
-  },
-  {
-    "package": "rtweet",
-    "url": "https://github.com/ropensci/rtweet",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 191,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/191"
+      }
+    }
   },
   {
     "package": "ruODK",
     "url": "https://github.com/ropensci/ruODK",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 335,
+        "status": "reviewed",
+        "version": "0.6.6.9025",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/335"
+      }
+    }
   },
   {
     "package": "rusda",
     "url": "https://github.com/ropensci/rusda",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 18,
+        "status": "reviewed",
+        "version": "1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/18"
+      }
+    }
   },
   {
     "package": "rvertnet",
@@ -1348,22 +2858,58 @@
   {
     "package": "skimr",
     "url": "https://github.com/ropensci/skimr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 175,
+        "status": "reviewed",
+        "version": "0.9.92",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/175"
+      }
+    }
   },
   {
     "package": "skynet",
     "url": "https://github.com/ropensci/skynet",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 214,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/214"
+      }
+    }
   },
   {
     "package": "slopes",
     "url": "https://github.com/ropensci/slopes",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 420,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/420"
+      }
+    }
   },
   {
     "package": "smapr",
     "url": "https://github.com/ropensci/smapr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 231,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/231"
+      }
+    }
   },
   {
     "package": "sodium",
@@ -1378,7 +2924,16 @@
   {
     "package": "spatsoc",
     "url": "https://github.com/ropensci/spatsoc",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 237,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/237"
+      }
+    }
   },
   {
     "package": "spelling",
@@ -1388,7 +2943,16 @@
   {
     "package": "spiro",
     "url": "https://github.com/ropensci/spiro",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 541,
+        "status": "reviewed",
+        "version": "0.0.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/541"
+      }
+    }
   },
   {
     "package": "spocc",
@@ -1408,27 +2972,58 @@
   {
     "package": "stantargets",
     "url": "https://github.com/ropensci/stantargets",
-    "branch": "main"
-  },
-  {
-    "package": "starchart",
-    "url": "https://github.com/ropenscilabs/starchart",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 430,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/430"
+      }
+    }
   },
   {
     "package": "stats19",
     "url": "https://github.com/ropensci/stats19",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 266,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/266"
+      }
+    }
   },
   {
     "package": "stplanr",
     "url": "https://github.com/ropensci/stplanr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 10,
+        "status": "reviewed",
+        "version": "0.0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/10"
+      }
+    }
   },
   {
     "package": "suppdata",
     "url": "https://github.com/ropensci/suppdata",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 195,
+        "status": "reviewed",
+        "version": "0.9-0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/195"
+      }
+    }
   },
   {
     "package": "tabulapdf",
@@ -1438,7 +3033,16 @@
   {
     "package": "tacmagic",
     "url": "https://github.com/ropensci/tacmagic",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 280,
+        "status": "reviewed",
+        "version": "0.1.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/280"
+      }
+    }
   },
   {
     "package": "tarchetypes",
@@ -1448,7 +3052,16 @@
   {
     "package": "targets",
     "url": "https://github.com/ropensci/targets",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 401,
+        "status": "reviewed",
+        "version": "0.0.0.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/401"
+      }
+    }
   },
   {
     "package": "taxa",
@@ -1458,7 +3071,16 @@
   {
     "package": "taxadb",
     "url": "https://github.com/ropensci/taxadb",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 344,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/344"
+      }
+    }
   },
   {
     "package": "taxize",
@@ -1473,12 +3095,30 @@
   {
     "package": "taxlist",
     "url": "https://github.com/ropensci/taxlist",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 233,
+        "status": "reviewed",
+        "version": "0.1.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/233"
+      }
+    }
   },
   {
     "package": "terrainr",
     "url": "https://github.com/ropensci/terrainr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 416,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/416"
+      }
+    }
   },
   {
     "package": "tesseract",
@@ -1488,32 +3128,86 @@
   {
     "package": "textreuse",
     "url": "https://github.com/ropensci/textreuse",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 20,
+        "status": "reviewed",
+        "version": "0.0.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/20"
+      }
+    }
   },
   {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 305,
+        "status": "reviewed",
+        "version": "0.2.13.9016",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/305"
+      }
+    }
   },
   {
     "package": "tidyhydat",
     "url": "https://github.com/ropensci/tidyhydat",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 152,
+        "status": "reviewed",
+        "version": "0.2.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/152"
+      }
+    }
   },
   {
     "package": "tidync",
     "url": "https://github.com/ropensci/tidync",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 174,
+        "status": "reviewed",
+        "version": "0.0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/174"
+      }
+    }
   },
   {
     "package": "tidypmc",
     "url": "https://github.com/ropensci/tidypmc",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 290,
+        "status": "reviewed",
+        "version": "1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/290"
+      }
+    }
   },
   {
     "package": "tidyqpcr",
     "url": "https://github.com/ropensci/tidyqpcr",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 470,
+        "status": "reviewed",
+        "version": "0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/470"
+      }
+    }
   },
   {
     "package": "tif",
@@ -1523,7 +3217,16 @@
   {
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 226,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/226"
+      }
+    }
   },
   {
     "package": "tinkr",
@@ -1533,17 +3236,35 @@
   {
     "package": "tokenizers",
     "url": "https://github.com/ropensci/tokenizers",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 33,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/33"
+      }
+    }
   },
   {
     "package": "tracerer",
     "url": "https://github.com/ropensci/tracerer",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "tradestatistics",
     "url": "https://github.com/ropensci/tradestatistics",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 274,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/274"
+      }
+    }
   },
   {
     "package": "traits",
@@ -1558,32 +3279,77 @@
   {
     "package": "treedata.table",
     "url": "https://github.com/ropensci/treedata.table",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 367,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/367"
+      }
+    }
   },
   {
     "package": "treeio",
     "url": "https://github.com/YuLab-SMU/treeio",
-    "branch": "devel"
+    "branch": "devel",
+    "metadata": {
+      "review": {
+        "id": 179,
+        "status": "reviewed",
+        "version": "1.3.10",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/179"
+      }
+    }
   },
   {
     "package": "treestartr",
     "url": "https://github.com/ropensci/treestartr",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 239,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/239"
+      }
+    }
   },
   {
     "package": "tsbox",
     "url": "https://github.com/ropensci/tsbox",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 464,
+        "status": "reviewed",
+        "version": "0.3.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/464"
+      }
+    }
   },
   {
     "package": "unifir",
     "url": "https://github.com/ropensci/unifir",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 521,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/521"
+      }
+    }
   },
   {
     "package": "universe",
     "url": "https://github.com/ropensci/universe",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "unrtf",
@@ -1598,22 +3364,58 @@
   {
     "package": "virtuoso",
     "url": "https://github.com/ropensci/virtuoso",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 271,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/271"
+      }
+    }
   },
   {
     "package": "visdat",
     "url": "https://github.com/ropensci/visdat",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 87,
+        "status": "reviewed",
+        "version": "0.0.5.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/87"
+      }
+    }
   },
   {
     "package": "wateRinfo",
     "url": "https://github.com/ropensci/wateRinfo",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 255,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/255"
+      }
+    }
   },
   {
     "package": "waywiser",
     "url": "https://github.com/ropensci/waywiser",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 571,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/571"
+      }
+    }
   },
   {
     "package": "wdman",
@@ -1623,12 +3425,30 @@
   {
     "package": "weatherOz",
     "url": "https://github.com/ropensci/weatherOz",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 598,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/598"
+      }
+    }
   },
   {
     "package": "weathercan",
     "url": "https://github.com/ropensci/weathercan",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 160,
+        "status": "reviewed",
+        "version": "0.2.2.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/160"
+      }
+    }
   },
   {
     "package": "webchem",
@@ -1648,12 +3468,30 @@
   {
     "package": "wmm",
     "url": "https://github.com/wfrierson/wmm",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 522,
+        "status": "reviewed",
+        "version": "1.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/522"
+      }
+    }
   },
   {
     "package": "workloopR",
     "url": "https://github.com/ropensci/workloopR",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 326,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/326"
+      }
+    }
   },
   {
     "package": "worrms",
@@ -1673,6 +3511,15 @@
   {
     "package": "yfR",
     "url": "https://github.com/ropensci/yfR",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 523,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/523"
+      }
+    }
   }
 ]
