@@ -2467,6 +2467,11 @@
     "branch": "master"
   },
   {
+    "package": "repometrics",
+    "url": "https://github.com/ropensci-review-tools/repometrics",
+    "branch": "main"
+  },
+  {
     "package": "rerddap",
     "url": "https://github.com/ropensci/rerddap",
     "branch": "master"
