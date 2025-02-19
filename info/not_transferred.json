@@ -66,6 +66,10 @@
     "url": "https://github.com/ropensci-review-tools/roreviewapi"
   },
   {
+    "package": "repometrics",
+    "url": "https://github.com/ropensci-review-tools/repometrics"
+  },
+  {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r"
   },
