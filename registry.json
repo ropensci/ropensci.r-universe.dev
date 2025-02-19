@@ -127,7 +127,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/maelle/commonmetar",
-      "date_last_commit": "2025-02-17 13:47:34",
+      "date_last_commit": "2025-02-19 06:41:03",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -285,7 +285,7 @@
       "name": "pkgreviewr",
       "description": "rOpenSci package review project template",
       "details": "Creates files and collects materials necessary to complete an rOpenSci package review. Review files are prepopulated with review package specific metadata. Review package source code is also cloned for local testing and inspection.",
-      "maintainer": "Anna Krystalli",
+      "maintainer": "Maëlle Salmon",
       "keywords": "review, ropensci, ropensci-reviews, unconf, unconf18",
       "github": "https://github.com/ropensci-org/pkgreviewr",
       "status": "https://www.repostatus.org#active",
@@ -296,7 +296,7 @@
       "url": "https://github.com/ropensci-org/pkgreviewr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 15:39:22",
+      "date_last_commit": "2025-02-18 17:17:25",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -745,7 +745,7 @@
       "url": "https://github.com/ropensci/BaseSet",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 17:57:09",
+      "date_last_commit": "2025-02-18 22:57:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2743,7 +2743,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-11 13:08:32",
+      "date_last_commit": "2025-02-18 18:47:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3642,7 +3642,7 @@
       "url": "https://github.com/ropensci/osmplotr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-14 12:36:52",
+      "date_last_commit": "2025-02-18 13:58:32",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4234,7 +4234,7 @@
       "github": "https://github.com/ropensci/rb3",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/534",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rb3",
@@ -4242,7 +4242,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-02-16 16:56:58",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -4700,7 +4700,7 @@
       "url": "https://github.com/ropensci/riem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:26:54",
+      "date_last_commit": "2025-02-19 06:27:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4760,7 +4760,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 19:23:28",
+      "date_last_commit": "2025-02-18 13:06:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5460,7 +5460,7 @@
       "url": "https://github.com/ropensci/spiro",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-26 19:35:33",
+      "date_last_commit": "2025-02-18 09:08:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6726,5 +6726,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-18 07:56 UTC"
+  "date": "2025-02-19 07:57 UTC"
 }
