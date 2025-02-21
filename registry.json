@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:26:50",
+      "date_last_commit": "2025-02-20 16:18:26",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -324,7 +324,7 @@
       "description": "Metrics for Your Code Repository",
       "details": "Metrics for your code repository. Call one function to generate an interactive dashboard displaying the state of your code.",
       "maintainer": "Mark Padgham",
-      "keywords": "",
+      "keywords": "dashboard, software-metrics",
       "github": "https://github.com/ropensci-review-tools/repometrics",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -332,7 +332,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/repometrics",
-      "date_last_commit": "2025-02-19 14:56:33",
+      "date_last_commit": "2025-02-20 19:07:35",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -742,7 +742,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 22:31:38",
+      "date_last_commit": "2025-02-20 19:29:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1602,7 +1602,7 @@
       "url": "https://github.com/ropensci/DataSpaceR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-15 01:20:51",
+      "date_last_commit": "2025-02-20 21:28:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4577,7 +4577,7 @@
       "url": "https://github.com/ropensci/rfema",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-08 14:37:17",
+      "date_last_commit": "2025-02-20 19:01:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5477,7 +5477,7 @@
       "url": "https://github.com/ropensci/spiro",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-18 09:08:06",
+      "date_last_commit": "2025-02-20 08:53:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6743,5 +6743,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-20 07:58 UTC"
+  "date": "2025-02-21 07:58 UTC"
 }
