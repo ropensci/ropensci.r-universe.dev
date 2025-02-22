@@ -332,7 +332,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/repometrics",
-      "date_last_commit": "2025-02-20 19:07:35",
+      "date_last_commit": "2025-02-21 11:31:28",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4237,7 +4237,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 11:47:55",
+      "date_last_commit": "2025-02-21 16:33:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6743,5 +6743,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-21 07:58 UTC"
+  "date": "2025-02-22 08:00 UTC"
 }
