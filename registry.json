@@ -782,7 +782,7 @@
       "url": "https://github.com/ropensci/beastier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-02 15:14:14",
+      "date_last_commit": "2025-02-22 08:28:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -802,7 +802,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-26 17:23:15",
+      "date_last_commit": "2025-02-22 10:11:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4557,7 +4557,7 @@
       "url": "https://github.com/ropensci/restez",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-04-19 06:28:02",
+      "date_last_commit": "2025-02-23 03:12:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6743,5 +6743,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-22 08:00 UTC"
+  "date": "2025-02-23 07:56 UTC"
 }
