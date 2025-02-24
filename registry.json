@@ -603,7 +603,7 @@
       "url": "https://github.com/ropensci/aorsf",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-05 18:27:11",
+      "date_last_commit": "2025-02-23 20:50:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6743,5 +6743,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-23 07:56 UTC"
+  "date": "2025-02-24 08:00 UTC"
 }
