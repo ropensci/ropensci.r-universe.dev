@@ -332,7 +332,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/repometrics",
-      "date_last_commit": "2025-02-21 11:31:28",
+      "date_last_commit": "2025-02-25 13:31:04",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1802,7 +1802,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-18 09:42:58",
+      "date_last_commit": "2025-02-25 13:58:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2778,7 +2778,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-19 16:50:33",
+      "date_last_commit": "2025-02-26 04:01:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4795,7 +4795,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-24 17:49:49",
+      "date_last_commit": "2025-02-25 20:45:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5715,7 +5715,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-10 15:57:20",
+      "date_last_commit": "2025-02-25 14:50:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6761,5 +6761,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-25 07:57 UTC"
+  "date": "2025-02-26 08:06 UTC"
 }

@@ -4511,7 +4511,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.6.79",
+    "version": "0.1.6.82",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23970,7 +23970,7 @@
     "codeRepository": "https://github.com/ropensci/dynamite",
     "issueTracker": "https://github.com/ropensci/dynamite/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35827,6 +35827,18 @@
       },
       "9": {
         "@type": "SoftwareApplication",
+        "identifier": "lubridate",
+        "name": "lubridate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lubridate"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
         "version": ">= 1.5",
@@ -35838,12 +35850,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -35855,7 +35867,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -35867,7 +35879,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -35880,7 +35892,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "14": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "strex",
         "name": "strex",
@@ -35893,7 +35905,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=strex"
       },
-      "15": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -35906,7 +35918,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "16": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "zeallot",
         "name": "zeallot",
@@ -63566,7 +63578,7 @@
         "@type": "Person",
         "givenName": "László",
         "familyName": "Kupcsik",
-        "email": "koopac@gmail.com",
+        "email": "dev@biobits.be",
         "@id": "https://orcid.org/0000-0003-3535-5496"
       },
       {
@@ -75389,7 +75401,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.1.9004",
+    "version": "1.10.1.9005",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
