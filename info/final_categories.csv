@@ -5,7 +5,9 @@ autotest,scalereprod,FALSE
 babeldown,scalereprod,FALSE
 babelquarto,scalereprod,FALSE
 commonmark,data-extraction,FALSE
+commonmetar,scalereprod,FALSE
 credentials,scalereprod,FALSE
+emodnet.wfs,data-access,FALSE
 frictionless,data-publication,FALSE
 gert,scalereprod,FALSE
 gitcellar,scalereprod,FALSE
@@ -14,6 +16,7 @@ pkgcheck,scalereprod,FALSE
 pkgmatch,scalereprod,FALSE
 pkgreviewr,scalereprod,FALSE
 pkgstats,scalereprod,FALSE
+repometrics,scalereprod,FALSE
 roblog,scalereprod,TRUE
 roreviewapi,scalereprod,FALSE
 rotemplate,scalereprod,FALSE
@@ -63,7 +66,6 @@ citecorp,literature,FALSE
 ckanr,databases,FALSE
 cld2,literature,FALSE
 cld3,literature,FALSE
-clifro,data-access,FALSE
 codemetar,data-publication,FALSE
 coder,data-extraction,FALSE
 colocr,data-extraction,FALSE
@@ -108,6 +110,7 @@ fastMatMR,data-extraction,FALSE
 FedData,data-access,FALSE
 fellingdater,scalereprod,FALSE
 fingertipsR,data-access,FALSE
+fireexposuR,scalereprod,FALSE
 fluidsynth,image-processing,FALSE
 gbifdb,data-access,FALSE
 gendercoder,data-extraction,FALSE
@@ -116,6 +119,7 @@ geojsonio,geospatial,FALSE
 geonames,geospatial,FALSE
 getCRUCLdata,data-access,FALSE
 ghql,http-tools,FALSE
+gigs,scalereprod,FALSE
 gistr,scalereprod,FALSE
 git2r,scalereprod,FALSE
 git2rdata,data-extraction,FALSE
@@ -143,7 +147,7 @@ jqr,data-extraction,FALSE
 jsonld,data-extraction,FALSE
 jsonvalidate,scalereprod,FALSE
 jstor,literature,FALSE
-karel,NA,FALSE
+karel,scalereprod,FALSE
 katex,literature,FALSE
 landscapetools,geospatial,FALSE
 lightr,data-extraction,FALSE
@@ -205,6 +209,7 @@ prism,data-access,FALSE
 prismjs,scalereprod,FALSE
 qpdf,literature,FALSE
 quadkeyr,geospatial,FALSE
+QuadratiK,stat,FALSE
 qualR,data-access,FALSE
 qualtRics,data-access,FALSE
 ramlegacy,data-access,FALSE
