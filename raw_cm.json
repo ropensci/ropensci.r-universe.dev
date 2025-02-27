@@ -4167,7 +4167,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.50",
+    "version": "0.2.0.54",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4499,7 +4499,7 @@
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/pkgstats/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": "cpp"
+    "keywords": ["code-analysis", "code-statistics", "software-analysis", "cpp"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

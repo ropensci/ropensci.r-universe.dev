@@ -305,7 +305,7 @@
       "description": "Metrics of R Packages",
       "details": "Static code analyses for R packages using the external code-tagging libraries 'ctags' and 'gtags'. Static analyses enable packages to be analysed very quickly, generally a couple of seconds at most. The package also provides access to a database generating by applying the main function to the full 'CRAN' archive, enabling the statistical properties of any package to be compared with all other 'CRAN' packages.",
       "maintainer": "Mark Padgham",
-      "keywords": "cpp",
+      "keywords": "code-analysis, code-statistics, cpp, software-analysis",
       "github": "https://github.com/ropensci-review-tools/pkgstats",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -315,7 +315,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 12:31:48",
+      "date_last_commit": "2025-02-26 13:30:00",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -603,7 +603,7 @@
       "url": "https://github.com/ropensci/aorsf",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-23 20:50:00",
+      "date_last_commit": "2025-02-26 19:41:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4097,7 +4097,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-12-04 20:58:45",
+      "date_last_commit": "2025-02-26 23:47:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4157,7 +4157,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 16:23:40",
+      "date_last_commit": "2025-02-27 01:10:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6761,5 +6761,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-26 08:06 UTC"
+  "date": "2025-02-27 08:00 UTC"
 }
