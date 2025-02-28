@@ -2626,7 +2626,7 @@
   {
     "package": "rnaturalearth",
     "url": "https://github.com/ropensci/rnaturalearth",
-    "branch": "master",
+    "branch": "main",
     "metadata": {
       "review": {
         "id": 22,
@@ -2640,12 +2640,12 @@
   {
     "package": "rnaturalearthdata",
     "url": "https://github.com/ropensci/rnaturalearthdata",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "rnoaa",
