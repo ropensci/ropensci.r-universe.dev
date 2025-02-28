@@ -127,6 +127,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/maelle/commonmetar",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-02-19 06:41:03",
       "cran_archived": false,
       "staff_maintained": false
@@ -163,6 +165,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/EMODnet/emodnet.wfs",
+      "ropensci_category": "data-access",
+      "ropenscilabs": false,
       "date_last_commit": "2025-02-04 11:03:34",
       "cran_archived": false,
       "staff_maintained": false
@@ -332,7 +336,9 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/repometrics",
-      "date_last_commit": "2025-02-25 13:31:04",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
+      "date_last_commit": "2025-02-27 11:49:49",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2200,6 +2206,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/fireexposuR",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-02-24 21:52:51",
       "github_archived": false,
       "cran_archived": false,
@@ -2378,6 +2386,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/gigs",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-02-19 14:04:06",
       "github_archived": false,
       "cran_archived": false,
@@ -2936,6 +2946,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/karel",
+      "ropensci_category": "scalereprod",
       "ropenscilabs": false,
       "date_last_commit": "2024-07-27 00:24:38",
       "github_archived": false,
@@ -4175,6 +4186,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/QuadratiK",
+      "ropensci_category": "stat",
+      "ropenscilabs": false,
       "date_last_commit": "2025-02-05 10:35:07",
       "github_archived": false,
       "cran_archived": false,
@@ -4395,7 +4408,7 @@
       "url": "https://github.com/ropensci/rdhs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-06 15:31:13",
+      "date_last_commit": "2025-02-27 15:28:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4795,7 +4808,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-25 20:45:40",
+      "date_last_commit": "2025-02-28 07:27:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4855,7 +4868,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-13 16:52:04",
+      "date_last_commit": "2025-02-27 20:54:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6595,7 +6608,7 @@
       "url": "https://github.com/ropensci/xslt",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-16 14:18:10",
+      "date_last_commit": "2025-02-27 17:20:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6761,5 +6774,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-27 08:00 UTC"
+  "date": "2025-02-28 07:57 UTC"
 }
