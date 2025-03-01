@@ -4155,8 +4155,8 @@
     },
     {
       "name": "quadkeyr",
-      "description": "Tools for converting QuadKey-identified datasets (Microsoft's Bing Maps Tile System) into raster images and analyzing Meta (Facebook) Mobility Data",
-      "details": "'Quadkeyr' functions generate raster images based on QuadKey-identified data, facilitating efficient integration of Tile Maps data into R workflows. In particular, 'Quadkeyr' provides support to process and analyze Facebook mobility datasets within the R environment.",
+      "description": "Generate raster images from QuadKey-identified datasets",
+      "details": "'quadkeyr' includes a set of functions of increasing complexity that allow users to (1) convert QuadKey-identified datasets, based on Microsoft's Bing Maps Tile System, into Simple Features data frames, (2) transform Simple Features data frames into rasters, and (3) process multiple Meta (Facebook) QuadKey-identified human mobility files directly into raster files. For more details, see D’Andrea et al. (2024) <doi:10.21105/joss.06500>. ",
       "maintainer": "Florencia D'Andrea",
       "keywords": "geospatial, quadkey, raster, tilemap",
       "github": "https://github.com/ropensci/quadkeyr",
@@ -4168,7 +4168,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-27 01:10:34",
+      "date_last_commit": "2025-03-01 00:24:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4808,7 +4808,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-28 07:27:22",
+      "date_last_commit": "2025-02-28 15:52:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4868,7 +4868,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-27 20:54:25",
+      "date_last_commit": "2025-02-28 14:30:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4888,7 +4888,7 @@
       "url": "https://github.com/ropensci/rnaturalearthdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-09 19:41:27",
+      "date_last_commit": "2025-02-28 21:22:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4908,7 +4908,7 @@
       "url": "https://github.com/ropensci/rnaturalearthhires",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-02 16:56:54",
+      "date_last_commit": "2025-02-28 21:17:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6774,5 +6774,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-02-28 07:57 UTC"
+  "date": "2025-03-01 08:08 UTC"
 }
