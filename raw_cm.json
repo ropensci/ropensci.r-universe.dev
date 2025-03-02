@@ -15566,7 +15566,7 @@
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35522,7 +35522,7 @@
     "codeRepository": "https://github.com/ropensci/ijtiff",
     "issueTracker": "https://github.com/ropensci/ijtiff/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.3.5",
+    "version": "3.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -56362,6 +56362,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
         "version": ">= 0.6.0",
@@ -56407,18 +56419,6 @@
       },
       "4": {
         "@type": "SoftwareApplication",
-        "identifier": "proto",
-        "name": "proto",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=proto"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
         "provider": {
@@ -56429,7 +56429,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -56441,7 +56441,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -56453,7 +56453,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -56465,7 +56465,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -56477,7 +56477,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -56489,7 +56489,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -56501,19 +56501,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "12": {
-        "@type": "SoftwareApplication",
-        "identifier": "ascii",
-        "name": "ascii",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=ascii"
-      },
-      "13": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -56525,12 +56513,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "14": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "15": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
@@ -56542,7 +56530,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=yaml"
       },
-      "16": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "digest",
         "name": "digest",
@@ -56554,7 +56542,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=digest"
       },
-      "17": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "base64enc",
         "name": "base64enc",
@@ -56566,7 +56554,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=base64enc"
       },
-      "18": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "XML",
         "name": "XML",
@@ -56577,30 +56565,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=XML"
-      },
-      "19": {
-        "@type": "SoftwareApplication",
-        "identifier": "readxl",
-        "name": "readxl",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=readxl"
-      },
-      "20": {
-        "@type": "SoftwareApplication",
-        "identifier": "tidyr",
-        "name": "tidyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
       "SystemRequirements": null
     },
@@ -63523,7 +63487,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.15.4",
+    "version": "0.15.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
