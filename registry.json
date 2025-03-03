@@ -2348,7 +2348,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-10 04:51:56",
+      "date_last_commit": "2025-03-03 05:52:51",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2588,7 +2588,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 02:09:07",
+      "date_last_commit": "2025-03-03 06:46:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2788,7 +2788,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-02 01:31:19",
+      "date_last_commit": "2025-03-02 18:07:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3268,7 +3268,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-01 13:53:48",
+      "date_last_commit": "2025-03-03 05:50:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4808,7 +4808,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-01 20:18:19",
+      "date_last_commit": "2025-03-02 09:21:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6774,5 +6774,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-02 07:56 UTC"
+  "date": "2025-03-03 07:56 UTC"
 }
