@@ -33981,7 +33981,7 @@
     "codeRepository": "https://github.com/ropensci/handlr",
     "issueTracker": "https://github.com/ropensci/handlr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34001,6 +34001,13 @@
         "familyName": "Chamberlain",
         "email": "sckott@protonmail.com",
         "@id": "https://orcid.org/0000-0003-1444-9135"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Brenton M.",
+        "familyName": "Wiernik",
+        "email": "brenton@wiernik.org",
+        "@id": "https://orcid.org/0000-0001-9560-6336"
       }
     ],
     "contributor": [
@@ -34015,10 +34022,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Scott",
-        "familyName": "Chamberlain",
-        "email": "sckott@protonmail.com",
-        "@id": "https://orcid.org/0000-0003-1444-9135"
+        "givenName": "Brenton M.",
+        "familyName": "Wiernik",
+        "email": "brenton@wiernik.org",
+        "@id": "https://orcid.org/0000-0001-9560-6336"
       }
     ],
     "softwareSuggestions": [
@@ -35522,7 +35529,7 @@
     "codeRepository": "https://github.com/ropensci/ijtiff",
     "issueTracker": "https://github.com/ropensci/ijtiff/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35728,15 +35735,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "vdiffr",
-        "name": "vdiffr",
+        "identifier": "withr",
+        "name": "withr",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=vdiffr"
+        "sameAs": "https://CRAN.R-project.org/package=withr"
       }
     ],
     "softwareRequirements": {
@@ -35803,15 +35810,8 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "imager",
-        "name": "imager",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=imager"
+        "identifier": "grDevices",
+        "name": "grDevices"
       },
       "8": {
         "@type": "SoftwareApplication",
@@ -50548,7 +50548,7 @@
     "codeRepository": "https://github.com/ropensci/pdftools",
     "issueTracker": "https://github.com/ropensci/pdftools/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.4.1",
+    "version": "3.5.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -83617,7 +83617,7 @@
         "@type": "Person",
         "givenName": "Scott",
         "familyName": "Chamberlain",
-        "email": "sckott@protonmail.com",
+        "email": "myrmecocystus@gmail.com",
         "@id": "https://orcid.org/0000-0003-1444-9135"
       },
       {
@@ -83650,7 +83650,7 @@
         "@type": "Person",
         "givenName": "Scott",
         "familyName": "Chamberlain",
-        "email": "sckott@protonmail.com",
+        "email": "myrmecocystus@gmail.com",
         "@id": "https://orcid.org/0000-0003-1444-9135"
       }
     ],
@@ -84770,7 +84770,7 @@
     "codeRepository": "https://github.com/ropensci/waywiser",
     "issueTracker": "https://github.com/ropensci/waywiser/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.6.1",
+    "version": "0.6.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

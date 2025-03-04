@@ -2348,7 +2348,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 05:52:51",
+      "date_last_commit": "2025-03-03 09:07:02",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2617,7 +2617,7 @@
       "name": "handlr",
       "description": "Convert Among Citation Formats",
       "details": "Converts among many citation formats, including 'BibTeX', 'Citeproc', 'Codemeta', 'RDF XML', 'RIS', 'Schema.org', and 'Citation File Format'. A low level 'R6' class is provided, as well as stand-alone functions for each citation format for both read and write.",
-      "maintainer": "Scott Chamberlain",
+      "maintainer": "Brenton M. Wiernik",
       "keywords": "bibtex, citation, citations, citeproc, codemeta, crosscite, crossref, digital-object-identifier, doi, json, metadata, rdf, ris, xml",
       "github": "https://github.com/ropensci/handlr",
       "status": "https://www.repostatus.org#active",
@@ -2628,7 +2628,7 @@
       "url": "https://github.com/ropensci/handlr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2022-04-22 14:07:07",
+      "date_last_commit": "2025-03-04 00:12:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2788,7 +2788,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-02 18:07:32",
+      "date_last_commit": "2025-03-04 04:56:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3828,7 +3828,7 @@
       "url": "https://github.com/ropensci/pdftools",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-20 09:07:35",
+      "date_last_commit": "2025-03-03 13:48:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4808,7 +4808,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-02 09:21:49",
+      "date_last_commit": "2025-03-03 16:47:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6028,7 +6028,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-19 16:06:03",
+      "date_last_commit": "2025-03-04 01:43:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6328,7 +6328,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-09 16:33:43",
+      "date_last_commit": "2025-03-03 22:47:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6408,7 +6408,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 03:43:54",
+      "date_last_commit": "2025-03-03 23:45:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6448,7 +6448,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 20:59:13",
+      "date_last_commit": "2025-03-03 20:58:13",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6774,5 +6774,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-03 07:56 UTC"
+  "date": "2025-03-04 08:00 UTC"
 }
