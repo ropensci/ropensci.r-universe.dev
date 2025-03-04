@@ -1705,6 +1705,20 @@
     "branch": "main"
   },
   {
+    "package": "mbquartR",
+    "url": "https://github.com/ropensci/mbquartR",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 658,
+        "status": "pending",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/658"
+      }
+    }
+  },
+  {
     "package": "mcbette",
     "url": "https://github.com/ropensci/mcbette",
     "branch": "master",
