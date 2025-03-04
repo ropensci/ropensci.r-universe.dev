@@ -1672,6 +1672,20 @@
     "branch": "master"
   },
   {
+    "package": "mapmetadata",
+    "url": "https://github.com/ropensci/mapmetadata",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 674,
+        "status": "pending",
+        "version": "3.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/674"
+      }
+    }
+  },
+  {
     "package": "mapscanner",
     "url": "https://github.com/ropensci/mapscanner",
     "branch": "main",
