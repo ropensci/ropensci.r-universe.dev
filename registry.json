@@ -549,7 +549,7 @@
       "url": "https://github.com/ropensci/allodb",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-01 15:15:14",
+      "date_last_commit": "2025-03-04 15:46:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2348,7 +2348,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 09:07:02",
+      "date_last_commit": "2025-03-04 12:10:24",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2428,7 +2428,7 @@
       "url": "https://github.com/ropensci/git2r",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-15 21:54:21",
+      "date_last_commit": "2025-03-04 19:58:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2588,7 +2588,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 06:46:38",
+      "date_last_commit": "2025-03-04 12:10:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2788,7 +2788,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 04:56:11",
+      "date_last_commit": "2025-03-04 22:30:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3054,6 +3054,24 @@
       "staff_maintained": true
     },
     {
+      "name": "mapmetadata",
+      "description": "Map health metadata onto predefined research domains",
+      "details": "Prior to gaining full access to health datasets, explore publicly available metadata and map metadata onto predefined research domains. This package uses structural metadata files downloaded from the Health Data Research Gateway (https://healthdatagateway.org/en). In theory, any metadata file with the same structure as the files downloaded from this gateway can be used with this package, but the package has been developed and tested on metadata files from this gateway only.",
+      "maintainer": "Rachael Stickland",
+      "keywords": "hdruk, hdruk-gateway, health-data, metadata, mltc, sail-databank",
+      "github": "https://github.com/ropensci/mapmetadata",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/674",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/mapmetadata",
+      "date_last_commit": "2025-03-04 11:37:25",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "mapscanner",
       "description": "Print Maps, Draw on Them, Scan Them Back in",
       "details": "Enables preparation of maps to be printed and drawn on. Modified maps can then be scanned back in, and hand-drawn marks converted to spatial objects.",
@@ -3089,6 +3107,24 @@
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
       "date_last_commit": "2024-09-06 05:46:45",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "mbquartR",
+      "description": "Finding Manitoba Quarter Sections",
+      "details": "This package has three main functions: 1) find the coordinates of a quarter sections given the legal land description (e.g., \"NE-11-33-29W\"); 2) find the legal land description using coordinates (lat and long); and 3) plot these points on a map. ",
+      "maintainer": "Alex Koiter",
+      "keywords": "",
+      "github": "https://github.com/ropensci/mbquartR",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/mbquartR",
+      "date_last_commit": "2025-02-27 20:35:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3268,7 +3304,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 05:50:44",
+      "date_last_commit": "2025-03-04 11:59:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4155,8 +4191,8 @@
     },
     {
       "name": "quadkeyr",
-      "description": "Generate raster images from QuadKey-identified datasets",
-      "details": "'quadkeyr' includes a set of functions of increasing complexity that allow users to (1) convert QuadKey-identified datasets, based on Microsoft's Bing Maps Tile System, into Simple Features data frames, (2) transform Simple Features data frames into rasters, and (3) process multiple Meta (Facebook) QuadKey-identified human mobility files directly into raster files. For more details, see D’Andrea et al. (2024) <doi:10.21105/joss.06500>. ",
+      "description": "Generate Raster Images From QuadKey-Identified Datasets",
+      "details": "A set of functions of increasing complexity allows users to (1) convert QuadKey-identified datasets, based on Microsoft's Bing Maps Tile System, into Simple Features data frames, (2) transform Simple Features data frames into rasters, and (3) process multiple Meta (Facebook) QuadKey-identified human mobility files directly into raster files. For more details, see D’Andrea et al. (2024) <doi:10.21105/joss.06500>. ",
       "maintainer": "Florencia D'Andrea",
       "keywords": "geospatial, quadkey, raster, tilemap",
       "github": "https://github.com/ropensci/quadkeyr",
@@ -4168,7 +4204,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-01 00:24:45",
+      "date_last_commit": "2025-03-04 16:48:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4268,7 +4304,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-21 16:33:20",
+      "date_last_commit": "2025-03-04 18:57:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4808,7 +4844,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 16:47:55",
+      "date_last_commit": "2025-03-04 17:56:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5788,7 +5824,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-06 19:42:27",
+      "date_last_commit": "2025-03-04 17:39:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6028,7 +6064,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 01:43:52",
+      "date_last_commit": "2025-03-04 15:35:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6328,7 +6364,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 22:47:54",
+      "date_last_commit": "2025-03-04 15:06:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6448,7 +6484,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 20:58:13",
+      "date_last_commit": "2025-03-04 17:05:47",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6774,5 +6810,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-04 08:00 UTC"
+  "date": "2025-03-05 08:01 UTC"
 }
