@@ -2068,7 +2068,7 @@
       "url": "https://github.com/ropensci/excluder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-09 19:38:25",
+      "date_last_commit": "2025-03-05 18:51:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3058,7 +3058,7 @@
       "description": "Map health metadata onto predefined research domains",
       "details": "Prior to gaining full access to health datasets, explore publicly available metadata and map metadata onto predefined research domains. This package uses structural metadata files downloaded from the Health Data Research Gateway (https://healthdatagateway.org/en). In theory, any metadata file with the same structure as the files downloaded from this gateway can be used with this package, but the package has been developed and tested on metadata files from this gateway only.",
       "maintainer": "Rachael Stickland",
-      "keywords": "hdruk, hdruk-gateway, health-data, metadata, mltc, sail-databank",
+      "keywords": "hdruk, hdruk-gateway, health-data, metadata, sail-databank",
       "github": "https://github.com/ropensci/mapmetadata",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/674",
@@ -3066,7 +3066,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mapmetadata",
-      "date_last_commit": "2025-03-04 11:37:25",
+      "date_last_commit": "2025-03-05 17:30:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4191,7 +4191,7 @@
     },
     {
       "name": "quadkeyr",
-      "description": "Generate Raster Images From QuadKey-Identified Datasets",
+      "description": "Generate Raster Images from QuadKey-Identified Datasets",
       "details": "A set of functions of increasing complexity allows users to (1) convert QuadKey-identified datasets, based on Microsoft's Bing Maps Tile System, into Simple Features data frames, (2) transform Simple Features data frames into rasters, and (3) process multiple Meta (Facebook) QuadKey-identified human mobility files directly into raster files. For more details, see D’Andrea et al. (2024) <doi:10.21105/joss.06500>. ",
       "maintainer": "Florencia D'Andrea",
       "keywords": "geospatial, quadkey, raster, tilemap",
@@ -4204,7 +4204,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 16:48:11",
+      "date_last_commit": "2025-03-05 18:32:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6484,7 +6484,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 17:05:47",
+      "date_last_commit": "2025-03-05 16:23:15",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6810,5 +6810,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-05 08:01 UTC"
+  "date": "2025-03-06 07:58 UTC"
 }

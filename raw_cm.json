@@ -38579,9 +38579,9 @@
     "identifier": "mapmetadata",
     "description": "Prior to gaining full access to health datasets, explore publicly available metadata and map metadata onto predefined research domains. This package uses structural metadata files downloaded from the Health Data Research Gateway (https://healthdatagateway.org/en). In theory, any metadata file with the same structure as the files downloaded from this gateway can be used with this package, but the package has been developed and tested on metadata files from this gateway only.",
     "name": "mapmetadata: Map health metadata onto predefined research domains",
-    "relatedLink": "https://aim-rsf.github.io/mapmetadata/",
+    "relatedLink": "https://docs.ropensci.org/mapmetadata/",
     "codeRepository": "https://github.com/ropensci/mapmetadata",
-    "issueTracker": "https://github.com/aim-rsf/mapmetadata/issues",
+    "issueTracker": "https://github.com/ropensci/mapmetadata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
     "version": "4.0.0",
     "programmingLanguage": {
@@ -38817,7 +38817,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["hdruk", "hdruk-gateway", "health-data", "metadata", "mltc", "sail-databank"]
+    "keywords": ["hdruk", "hdruk-gateway", "health-data", "metadata", "sail-databank"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -54738,7 +54738,7 @@
     "@type": "SoftwareSourceCode",
     "identifier": "quadkeyr",
     "description": "A set of functions of increasing complexity allows users to (1) convert QuadKey-identified datasets, based on Microsoft's Bing Maps Tile System, into Simple Features data frames, (2) transform Simple Features data frames into rasters, and (3) process multiple Meta (Facebook) QuadKey-identified human mobility files directly into raster files. For more details, see D’Andrea et al. (2024) <doi:10.21105/joss.06500>. ",
-    "name": "quadkeyr: Generate Raster Images From QuadKey-Identified Datasets",
+    "name": "quadkeyr: Generate Raster Images from QuadKey-Identified Datasets",
     "relatedLink": ["https://docs.ropensci.org/quadkeyr/", "https://github.com/ropensci/quadkeyr"],
     "codeRepository": "https://github.com/ropensci/quadkeyr",
     "issueTracker": "https://github.com/ropensci/quadkeyr/issues",
@@ -74539,7 +74539,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "pct",
-        "name": "pct"
+        "name": "pct",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=pct"
       },
       {
         "@type": "SoftwareApplication",
@@ -86061,6 +86068,12 @@
         "familyName": "Johnson",
         "email": "kelli.johnson@noaa.gov",
         "@id": "https://orcid.org/0000-0002-5149-451X"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Russ",
+        "familyName": "Allen",
+        "email": "mbr@historicip.com"
       }
     ],
     "maintainer": [
