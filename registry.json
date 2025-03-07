@@ -252,17 +252,17 @@
       "description": "rOpenSci Package Checks",
       "details": "Check whether a package is ready for submission to rOpenSci's peer review system.",
       "maintainer": "Mark Padgham",
-      "keywords": "",
+      "keywords": "compliance-automation, software-analysis, software-checking",
       "github": "https://github.com/ropensci-review-tools/pkgcheck",
-      "status": "https://www.repostatus.org#concept",
+      "status": "https://www.repostatus.org#active",
       "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
-      "type": "experimental",
+      "type": "active",
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 15:04:34",
+      "date_last_commit": "2025-03-06 13:03:56",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-27 11:49:49",
+      "date_last_commit": "2025-03-06 17:08:24",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -549,7 +549,7 @@
       "url": "https://github.com/ropensci/allodb",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 15:46:15",
+      "date_last_commit": "2025-03-06 16:39:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2348,7 +2348,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 12:10:24",
+      "date_last_commit": "2025-03-06 08:12:34",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2588,7 +2588,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 12:10:49",
+      "date_last_commit": "2025-03-06 08:10:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3066,7 +3066,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mapmetadata",
-      "date_last_commit": "2025-03-05 17:30:44",
+      "date_last_commit": "2025-03-06 10:42:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3304,7 +3304,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 11:59:13",
+      "date_last_commit": "2025-03-06 08:11:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3604,7 +3604,7 @@
       "url": "https://github.com/ropensci/opencv",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:17:56",
+      "date_last_commit": "2025-03-06 19:21:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4144,7 +4144,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-26 23:47:42",
+      "date_last_commit": "2025-03-07 00:02:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4624,7 +4624,7 @@
       "url": "https://github.com/ropensci/restez",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-23 03:12:51",
+      "date_last_commit": "2025-03-06 23:59:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6810,5 +6810,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-06 07:58 UTC"
+  "date": "2025-03-07 07:58 UTC"
 }

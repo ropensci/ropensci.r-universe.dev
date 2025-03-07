@@ -3175,7 +3175,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.119",
+    "version": "0.1.2.122",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3519,7 +3519,8 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/pkgcheck/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#concept"
+    "developmentStatus": "https://www.repostatus.org/#active",
+    "keywords": ["compliance-automation", "software-analysis", "software-checking"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -4511,7 +4512,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.6.88",
+    "version": "0.1.6.95",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38583,7 +38584,7 @@
     "codeRepository": "https://github.com/ropensci/mapmetadata",
     "issueTracker": "https://github.com/ropensci/mapmetadata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38804,8 +38805,8 @@
         ],
         "name": "mapmetadata: map health metadata onto predefined research domains",
         "identifier": "https://doi.org/10.5281/zenodo.10581499",
-        "url": "https://github.com/aim-rsf/mapmetadata",
-        "description": "R package version 4.0.0",
+        "url": "https://github.com/ropensci/mapmetadata",
+        "description": "R package version 4.0.1",
         "@id": "https://doi.org/10.5281/zenodo.10581499",
         "sameAs": "https://doi.org/10.5281/zenodo.10581499"
       }
@@ -47783,7 +47784,7 @@
     "codeRepository": "https://github.com/ropensci/opencv",
     "issueTracker": "https://github.com/ropensci/opencv/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -61444,7 +61445,7 @@
     "codeRepository": "https://github.com/ropensci/restez",
     "issueTracker": "https://github.com/ropensci/restez/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.1.4.9000",
+    "version": "2.1.5.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
