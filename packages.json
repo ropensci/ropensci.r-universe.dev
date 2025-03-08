@@ -2076,6 +2076,20 @@
     "branch": "master"
   },
   {
+    "package": "pangoling",
+    "url": "https://github.com/ropensci/pangoling",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 575,
+        "status": "reviewed",
+        "version": "0.0.0.9005",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/575"
+      }
+    }
+  },
+  {
     "package": "parzer",
     "url": "https://github.com/ropensci/parzer",
     "branch": "master",
