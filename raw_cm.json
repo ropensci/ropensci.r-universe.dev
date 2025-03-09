@@ -50289,6 +50289,278 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "pangoling",
+    "description": "Access to word predictability using large language 'transformer' models.",
+    "name": "pangoling: Access to Large Language Model Predictions",
+    "relatedLink": ["https://docs.ropensci.org/pangoling", "https://github.com/ropensci/pangoling"],
+    "codeRepository": "https://github.com/ropensci/pangoling",
+    "issueTracker": "https://github.com/ropensci/pangoling/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "1.0.0",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.4.3 (2025-02-28)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Bruno",
+        "familyName": "Nicenboim",
+        "email": "bruno.nicenboim@gmail.com",
+        "@id": "https://orcid.org/0000-0002-5176-3943"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Chris",
+        "familyName": "Emmerly"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Giovanni",
+        "familyName": "Cassani"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Bruno",
+        "familyName": "Nicenboim",
+        "email": "bruno.nicenboim@gmail.com",
+        "@id": "https://orcid.org/0000-0002-5176-3943"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "brms",
+        "name": "brms",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=brms"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "parallel",
+        "name": "parallel"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "spelling",
+        "name": "spelling",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=spelling"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "tictoc",
+        "name": "tictoc",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tictoc"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "covr",
+        "name": "covr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=covr"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "cachem",
+        "name": "cachem",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cachem"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "data.table",
+        "name": "data.table",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=data.table"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "memoise",
+        "name": "memoise",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=memoise"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "reticulate",
+        "name": "reticulate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=reticulate"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rstudioapi",
+        "name": "rstudioapi",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rstudioapi"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyselect",
+        "name": "tidyselect",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyselect"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidytable",
+        "name": "tidytable",
+        "version": ">= 0.7.2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidytable"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "utils",
+        "name": "utils"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "SoftwareSourceCode",
+        "datePublished": "2023",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Bruno",
+            "familyName": "Nicenboim"
+          }
+        ],
+        "name": "{pangoling}: {Access} to large language model predictions in {R}",
+        "identifier": "10.5281/zenodo.7637526",
+        "url": "https://github.com/ropensci/pangoling",
+        "description": "R package version 1.0.0",
+        "@id": "https://doi.org/10.5281/zenodo.7637526",
+        "sameAs": "https://doi.org/10.5281/zenodo.7637526"
+      }
+    ],
+    "readme": "https://github.com/ropensci/pangoling/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/575",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html#stable", "https://www.repostatus.org/#active"],
+    "keywords": ["nlp", "psycholinguistics", "transformers"]
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "parzer",
     "description": "Parse messy geographic coordinates from various character formats to decimal degree numeric values. Parse coordinates into their parts (degree, minutes, seconds); calculate hemisphere from coordinates; pull out individually degrees, minutes, or seconds; add and subtract degrees, minutes, and seconds. C++ code herein originally inspired from code written by Jeffrey D. Bogan, but then completely re-written.",
     "name": "parzer: Parse Messy Geographic Coordinates",

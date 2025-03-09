@@ -3790,6 +3790,24 @@
       "staff_maintained": false
     },
     {
+      "name": "pangoling",
+      "description": "Access to Large Language Model Predictions",
+      "details": "Access to word predictability using large language 'transformer' models.",
+      "maintainer": "Bruno Nicenboim",
+      "keywords": "nlp, psycholinguistics, transformers",
+      "github": "https://github.com/ropensci/pangoling",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/575",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/pangoling",
+      "date_last_commit": "2025-03-08 15:28:39",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "parzer",
       "description": "Parse Messy Geographic Coordinates",
       "details": "Parse messy geographic coordinates from various character formats to decimal degree numeric values. Parse coordinates into their parts (degree, minutes, seconds); calculate hemisphere from coordinates; pull out individually degrees, minutes, or seconds; add and subtract degrees, minutes, and seconds. C++ code herein originally inspired from code written by Jeffrey D. Bogan, but then completely re-written.",
@@ -4844,7 +4862,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 17:56:33",
+      "date_last_commit": "2025-03-09 07:50:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6810,5 +6828,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-08 08:00 UTC"
+  "date": "2025-03-09 07:57 UTC"
 }
