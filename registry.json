@@ -4862,7 +4862,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-09 07:50:39",
+      "date_last_commit": "2025-03-09 10:02:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6516,7 +6516,7 @@
       "github": "https://github.com/ropensci/weatherOz",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/598",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/weatherOz",
@@ -6524,7 +6524,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-02-25 07:33:44",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -6828,5 +6828,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-09 07:57 UTC"
+  "date": "2025-03-10 07:59 UTC"
 }
