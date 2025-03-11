@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-07 15:39:38",
+      "date_last_commit": "2025-03-10 16:01:33",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2788,7 +2788,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-07 23:40:59",
+      "date_last_commit": "2025-03-10 14:17:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3114,7 +3114,7 @@
     {
       "name": "mbquartR",
       "description": "Finding Manitoba Quarter Sections",
-      "details": "This package has three main functions: 1) find the coordinates of a quarter sections given the legal land description (e.g., \"NE-11-33-29W\"); 2) find the legal land description using coordinates (lat and long); and 3) plot these points on a map. ",
+      "details": "This package has four main functions: 1) download the Manitoba Original Survey Legal Descriptions data set; 2) find the coordinates of a quarter sections given the legal land description (e.g., \"NE-11-33-29W\"); 3) find the legal land description using coordinates (lat and long); and 4) plot these points on a map. ",
       "maintainer": "Alex Koiter",
       "keywords": "",
       "github": "https://github.com/ropensci/mbquartR",
@@ -3124,7 +3124,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mbquartR",
-      "date_last_commit": "2025-02-27 20:35:40",
+      "date_last_commit": "2025-03-10 20:26:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3802,7 +3802,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/pangoling",
-      "date_last_commit": "2025-03-08 15:28:39",
+      "date_last_commit": "2025-03-10 18:57:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4222,7 +4222,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-05 18:32:24",
+      "date_last_commit": "2025-03-10 15:39:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4862,7 +4862,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-09 10:02:07",
+      "date_last_commit": "2025-03-10 16:55:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5782,7 +5782,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-25 14:50:32",
+      "date_last_commit": "2025-03-10 19:39:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6828,5 +6828,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-10 07:59 UTC"
+  "date": "2025-03-11 07:57 UTC"
 }

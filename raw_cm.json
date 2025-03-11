@@ -4512,7 +4512,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.6.113",
+    "version": "0.1.6.126",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4588,6 +4588,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "pkgmatch",
         "name": "pkgmatch",
         "sameAs": "https://github.com/ropensci-review-tools/pkgmatch"
@@ -4615,6 +4627,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
       },
       {
         "@type": "SoftwareApplication",
@@ -39377,13 +39401,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "mbquartR",
-    "description": "This package has three main functions: 1) find the coordinates of a quarter sections given the legal land description (e.g., \"NE-11-33-29W\"); 2) find the legal land description using coordinates (lat and long); and 3) plot these points on a map. ",
+    "description": "This package has four main functions: 1) download the Manitoba Original Survey Legal Descriptions data set; 2) find the coordinates of a quarter sections given the legal land description (e.g., \"NE-11-33-29W\"); 3) find the legal land description using coordinates (lat and long); and 4) plot these points on a map. ",
     "name": "mbquartR: Finding Manitoba Quarter Sections",
-    "relatedLink": ["http://alexkoiter.ca/mbquartR/", "https://github.com/alex-koiter/mbquartR"],
+    "relatedLink": ["https://docs.ropensci.org/mbquartR/", "https://github.com/ropensci/mbquartR"],
     "codeRepository": "https://github.com/ropensci/mbquartR",
-    "issueTracker": "https://github.com/alex-koiter/mbquartR/issues",
+    "issueTracker": "https://github.com/ropensci/mbquartR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.0.9000",
+    "version": "0.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -54965,6 +54989,14 @@
         "familyName": "Fernandez",
         "email": "pilar.fernandez@wsu.edu",
         "@id": "https://orcid.org/0000-0001-8645-2267"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Andrew",
+        "familyName": "Pulsipher",
+        "@id": "https://orcid.org/0000-0002-0773-3210"
       }
     ],
     "copyrightHolder": [
@@ -76086,7 +76118,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.1.9005",
+    "version": "1.10.1.9006",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
