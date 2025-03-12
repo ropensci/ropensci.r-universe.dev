@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-06 13:03:56",
+      "date_last_commit": "2025-03-11 16:51:51",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -968,7 +968,7 @@
       "url": "https://github.com/ropensci/bowerbird",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-07 00:32:17",
+      "date_last_commit": "2025-03-12 06:13:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2334,6 +2334,24 @@
       "staff_maintained": false
     },
     {
+      "name": "geotargets",
+      "description": "'Targets' Extensions for Geospatial Formats",
+      "details": "Provides extensions for various geospatial file formats, such as shapefiles and rasters. Currently provides support for the 'terra' geospatial formats. See the vignettes for worked examples, demonstrations, and explanations of how to use the various package extensions.",
+      "maintainer": "Nicholas Tierney",
+      "keywords": "geospatial, pipeline, r-targetopia, raster, reproducibility, reproducible-research, targets, vector, workflow",
+      "github": "https://github.com/ropensci/geotargets",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/675",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/geotargets",
+      "date_last_commit": "2025-03-12 00:34:30",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "getCRUCLdata",
       "description": "'CRU' 'CL' v. 2.0 Climatology Client",
       "details": "Provides functions that automate downloading and importing University of East Anglia Climate Research Unit ('CRU') 'CL' v. 2.0 climatology data, facilitates the calculation of minimum temperature and maximum temperature and formats the data into a data.table object or a list of 'terra' 'rast' objects for use. 'CRU' 'CL' v. 2.0 data are a gridded climatology of 1961-1990 monthly means released in 2002 and cover all land areas (excluding Antarctica) at 10 arc minutes (0.1666667 degree) resolution. For more information see the description of the data provided by the University of East Anglia Climate Research Unit, <https://crudata.uea.ac.uk/cru/data/hrg/tmc/readme.txt>.",
@@ -3119,12 +3137,12 @@
       "keywords": "",
       "github": "https://github.com/ropensci/mbquartR",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/658",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mbquartR",
-      "date_last_commit": "2025-03-10 20:26:28",
+      "date_last_commit": "2025-03-11 20:59:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3792,7 +3810,7 @@
     {
       "name": "pangoling",
       "description": "Access to Large Language Model Predictions",
-      "details": "Access to word predictability using large language 'transformer' models.",
+      "details": "Provides access to word predictability estimates using large language models (LLMs) based on 'transformer' architectures via integration with the 'Hugging Face' ecosystem. The package interfaces with pre-trained neural networks and supports both causal/auto-regressive LLMs (e.g., 'GPT-2'; Radford et al., 2019) and masked/bidirectional LLMs (e.g., 'BERT'; Devlin et al., 2019, <doi:10.48550/arXiv.1810.04805>) to compute the probability of words, phrases, or tokens given their linguistic context. By enabling a straightforward estimation of word predictability, the package facilitates research in psycholinguistics, computational linguistics, and natural language processing (NLP).",
       "maintainer": "Bruno Nicenboim",
       "keywords": "nlp, psycholinguistics, transformers",
       "github": "https://github.com/ropensci/pangoling",
@@ -3802,7 +3820,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/pangoling",
-      "date_last_commit": "2025-03-10 18:57:20",
+      "date_last_commit": "2025-03-11 20:50:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5982,7 +6000,7 @@
       "url": "https://github.com/ropensci/tidyhydat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-05 00:43:55",
+      "date_last_commit": "2025-03-11 21:21:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6516,7 +6534,7 @@
       "github": "https://github.com/ropensci/weatherOz",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/598",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/weatherOz",
@@ -6524,7 +6542,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-02-25 07:33:44",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -6828,5 +6846,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-11 07:57 UTC"
+  "date": "2025-03-12 07:57 UTC"
 }
