@@ -1329,6 +1329,20 @@
     "branch": "master"
   },
   {
+    "package": "geotargets",
+    "url": "https://github.com/ropensci/geotargets",
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 675,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/675"
+      }
+    }
+  },
+  {
     "package": "gert",
     "url": "https://github.com/r-lib/gert",
     "branch": "main"
