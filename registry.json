@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-10 16:01:33",
+      "date_last_commit": "2025-03-12 16:08:53",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -609,7 +609,7 @@
       "url": "https://github.com/ropensci/aorsf",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-26 19:41:21",
+      "date_last_commit": "2025-03-12 20:45:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1108,7 +1108,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-19 18:15:29",
+      "date_last_commit": "2025-03-12 21:43:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2335,8 +2335,8 @@
     },
     {
       "name": "geotargets",
-      "description": "'Targets' Extensions for Geospatial Formats",
-      "details": "Provides extensions for various geospatial file formats, such as shapefiles and rasters. Currently provides support for the 'terra' geospatial formats. See the vignettes for worked examples, demonstrations, and explanations of how to use the various package extensions.",
+      "description": "'Targets' Extensions for Geographic Spatial Formats",
+      "details": "Provides extensions for various geographic spatial file formats, such as shape files and rasters. Currently provides support for the 'terra' geographic spatial formats. See the vignettes for worked examples, demonstrations, and explanations of how to use the various package extensions.",
       "maintainer": "Nicholas Tierney",
       "keywords": "geospatial, pipeline, r-targetopia, raster, reproducibility, reproducible-research, targets, vector, workflow",
       "github": "https://github.com/ropensci/geotargets",
@@ -2346,7 +2346,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/geotargets",
-      "date_last_commit": "2025-03-12 00:34:30",
+      "date_last_commit": "2025-03-13 02:34:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4180,7 +4180,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-08 01:44:37",
+      "date_last_commit": "2025-03-12 16:34:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4240,7 +4240,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-10 15:39:27",
+      "date_last_commit": "2025-03-12 19:51:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4740,7 +4740,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-06 13:25:36",
+      "date_last_commit": "2025-03-12 15:37:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4880,7 +4880,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-10 16:55:13",
+      "date_last_commit": "2025-03-12 09:48:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6846,5 +6846,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-12 07:57 UTC"
+  "date": "2025-03-13 07:58 UTC"
 }
