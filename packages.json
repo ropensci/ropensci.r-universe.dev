@@ -2931,6 +2931,11 @@
     "branch": "master"
   },
   {
+    "package": "saperlipopette",
+    "url": "https://github.com/ropensci-training/saperlipopette/",
+    "branch": "main"
+  },
+  {
     "package": "skimr",
     "url": "https://github.com/ropensci/skimr",
     "branch": "main",
