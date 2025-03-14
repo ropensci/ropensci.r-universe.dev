@@ -4740,7 +4740,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 15:37:50",
+      "date_last_commit": "2025-03-13 13:59:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6846,5 +6846,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-13 07:58 UTC"
+  "date": "2025-03-14 08:00 UTC"
 }
