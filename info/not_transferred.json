@@ -112,5 +112,9 @@
   {
    "package": "commonmetar",
     "url": "https://github.com/ropensci-org/commonmetar/"
+  },
+  {
+   "package": "saperlipopette",
+    "url": "https://github.com/ropensci-training/saperlipopette/"
   }
 ]
