@@ -271,7 +271,7 @@
       "description": "Find R Packages Matching Either Descriptions or Other R Packages",
       "details": "Find R packages matching either descriptions or other R packages.",
       "maintainer": "Mark Padgham",
-      "keywords": "cpp",
+      "keywords": "cpp, embeddings, llms, natural-language-processing",
       "github": "https://github.com/ropensci-review-tools/pkgmatch",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -415,6 +415,23 @@
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
       "date_last_commit": "2025-01-22 22:49:39",
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "saperlipopette",
+      "description": "Create Example Git Messes",
+      "details": "Holds functions creating Git messes, that users would then solve, to follow <https://ohshitgit.com/>.",
+      "maintainer": "Maëlle Salmon",
+      "keywords": "git",
+      "github": "https://github.com/ropensci-training/saperlipopette",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci-training/saperlipopette",
+      "date_last_commit": "2025-03-14 09:20:17",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3262,7 +3279,7 @@
       "url": "https://github.com/ropensci/mregions2",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-23 16:07:08",
+      "date_last_commit": "2025-03-14 13:12:52",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4640,7 +4657,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-07 18:16:39",
+      "date_last_commit": "2025-03-14 22:22:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5800,7 +5817,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-10 19:39:25",
+      "date_last_commit": "2025-03-14 17:20:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6846,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-14 08:00 UTC"
+  "date": "2025-03-15 07:59 UTC"
 }

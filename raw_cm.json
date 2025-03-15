@@ -3934,7 +3934,7 @@
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/pkgmatch/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": "cpp"
+    "keywords": ["embeddings", "llms", "natural-language-processing", "cpp"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -6126,6 +6126,179 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html#maturing", "https://www.repostatus.org/#active"]
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "saperlipopette",
+    "description": "Holds functions creating Git messes, that users would then solve, to follow <https://ohshitgit.com/>.",
+    "name": "saperlipopette: Create Example Git Messes",
+    "relatedLink": ["https://docs.ropensci.org/saperlipopette/", "https://github.com/ropensci-training/saperlipopette"],
+    "codeRepository": "https://github.com/ropensci-training/saperlipopette",
+    "issueTracker": "https://github.com/ropensci-training/saperlipopette/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.0.0.9000",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.4.3 (2025-02-28)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Maëlle",
+        "familyName": "Salmon",
+        "email": "msmaellesalmon@gmail.com",
+        "@id": "https://orcid.org/0000-0002-2815-0399"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Jim",
+        "familyName": "Gardner"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Maëlle",
+        "familyName": "Salmon",
+        "email": "msmaellesalmon@gmail.com",
+        "@id": "https://orcid.org/0000-0002-2815-0399"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "brio",
+        "name": "brio",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=brio"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "fs",
+        "name": "fs",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=fs"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "gert",
+        "name": "gert",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gert"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "parsedate",
+        "name": "parsedate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=parsedate"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "purrr",
+        "name": "purrr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=purrr"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "usethis",
+        "name": "usethis",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=usethis"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "readme": "https://github.com/ropensci-training/saperlipopette/blob/HEAD/README.md",
+    "developmentStatus": [],
+    "keywords": "git"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -61875,7 +62048,7 @@
     "codeRepository": "https://github.com/ropensci/rerddap",
     "issueTracker": "https://github.com/ropensci/rerddap/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
