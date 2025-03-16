@@ -4957,7 +4957,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-28 14:30:16",
+      "date_last_commit": "2025-03-15 11:22:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-15 07:59 UTC"
+  "date": "2025-03-16 07:59 UTC"
 }
