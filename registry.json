@@ -1865,7 +1865,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-25 16:34:37",
+      "date_last_commit": "2025-03-16 22:01:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2363,7 +2363,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/geotargets",
-      "date_last_commit": "2025-03-13 02:34:59",
+      "date_last_commit": "2025-03-16 23:53:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4657,7 +4657,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-14 22:22:58",
+      "date_last_commit": "2025-03-16 19:35:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4957,7 +4957,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-15 11:22:51",
+      "date_last_commit": "2025-03-16 19:03:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-16 07:59 UTC"
+  "date": "2025-03-17 08:02 UTC"
 }
