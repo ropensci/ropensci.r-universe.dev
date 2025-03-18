@@ -110,7 +110,7 @@
       "url": "https://github.com/r-lib/commonmark",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-12 17:50:40",
+      "date_last_commit": "2025-03-17 15:00:49",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -414,7 +414,7 @@
       "url": "https://github.com/Permian-Global-Research/rsi",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-22 22:49:39",
+      "date_last_commit": "2025-03-17 21:49:47",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -726,7 +726,7 @@
       "url": "https://github.com/ropensci/babette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-06-24 09:16:51",
+      "date_last_commit": "2025-03-17 15:00:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -765,7 +765,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-20 19:29:15",
+      "date_last_commit": "2025-03-17 16:54:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1853,7 +1853,7 @@
     {
       "name": "eDNAjoint",
       "description": "Joint Modeling of Traditional and Environmental DNA Survey Data in a Bayesian Framework",
-      "details": "Models integrate environmental DNA (eDNA) detection data and traditional survey data to jointly estimate species catch rate (see package vignette: <https://ednajoint.netlify.app/>). Models can be used with count data via traditional survey methods (i.e., trapping, electrofishing, visual) and replicated eDNA detection/nondetection data via polymerase chain reaction (i.e., PCR or qPCR) from multiple survey locations. Estimated parameters include probability of a false positive eDNA detection, a site-level covariates that scale the sensitivity of eDNA surveys relative to traditional surveys, and catchability coefficients for traditional gear types. Models are implemented with a Bayesian framework (Markov chain Monte Carlo) using the 'Stan' probabilistic programming language.",
+      "details": "Models integrate environmental DNA (eDNA) detection data and traditional survey data to jointly estimate species catch rate (see package vignette: <https://ednajoint.netlify.app/>). Models can be used with count data via traditional survey methods (i.e., trapping, electrofishing, visual) and replicated eDNA detection/nondetection data via polymerase chain reaction (i.e., PCR or qPCR) from multiple survey locations. Estimated parameters include probability of a false positive eDNA detection, a site-level covariates that scale the sensitivity of eDNA surveys relative to traditional surveys, and gear scaling coefficients for traditional gear types. Models are implemented with a Bayesian framework (Markov chain Monte Carlo) using the 'Stan' probabilistic programming language.",
       "maintainer": "Abigail G. Keller",
       "keywords": "cpp",
       "github": "https://github.com/ropensci/eDNAjoint",
@@ -1865,7 +1865,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-16 22:01:58",
+      "date_last_commit": "2025-03-17 14:36:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2603,7 +2603,7 @@
       "url": "https://github.com/ropensci/graphql",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:18:00",
+      "date_last_commit": "2025-03-17 21:04:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4197,7 +4197,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 16:34:43",
+      "date_last_commit": "2025-03-17 22:44:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4257,7 +4257,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 19:51:05",
+      "date_last_commit": "2025-03-17 21:04:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4897,7 +4897,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 09:48:26",
+      "date_last_commit": "2025-03-17 19:18:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5817,7 +5817,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-14 17:20:27",
+      "date_last_commit": "2025-03-17 18:15:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6497,7 +6497,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 23:45:41",
+      "date_last_commit": "2025-03-17 21:49:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6677,7 +6677,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:50:25",
+      "date_last_commit": "2025-03-17 19:47:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-17 08:02 UTC"
+  "date": "2025-03-18 07:58 UTC"
 }

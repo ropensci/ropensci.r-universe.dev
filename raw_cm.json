@@ -1448,7 +1448,7 @@
     "codeRepository": "https://github.com/r-lib/commonmark",
     "issueTracker": "https://github.com/r-lib/commonmark/issues",
     "license": "https://spdx.org/licenses/BSD-2-Clause",
-    "version": "1.9.3",
+    "version": "1.9.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24771,7 +24771,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "eDNAjoint",
-    "description": "Models integrate environmental DNA (eDNA) detection data and traditional survey data to jointly estimate species catch rate (see package vignette: <https://ednajoint.netlify.app/>). Models can be used with count data via traditional survey methods (i.e., trapping, electrofishing, visual) and replicated eDNA detection/nondetection data via polymerase chain reaction (i.e., PCR or qPCR) from multiple survey locations. Estimated parameters include probability of a false positive eDNA detection, a site-level covariates that scale the sensitivity of eDNA surveys relative to traditional surveys, and catchability coefficients for traditional gear types. Models are implemented with a Bayesian framework (Markov chain Monte Carlo) using the 'Stan' probabilistic programming language.",
+    "description": "Models integrate environmental DNA (eDNA) detection data and traditional survey data to jointly estimate species catch rate (see package vignette: <https://ednajoint.netlify.app/>). Models can be used with count data via traditional survey methods (i.e., trapping, electrofishing, visual) and replicated eDNA detection/nondetection data via polymerase chain reaction (i.e., PCR or qPCR) from multiple survey locations. Estimated parameters include probability of a false positive eDNA detection, a site-level covariates that scale the sensitivity of eDNA surveys relative to traditional surveys, and gear scaling coefficients for traditional gear types. Models are implemented with a Bayesian framework (Markov chain Monte Carlo) using the 'Stan' probabilistic programming language.",
     "name": "eDNAjoint: Joint Modeling of Traditional and Environmental DNA Survey Data in a Bayesian Framework",
     "relatedLink": ["https://github.com/ropensci/eDNAjoint", "https://docs.ropensci.org/eDNAjoint/"],
     "codeRepository": "https://github.com/ropensci/eDNAjoint",
@@ -33684,7 +33684,7 @@
     "codeRepository": "https://github.com/ropensci/graphql",
     "issueTracker": "https://github.com/ropensci/graphql/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55157,7 +55157,7 @@
     "codeRepository": "https://github.com/ropensci/prism",
     "issueTracker": "https://github.com/ropensci/prism/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.2.1.9000",
+    "version": "0.2.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -64839,7 +64839,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.15.6",
+    "version": "0.15.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -89309,7 +89309,7 @@
     "codeRepository": "https://github.com/ropensci/writexl",
     "issueTracker": "https://github.com/ropensci/writexl/issues",
     "license": "https://spdx.org/licenses/BSD-2-Clause",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
