@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-03 15:00:42",
+      "date_last_commit": "2025-03-19 22:57:17",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3279,7 +3279,7 @@
       "url": "https://github.com/ropensci/mregions2",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-18 14:52:14",
+      "date_last_commit": "2025-03-19 12:43:04",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4197,7 +4197,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-18 19:39:07",
+      "date_last_commit": "2025-03-19 16:19:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4257,7 +4257,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-19 02:43:01",
+      "date_last_commit": "2025-03-20 03:26:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-19 07:57 UTC"
+  "date": "2025-03-20 08:00 UTC"
 }
