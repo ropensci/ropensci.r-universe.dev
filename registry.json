@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-18 12:14:54",
+      "date_last_commit": "2025-03-20 09:27:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2363,7 +2363,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/geotargets",
-      "date_last_commit": "2025-03-16 23:53:22",
+      "date_last_commit": "2025-03-21 01:10:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2823,7 +2823,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-10 14:17:27",
+      "date_last_commit": "2025-03-21 02:47:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4191,7 +4191,7 @@
       "github": "https://github.com/ropensci/prism",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/prism",
@@ -4657,7 +4657,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-16 19:35:51",
+      "date_last_commit": "2025-03-20 15:09:57",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-20 08:00 UTC"
+  "date": "2025-03-21 07:57 UTC"
 }
