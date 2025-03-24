@@ -1125,7 +1125,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 21:43:25",
+      "date_last_commit": "2025-03-23 07:55:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3083,7 +3083,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 17:41:03",
+      "date_last_commit": "2025-03-23 14:26:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4257,7 +4257,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-20 03:26:50",
+      "date_last_commit": "2025-03-24 00:47:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5337,7 +5337,7 @@
       "url": "https://github.com/ropensci/rsvg",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 23:26:53",
+      "date_last_commit": "2025-03-23 13:57:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5957,7 +5957,7 @@
       "url": "https://github.com/ropensci/tesseract",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 23:24:18",
+      "date_last_commit": "2025-03-23 13:55:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6863,5 +6863,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-23 07:57 UTC"
+  "date": "2025-03-24 07:57 UTC"
 }
