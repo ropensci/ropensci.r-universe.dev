@@ -618,6 +618,20 @@
     "branch": "master"
   },
   {
+    "package": "butterfly",
+    "url": "https://github.com/ropensci/butterfly",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 676,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/676"
+      }
+    }
+  },
+  {
     "package": "c14bazAAR",
     "url": "https://github.com/ropensci/c14bazAAR",
     "branch": "master",
