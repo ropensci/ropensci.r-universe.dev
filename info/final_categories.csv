@@ -21,6 +21,7 @@ roblog,scalereprod,TRUE
 roreviewapi,scalereprod,FALSE
 rotemplate,scalereprod,FALSE
 rsi,geospatial,FALSE
+saperlipopette,scalereprod,FALSE
 sodium,scalereprod,FALSE
 srr,scalereprod,FALSE
 treeio,data-extraction,FALSE
@@ -50,6 +51,7 @@ birdsize,scalereprod,FALSE
 bold,data-access,FALSE
 bowerbird,scalereprod,FALSE
 brranching,data-access,FALSE
+butterfly,data-extraction,FALSE
 c14bazAAR,data-access,FALSE
 camsRad,data-access,FALSE
 canaper,stat,FALSE
@@ -117,6 +119,7 @@ gendercoder,data-extraction,FALSE
 geojson,geospatial,FALSE
 geojsonio,geospatial,FALSE
 geonames,geospatial,FALSE
+geotargets,geospatial,FALSE
 getCRUCLdata,data-access,FALSE
 ghql,http-tools,FALSE
 gigs,scalereprod,FALSE
@@ -153,8 +156,10 @@ landscapetools,geospatial,FALSE
 lightr,data-extraction,FALSE
 lingtypology,literature,FALSE
 magick,image-processing,FALSE
+mapmetadata,data-extraction,FALSE
 mapscanner,geospatial,FALSE
 mauricer,scalereprod,FALSE
+mbquartR,geospatial,FALSE
 mcbette,scalereprod,FALSE
 mctq,data-extraction,FALSE
 medrxivr,literature,FALSE
@@ -188,6 +193,7 @@ osmplotr,geospatial,FALSE
 outcomerate,scalereprod,FALSE
 paleobioDB,data-access,FALSE
 pangaear,data-access,FALSE
+pangoling,scalereprod,FALSE
 parzer,geospatial,FALSE
 patentsview,literature,FALSE
 pathviewr,data-extraction,FALSE
