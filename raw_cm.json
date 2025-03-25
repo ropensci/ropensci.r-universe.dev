@@ -2533,7 +2533,7 @@
     "codeRepository": "https://github.com/r-lib/gert",
     "issueTracker": "https://github.com/r-lib/gert/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.1.4.9000",
+    "version": "2.1.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -13393,6 +13393,173 @@
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/brranching/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "butterfly",
+    "description": "Verification of continually updating timeseries data where we expect new values, but want to ensure previous data remains unchanged.",
+    "name": "butterfly: Verification For Continually Updating Timeseries Data",
+    "relatedLink": ["https://docs.ropensci.org/butterfly", "https://github.com/ropensci/butterfly"],
+    "codeRepository": "https://github.com/ropensci/butterfly",
+    "issueTracker": "https://github.com/ropensci/butterfly/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "1.1.0",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.4.3 (2025-02-28)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Thomas",
+        "familyName": "Zwagerman",
+        "email": "thozwa@bas.ac.uk",
+        "@id": "https://orcid.org/0009-0003-3742-3234"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Thomas",
+        "familyName": "Zwagerman",
+        "email": "thozwa@bas.ac.uk",
+        "@id": "https://orcid.org/0009-0003-3742-3234"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "lifecycle",
+        "name": "lifecycle",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "waldo",
+        "name": "waldo",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=waldo"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 2.10"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "CreativeWork",
+        "datePublished": "2024",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Zwagerman",
+            "familyName": "Thomas"
+          }
+        ],
+        "name": "{butterfly}: quality assurance of continually updating and overwritten time-series data"
+      }
+    ],
+    "readme": "https://github.com/ropensci/butterfly/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/676",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html#stable", "https://www.repostatus.org/#active"],
+    "keywords": ["data-versioning", "qaqc", "timeseries", "verification"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -55170,7 +55337,7 @@
     "codeRepository": "https://github.com/ropensci/prism",
     "issueTracker": "https://github.com/ropensci/prism/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.2.2.9000",
+    "version": "0.2.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55586,6 +55753,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.3 (2025-02-28)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -61020,18 +61193,6 @@
       },
       "8": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "9": {
-        "@type": "SoftwareApplication",
         "identifier": "network",
         "name": "network",
         "provider": {
@@ -61042,7 +61203,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=network"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "stringdist",
         "name": "stringdist",
@@ -61054,7 +61215,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringdist"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "rworldmap",
         "name": "rworldmap",
@@ -61066,7 +61227,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rworldmap"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "sna",
         "name": "sna",
@@ -61077,6 +61238,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=sna"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidygeocoder",
+        "name": "tidygeocoder",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidygeocoder"
       },
       "SystemRequirements": null
     },
