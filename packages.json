@@ -345,7 +345,16 @@
   {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
-    "branch": "master"
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 599,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/599"
+      }
+    }
   },
   {
     "package": "allcontributors",
