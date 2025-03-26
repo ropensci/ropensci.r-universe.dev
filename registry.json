@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-21 11:53:25",
+      "date_last_commit": "2025-03-25 15:44:39",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -431,6 +431,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-training/saperlipopette",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-14 09:20:17",
       "cran_archived": false,
       "staff_maintained": false
@@ -765,7 +767,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-17 16:54:59",
+      "date_last_commit": "2025-03-25 22:24:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1023,6 +1025,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/butterfly",
+      "ropensci_category": "data-extraction",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-24 15:22:36",
       "github_archived": false,
       "cran_archived": false,
@@ -2381,6 +2385,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/geotargets",
+      "ropensci_category": "geospatial",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-21 01:10:35",
       "github_archived": false,
       "cran_archived": false,
@@ -3119,6 +3125,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mapmetadata",
+      "ropensci_category": "data-extraction",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-07 12:04:17",
       "github_archived": false,
       "cran_archived": false,
@@ -3177,6 +3185,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mbquartR",
+      "ropensci_category": "geospatial",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-21 16:37:59",
       "github_archived": false,
       "cran_archived": false,
@@ -3855,6 +3865,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/pangoling",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-03-11 20:50:45",
       "github_archived": false,
       "cran_archived": false,
@@ -4209,7 +4221,7 @@
       "github": "https://github.com/ropensci/prism",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/prism",
@@ -4217,7 +4229,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-03-24 18:13:16",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -4275,7 +4287,7 @@
       "url": "https://github.com/ropensci/quadkeyr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-24 00:47:25",
+      "date_last_commit": "2025-03-25 19:31:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4615,7 +4627,7 @@
       "url": "https://github.com/ropensci/refsplitr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-25 04:27:37",
+      "date_last_commit": "2025-03-25 13:57:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4915,7 +4927,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-24 17:35:10",
+      "date_last_commit": "2025-03-25 08:57:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6555,7 +6567,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-05 16:23:15",
+      "date_last_commit": "2025-03-25 17:12:09",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6881,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-25 07:58 UTC"
+  "date": "2025-03-26 07:58 UTC"
 }
