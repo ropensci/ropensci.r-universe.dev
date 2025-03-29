@@ -728,7 +728,7 @@
       "url": "https://github.com/ropensci/babette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-17 15:00:41",
+      "date_last_commit": "2025-03-28 13:48:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1887,7 +1887,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-17 14:36:35",
+      "date_last_commit": "2025-03-28 20:10:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5827,7 +5827,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-24 14:44:09",
+      "date_last_commit": "2025-03-28 14:55:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-17 18:15:21",
+      "date_last_commit": "2025-03-28 20:21:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-28 07:57 UTC"
+  "date": "2025-03-29 08:00 UTC"
 }
