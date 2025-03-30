@@ -32157,7 +32157,7 @@
     "codeRepository": "https://github.com/ropensci/git2r",
     "issueTracker": "https://github.com/ropensci/git2r/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.36.1",
+    "version": "0.36.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -44802,7 +44802,7 @@
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.11.0",
+    "version": "0.11.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -44838,6 +44838,13 @@
         "@type": "Person",
         "givenName": "Jeroen",
         "familyName": "Ooms"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Ivan",
+        "familyName": "Tarbakou"
       }
     ],
     "maintainer": [
