@@ -3467,7 +3467,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-29 18:05:40",
+      "date_last_commit": "2025-03-30 12:38:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-30 08:00 UTC"
+  "date": "2025-03-31 07:57 UTC"
 }
