@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-19 22:57:17",
+      "date_last_commit": "2025-03-31 17:28:41",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1107,7 +1107,7 @@
       "url": "https://github.com/ropensci/cde",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-14 10:38:15",
+      "date_last_commit": "2025-03-31 15:54:56",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -1147,7 +1147,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-23 07:55:10",
+      "date_last_commit": "2025-03-31 08:09:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3667,7 +3667,7 @@
       "url": "https://github.com/ropensci/opencv",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-06 19:21:35",
+      "date_last_commit": "2025-03-31 11:09:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4927,7 +4927,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-25 08:57:54",
+      "date_last_commit": "2025-03-31 19:29:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-28 20:21:25",
+      "date_last_commit": "2025-04-01 01:59:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-03-31 07:57 UTC"
+  "date": "2025-04-01 07:58 UTC"
 }

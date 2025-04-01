@@ -195,7 +195,7 @@
     "codeRepository": "https://github.com/CornellLabofOrnithology/auk",
     "issueTracker": "\n    https://github.com/CornellLabofOrnithology/auk/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14643,7 +14643,7 @@
     "codeRepository": "https://github.com/ropensci/cde",
     "issueTracker": "https://github.com/ropensci/cde/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.4.1.9004",
+    "version": "0.4.1.9005",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -48409,7 +48409,7 @@
     "codeRepository": "https://github.com/ropensci/opencv",
     "issueTracker": "https://github.com/ropensci/opencv/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -76929,7 +76929,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.1.9009",
+    "version": "1.10.1.9010",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
