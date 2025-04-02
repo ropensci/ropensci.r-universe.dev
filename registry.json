@@ -4987,7 +4987,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-16 19:03:56",
+      "date_last_commit": "2025-04-01 15:51:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-01 01:59:51",
+      "date_last_commit": "2025-04-01 20:26:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-01 07:58 UTC"
+  "date": "2025-04-02 08:00 UTC"
 }
