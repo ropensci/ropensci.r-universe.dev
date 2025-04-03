@@ -13398,13 +13398,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "butterfly",
-    "description": "Verification of continually updating timeseries data where we expect new values, but want to ensure previous data remains unchanged.",
-    "name": "butterfly: Verification For Continually Updating Timeseries Data",
-    "relatedLink": ["https://docs.ropensci.org/butterfly", "https://github.com/ropensci/butterfly"],
+    "description": "Verification of continually updating time series data where we expect new values, but want to ensure previous data remains unchanged. Data previously recorded could change for a number of reasons, such as discovery of an error in model code, a change in methodology or instrument recalibration. Monitoring data sources for these changes is not always possible. Other unnoticed changes could include a jump in time or measurement frequency, due to instrument failure or software updates. This package provides functionality that can be used as part of a data pipeline, to check and flag changes to previous data to prevent changes going unnoticed.",
+    "name": "butterfly: Verification for Continually Updating Time Series Data",
+    "relatedLink": ["https://docs.ropensci.org/butterfly/", "https://github.com/ropensci/butterfly/"],
     "codeRepository": "https://github.com/ropensci/butterfly",
     "issueTracker": "https://github.com/ropensci/butterfly/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -13412,6 +13412,15 @@
     },
     "runtimePlatform": "R version 4.4.3 (2025-02-28)",
     "author": [
+      {
+        "@type": "Person",
+        "givenName": "Thomas",
+        "familyName": "Zwagerman",
+        "email": "thozwa@bas.ac.uk",
+        "@id": "https://orcid.org/0009-0003-3742-3234"
+      }
+    ],
+    "copyrightHolder": [
       {
         "@type": "Person",
         "givenName": "Thomas",
@@ -13471,6 +13480,12 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
         "provider": {
@@ -13481,7 +13496,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -13493,7 +13508,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "lifecycle",
         "name": "lifecycle",
@@ -13505,7 +13520,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -13517,7 +13532,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "waldo",
         "name": "waldo",
@@ -13528,12 +13543,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=waldo"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "R",
-        "name": "R",
-        "version": ">= 2.10"
       },
       "SystemRequirements": null
     },

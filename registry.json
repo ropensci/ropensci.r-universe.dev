@@ -1014,8 +1014,8 @@
     },
     {
       "name": "butterfly",
-      "description": "Verification For Continually Updating Timeseries Data",
-      "details": "Verification of continually updating timeseries data where we expect new values, but want to ensure previous data remains unchanged.",
+      "description": "Verification for Continually Updating Time Series Data",
+      "details": "Verification of continually updating time series data where we expect new values, but want to ensure previous data remains unchanged. Data previously recorded could change for a number of reasons, such as discovery of an error in model code, a change in methodology or instrument recalibration. Monitoring data sources for these changes is not always possible. Other unnoticed changes could include a jump in time or measurement frequency, due to instrument failure or software updates. This package provides functionality that can be used as part of a data pipeline, to check and flag changes to previous data to prevent changes going unnoticed.",
       "maintainer": "Thomas Zwagerman",
       "keywords": "data-versioning, qaqc, timeseries, verification",
       "github": "https://github.com/ropensci/butterfly",
@@ -1027,7 +1027,7 @@
       "url": "https://github.com/ropensci/butterfly",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-26 10:17:10",
+      "date_last_commit": "2025-04-02 11:16:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-01 20:26:50",
+      "date_last_commit": "2025-04-02 19:05:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-02 08:00 UTC"
+  "date": "2025-04-03 07:56 UTC"
 }
