@@ -224,7 +224,7 @@
       "url": "https://github.com/ropensci-org/gitcellar",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-14 05:53:51",
+      "date_last_commit": "2025-04-03 07:58:22",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -767,7 +767,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-26 16:21:54",
+      "date_last_commit": "2025-04-03 16:30:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3187,7 +3187,7 @@
       "url": "https://github.com/ropensci/mbquartR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-21 16:37:59",
+      "date_last_commit": "2025-04-03 17:59:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-02 19:05:53",
+      "date_last_commit": "2025-04-03 16:10:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5947,7 +5947,7 @@
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-16 11:58:59",
+      "date_last_commit": "2025-04-03 09:20:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-03 07:56 UTC"
+  "date": "2025-04-04 07:57 UTC"
 }
