@@ -3455,11 +3455,6 @@
     "branch": "main"
   },
   {
-    "package": "unrtf",
-    "url": "https://github.com/ropensci/unrtf",
-    "branch": "main"
-  },
-  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "branch": "main"
