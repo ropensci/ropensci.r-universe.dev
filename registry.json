@@ -471,7 +471,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-28 10:55:19",
+      "date_last_commit": "2025-04-04 11:27:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -767,7 +767,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-03 16:30:39",
+      "date_last_commit": "2025-04-04 15:47:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1015,7 +1015,7 @@
     {
       "name": "butterfly",
       "description": "Verification for Continually Updating Time Series Data",
-      "details": "Verification of continually updating time series data where we expect new values, but want to ensure previous data remains unchanged. Data previously recorded could change for a number of reasons, such as discovery of an error in model code, a change in methodology or instrument recalibration. Monitoring data sources for these changes is not always possible. Other unnoticed changes could include a jump in time or measurement frequency, due to instrument failure or software updates. This package provides functionality that can be used as part of a data pipeline, to check and flag changes to previous data to prevent changes going unnoticed.",
+      "details": "Verification of continually updating time series data where we expect new values, but want to ensure previous data remains unchanged. Data previously recorded could change for a number of reasons, such as discovery of an error in model code, a change in methodology or instrument recalibration. Monitoring data sources for these changes is not always possible. Other unnoticed changes could include a jump in time or measurement frequency, due to instrument failure or software updates. Functionality is provided that can be used to check and flag changes to previous data to prevent changes going unnoticed, as well as unexpected jumps in time.",
       "maintainer": "Thomas Zwagerman",
       "keywords": "data-versioning, qaqc, timeseries, verification",
       "github": "https://github.com/ropensci/butterfly",
@@ -1027,7 +1027,7 @@
       "url": "https://github.com/ropensci/butterfly",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-02 11:16:51",
+      "date_last_commit": "2025-04-04 08:09:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1847,7 +1847,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-26 12:00:24",
+      "date_last_commit": "2025-04-04 08:07:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2847,7 +2847,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-23 02:26:41",
+      "date_last_commit": "2025-04-05 03:48:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4927,7 +4927,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-31 19:29:05",
+      "date_last_commit": "2025-04-04 08:37:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-03 16:10:23",
+      "date_last_commit": "2025-04-04 16:16:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-04 07:57 UTC"
+  "date": "2025-04-05 07:56 UTC"
 }
