@@ -6707,7 +6707,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 19:44:28",
+      "date_last_commit": "2025-04-05 22:36:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-05 07:56 UTC"
+  "date": "2025-04-06 07:56 UTC"
 }
