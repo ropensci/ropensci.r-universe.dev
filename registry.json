@@ -110,7 +110,7 @@
       "url": "https://github.com/r-lib/commonmark",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 19:42:59",
+      "date_last_commit": "2025-04-06 20:35:39",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1327,7 +1327,7 @@
       "url": "https://github.com/ropensci/cld2",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 19:37:50",
+      "date_last_commit": "2025-04-06 20:31:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1847,7 +1847,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-04 08:07:22",
+      "date_last_commit": "2025-04-07 06:10:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2627,7 +2627,7 @@
       "url": "https://github.com/ropensci/graphql",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 19:52:57",
+      "date_last_commit": "2025-04-06 21:14:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -2787,7 +2787,7 @@
       "url": "https://github.com/ropensci/hunspell",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 20:38:48",
+      "date_last_commit": "2025-04-06 20:29:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4267,7 +4267,7 @@
       "url": "https://github.com/ropensci/qpdf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-22 17:42:34",
+      "date_last_commit": "2025-04-06 19:41:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6707,7 +6707,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-05 22:36:10",
+      "date_last_commit": "2025-04-06 21:11:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-06 07:56 UTC"
+  "date": "2025-04-07 07:57 UTC"
 }
