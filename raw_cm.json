@@ -191,7 +191,7 @@
     "identifier": "auk",
     "description": "Extract and process bird sightings records from eBird (<http://ebird.org>), an online tool for recording bird observations. Public access to the full eBird database is via the eBird Basic Dataset (EBD; see <http://ebird.org/ebird/data/download> for access), a downloadable text file. This package is an interface to AWK for extracting data from the EBD based on taxonomic, spatial, or temporal filters, to produce a manageable file size that can be imported into R.",
     "name": "auk: eBird Data Extraction and Processing in R",
-    "relatedLink": ["https://github.com/CornellLabofOrnithology/auk", "https://cornelllabofornithology.github.io/auk/"],
+    "relatedLink": "https://cornelllabofornithology.github.io/auk/",
     "codeRepository": "https://github.com/CornellLabofOrnithology/auk",
     "issueTracker": "\n    https://github.com/CornellLabofOrnithology/auk/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
@@ -463,32 +463,6 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "citation": [
-      {
-        "@type": "SoftwareSourceCode",
-        "datePublished": "2023",
-        "author": [
-          {
-            "@type": "Person",
-            "givenName": "Matthew",
-            "familyName": "Strimas-Mackey"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Eliot",
-            "familyName": "Miller"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Wesley",
-            "familyName": "Hochachka"
-          }
-        ],
-        "name": "auk: eBird Data Extraction and Processing with AWK",
-        "url": "https://cornelllabofornithology.github.io/auk/",
-        "description": "R package version 0.7.0"
-      }
-    ],
     "readme": "https://github.com/CornellLabofOrnithology/auk/blob/HEAD/README.md",
     "review": {
       "@type": "Review",
@@ -51011,6 +50985,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.4.3 (2025-02-28)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -85162,7 +85142,7 @@
     "codeRepository": "https://github.com/ropensci/vcr",
     "issueTracker": "https://github.com/ropensci/vcr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.7.0",
+    "version": "1.7.0.91",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

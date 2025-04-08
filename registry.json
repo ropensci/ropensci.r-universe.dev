@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-31 17:28:41",
+      "date_last_commit": "2025-04-07 21:28:22",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 11:03:34",
+      "date_last_commit": "2025-04-08 07:17:20",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -767,7 +767,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-04 15:47:30",
+      "date_last_commit": "2025-04-07 15:38:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3187,7 +3187,7 @@
       "url": "https://github.com/ropensci/mbquartR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-03 17:59:45",
+      "date_last_commit": "2025-04-07 18:52:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3861,7 +3861,7 @@
       "github": "https://github.com/ropensci/pangoling",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/575",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/pangoling",
@@ -4927,7 +4927,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-04 08:37:22",
+      "date_last_commit": "2025-04-07 20:44:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6147,7 +6147,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 15:35:17",
+      "date_last_commit": "2025-04-08 00:30:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6227,7 +6227,7 @@
       "url": "https://github.com/ropensci/traits",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-25 20:32:01",
+      "date_last_commit": "2025-04-08 00:35:30",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6447,7 +6447,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-04 15:06:45",
+      "date_last_commit": "2025-04-08 04:27:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-07 07:57 UTC"
+  "date": "2025-04-08 07:57 UTC"
 }
