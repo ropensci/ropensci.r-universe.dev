@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-17 10:10:19",
+      "date_last_commit": "2025-04-08 13:52:12",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -471,7 +471,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-04 11:27:11",
+      "date_last_commit": "2025-04-08 12:30:13",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -767,7 +767,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-07 15:38:25",
+      "date_last_commit": "2025-04-08 16:58:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2187,7 +2187,7 @@
       "url": "https://github.com/ropensci/FedData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-10 23:10:22",
+      "date_last_commit": "2025-04-08 14:42:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3855,7 +3855,7 @@
     {
       "name": "pangoling",
       "description": "Access to Large Language Model Predictions",
-      "details": "Provides access to word predictability estimates using large language models (LLMs) based on 'transformer' architectures via integration with the 'Hugging Face' ecosystem. The package interfaces with pre-trained neural networks and supports both causal/auto-regressive LLMs (e.g., 'GPT-2'; Radford et al., 2019) and masked/bidirectional LLMs (e.g., 'BERT'; Devlin et al., 2019, <doi:10.48550/arXiv.1810.04805>) to compute the probability of words, phrases, or tokens given their linguistic context. By enabling a straightforward estimation of word predictability, the package facilitates research in psycholinguistics, computational linguistics, and natural language processing (NLP).",
+      "details": "Provides access to word predictability estimates using large language models (LLMs) based on 'transformer' architectures via integration with the 'Hugging Face' ecosystem <https://huggingface.co/>. The package interfaces with pre-trained neural networks and supports both causal/auto-regressive LLMs (e.g., 'GPT-2') and masked/bidirectional LLMs (e.g., 'BERT') to compute the probability of words, phrases, or tokens given their linguistic context. For details on GPT-2 and causal models, see Radford et al. (2019) <https://storage.prod.researchhub.com/uploads/papers/2020/06/01/language-models.pdf>, for details on BERT and masked models, see Devlin et al. (2019) <doi:10.48550/arXiv.1810.04805>. By enabling a straightforward estimation of word predictability, the package facilitates research in psycholinguistics, computational linguistics, and natural language processing (NLP).",
       "maintainer": "Bruno Nicenboim",
       "keywords": "nlp, psycholinguistics, transformers",
       "github": "https://github.com/ropensci/pangoling",
@@ -3867,7 +3867,7 @@
       "url": "https://github.com/ropensci/pangoling",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-11 20:50:45",
+      "date_last_commit": "2025-04-09 07:21:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-04 16:16:10",
+      "date_last_commit": "2025-04-09 01:22:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6100,7 +6100,7 @@
       "keywords": "miqe, qpcr, qpcr-analysis, tidyverse",
       "github": "https://github.com/ropensci/tidyqpcr",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/470",
+      "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
@@ -6447,7 +6447,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 04:27:18",
+      "date_last_commit": "2025-04-08 15:56:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-08 07:57 UTC"
+  "date": "2025-04-09 07:58 UTC"
 }
