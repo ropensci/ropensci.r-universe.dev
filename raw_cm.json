@@ -42911,7 +42911,7 @@
     "codeRepository": "https://github.com/ropensci/naijR",
     "issueTracker": "https://github.com/ropensci/naijR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49838,7 +49838,7 @@
     "codeRepository": "https://github.com/ropensci/osmextract",
     "issueTracker": "https://github.com/ropensci/osmextract/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.5.2.9000",
+    "version": "0.5.3.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49856,7 +49856,7 @@
         "@type": "Person",
         "givenName": "Andrea",
         "familyName": "Gilardi",
-        "email": "andrea.gilardi@polimi.it",
+        "email": "andrea.gilardi@unimib.it",
         "@id": "https://orcid.org/0000-0002-9424-7439"
       },
       {
@@ -49879,7 +49879,7 @@
         "@type": "Person",
         "givenName": "Andrea",
         "familyName": "Gilardi",
-        "email": "andrea.gilardi@polimi.it",
+        "email": "andrea.gilardi@unimib.it",
         "@id": "https://orcid.org/0000-0002-9424-7439"
       }
     ],
@@ -64193,6 +64193,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rgnparser/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": "taxonomy"
   },
   {
@@ -66183,7 +66184,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/rnaturalearthdata/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/rnaturalearthdata/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -66704,7 +66706,8 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/RNeXML/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/RNeXML/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -76917,7 +76920,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.10.1.9015",
+    "version": "1.10.1.9019",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -81750,6 +81753,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/tidyqpcr/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/470",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["miqe", "qpcr", "qpcr-analysis", "tidyverse"]
   },
   {
@@ -82973,13 +82982,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "traits",
-    "description": "Species trait data from many different sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant trait data from 'BETYdb', data from 'EOL' 'Traitbank', 'Birdlife' International, and more.",
+    "description": "Species trait data from many sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant traits from 'BETYdb', and data from 'EOL Traitbank' and 'Birdlife International'.",
     "name": "traits: Species Trait Data from Around the Web",
     "relatedLink": ["https://docs.ropensci.org/traits/", "https://github.com/ropensci/traits"],
     "codeRepository": "https://github.com/ropensci/traits",
     "issueTracker": "https://github.com/ropensci/traits/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -83041,6 +83050,18 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
         "provider": {
@@ -83050,6 +83071,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "plyr",
+        "name": "plyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=plyr"
       },
       {
         "@type": "SoftwareApplication",
@@ -83074,30 +83107,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "dplyr",
-        "name": "dplyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dplyr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "plyr",
-        "name": "plyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=plyr"
       }
     ],
     "softwareRequirements": {
@@ -83108,32 +83117,6 @@
         "version": ">= 2.10"
       },
       "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "jsonlite",
-        "name": "jsonlite",
-        "version": ">= 0.9.19",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "version": ">= 1.1.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "4": {
         "@type": "SoftwareApplication",
         "identifier": "crul",
         "name": "crul",
@@ -83146,20 +83129,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=crul"
       },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "tibble",
-        "name": "tibble",
-        "version": ">= 1.3.4",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=tibble"
-      },
-      "6": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
@@ -83171,6 +83141,44 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=data.table"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "hoardr",
+        "name": "hoardr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=hoardr"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr",
+        "name": "httr",
+        "version": ">= 1.1.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
+        "version": ">= 0.9.19",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -83187,6 +83195,19 @@
       },
       "8": {
         "@type": "SoftwareApplication",
+        "identifier": "rvest",
+        "name": "rvest",
+        "version": ">= 0.3.1",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rvest"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
         "version": ">= 0.7.4",
@@ -83198,7 +83219,20 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=taxize"
       },
-      "9": {
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "version": ">= 1.3.4",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -83211,38 +83245,102 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
       },
-      "10": {
-        "@type": "SoftwareApplication",
-        "identifier": "rvest",
-        "name": "rvest",
-        "version": ">= 0.3.1",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rvest"
-      },
-      "11": {
-        "@type": "SoftwareApplication",
-        "identifier": "hoardr",
-        "name": "hoardr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=hoardr"
-      },
       "SystemRequirements": null
     },
     "applicationCategory": "Biodiversity",
-    "isPartOf": "https://ropensci.org",
-    "keywords": ["traits", "api", "web-services", "species", "taxonomy", "api-client"],
+    "isPartOf": ["https://ropensci.org", "https://doi.org/10.5281/zenodo.11224037"],
+    "keywords": ["traits", "api", "web-services", "species", "taxonomy", "biodiversity", "ecology", "environmental-data", "species-traits", "api-client"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/traits/blob/HEAD/README.md"
+    "citation": [
+      {
+        "@type": "SoftwareSourceCode",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "David",
+            "familyName": "LeBauer",
+            "email": "dlebauer@gmail.com",
+            "@id": "https://orcid.org/0000-0001-7228-053X"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Scott",
+            "familyName": "Chamberlain",
+            "email": "myrmecocystus@gmail.com",
+            "@id": "https://orcid.org/0000-0003-1444-9135"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Zachary",
+            "familyName": "Foster"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Ignasi",
+            "familyName": "Bartomeus"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Chris",
+            "familyName": "Black"
+          },
+          {
+            "@type": "Person",
+            "givenName": "David",
+            "familyName": "Harris"
+          }
+        ],
+        "name": "traits: Species Trait Data from Around the Web",
+        "url": "https://docs.ropensci.org/traits/",
+        "description": "R package version 0.5.2, https://github.com/ropensci/traits, https://doi.org/10.5281/zenodo.11224037"
+      },
+      {
+        "@type": "SoftwareSourceCode",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "David",
+            "familyName": "LeBauer",
+            "email": "dlebauer@gmail.com",
+            "@id": "https://orcid.org/0000-0001-7228-053X"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Scott",
+            "familyName": "Chamberlain",
+            "email": "myrmecocystus@gmail.com",
+            "@id": "https://orcid.org/0000-0003-1444-9135"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Zachary",
+            "familyName": "Foster"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Ignasi",
+            "familyName": "Bartomeus"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Chris",
+            "familyName": "Black"
+          },
+          {
+            "@type": "Person",
+            "givenName": "David",
+            "familyName": "Harris"
+          }
+        ],
+        "name": "traits: Species Trait Data from Around the Web",
+        "url": "https://docs.ropensci.org/traits/",
+        "description": "R package version 0.5.2, https://github.com/ropensci/traits, https://doi.org/10.5281/zenodo.11224037"
+      }
+    ],
+    "readme": "https://github.com/ropensci/traits/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -89484,7 +89582,7 @@
     "codeRepository": "https://github.com/ropensci/writexl",
     "issueTracker": "https://github.com/ropensci/writexl/issues",
     "license": "https://spdx.org/licenses/BSD-2-Clause",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -89584,7 +89682,7 @@
       }
     ],
     "softwareRequirements": {
-      "SystemRequirements": "zlib"
+      "SystemRequirements": "GNU make, zlib"
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/writexl/blob/HEAD/README.md",

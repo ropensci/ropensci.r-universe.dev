@@ -3347,7 +3347,7 @@
       "url": "https://github.com/ropensci/naijR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-10 18:55:39",
+      "date_last_commit": "2025-04-09 16:39:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3767,7 +3767,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-20 16:11:06",
+      "date_last_commit": "2025-04-09 16:44:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-09 01:22:20",
+      "date_last_commit": "2025-04-09 21:29:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6100,7 +6100,7 @@
       "keywords": "miqe, qpcr, qpcr-analysis, tidyverse",
       "github": "https://github.com/ropensci/tidyqpcr",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/470",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
@@ -6215,9 +6215,9 @@
     {
       "name": "traits",
       "description": "Species Trait Data from Around the Web",
-      "details": "Species trait data from many different sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant trait data from 'BETYdb', data from 'EOL' 'Traitbank', 'Birdlife' International, and more.",
+      "details": "Species trait data from many sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant traits from 'BETYdb', and data from 'EOL Traitbank' and 'Birdlife International'.",
       "maintainer": "David LeBauer",
-      "keywords": "api, api-client, species, taxonomy, traits, web-services",
+      "keywords": "api, api-client, biodiversity, ecology, environmental-data, species, species-traits, taxonomy, traits, web-services",
       "github": "https://github.com/ropensci/traits",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -6227,7 +6227,7 @@
       "url": "https://github.com/ropensci/traits",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 00:35:30",
+      "date_last_commit": "2025-04-09 23:23:03",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6447,7 +6447,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 15:56:15",
+      "date_last_commit": "2025-04-09 20:26:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6707,7 +6707,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-06 21:11:53",
+      "date_last_commit": "2025-04-09 13:16:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-09 07:58 UTC"
+  "date": "2025-04-10 08:00 UTC"
 }
