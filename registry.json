@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 13:52:12",
+      "date_last_commit": "2025-04-11 10:29:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -471,7 +471,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-11 07:35:40",
+      "date_last_commit": "2025-04-11 11:20:35",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4927,7 +4927,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-07 20:44:29",
+      "date_last_commit": "2025-04-11 11:16:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4987,7 +4987,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-01 15:51:25",
+      "date_last_commit": "2025-04-11 17:24:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-10 21:23:50",
+      "date_last_commit": "2025-04-11 19:31:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6447,7 +6447,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-10 17:44:28",
+      "date_last_commit": "2025-04-11 18:47:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-11 07:57 UTC"
+  "date": "2025-04-12 08:08 UTC"
 }
