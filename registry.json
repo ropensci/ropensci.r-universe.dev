@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-12 16:08:53",
+      "date_last_commit": "2025-04-15 10:02:49",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2387,7 +2387,7 @@
       "url": "https://github.com/ropensci/geotargets",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-21 01:10:35",
+      "date_last_commit": "2025-04-16 00:31:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3627,7 +3627,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-24 17:34:43",
+      "date_last_commit": "2025-04-15 23:28:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3727,7 +3727,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-15 06:09:28",
+      "date_last_commit": "2025-04-15 09:04:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4447,7 +4447,7 @@
       "url": "https://github.com/ropensci/rcrossref",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2023-03-17 11:08:55",
+      "date_last_commit": "2025-04-15 19:58:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5847,7 +5847,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-14 17:24:49",
+      "date_last_commit": "2025-04-15 11:16:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6447,7 +6447,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-14 21:06:24",
+      "date_last_commit": "2025-04-15 23:11:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6527,7 +6527,7 @@
       "url": "https://github.com/ropensci/waywiser",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-17 21:49:55",
+      "date_last_commit": "2025-04-15 23:57:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6587,7 +6587,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-12 11:22:12",
+      "date_last_commit": "2025-04-16 01:36:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6707,7 +6707,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-09 13:16:18",
+      "date_last_commit": "2025-04-15 13:11:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6893,5 +6893,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-15 07:58 UTC"
+  "date": "2025-04-16 08:01 UTC"
 }
