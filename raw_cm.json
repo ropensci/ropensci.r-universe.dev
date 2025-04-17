@@ -6571,7 +6571,7 @@
     "codeRepository": "https://github.com/YuLab-SMU/treeio",
     "issueTracker": "https://github.com/YuLab-SMU/treeio/issues",
     "license": "https://spdx.org/licenses/Artistic-2.0",
-    "version": "1.31.0",
+    "version": "1.33.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34353,6 +34353,236 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "gtexr",
+    "description": "A convenient R interface to the Genotype-Tissue Expression (GTEx) Portal API. For more information on the API, see <https://gtexportal.org/api/v2/redoc>.",
+    "name": "gtexr: Query the GTEx Portal API",
+    "relatedLink": ["https://rmgpanw.github.io/gtexr/", "https://github.com/rmgpanw/gtexr"],
+    "codeRepository": "https://github.com/ropensci/gtexr",
+    "issueTracker": "https://github.com/rmgpanw/gtexr/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.1.0.9000",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.0 (2025-04-11)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Benjamin",
+        "familyName": "Zuckerman",
+        "@id": "https://orcid.org/0000-0002-0077-6074"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Abraham",
+        "familyName": "Olvera-Barrios",
+        "@id": "https://orcid.org/0000-0002-3305-4465"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Chuin Ying",
+        "familyName": "Ung",
+        "@id": "https://orcid.org/0000-0001-8487-4589"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Robert",
+        "familyName": "Luben",
+        "@id": "https://orcid.org/0000-0002-5088-6343"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "httptest2",
+        "name": "httptest2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httptest2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr2",
+        "name": "httr2",
+        "version": ">= 1.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "purrr",
+        "name": "purrr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=purrr"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "readme": "https://github.com/ropensci/gtexr/blob/HEAD/README.md",
+    "developmentStatus": [],
+    "keywords": ["api-wrapper", "bioinformatics", "eqtl", "gtex", "sqtl"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
