@@ -7386,18 +7386,6 @@
       },
       "5": {
         "@type": "SoftwareApplication",
-        "identifier": "lmomco",
-        "name": "lmomco",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lmomco"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
         "provider": {
@@ -7408,7 +7396,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "automap",
         "name": "automap",
@@ -7420,7 +7408,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=automap"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "png",
         "name": "png",
@@ -7432,12 +7420,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=png"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "grid",
         "name": "grid"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "ggnewscale",
         "name": "ggnewscale",
@@ -7449,7 +7437,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ggnewscale"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -7461,7 +7449,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "ggplot2",
         "name": "ggplot2",
@@ -7473,7 +7461,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ggplot2"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "rappdirs",
         "name": "rappdirs",
@@ -7485,7 +7473,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rappdirs"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
@@ -7497,7 +7485,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "kableExtra",
         "name": "kableExtra",
@@ -7509,7 +7497,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=kableExtra"
       },
-      "16": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
@@ -7522,7 +7510,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "17": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
@@ -7534,7 +7522,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "SPEI",
         "name": "SPEI",
@@ -75619,7 +75607,7 @@
     "codeRepository": "https://github.com/ropensci/stplanr",
     "issueTracker": "https://github.com/ropensci/stplanr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75691,6 +75679,11 @@
         "givenName": "Josiah",
         "familyName": "Parry",
         "@id": "https://orcid.org/0000-0001-9910-865X"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Matthew",
+        "familyName": "Petersen"
       }
     ],
     "maintainer": [
@@ -77163,7 +77156,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.2.9001",
+    "version": "1.11.2.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
