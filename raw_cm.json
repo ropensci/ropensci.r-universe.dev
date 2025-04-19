@@ -76842,7 +76842,7 @@
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.0.9000",
+    "version": "0.13.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -77156,7 +77156,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.2.9002",
+    "version": "1.11.2.9003",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -85555,18 +85555,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "curl",
-        "name": "curl",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=curl"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "desc",
         "name": "desc",
         "provider": {
@@ -85692,6 +85680,18 @@
       },
       "3": {
         "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
         "provider": {
@@ -85702,7 +85702,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "R6",
         "name": "R6",
@@ -85714,7 +85714,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=R6"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -85726,7 +85726,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rprojroot",
         "name": "rprojroot",
@@ -85738,7 +85738,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rprojroot"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "urltools",
         "name": "urltools",
@@ -85750,7 +85750,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=urltools"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "webmockr",
         "name": "webmockr",
@@ -85763,7 +85763,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=webmockr"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -85775,7 +85775,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",

@@ -3645,7 +3645,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-15 23:28:04",
+      "date_last_commit": "2025-04-18 14:42:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4945,7 +4945,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-16 13:34:57",
+      "date_last_commit": "2025-04-18 20:42:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5845,7 +5845,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-17 19:17:04",
+      "date_last_commit": "2025-04-18 15:46:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5865,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-17 17:13:34",
+      "date_last_commit": "2025-04-18 16:20:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-17 23:09:23",
+      "date_last_commit": "2025-04-18 21:57:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-18 08:03 UTC"
+  "date": "2025-04-19 08:00 UTC"
 }
