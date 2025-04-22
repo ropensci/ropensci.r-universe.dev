@@ -34785,7 +34785,6 @@
         "@type": "SoftwareApplication",
         "identifier": "readMDTable",
         "name": "readMDTable",
-        "version": ">= 0.3.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -65254,7 +65253,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.15.8",
+    "version": "0.15.9",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
