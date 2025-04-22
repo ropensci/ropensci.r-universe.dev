@@ -133,6 +133,7 @@ googleLanguageR,literature,FALSE
 grainchanger,geospatial,FALSE
 graphql,http-tools,FALSE
 GSODR,data-access,FALSE
+gtexr,data-access,FALSE
 gutenbergr,data-access,FALSE
 handlr,literature,FALSE
 hddtools,data-access,FALSE
