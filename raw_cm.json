@@ -11277,12 +11277,19 @@
     "author": [
       {
         "@type": "Person",
-        "givenName": "Philipp",
-        "familyName": "Ottolinger",
-        "email": "philipp@ottolinger.de"
+        "givenName": ["Kelli", "F."],
+        "familyName": "Johnson",
+        "email": "kelli.johnson@noaa.gov",
+        "@id": "https://orcid.org/0000-0002-5149-451X"
       }
     ],
     "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Philipp",
+        "familyName": "Ottolinger",
+        "email": "philipp@ottolinger.de"
+      },
       {
         "@type": "Person",
         "givenName": "Thomas",
@@ -77155,7 +77162,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.2.9003",
+    "version": "1.11.2.9004",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
