@@ -1053,6 +1053,24 @@
       "staff_maintained": false
     },
     {
+      "name": "c3dr",
+      "description": "Read and Write C3D Motion Capture Files",
+      "details": "A wrapper for the ‘EZC3D’ library to work with C3D motion capture data.",
+      "maintainer": "Simon Nolte",
+      "keywords": "cpp",
+      "github": "https://github.com/ropensci/c3dr",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/686",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/c3dr",
+      "date_last_commit": "2025-04-24 14:10:45",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "camsRad",
       "description": "Client for CAMS Radiation Service",
       "details": "Copernicus Atmosphere Monitoring Service (CAMS) Radiation Service provides time series of global, direct, and diffuse irradiations on horizontal surface, and direct irradiation on normal plane for the actual weather conditions as well as for clear-sky conditions. The geographical coverage is the field-of-view of the Meteosat satellite, roughly speaking Europe, Africa, Atlantic Ocean, Middle East. The time coverage of data is from 2004-02-01 up to 2 days ago. Data are available with a time step ranging from 15 min to 1 month. For license terms and to create an account, please see <http://www.soda-pro.com/web-services/radiation/cams-radiation-service>. ",
@@ -2667,7 +2685,7 @@
       "url": "https://github.com/ropensci/gtexr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-23 21:20:46",
+      "date_last_commit": "2025-04-25 07:45:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4947,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-24 07:29:26",
+      "date_last_commit": "2025-04-24 10:32:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5867,7 +5885,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-22 20:36:27",
+      "date_last_commit": "2025-04-24 14:11:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6467,7 +6485,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-24 04:25:41",
+      "date_last_commit": "2025-04-25 04:46:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6913,5 +6931,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-24 08:01 UTC"
+  "date": "2025-04-25 08:01 UTC"
 }
