@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-11 16:51:51",
+      "date_last_commit": "2025-04-25 12:12:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:27:08",
+      "date_last_commit": "2025-04-25 23:25:27",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2685,7 +2685,7 @@
       "url": "https://github.com/ropensci/gtexr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-25 07:45:33",
+      "date_last_commit": "2025-04-26 07:29:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5885,7 +5885,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-24 14:11:52",
+      "date_last_commit": "2025-04-25 20:26:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6485,7 +6485,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-25 04:46:51",
+      "date_last_commit": "2025-04-26 04:30:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6931,5 +6931,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-25 08:01 UTC"
+  "date": "2025-04-26 08:00 UTC"
 }
