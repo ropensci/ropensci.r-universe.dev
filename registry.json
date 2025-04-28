@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-25 12:12:30",
+      "date_last_commit": "2025-04-28 07:28:09",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-27 10:59:12",
+      "date_last_commit": "2025-04-28 08:23:40",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-26 18:06:32",
+      "date_last_commit": "2025-04-27 18:52:23",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2685,7 +2685,7 @@
       "url": "https://github.com/ropensci/gtexr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-26 07:29:16",
+      "date_last_commit": "2025-04-27 18:01:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4445,7 +4445,7 @@
       "url": "https://github.com/ropensci/rb3",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-23 10:03:29",
+      "date_last_commit": "2025-04-27 17:45:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6485,7 +6485,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-27 05:02:32",
+      "date_last_commit": "2025-04-27 19:29:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6931,5 +6931,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-27 07:59 UTC"
+  "date": "2025-04-28 08:37 UTC"
 }
