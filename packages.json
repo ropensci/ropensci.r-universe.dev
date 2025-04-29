@@ -2859,20 +2859,6 @@
     }
   },
   {
-    "package": "rrlite",
-    "url": "https://github.com/ropensci/rrlite",
-    "branch": "master",
-    "metadata": {
-      "review": {
-        "id": 6,
-        "status": "reviewed",
-        "version": "0.1.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/6"
-      }
-    }
-  },
-  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "branch": "main",
