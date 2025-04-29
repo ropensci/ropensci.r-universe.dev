@@ -1528,7 +1528,7 @@
         "@type": "Person",
         "givenName": "Maëlle",
         "familyName": "Salmon",
-        "email": "msmaellesalmon@gmail.com",
+        "email": "maelle@ropensci.org",
         "@id": "https://orcid.org/0000-0002-2815-0399"
       }
     ],
@@ -1543,7 +1543,7 @@
         "@type": "Person",
         "givenName": "Maëlle",
         "familyName": "Salmon",
-        "email": "msmaellesalmon@gmail.com",
+        "email": "maelle@ropensci.org",
         "@id": "https://orcid.org/0000-0002-2815-0399"
       }
     ],
@@ -3162,7 +3162,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.125",
+    "version": "0.1.2.126",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -59177,6 +59177,18 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=duckdb"
       },
+      "20": {
+        "@type": "SoftwareApplication",
+        "identifier": "DBI",
+        "name": "DBI",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=DBI"
+      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -86568,6 +86580,7 @@
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
+        "version": ">= 1.1.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
