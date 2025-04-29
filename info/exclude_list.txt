@@ -41,6 +41,7 @@ exploRingJSON
 fishbaseapi
 fishbaseapidocs
 fishbasestatus
+FTCFOSS-Guide
 fulltext-book
 gbif-backbone-sql
 geofilter
