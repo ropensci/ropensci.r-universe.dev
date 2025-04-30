@@ -482,7 +482,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/autotest",
     "issueTracker": "https://github.com/ropensci-review-tools/autotest/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.0.2.211",
+    "version": "0.0.2.212",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70389,95 +70389,6 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
-    "identifier": "rrlite",
-    "description": "R bindings to rlite. rlite is a \"self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.\".",
-    "name": "rrlite: R Bindings to rlite",
-    "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.4.0",
-    "programmingLanguage": {
-      "@type": "ComputerLanguage",
-      "name": "R",
-      "url": "https://r-project.org"
-    },
-    "runtimePlatform": "R version 4.5.0 (2025-04-11)",
-    "author": [
-      {
-        "@type": "Person",
-        "givenName": "Rich",
-        "familyName": "FitzJohn",
-        "email": "rich.fitzjohn@gmail.com"
-      }
-    ],
-    "copyrightHolder": [
-      {
-        "@type": "Person",
-        "givenName": "Sebastian",
-        "familyName": "Waisbrot"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Lua.org",
-        "familyName": "PUC-Rio"
-      }
-    ],
-    "maintainer": [
-      {
-        "@type": "Person",
-        "givenName": "Rich",
-        "familyName": "FitzJohn",
-        "email": "rich.fitzjohn@gmail.com"
-      }
-    ],
-    "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
-      }
-    ],
-    "softwareRequirements": {
-      "1": {
-        "@type": "SoftwareApplication",
-        "identifier": "R",
-        "name": "R",
-        "version": ">= 3.1.0"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "redux",
-        "name": "redux",
-        "version": ">= 0.5.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=redux"
-      },
-      "SystemRequirements": "GNU make"
-    },
-    "fileSize": "0KB",
-    "codeRepository": "https://github.com/ropensci/rrlite",
-    "readme": "https://github.com/ropensci/rrlite/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/6",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
-    "keywords": "peer-reviewed"
-  },
-  {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
     "identifier": "rrricanes",
     "description": "Get archived data of past and current hurricanes and tropical storms for the Atlantic and eastern Pacific oceans. Data is available for storms since 1998. Datasets are updated via the rrricanesdata package. Currently, this package is about 6MB of datasets. See the README or view `vignette(\"drat\")` for more information.",
     "name": "rrricanes: Web Scraper for Atlantic and East Pacific Hurricanes and Tropical Storms",
@@ -89847,7 +89758,7 @@
     "codeRepository": "https://github.com/ropensci/webmockr",
     "issueTracker": "https://github.com/ropensci/webmockr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.0",
+    "version": "2.0.0.91",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

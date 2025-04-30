@@ -53,7 +53,7 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 12:25:13",
+      "date_last_commit": "2025-04-29 15:23:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-27 18:52:23",
+      "date_last_commit": "2025-04-29 11:16:41",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -688,7 +688,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 13:04:15",
+      "date_last_commit": "2025-04-29 12:46:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -728,7 +728,7 @@
       "url": "https://github.com/ropensci/babette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-12 08:43:05",
+      "date_last_commit": "2025-04-29 10:03:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1485,7 +1485,7 @@
       "url": "https://github.com/ropensci/CoordinateCleaner",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-03-05 17:39:23",
+      "date_last_commit": "2025-04-29 13:22:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2245,7 +2245,7 @@
       "url": "https://github.com/ropensci/fingertipsR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-22 13:18:10",
+      "date_last_commit": "2025-04-29 13:50:00",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3025,7 +3025,7 @@
       "url": "https://github.com/ropensci/jstor",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-17 15:03:13",
+      "date_last_commit": "2025-04-29 13:31:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3085,7 +3085,7 @@
       "url": "https://github.com/ropensci/landscapetools",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2022-10-12 11:48:11",
+      "date_last_commit": "2025-04-29 13:11:15",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3225,7 +3225,7 @@
       "url": "https://github.com/ropensci/mbquartR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-07 18:52:04",
+      "date_last_commit": "2025-04-29 19:15:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3325,7 +3325,7 @@
       "url": "https://github.com/ropensci/MODIStsp",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-18 14:56:18",
+      "date_last_commit": "2025-04-29 13:45:29",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3465,7 +3465,7 @@
       "url": "https://github.com/ropensci/NLMR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-02 10:08:36",
+      "date_last_commit": "2025-04-29 13:47:08",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3945,7 +3945,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-28 22:07:09",
+      "date_last_commit": "2025-04-29 13:26:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4125,7 +4125,7 @@
       "url": "https://github.com/ropensci/piggyback",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-20 19:09:24",
+      "date_last_commit": "2025-04-29 17:31:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-24 10:32:31",
+      "date_last_commit": "2025-04-30 06:51:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5265,27 +5265,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-21 20:22:00",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
-      "name": "rrlite",
-      "description": "R Bindings to rlite",
-      "details": "R bindings to rlite. rlite is a \"self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.\".",
-      "maintainer": "Rich FitzJohn",
-      "keywords": "peer-reviewed",
-      "github": "https://github.com/ropensci/rrlite",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/6",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/rrlite",
-      "ropensci_category": "databases",
-      "ropenscilabs": false,
-      "date_last_commit": "2024-11-05 08:23:30",
+      "date_last_commit": "2025-04-29 14:19:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5305,7 +5285,7 @@
       "url": "https://github.com/ropensci/rrricanes",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-10-08 01:39:20",
+      "date_last_commit": "2025-04-29 13:23:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6485,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-28 17:56:05",
+      "date_last_commit": "2025-04-30 05:24:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6505,7 +6485,7 @@
       "url": "https://github.com/ropensci/virtuoso",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-04-22 19:15:19",
+      "date_last_commit": "2025-04-29 13:21:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6665,7 +6645,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-28 17:45:31",
+      "date_last_commit": "2025-04-29 16:47:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6931,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-29 07:59 UTC"
+  "date": "2025-04-30 08:00 UTC"
 }
