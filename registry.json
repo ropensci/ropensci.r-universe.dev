@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-30 06:51:35",
+      "date_last_commit": "2025-04-30 11:13:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5865,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-25 20:26:42",
+      "date_last_commit": "2025-04-30 16:41:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-30 05:24:17",
+      "date_last_commit": "2025-04-30 21:07:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-04-30 08:00 UTC"
+  "date": "2025-05-01 07:57 UTC"
 }
