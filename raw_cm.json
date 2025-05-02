@@ -333,7 +333,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.1.2"
+        "version": ">= 3.5"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -59167,18 +59167,6 @@
       },
       "19": {
         "@type": "SoftwareApplication",
-        "identifier": "duckdb",
-        "name": "duckdb",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=duckdb"
-      },
-      "20": {
-        "@type": "SoftwareApplication",
         "identifier": "DBI",
         "name": "DBI",
         "provider": {
@@ -59188,6 +59176,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=DBI"
+      },
+      "20": {
+        "@type": "SoftwareApplication",
+        "identifier": "RSQLite",
+        "name": "RSQLite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=RSQLite"
       },
       "SystemRequirements": null
     },
@@ -61639,6 +61639,13 @@
         "givenName": "Dave",
         "familyName": "Slager",
         "@id": "https://orcid.org/0000-0003-2525-2039"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Richard",
+        "familyName": "Littauer",
+        "email": "richard.littauer@gmail.com",
+        "@id": "https://orcid.org/0000-0001-5428-7535"
       }
     ],
     "maintainer": [
