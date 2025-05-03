@@ -54827,7 +54827,7 @@
     "codeRepository": "https://github.com/ropensci/piggyback",
     "issueTracker": "https://github.com/ropensci/piggyback/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.5.9005",
+    "version": "0.1.5.9006",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -66117,7 +66117,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.16.0",
+    "version": "0.16.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

@@ -807,7 +807,7 @@
       "url": "https://github.com/ropensci/beastier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-22 18:50:38",
+      "date_last_commit": "2025-04-14 13:11:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -827,7 +827,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-22 10:11:11",
+      "date_last_commit": "2025-04-29 10:03:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2665,7 +2665,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-06 08:10:49",
+      "date_last_commit": "2025-05-03 04:03:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4125,7 +4125,7 @@
       "url": "https://github.com/ropensci/piggyback",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 17:31:24",
+      "date_last_commit": "2025-05-02 15:47:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-30 11:13:33",
+      "date_last_commit": "2025-05-02 19:30:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-02 05:48:16",
+      "date_last_commit": "2025-05-03 04:33:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-02 07:58 UTC"
+  "date": "2025-05-03 08:00 UTC"
 }
