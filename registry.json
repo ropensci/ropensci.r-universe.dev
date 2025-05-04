@@ -3505,7 +3505,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-30 12:38:52",
+      "date_last_commit": "2025-05-03 16:50:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-02 19:30:41",
+      "date_last_commit": "2025-05-03 13:13:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-03 08:00 UTC"
+  "date": "2025-05-04 07:56 UTC"
 }
