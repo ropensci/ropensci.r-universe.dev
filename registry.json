@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-20 16:18:26",
+      "date_last_commit": "2025-05-06 13:55:13",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-28 13:02:13",
+      "date_last_commit": "2025-05-06 09:05:33",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -471,7 +471,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-11 11:20:35",
+      "date_last_commit": "2025-05-06 10:18:56",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1405,7 +1405,7 @@
       "url": "https://github.com/ropensci/coder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2023-03-14 16:23:17",
+      "date_last_commit": "2025-05-05 15:19:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2392,7 +2392,7 @@
     },
     {
       "name": "geotargets",
-      "description": "'Targets' Extensions for Geographic Spatial Formats",
+      "description": "'targets' Extensions for Geographic Spatial Formats",
       "details": "Provides extensions for various geographic spatial file formats, such as shape files and rasters. Currently provides support for the 'terra' geographic spatial formats. See the vignettes for worked examples, demonstrations, and explanations of how to use the various package extensions.",
       "maintainer": "Nicholas Tierney",
       "keywords": "geospatial, pipeline, r-targetopia, raster, reproducibility, reproducible-research, targets, vector, workflow",
@@ -2405,7 +2405,7 @@
       "url": "https://github.com/ropensci/geotargets",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 06:38:46",
+      "date_last_commit": "2025-05-05 13:06:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2665,7 +2665,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-03 04:03:52",
+      "date_last_commit": "2025-05-05 13:02:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4445,7 +4445,7 @@
       "url": "https://github.com/ropensci/rb3",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-04 13:29:13",
+      "date_last_commit": "2025-05-05 09:12:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-03 13:13:44",
+      "date_last_commit": "2025-05-06 05:59:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5845,7 +5845,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-18 15:46:48",
+      "date_last_commit": "2025-05-05 18:53:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5865,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-30 16:41:21",
+      "date_last_commit": "2025-05-06 17:08:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5965,7 +5965,7 @@
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-03 09:20:21",
+      "date_last_commit": "2025-05-05 15:55:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6165,7 +6165,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 00:30:44",
+      "date_last_commit": "2025-05-05 15:45:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-05 04:41:23",
+      "date_last_commit": "2025-05-06 21:40:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-05 08:00 UTC"
+  "date": "2025-05-07 08:03 UTC"
 }
