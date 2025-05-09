@@ -53550,8 +53550,7 @@
       {
         "@type": "Person",
         "givenName": "Nathan",
-        "familyName": "Fox",
-        "email": "nf2g13@soton.ac.uk"
+        "familyName": "Fox"
       },
       {
         "@type": "Person",
@@ -53577,9 +53576,9 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Nathan",
-        "familyName": "Fox",
-        "email": "nf2g13@soton.ac.uk"
+        "givenName": "Isaac",
+        "familyName": "Bravo",
+        "email": "isaac.bravo@tum.de"
       }
     ],
     "softwareSuggestions": [
@@ -77622,7 +77621,7 @@
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.0.9003",
+    "version": "0.13.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -77936,7 +77935,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.2.9006",
+    "version": "1.11.3.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
