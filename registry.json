@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-15 10:02:49",
+      "date_last_commit": "2025-05-09 08:23:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-14 09:20:17",
+      "date_last_commit": "2025-05-09 08:03:37",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -4965,7 +4965,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-08 12:20:22",
+      "date_last_commit": "2025-05-09 22:20:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5845,7 +5845,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-08 16:11:57",
+      "date_last_commit": "2025-05-09 20:20:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5865,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-08 17:04:06",
+      "date_last_commit": "2025-05-09 20:26:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-09 07:58 UTC"
+  "date": "2025-05-10 08:03 UTC"
 }

@@ -4499,7 +4499,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.5",
+    "version": "0.2.0.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
