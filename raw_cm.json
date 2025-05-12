@@ -12837,7 +12837,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.16.6",
+    "version": "0.17.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
