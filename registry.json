@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-12 08:54:03",
+      "date_last_commit": "2025-05-13 13:11:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1165,7 +1165,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-22 17:36:45",
+      "date_last_commit": "2025-05-13 19:54:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3925,7 +3925,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:23:19",
+      "date_last_commit": "2025-05-13 15:17:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5865,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-12 14:15:10",
+      "date_last_commit": "2025-05-13 13:19:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-12 22:14:33",
+      "date_last_commit": "2025-05-13 18:27:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6911,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-13 08:00 UTC"
+  "date": "2025-05-14 08:01 UTC"
 }
