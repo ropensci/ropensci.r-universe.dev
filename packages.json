@@ -1309,6 +1309,20 @@
     "branch": "main"
   },
   {
+    "package": "forcis",
+    "url": "https://github.com/ropensci/forcis",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 660,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/660"
+      }
+    }
+  },
+  {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r",
     "branch": "main",
