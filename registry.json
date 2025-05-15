@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 13:11:59",
+      "date_last_commit": "2025-05-14 14:02:05",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2291,6 +2291,24 @@
       "staff_maintained": true
     },
     {
+      "name": "forcis",
+      "description": "An R Client to Access the FORCIS Database",
+      "details": "Provides an interface to the FORCIS database (<doi:10.5281/zenodo.7390791>) on global foraminifera distribution. This package allows to download and to handle FORCIS data. It is part of the FRB-CESAB working group FORCIS. <https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/>.",
+      "maintainer": "Nicolas Casajus",
+      "keywords": "",
+      "github": "https://github.com/ropensci/forcis",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/660",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/forcis",
+      "date_last_commit": "2025-05-14 13:00:17",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "gbifdb",
       "description": "High Performance Interface to 'GBIF'",
       "details": "A high performance interface to the Global Biodiversity Information Facility, 'GBIF'. In contrast to 'rgbif', which can access small subsets of 'GBIF' data through web-based queries to a central server, 'gbifdb' provides enhanced performance for R users performing large-scale analyses on servers and cloud computing providers, providing full support for arbitrary 'SQL' or 'dplyr' operations on the complete 'GBIF' data tables (now over 1 billion records, and over a terabyte in size). 'gbifdb' accesses a copy of the 'GBIF' data in 'parquet' format, which is already readily available in commercial computing clouds such as the Amazon Open Data portal and the Microsoft Planetary Computer, or can be accessed directly without downloading, or downloaded to any server with suitable bandwidth and storage space. The high-performance techniques for local and remote access are described in <https://duckdb.org/why_duckdb> and <https://arrow.apache.org/docs/r/articles/fs.html> respectively.",
@@ -2405,7 +2423,7 @@
       "url": "https://github.com/ropensci/geotargets",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 05:31:46",
+      "date_last_commit": "2025-05-15 07:18:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3925,7 +3943,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 15:17:54",
+      "date_last_commit": "2025-05-15 07:32:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5865,7 +5883,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 13:19:52",
+      "date_last_commit": "2025-05-14 19:46:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6465,7 +6483,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 18:27:35",
+      "date_last_commit": "2025-05-14 17:11:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6911,5 +6929,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-14 08:01 UTC"
+  "date": "2025-05-15 07:58 UTC"
 }

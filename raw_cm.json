@@ -4499,7 +4499,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.12",
+    "version": "0.2.0.17",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -30051,6 +30051,537 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "forcis",
+    "description": "Provides an interface to the FORCIS database (<doi:10.5281/zenodo.7390791>) on global foraminifera distribution. This package allows to download and to handle FORCIS data. It is part of the FRB-CESAB working group FORCIS. <https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/>.",
+    "name": "forcis: An R Client to Access the FORCIS Database",
+    "relatedLink": ["https://docs.ropensci.org/forcis/", "https://github.com/ropensci/forcis"],
+    "codeRepository": "https://github.com/ropensci/forcis",
+    "issueTracker": "https://github.com/ropensci/forcis/issues",
+    "license": "https://spdx.org/licenses/GPL-2.0",
+    "version": "1.0.0",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.0 (2025-04-11)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Nicolas",
+        "familyName": "Casajus",
+        "email": "nicolas.casajus@fondationbiodiversite.fr",
+        "@id": "https://orcid.org/0000-0002-5537-5294"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Mattia",
+        "familyName": "Greco",
+        "email": "mattia_greco@outlook.com",
+        "@id": "https://orcid.org/0000-0003-2416-6235"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Sonia",
+        "familyName": "Chaabane",
+        "email": "sonia.chaabane@gmail.com",
+        "@id": "https://orcid.org/0000-0002-4653-8610"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Xavier",
+        "familyName": "Giraud",
+        "email": "giraud@cerege.fr",
+        "@id": "https://orcid.org/0000-0001-5067-8176"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Thibault",
+        "familyName": "de Garidel-Thoron",
+        "email": "garidel@cerege.fr",
+        "@id": "https://orcid.org/0000-0001-8983-9571"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Khalil",
+        "familyName": "Hammami",
+        "email": "khalil.hammami@enetcom.usf.tn"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Nicolas",
+        "familyName": "Casajus",
+        "email": "nicolas.casajus@fondationbiodiversite.fr",
+        "@id": "https://orcid.org/0000-0002-5537-5294"
+      }
+    ],
+    "funder": [
+      {
+        "@type": "Organization",
+        "name": "FRB-CESAB"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Nicolas",
+        "familyName": "Casajus",
+        "email": "nicolas.casajus@fondationbiodiversite.fr",
+        "@id": "https://orcid.org/0000-0002-5537-5294"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "fs",
+        "name": "fs",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=fs"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "httptest2",
+        "name": "httptest2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httptest2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "vdiffr",
+        "name": "vdiffr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vdiffr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "ggplot2",
+        "name": "ggplot2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr2",
+        "name": "httr2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "sf",
+        "name": "sf",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=sf"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "utils",
+        "name": "utils"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "vroom",
+        "name": "vroom",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vroom"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "SoftwareSourceCode",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Organization",
+            "name": "Casajus Nicolas"
+          },
+          {
+            "@type": "Organization",
+            "name": "Greco Mattia"
+          },
+          {
+            "@type": "Organization",
+            "name": "Chaabane Sonia"
+          },
+          {
+            "@type": "Organization",
+            "name": "Giraud Xavier"
+          },
+          {
+            "@type": "Organization",
+            "name": "de Garidel-Thoron Thibault"
+          }
+        ],
+        "name": "forcis: {An} {R} client to access the {FORCIS} database",
+        "url": "https://docs.ropensci.org/forcis/",
+        "description": "R package version 1.0.0"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2023",
+        "author": [
+          {
+            "@type": "Organization",
+            "name": "Chaabane Sonia"
+          },
+          {
+            "@type": "Organization",
+            "name": "De Garidel-Thoron Thibault"
+          },
+          {
+            "@type": "Organization",
+            "name": "Giraud Xavier"
+          },
+          {
+            "@type": "Organization",
+            "name": "Schiebel Ralf"
+          },
+          {
+            "@type": "Organization",
+            "name": "Beaugrand Gregory"
+          },
+          {
+            "@type": "Organization",
+            "name": "Brummer Geert-Jan"
+          },
+          {
+            "@type": "Organization",
+            "name": "Casajus Nicolas"
+          },
+          {
+            "@type": "Organization",
+            "name": "Greco Mattia"
+          },
+          {
+            "@type": "Organization",
+            "name": "Grigoratou Maria"
+          },
+          {
+            "@type": "Organization",
+            "name": "Howa Hélène"
+          },
+          {
+            "@type": "Organization",
+            "name": "Jonkers Lukas"
+          },
+          {
+            "@type": "Organization",
+            "name": "Kucera Michal"
+          },
+          {
+            "@type": "Organization",
+            "name": "Kuroyanagi Azumi"
+          },
+          {
+            "@type": "Organization",
+            "name": "Meilland Julie"
+          },
+          {
+            "@type": "Organization",
+            "name": "Monteiro Fanny"
+          },
+          {
+            "@type": "Organization",
+            "name": "Mortyn Graham"
+          },
+          {
+            "@type": "Organization",
+            "name": "Almogi-Labin Ahuva"
+          },
+          {
+            "@type": "Organization",
+            "name": "Asahi Hirofumi"
+          },
+          {
+            "@type": "Organization",
+            "name": "Avnaim-Katav Simona"
+          },
+          {
+            "@type": "Organization",
+            "name": "Bassinot Franck"
+          },
+          {
+            "@type": "Organization",
+            "name": "Davis Catherine V."
+          },
+          {
+            "@type": "Organization",
+            "name": "Field David B."
+          },
+          {
+            "@type": "Organization",
+            "name": "Hernández-Almeida Iván"
+          },
+          {
+            "@type": "Organization",
+            "name": "Herut Barak"
+          },
+          {
+            "@type": "Organization",
+            "name": "Hosie Graham"
+          },
+          {
+            "@type": "Organization",
+            "name": "Howard Will"
+          },
+          {
+            "@type": "Organization",
+            "name": "Jentzen Anna"
+          },
+          {
+            "@type": "Organization",
+            "name": "Johns David G."
+          },
+          {
+            "@type": "Organization",
+            "name": "Keigwin Lloyd"
+          },
+          {
+            "@type": "Organization",
+            "name": "Kitchener John"
+          },
+          {
+            "@type": "Organization",
+            "name": "Kohfeld Karen E."
+          },
+          {
+            "@type": "Organization",
+            "name": "Lessa Douglas V. O."
+          },
+          {
+            "@type": "Organization",
+            "name": "Manno Clara"
+          },
+          {
+            "@type": "Organization",
+            "name": "Marchant Margarita"
+          },
+          {
+            "@type": "Organization",
+            "name": "Ofstad Siri"
+          },
+          {
+            "@type": "Organization",
+            "name": "Ortiz Joseph D."
+          },
+          {
+            "@type": "Organization",
+            "name": "Post Alexandra"
+          },
+          {
+            "@type": "Organization",
+            "name": "Rigual-Hernandez Andres"
+          },
+          {
+            "@type": "Organization",
+            "name": "Rillo Marina C."
+          },
+          {
+            "@type": "Organization",
+            "name": "Robinson Karen"
+          },
+          {
+            "@type": "Organization",
+            "name": "Sagawa Takuya"
+          },
+          {
+            "@type": "Organization",
+            "name": "Sierro Francisco"
+          },
+          {
+            "@type": "Organization",
+            "name": "Takahashi Kunio T."
+          },
+          {
+            "@type": "Organization",
+            "name": "Torfstein Adi"
+          },
+          {
+            "@type": "Organization",
+            "name": "Venancio Igor"
+          },
+          {
+            "@type": "Organization",
+            "name": "Yamasaki Makoto"
+          },
+          {
+            "@type": "Organization",
+            "name": "Ziveri Patrizia"
+          }
+        ],
+        "name": "The {FORCIS} database: {A} global census of planktonic {F}oraminifera from ocean waters",
+        "identifier": "10.1038/s41597-023-02264-2",
+        "pagination": "354",
+        "@id": "https://doi.org/10.1038/s41597-023-02264-2",
+        "sameAs": "https://doi.org/10.1038/s41597-023-02264-2",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "datePublished": "2023",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "10",
+            "name": "Scientific Data"
+          }
+        }
+      }
+    ],
+    "readme": "https://github.com/ropensci/forcis/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/660",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": []
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "gbifdb",
     "description": "A high performance interface to the Global Biodiversity Information Facility, 'GBIF'. In contrast to 'rgbif', which can access small subsets of 'GBIF' data through web-based queries to a central server, 'gbifdb' provides enhanced performance for R users performing large-scale analyses on servers and cloud computing providers, providing full support for arbitrary 'SQL' or 'dplyr' operations on the complete 'GBIF' data tables (now over 1 billion records, and over a terabyte in size). 'gbifdb' accesses a copy of the 'GBIF' data in 'parquet' format, which is already readily available in commercial computing clouds such as the Amazon Open Data portal and the Microsoft Planetary Computer, or can be accessed directly without downloading, or downloaded to any server with suitable bandwidth and storage space. The high-performance techniques for local and remote access are described in <https://duckdb.org/why_duckdb> and <https://arrow.apache.org/docs/r/articles/fs.html> respectively.",
     "name": "gbifdb: High Performance Interface to 'GBIF'",
@@ -30962,7 +31493,7 @@
     "codeRepository": "https://github.com/ropensci/geotargets",
     "issueTracker": "https://github.com/ropensci/geotargets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0.9000",
+    "version": "0.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -31106,18 +31637,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "gdalraster",
-        "name": "gdalraster",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=gdalraster"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "spelling",
         "name": "spelling",
         "provider": {
@@ -31224,6 +31743,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=lifecycle"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "gdalraster",
+        "name": "gdalraster",
+        "version": ">= 2.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gdalraster"
       },
       "SystemRequirements": null
     },
@@ -52460,7 +52992,7 @@
     "codeRepository": "https://github.com/ropensci/parzer",
     "issueTracker": "https://github.com/ropensci/parzer/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.1.9001",
+    "version": "0.4.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -52485,7 +53017,7 @@
         "@type": "Person",
         "givenName": "Alban",
         "familyName": "Sagouis",
-        "email": "sagouis@pm.me",
+        "email": "alban.sagouis@idiv.de",
         "@id": "https://orcid.org/0000-0002-3827-1063"
       }
     ],
@@ -52493,7 +53025,8 @@
       {
         "@type": "Person",
         "givenName": "Alec L.",
-        "familyName": "Robitaille"
+        "familyName": "Robitaille",
+        "@id": "https://orcid.org/0000-0002-4706-1762"
       },
       {
         "@type": "Person",
@@ -52516,6 +53049,10 @@
       {
         "@type": "Organization",
         "name": "rOpenSci"
+      },
+      {
+        "@type": "Organization",
+        "name": "German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig"
       }
     ],
     "maintainer": [
@@ -52523,7 +53060,7 @@
         "@type": "Person",
         "givenName": "Alban",
         "familyName": "Sagouis",
-        "email": "sagouis@pm.me",
+        "email": "alban.sagouis@idiv.de",
         "@id": "https://orcid.org/0000-0002-3827-1063"
       }
     ],
@@ -52543,27 +53080,39 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "knitr",
-        "name": "knitr",
+        "identifier": "quarto",
+        "name": "quarto",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=knitr"
+        "sameAs": "https://CRAN.R-project.org/package=quarto"
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
+        "identifier": "sf",
+        "name": "sf",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+        "sameAs": "https://CRAN.R-project.org/package=sf"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "leaflet",
+        "name": "leaflet",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=leaflet"
       },
       {
         "@type": "SoftwareApplication",
@@ -52628,7 +53177,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
       },
-      "SystemRequirements": "C++11"
+      "SystemRequirements": null
     },
     "applicationCategory": "Geospatial",
     "isPartOf": "https://ropensci.org",
@@ -78509,7 +79058,7 @@
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
-        "version": ">= 1.12.8",
+        "version": ">= 1.16.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
