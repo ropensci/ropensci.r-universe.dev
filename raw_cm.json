@@ -27919,7 +27919,7 @@
     "codeRepository": "https://github.com/ropensci/excluder",
     "issueTracker": "https://github.com/ropensci/excluder/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.5.1",
+    "version": "0.5.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -31493,7 +31493,7 @@
     "codeRepository": "https://github.com/ropensci/geotargets",
     "issueTracker": "https://github.com/ropensci/geotargets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.1",
+    "version": "0.3.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -43242,7 +43242,7 @@
     "codeRepository": "https://github.com/ropensci/MODIStsp",
     "issueTracker": "https://github.com/ropensci/MODIStsp/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.1.0",
+    "version": "2.1.0.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65532,8 +65532,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/rgbif/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/rgbif/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -66848,12 +66847,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rix/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/625",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["nix", "peer-reviewed", "reproducibility", "reproducible-research"]
   },
   {
@@ -68354,8 +68347,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/RNeXML/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/RNeXML/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -70632,12 +70624,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rppo/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/207",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": "peer-reviewed"
   },
   {
@@ -72271,8 +72257,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["gene", "snp", "sequence", "api", "web", "api-client", "species", "dbsnp", "opensnp", "ncbi", "genotype", "data", "snps", "web-api"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/rsnps/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/rsnps/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -72440,7 +72425,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rsvg/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["librsvg", "glib", "cairo"]
   },
   {
@@ -73675,8 +73659,7 @@
     "isPartOf": "\"https://ropensci.org\"",
     "keywords": ["species", "occurrences", "biodiversity", "maps", "vertnet", "mammals", "mammalia", "specimens", "api-wrapper", "specimen", "spocc"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/rvertnet/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/rvertnet/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -73743,7 +73726,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rzmq/blob/HEAD/README.md",
-    "developmentStatus": "http://www.repostatus.org/#active",
     "keywords": ["zeromq", "zmq", "zeromq3", "cpp"]
   },
   {
@@ -74468,12 +74450,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/skynet/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/214",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["air-transport", "bts", "bureau-of-transport-statistics", "db1b", "peer-reviewed", "rita", "skynet", "t100", "transtats"]
   },
   {
@@ -74968,12 +74944,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/smapr/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/231",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": ["https://www.tidyverse.org/lifecycle/#maturing", "http://www.repostatus.org/#active"],
     "keywords": ["acquisition", "extract-data", "nasa", "peer-reviewed", "raster", "smap-data", "soil-mapping", "soil-moisture", "soil-moisture-sensor"]
   },
   {
@@ -76143,7 +76113,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/ssh/blob/HEAD/README.md",
-    "developmentStatus": "http://www.repostatus.org/#active",
     "keywords": ["libssh", "ssh", "ssh-client"]
   },
   {
@@ -76503,12 +76472,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/stantargets/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/430",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["bayesian", "high-performance-computing", "make", "r-targetopia", "reproducibility", "stan", "statistics", "targets"]
   },
   {
@@ -78152,12 +78115,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/tacmagic/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/280",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["mri", "neuroimaging", "neuroscience", "neuroscience-methods", "pet", "pet-mr", "positron", "positron-emission-tomography", "statistics"]
   },
   {
@@ -80691,7 +80648,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/taxizedb/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["itis", "taxize", "taxonomic-databases", "taxonomy"]
   },
   {
@@ -82258,7 +82214,7 @@
     "codeRepository": "https://github.com/ropensci/tidyhydat",
     "issueTracker": "https://github.com/ropensci/tidyhydat/issues/",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "0.7.1",
+    "version": "0.7.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -82577,12 +82533,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/tidyhydat/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/152",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["citz", "government-data", "hydrology", "hydrometrics", "tidy-data", "water-resources"]
   },
   {
@@ -86023,12 +85973,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/UCSCXenaTools/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/315",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["api-client", "bioinformatics", "ccle", "downloader", "icgc", "tcga", "toil", "treehouse", "ucsc", "ucsc-xena"]
   },
   {
@@ -86869,18 +86813,6 @@
       }
     ],
     "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "crayon",
-        "name": "crayon",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=crayon"
-      },
       {
         "@type": "SoftwareApplication",
         "identifier": "crul",
@@ -91006,12 +90938,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/workloopR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/326",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["ddf", "muscle-force", "muscle-physiology-experiments", "tetanus", "work-loop", "workloop"]
   },
   {
@@ -92858,8 +92784,7 @@
       "SystemRequirements": null
     },
     "fileSize": "0KB",
-    "readme": "https://github.com/ropenscilabs/quartificate/blob/HEAD/README.md",
-    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#experimental"
+    "readme": "https://github.com/ropenscilabs/quartificate/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
