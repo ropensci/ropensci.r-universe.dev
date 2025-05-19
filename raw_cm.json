@@ -2864,6 +2864,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-org/gitcellar/blob/HEAD/README.md",
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#experimental",
     "keywords": ["github", "github-backup", "github-backups"]
   },
   {
@@ -3505,6 +3506,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/pkgcheck/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["compliance-automation", "software-analysis", "software-checking"]
   },
   {
@@ -4140,6 +4142,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-org/pkgreviewr/blob/HEAD/README.md",
+    "developmentStatus": "https://www.tidyverse.org/lifecycle/#maturing",
     "keywords": ["review", "ropensci", "ropensci-reviews", "unconf", "unconf18"]
   },
   {
@@ -6078,7 +6081,13 @@
         "sameAs": "https://doi.org/10.5281/zenodo.10926857"
       }
     ],
-    "readme": "https://github.com/Permian-Global-Research/rsi/blob/HEAD/README.md"
+    "readme": "https://github.com/Permian-Global-Research/rsi/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/636",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html#maturing", "https://www.repostatus.org/#active"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -12074,7 +12083,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -14264,6 +14274,12 @@
     },
     "fileSize": "0KB",
     "readme": "https://github.com/ropensci/camsRad/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/72",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "http://www.repostatus.org/#active",
     "keywords": "peer-reviewed"
   },
   {
@@ -15868,6 +15884,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/chirps/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/357",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["chirps", "climatology", "precipitation-data"]
   },
   {
@@ -15984,6 +16006,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/chlorpromazineR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/307/",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": [],
     "keywords": ["antipsychotic", "pharmacology", "psychiatry", "schizophrenia"]
   },
   {
@@ -16739,6 +16767,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/circle/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/356",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["api-client", "circle-ci", "continuous-deployment", "continuous-integration"]
   },
   {
@@ -16890,7 +16924,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["doi", "metadata", "citation", "opencitations", "bibtex", "citations", "pmcid", "pmid", "sparql"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/citecorp/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/citecorp/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -17321,6 +17356,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/cld3/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/",
     "keywords": ["cld", "cld3", "language-detection", "language-detector", "protobuf", "cpp"]
   },
   {
@@ -17803,7 +17839,13 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["metadata", "codemeta", "ropensci", "citation", "credit", "linked-data", "json-ld", "peer-reviewed"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/130",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -19352,7 +19394,13 @@
         "sameAs": "https://doi.org/10.5281/zenodo.7845945"
       }
     ],
-    "readme": "https://github.com/ropensci/CRediTas/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/CRediTas/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/576",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -19850,7 +19898,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["http", "https", "api", "web-services", "curl", "download", "libcurl", "async", "mocking", "caching"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/crul/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/crul/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -20908,7 +20957,8 @@
         "sameAs": "https://doi.org/10.5063/F1QV3JGM"
       }
     ],
-    "readme": "https://github.com/ropensci/datapack/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/datapack/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -33893,7 +33943,13 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/GLMMcosinor/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/GLMMcosinor/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/603",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -40214,6 +40270,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/lightr/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/267",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["file-import", "reproducibility", "reproducible-research", "reproducible-science", "spectral-data", "spectroscopy"]
   },
   {
@@ -43742,6 +43804,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/MODIStsp/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/184",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": [],
     "keywords": ["gdal", "modis", "modis-data", "modis-land-products", "peer-reviewed", "preprocessing", "remote-sensing", "satellite-imagery", "time-series"]
   },
   {
@@ -44757,7 +44825,13 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/naijR/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/naijR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/600",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#stable"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -45887,6 +45961,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/NLMR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/188",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.tidyverse.org/lifecycle/#maturing",
     "keywords": ["landscape-ecology", "neutral-landscape-model", "peer-reviewed", "spatial", "cpp"]
   },
   {
@@ -47891,6 +47971,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/oai/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/19",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["data-access", "oai-pmh", "peer-reviewed", "scholarly-api"]
   },
   {
@@ -50951,13 +51037,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/osmapiR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/633",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/osmapiR/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -52497,8 +52577,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["pangaea", "environmental science", "earth science", "archive", "paleontology", "ecology", "chemistry", "atmosphere", "api-client", "data", "paleobiology", "scientific", "webservice-client"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -53716,6 +53795,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/pdftools/blob/HEAD/README.md",
+    "developmentStatus": "http://www.repostatus.org/#active",
     "keywords": ["pdf-files", "pdf-format", "pdftools", "poppler", "poppler-library", "text-extraction", "cpp"]
   },
   {
@@ -54836,8 +54916,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["phylogeny", "phylocom", "phylodiversity", "community\nstructure", "character evolution", "species", "community-ecology", "ecology", "evolution"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/phylocomr/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/phylocomr/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -55583,6 +55662,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/piggyback/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/220",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["data-store", "git-lfs", "peer-reviewed"]
   },
   {
@@ -65748,6 +65833,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rgnparser/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": "taxonomy"
   },
   {
@@ -79161,6 +79247,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/targets/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/401",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["data-science", "high-performance-computing", "make", "peer-reviewed", "pipeline", "r-targetopia", "reproducibility", "reproducible-research", "targets", "workflow"]
   },
   {
@@ -91070,7 +91162,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["biology", "science", "marine", "api", "web", "api-client", "worms", "species", "api-wrapper", "biological-data", "fish", "jerico-relevant", "marine-biology", "marine-species", "taxize", "taxonomy"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/worrms/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/worrms/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -92070,7 +92163,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropenscilabs/deposits/blob/HEAD/README.md"
+    "readme": "https://github.com/ropenscilabs/deposits/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#wip"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
