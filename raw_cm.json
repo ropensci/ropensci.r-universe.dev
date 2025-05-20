@@ -12083,8 +12083,7 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -12824,8 +12823,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["biodiversity", "barcode", "dna", "sequences", "fasta", "api-wrapper", "barcodes", "taxize"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/bold/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/bold/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -14034,6 +14032,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.0 (2025-04-11)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -16767,12 +16771,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/circle/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/356",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["api-client", "circle-ci", "continuous-deployment", "continuous-integration"]
   },
   {
@@ -17839,13 +17837,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["metadata", "codemeta", "ropensci", "citation", "credit", "linked-data", "json-ld", "peer-reviewed"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/130",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/"
+    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -18630,12 +18622,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/comtradr/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/613",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["api", "comtrade", "peer-reviewed", "supply-chain"]
   },
   {
@@ -25619,8 +25605,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["database", "elasticsearch", "http", "api", "search", "nosql", "java", "json", "documents", "data-science", "database-wrapper", "etl"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/elastic/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/elastic/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -26670,12 +26655,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/EndoMineR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/153",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["endoscopy", "gastroenterology", "peer-reviewed", "semi-structured-data", "text-mining"]
   },
   {
@@ -28706,12 +28685,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/fastMatMR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/606",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#stable",
     "keywords": ["cpp17", "matrix-market", "matrix-market-format", "r-cpp11", "cpp"]
   },
   {
@@ -30571,13 +30544,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/forcis/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/660",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/forcis/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -30754,8 +30721,7 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/gbifdb/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/gbifdb/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -31128,8 +31094,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["geojson", "geospatial", "conversion", "data", "input-output", "bbox", "polygon", "geobuf", "crs", "ndgeojson", "spatial"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/geojson/blob/HEAD/README.md",
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/geojson/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -31425,8 +31390,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["geojson", "topojson", "geospatial", "conversion", "data", "input-output", "io"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/geojsonio/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#inactive"
+    "readme": "https://github.com/ropensci/geojsonio/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -33592,12 +33556,6 @@
       }
     ],
     "readme": "https://github.com/ropensci/gittargets/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/486",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["data-science", "data-version-control", "data-versioning", "reproducibility", "reproducible-research", "targets", "workflow"]
   },
   {
@@ -34973,13 +34931,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/GSODR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/79",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": "https://www.repostatus.org/#active"
+    "readme": "https://github.com/ropensci/GSODR/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -36840,7 +36792,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/helminthR/blob/HEAD/README.md",
-    "developmentStatus": [],
     "keywords": ["disease-networks", "helminth", "open-data", "parasites"]
   },
   {
@@ -51037,7 +50988,13 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/osmapiR/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/osmapiR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/633",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -52577,7 +52534,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["pangaea", "environmental science", "earth science", "archive", "paleontology", "ecology", "chemistry", "atmosphere", "api-client", "data", "paleobiology", "scientific", "webservice-client"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -54916,7 +54874,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["phylogeny", "phylocom", "phylodiversity", "community\nstructure", "character evolution", "species", "community-ecology", "ecology", "evolution"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/phylocomr/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/phylocomr/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -91380,7 +91339,7 @@
     "codeRepository": "https://github.com/ropensci/yfR",
     "issueTracker": "https://github.com/ropensci/yfR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -91662,22 +91621,10 @@
       },
       "16": {
         "@type": "SoftwareApplication",
-        "identifier": "humanize",
-        "name": "humanize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=humanize"
-      },
-      "17": {
-        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "pingr",
         "name": "pingr",
@@ -91689,7 +91636,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=pingr"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "tidyselect",
         "name": "tidyselect",
@@ -91701,7 +91648,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyselect"
       },
-      "20": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -91713,7 +91660,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
       },
-      "21": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -91725,7 +91672,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "22": {
+      "21": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -91736,6 +91683,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
+      },
+      "22": {
+        "@type": "SoftwareApplication",
+        "identifier": "janitor",
+        "name": "janitor",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=janitor"
       },
       "SystemRequirements": null
     },
