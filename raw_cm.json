@@ -3519,7 +3519,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.98",
+    "version": "0.4.3.100",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -12083,7 +12083,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/binman/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -12823,7 +12824,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["biodiversity", "barcode", "dna", "sequences", "fasta", "api-wrapper", "barcodes", "taxize"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/bold/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/bold/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -14019,13 +14021,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "c3dr",
-    "description": "A wrapper for the ‘EZC3D’ library to work with C3D motion capture data.",
+    "description": "A wrapper for the 'EZC3D' library to work with C3D motion capture data.",
     "name": "c3dr: Read and Write C3D Motion Capture Files",
     "relatedLink": ["https://github.com/ropensci/c3dr", "https://docs.ropensci.org/c3dr/"],
     "codeRepository": "https://github.com/ropensci/c3dr",
     "issueTracker": "https://github.com/ropensci/c3dr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.1",
+    "version": "0.1.4.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14126,7 +14128,7 @@
         "name": "c3dr: Work with motion capture data in R",
         "identifier": "10.5281/zenodo.14870399",
         "url": "https://docs.ropensci.org/c3dr/",
-        "description": "R package version 0.1.1",
+        "description": "R package version 0.1.4",
         "@id": "https://doi.org/10.5281/zenodo.14870399",
         "sameAs": "https://doi.org/10.5281/zenodo.14870399"
       }
@@ -16771,6 +16773,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/circle/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/356",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
     "keywords": ["api-client", "circle-ci", "continuous-deployment", "continuous-integration"]
   },
   {
@@ -17837,7 +17845,13 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["metadata", "codemeta", "ropensci", "citation", "credit", "linked-data", "json-ld", "peer-reviewed"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/codemetar/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/130",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -18622,6 +18636,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/comtradr/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/613",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": [],
     "keywords": ["api", "comtrade", "peer-reviewed", "supply-chain"]
   },
   {
@@ -25605,7 +25625,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["database", "elasticsearch", "http", "api", "search", "nosql", "java", "json", "documents", "data-science", "database-wrapper", "etl"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/elastic/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/elastic/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -26655,6 +26676,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/EndoMineR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/153",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": [],
     "keywords": ["endoscopy", "gastroenterology", "peer-reviewed", "semi-structured-data", "text-mining"]
   },
   {
@@ -28685,6 +28712,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/fastMatMR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/606",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#stable",
     "keywords": ["cpp17", "matrix-market", "matrix-market-format", "r-cpp11", "cpp"]
   },
   {
@@ -30025,13 +30058,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "forcis",
-    "description": "Provides an interface to the FORCIS database (<doi:10.5281/zenodo.7390791>) on global foraminifera distribution. This package allows to download and to handle FORCIS data. It is part of the FRB-CESAB working group FORCIS. <https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/>.",
-    "name": "forcis: An R Client to Access the FORCIS Database",
+    "description": "Provides an interface to the 'FORCIS' database (Chaabane et al. (2024) <doi:10.5281/zenodo.7390791>) on global foraminifera distribution. This package allows to download and to handle 'FORCIS' data. It is part of the FRB-CESAB working group FORCIS. <https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/>.",
+    "name": "forcis: Handle the FORCIS Foraminifera Database",
     "relatedLink": ["https://docs.ropensci.org/forcis/", "https://github.com/ropensci/forcis"],
     "codeRepository": "https://github.com/ropensci/forcis",
     "issueTracker": "https://github.com/ropensci/forcis/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -30331,9 +30364,9 @@
             "name": "de Garidel-Thoron Thibault"
           }
         ],
-        "name": "forcis: {An} {R} client to access the {FORCIS} database",
+        "name": "forcis: {H}andle the {FORCIS} {F}oraminifera {D}atabase",
         "url": "https://docs.ropensci.org/forcis/",
-        "description": "R package version 1.0.0"
+        "description": "R package version 1.0.1"
       },
       {
         "@type": "ScholarlyArticle",
@@ -30544,7 +30577,13 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/forcis/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/forcis/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/660",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -30721,7 +30760,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/gbifdb/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/gbifdb/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -31094,7 +31134,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["geojson", "geospatial", "conversion", "data", "input-output", "bbox", "polygon", "geobuf", "crs", "ndgeojson", "spatial"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/geojson/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/geojson/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -31390,7 +31431,8 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["geojson", "topojson", "geospatial", "conversion", "data", "input-output", "io"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/geojsonio/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/geojsonio/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#inactive"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -33556,6 +33598,12 @@
       }
     ],
     "readme": "https://github.com/ropensci/gittargets/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/486",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": ["data-science", "data-version-control", "data-versioning", "reproducibility", "reproducible-research", "targets", "workflow"]
   },
   {
@@ -34931,7 +34979,13 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/GSODR/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/GSODR/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/79",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -36792,6 +36846,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/helminthR/blob/HEAD/README.md",
+    "developmentStatus": [],
     "keywords": ["disease-networks", "helminth", "open-data", "parasites"]
   },
   {
