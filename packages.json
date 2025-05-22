@@ -2387,6 +2387,11 @@
     "branch": "master"
   },
   {
+    "package": "promoutils",
+    "url": "https://github.com/ropensci-org/promoutils/",
+    "branch": "main"
+  },
+  {
     "package": "qcoder",
     "url": "https://github.com/ropenscilabs/qcoder",
     "branch": "master"
