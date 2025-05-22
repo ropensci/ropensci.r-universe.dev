@@ -3519,7 +3519,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.100",
+    "version": "0.4.3.111",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -29721,7 +29721,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "fireexposuR",
-    "description": "This package computes and visualizes wildfire exposure using the methods documented in a series of scientific publications. ",
+    "description": "Methods for computing and visualizing wildfire igntion exposure and directional vulnerability that are published in a series of scientific publications are automated by the functions in this package. See Beverly et al. (2010) <doi:10.1071/WF09071>, Beverly et al. (2021) <doi:10.1007/s10980-020-01173-8>, and Beverly and Forbes (2023) <doi:10.1007/s11069-023-05885-3> for background and methodology.",
     "name": "fireexposuR: Compute and Visualize Wildfire Exposure",
     "relatedLink": ["https://github.com/ropensci/fireexposuR", "https://docs.ropensci.org/fireexposuR/"],
     "codeRepository": "https://github.com/ropensci/fireexposuR",
@@ -29739,7 +29739,7 @@
         "@type": "Person",
         "givenName": "Air",
         "familyName": "Forbes",
-        "email": "amforbes@ualberta.ca",
+        "email": "heyairf@gmail.com",
         "@id": "https://orcid.org/0000-0002-9842-7648"
       }
     ],
@@ -29755,7 +29755,7 @@
         "@type": "Person",
         "givenName": "Air",
         "familyName": "Forbes",
-        "email": "amforbes@ualberta.ca",
+        "email": "heyairf@gmail.com",
         "@id": "https://orcid.org/0000-0002-9842-7648"
       }
     ],
@@ -66671,13 +66671,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rix",
-    "description": "Simplifies the creation of reproducible data science environments using the 'Nix' package manager, as described in Dolstra (2006) <ISBN 90-393-4130-3>. The included `rix()` function generates a complete description of the environment as a `default.nix` file, which can then be built using 'Nix'. This results in project specific software environments with pinned versions of R, packages, linked system dependencies, and other tools. Additional helpers make it easy to run R code in 'Nix' software environments for testing and production.",
+    "description": "Simplifies the creation of reproducible data science environments using the 'Nix' package manager, as described in Dolstra (2006) <ISBN 90-393-4130-3>. The included `rix()` function generates a complete description of the environment as a `default.nix` file, which can then be built using 'Nix'. This results in project specific software environments with pinned versions of R, packages, linked system dependencies, and other tools or programming languages such as Python or Julia. Additional helpers make it easy to run R code in 'Nix' software environments for testing and production.",
     "name": "rix: Reproducible Data Science Environments with 'Nix'",
     "relatedLink": "https://docs.ropensci.org/rix/",
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.16.1",
+    "version": "0.17.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

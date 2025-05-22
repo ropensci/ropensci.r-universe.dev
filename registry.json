@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 11:53:28",
+      "date_last_commit": "2025-05-21 13:05:51",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1065,7 +1065,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/c3dr",
-      "date_last_commit": "2025-05-21 06:41:33",
+      "date_last_commit": "2025-05-21 09:17:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2253,7 +2253,7 @@
     {
       "name": "fireexposuR",
       "description": "Compute and Visualize Wildfire Exposure",
-      "details": "This package computes and visualizes wildfire exposure using the methods documented in a series of scientific publications. ",
+      "details": "Methods for computing and visualizing wildfire igntion exposure and directional vulnerability that are published in a series of scientific publications are automated by the functions in this package. See Beverly et al. (2010) <doi:10.1071/WF09071>, Beverly et al. (2021) <doi:10.1007/s10980-020-01173-8>, and Beverly and Forbes (2023) <doi:10.1007/s11069-023-05885-3> for background and methodology.",
       "maintainer": "Air Forbes",
       "keywords": "",
       "github": "https://github.com/ropensci/fireexposuR",
@@ -2265,7 +2265,7 @@
       "url": "https://github.com/ropensci/fireexposuR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-17 19:16:31",
+      "date_last_commit": "2025-05-21 22:16:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4971,7 +4971,7 @@
     {
       "name": "rix",
       "description": "Reproducible Data Science Environments with 'Nix'",
-      "details": "Simplifies the creation of reproducible data science environments using the 'Nix' package manager, as described in Dolstra (2006) <ISBN 90-393-4130-3>. The included `rix()` function generates a complete description of the environment as a `default.nix` file, which can then be built using 'Nix'. This results in project specific software environments with pinned versions of R, packages, linked system dependencies, and other tools. Additional helpers make it easy to run R code in 'Nix' software environments for testing and production.",
+      "details": "Simplifies the creation of reproducible data science environments using the 'Nix' package manager, as described in Dolstra (2006) <ISBN 90-393-4130-3>. The included `rix()` function generates a complete description of the environment as a `default.nix` file, which can then be built using 'Nix'. This results in project specific software environments with pinned versions of R, packages, linked system dependencies, and other tools or programming languages such as Python or Julia. Additional helpers make it easy to run R code in 'Nix' software environments for testing and production.",
       "maintainer": "Bruno Rodrigues",
       "keywords": "nix, peer-reviewed, reproducibility, reproducible-research",
       "github": "https://github.com/ropensci/rix",
@@ -4983,7 +4983,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 09:24:23",
+      "date_last_commit": "2025-05-21 17:51:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6929,5 +6929,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-21 07:58 UTC"
+  "date": "2025-05-22 07:57 UTC"
 }
