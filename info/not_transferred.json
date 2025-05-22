@@ -116,5 +116,9 @@
   {
    "package": "saperlipopette",
     "url": "https://github.com/ropensci-training/saperlipopette/"
+  },
+  {
+   "package": "promoutils",
+    "url": "https://github.com/ropensci-org/promoutils/"
   }
 ]
