@@ -324,6 +324,23 @@
       "staff_maintained": true
     },
     {
+      "name": "promoutils",
+      "description": "Utilities for Promoting rOpenSci on Twitter",
+      "details": "Utility functions for accessing GitHub and twitter data.",
+      "maintainer": "Steffi LaZerte",
+      "keywords": "",
+      "github": "",
+      "status": "",
+      "onboarding": "",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "",
+      "date_last_commit": "2025-04-28 15:53:00",
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "repometrics",
       "description": "Metrics for Your Code Repository",
       "details": "Metrics for your code repository. Call one function to generate an interactive dashboard displaying the state of your code.",
@@ -433,7 +450,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-16 12:54:55",
+      "date_last_commit": "2025-05-22 10:04:00",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1065,7 +1082,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/c3dr",
-      "date_last_commit": "2025-05-21 09:17:50",
+      "date_last_commit": "2025-05-22 10:20:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2783,7 +2800,7 @@
       "url": "https://github.com/ropensci/helminthR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-12-08 17:09:50",
+      "date_last_commit": "2025-05-22 19:56:11",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3683,7 +3700,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-18 14:42:28",
+      "date_last_commit": "2025-05-22 13:59:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6929,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-22 07:57 UTC"
+  "date": "2025-05-23 07:58 UTC"
 }

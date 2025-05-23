@@ -4492,6 +4492,270 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "promoutils",
+    "description": "Utility functions for accessing GitHub and twitter data.",
+    "name": "promoutils: Utilities for Promoting rOpenSci on Twitter",
+    "license": "https://spdx.org/licenses/GPL-3.0",
+    "version": "0.4.3",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.0 (2025-04-11)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Steffi",
+        "familyName": "LaZerte",
+        "email": "steffi@steffi.ca",
+        "@id": "https://orcid.org/0000-0002-7690-8360"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Steffi",
+        "familyName": "LaZerte",
+        "email": "steffi@steffi.ca",
+        "@id": "https://orcid.org/0000-0002-7690-8360"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "httpuv",
+        "name": "httpuv",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httpuv"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "gh",
+        "name": "gh",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gh"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "glue",
+        "name": "glue",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=glue"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr2",
+        "name": "httr2",
+        "version": ">= 1.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "lubridate",
+        "name": "lubridate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lubridate"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "magrittr",
+        "name": "magrittr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=magrittr"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "memoise",
+        "name": "memoise",
+        "version": ">= 2.0.1",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=memoise"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "pandoc",
+        "name": "pandoc",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=pandoc"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "purrr",
+        "name": "purrr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=purrr"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
+        "identifier": "readr",
+        "name": "readr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=readr"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "13": {
+        "@type": "SoftwareApplication",
+        "identifier": "rvest",
+        "name": "rvest",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rvest"
+      },
+      "14": {
+        "@type": "SoftwareApplication",
+        "identifier": "stringr",
+        "name": "stringr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=stringr"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      "16": {
+        "@type": "SoftwareApplication",
+        "identifier": "yaml",
+        "name": "yaml",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=yaml"
+      },
+      "17": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.0.0"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "repometrics",
     "description": "Metrics for your code repository. Call one function to generate an interactive dashboard displaying the state of your code.",
     "name": "repometrics: Metrics for Your Code Repository",
@@ -14027,7 +14291,7 @@
     "codeRepository": "https://github.com/ropensci/c3dr",
     "issueTracker": "https://github.com/ropensci/c3dr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.4.9000",
+    "version": "0.1.5.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14128,7 +14392,7 @@
         "name": "c3dr: Work with motion capture data in R",
         "identifier": "10.5281/zenodo.14870399",
         "url": "https://docs.ropensci.org/c3dr/",
-        "description": "R package version 0.1.4",
+        "description": "R package version 0.1.5",
         "@id": "https://doi.org/10.5281/zenodo.14870399",
         "sameAs": "https://doi.org/10.5281/zenodo.14870399"
       }
@@ -36705,7 +36969,7 @@
     "codeRepository": "https://github.com/ropensci/helminthR",
     "issueTracker": "https://github.com/rOpenSci/helminthR/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49381,7 +49645,7 @@
     "codeRepository": "https://github.com/ropensci/openalexR",
     "issueTracker": "https://github.com/ropensci/openalexR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.0.9000",
+    "version": "2.0.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
