@@ -186,7 +186,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-28 13:09:29",
+      "date_last_commit": "2025-05-23 18:13:25",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-14 14:02:05",
+      "date_last_commit": "2025-05-23 14:33:03",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2316,7 +2316,7 @@
       "github": "https://github.com/ropensci/forcis",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/660",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/forcis",
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-21 17:51:26",
+      "date_last_commit": "2025-05-23 17:42:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6000,7 +6000,7 @@
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-05 15:55:19",
+      "date_last_commit": "2025-05-23 16:51:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-23 07:58 UTC"
+  "date": "2025-05-24 07:57 UTC"
 }

@@ -2216,7 +2216,7 @@
     "codeRepository": "https://github.com/frictionlessdata/frictionless-r",
     "issueTracker": "https://github.com/frictionlessdata/frictionless-r/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.0.9000",
+    "version": "1.2.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4763,7 +4763,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.17",
+    "version": "0.2.0.29",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4930,6 +4930,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "visNetwork",
+        "name": "visNetwork",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=visNetwork"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
         "provider": {
@@ -4998,6 +5010,18 @@
       },
       "5": {
         "@type": "SoftwareApplication",
+        "identifier": "foghorn",
+        "name": "foghorn",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=foghorn"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
         "provider": {
@@ -5008,7 +5032,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=fs"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "gert",
         "name": "gert",
@@ -5020,7 +5044,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=gert"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "gh",
         "name": "gh",
@@ -5032,7 +5056,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=gh"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "git2r",
         "name": "git2r",
@@ -5044,7 +5068,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=git2r"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
@@ -5056,7 +5080,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "memoise",
         "name": "memoise",
@@ -5068,7 +5092,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=memoise"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "pbapply",
         "name": "pbapply",
@@ -5080,7 +5104,13 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=pbapply"
       },
-      "12": {
+      "13": {
+        "@type": "SoftwareApplication",
+        "identifier": "pkgcheck",
+        "name": "pkgcheck",
+        "sameAs": "https://github.com/ropensci-review-tools/pkgcheck"
+      },
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "pkgstats",
         "name": "pkgstats",
@@ -30335,6 +30365,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.0 (2025-04-11)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -80974,7 +81010,7 @@
     "codeRepository": "https://github.com/ropensci/taxlist",
     "issueTracker": "https://github.com/ropensci/taxlist/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -81193,7 +81229,7 @@
         ],
         "name": "taxlist: Handling Taxonomic Lists",
         "url": "https://cran.r-project.org/package=taxlist",
-        "description": "R package version 0.3.3"
+        "description": "R package version 0.3.4"
       },
       {
         "@type": "ScholarlyArticle",
