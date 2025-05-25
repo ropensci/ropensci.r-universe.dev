@@ -2242,7 +2242,7 @@
       "url": "https://github.com/ropensci/fellingdater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-05-22 13:17:08",
+      "date_last_commit": "2025-05-24 18:35:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3700,7 +3700,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-22 13:59:31",
+      "date_last_commit": "2025-05-24 17:51:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-24 07:57 UTC"
+  "date": "2025-05-25 08:00 UTC"
 }
