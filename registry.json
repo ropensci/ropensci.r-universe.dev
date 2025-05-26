@@ -329,14 +329,14 @@
       "details": "Utility functions for accessing GitHub and twitter data.",
       "maintainer": "Steffi LaZerte",
       "keywords": "",
-      "github": "",
-      "status": "",
+      "github": "https://github.com/ropensci-org/promoutils",
+      "status": "https://www.repostatus.org#active",
       "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
-      "url": "",
-      "date_last_commit": "2025-04-28 15:53:00",
+      "url": "https://github.com/ropensci-org/promoutils",
+      "date_last_commit": "2025-05-26 07:35:11",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-25 08:00 UTC"
+  "date": "2025-05-26 07:55 UTC"
 }

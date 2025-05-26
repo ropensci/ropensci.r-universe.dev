@@ -4495,6 +4495,9 @@
     "identifier": "promoutils",
     "description": "Utility functions for accessing GitHub and twitter data.",
     "name": "promoutils: Utilities for Promoting rOpenSci on Twitter",
+    "relatedLink": "https://github.com/ropensci-org/promoutils",
+    "codeRepository": "https://github.com/ropensci-org/promoutils",
+    "issueTracker": "https://github.com/ropensci-org/promoutils/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
     "version": "0.4.3",
     "programmingLanguage": {
@@ -4751,7 +4754,8 @@
       },
       "SystemRequirements": null
     },
-    "fileSize": "NAKB"
+    "fileSize": "NAKB",
+    "readme": "https://github.com/ropensci-org/promoutils/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
