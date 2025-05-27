@@ -3162,7 +3162,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.132",
+    "version": "0.1.2.133",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4155,7 +4155,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.54",
+    "version": "0.2.0.58",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4767,7 +4767,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.29",
+    "version": "0.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -42920,19 +42920,13 @@
     "codeRepository": "https://github.com/ropensci/medrxivr",
     "issueTracker": "https://github.com/ropensci/medrxivr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.0 (2025-04-11)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -43039,10 +43033,16 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -43054,7 +43054,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
@@ -43066,7 +43066,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -43078,7 +43078,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -43090,7 +43090,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -43102,7 +43102,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -43114,7 +43114,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "bib2df",
         "name": "bib2df",
@@ -43126,7 +43126,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=bib2df"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -43138,7 +43138,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "progress",
         "name": "progress",
@@ -43150,7 +43150,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=progress"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
@@ -43162,7 +43162,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -43174,7 +43174,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
@@ -59423,7 +59423,7 @@
     "codeRepository": "https://github.com/ropensci/rangr",
     "issueTracker": "https://github.com/ropensci/rangr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -59611,8 +59611,8 @@
     "fileSize": "NAKB",
     "citation": [
       {
-        "@type": "SoftwareSourceCode",
-        "datePublished": "2023",
+        "@type": "ScholarlyArticle",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -59621,13 +59621,30 @@
           },
           {
             "@type": "Person",
+            "givenName": "Katarzyna",
+            "familyName": "Malinowska"
+          },
+          {
+            "@type": "Person",
             "givenName": "Lechosław",
             "familyName": "Kuczyński"
           }
         ],
-        "name": "rangr: simulating range dynamics of virtual species",
-        "url": "https://github.com/ropensci/rangr",
-        "description": "R package version 1.0.5"
+        "name": "rangr: An R package for mechanistic, spatially explicit simulation of species range dynamics",
+        "identifier": "10.1111/2041-210X.14475",
+        "pagination": "468-476",
+        "@id": "https://doi.org/10.1111/2041-210X.14475",
+        "sameAs": "https://doi.org/10.1111/2041-210X.14475",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "3",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "16",
+            "name": "Methods in Ecology and Evolution"
+          }
+        }
       }
     ],
     "readme": "https://github.com/ropensci/rangr/blob/HEAD/README.md",
