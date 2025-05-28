@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-04 12:43:44",
+      "date_last_commit": "2025-05-27 16:17:52",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 07:04:19",
+      "date_last_commit": "2025-05-27 11:25:38",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1502,7 +1502,7 @@
       "url": "https://github.com/ropensci/CoordinateCleaner",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 13:22:00",
+      "date_last_commit": "2025-05-27 10:29:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2276,7 +2276,7 @@
       "github": "https://github.com/ropensci/fireexposuR",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/659",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/fireexposuR",
@@ -3160,7 +3160,7 @@
       "url": "https://github.com/ropensci/lingtypology",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-29 21:11:38",
+      "date_last_commit": "2025-05-27 22:05:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3320,7 +3320,7 @@
       "url": "https://github.com/ropensci/medrxivr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 07:41:19",
+      "date_last_commit": "2025-05-27 08:01:35",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 15:09:21",
+      "date_last_commit": "2025-05-27 19:31:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-07 14:53:36",
+      "date_last_commit": "2025-05-28 03:44:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5900,7 +5900,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-14 19:46:03",
+      "date_last_commit": "2025-05-27 18:02:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-27 07:57 UTC"
+  "date": "2025-05-28 08:00 UTC"
 }
