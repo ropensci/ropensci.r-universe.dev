@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 11:25:38",
+      "date_last_commit": "2025-05-28 09:24:57",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2720,7 +2720,7 @@
       "url": "https://github.com/ropensci/gtexr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 20:22:49",
+      "date_last_commit": "2025-05-28 20:43:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2740,7 +2740,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-21 11:19:18",
+      "date_last_commit": "2025-05-28 16:58:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 03:44:33",
+      "date_last_commit": "2025-05-28 22:11:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-16 21:09:46",
+      "date_last_commit": "2025-05-28 17:52:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-28 08:00 UTC"
+  "date": "2025-05-29 08:01 UTC"
 }

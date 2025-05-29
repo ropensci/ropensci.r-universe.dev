@@ -4767,7 +4767,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.3",
+    "version": "0.2.1.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35567,6 +35567,59 @@
     "fileSize": "NAKB",
     "citation": [
       {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Alasdair",
+            "familyName": "Warwick",
+            "email": "alasdair.warwick.19@ucl.ac.uk",
+            "@id": "https://orcid.org/0000-0002-0800-2890"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Benjamin",
+            "familyName": "Zuckerman",
+            "@id": "https://orcid.org/0000-0002-0077-6074"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Chuin Ying",
+            "familyName": "Ung",
+            "@id": "https://orcid.org/0000-0001-8487-4589"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Robert",
+            "familyName": "Luben",
+            "@id": "https://orcid.org/0000-0002-5088-6343"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Abraham",
+            "familyName": "Olvera-Barrios",
+            "@id": "https://orcid.org/0000-0002-3305-4465"
+          }
+        ],
+        "name": "{gtexr: A convenient R interface to the Genotype-Tissue\n    Expression (GTEx) Portal API}",
+        "identifier": "10.21105/joss.08249",
+        "description": "gigs v0.2.0.9001",
+        "pagination": "8249",
+        "@id": "https://doi.org/10.21105/joss.08249",
+        "sameAs": "https://doi.org/10.21105/joss.08249",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "109",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "10",
+            "name": "Journal of Open Source Software"
+          }
+        }
+      },
+      {
         "@type": "SoftwareSourceCode",
         "datePublished": "2024",
         "author": [
@@ -36312,7 +36365,8 @@
         "@type": "Person",
         "givenName": "Jordan",
         "familyName": "Bradford",
-        "email": "jrdnbradford@gmail.com"
+        "email": "jrdnbradford@gmail.com",
+        "@id": "https://orcid.org/0009-0000-8570-3474"
       },
       {
         "@type": "Person",
