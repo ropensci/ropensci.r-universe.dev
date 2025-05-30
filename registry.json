@@ -2262,7 +2262,7 @@
       "url": "https://github.com/ropensci/fingertipsR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 09:33:34",
+      "date_last_commit": "2025-05-29 15:17:59",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2740,7 +2740,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 16:58:32",
+      "date_last_commit": "2025-05-29 20:02:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3140,7 +3140,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 17:18:27",
+      "date_last_commit": "2025-05-29 14:34:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3540,7 +3540,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-03 16:50:39",
+      "date_last_commit": "2025-05-29 19:10:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3960,7 +3960,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-19 12:32:33",
+      "date_last_commit": "2025-05-29 14:23:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5568,7 +5568,7 @@
     {
       "name": "slopes",
       "description": "Calculate Slopes of Roads, Rivers and Trajectories",
-      "details": "Functions and example data to support research into the slope (also known as longitudinal gradient or steepness) of linear geographic entities such as roads <doi:10.1038/s41597-019-0147-x> and rivers <doi:10.1016/j.jhydrol.2018.06.066>. The package was initially developed to calculate the steepness of street segments but can be used to calculate steepness of any linear feature that can be represented as LINESTRING geometries in the 'sf' class system. The package takes two main types of input data for slope calculation: vector geographic objects representing linear features, and raster geographic objects with elevation values (which can be downloaded using functionality in the package) representing a continuous terrain surface. Where no raster object is provided the package attempts to download elevation data using the 'ceramic' package.",
+      "details": "Calculates the slope (longitudinal gradient or steepness) of linear geographic features such as roads <doi:10.1038/s41597-019-0147-x> and rivers <doi:10.1016/j.jhydrol.2018.06.066>. It can use local Digital Elevation Model (DEM) data or download DEM data via the 'ceramic' package. The package also provides functions to add elevation data to linestrings and visualize elevation profiles.",
       "maintainer": "Robin Lovelace",
       "keywords": "",
       "github": "https://github.com/ropensci/slopes",
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 22:11:31",
+      "date_last_commit": "2025-05-29 22:18:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5900,7 +5900,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 18:02:08",
+      "date_last_commit": "2025-05-29 20:50:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 17:52:06",
+      "date_last_commit": "2025-05-29 16:45:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-29 08:01 UTC"
+  "date": "2025-05-30 08:02 UTC"
 }
