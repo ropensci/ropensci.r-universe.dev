@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 16:17:52",
+      "date_last_commit": "2025-05-31 04:04:15",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3160,7 +3160,7 @@
       "url": "https://github.com/ropensci/lingtypology",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 22:05:01",
+      "date_last_commit": "2025-05-30 14:23:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3428,7 +3428,7 @@
     {
       "name": "nasapower",
       "description": "NASA POWER API Client",
-      "details": "An API client for NASA POWER global meteorology, surface solar energy and climatology data API. POWER (Prediction Of Worldwide Energy Resources) data are freely available for download with varying spatial resolutions dependent on the original data and with several temporal resolutions depending on the POWER parameter and community. This work is funded through the NASA Earth Science Directorate Applied Science Program. For more on the data themselves, the methodologies used in creating, a web- based data viewer and web access, please see <https://power.larc.nasa.gov/>.",
+      "details": "An API client for NASA POWER global meteorology, surface solar energy and climatology data API. POWER (Prediction Of Worldwide Energy Resources) data are freely available for download with varying spatial resolutions dependent on the original data and with several temporal resolutions depending on the POWER parameter and community. This work is funded through the NASA Earth Science Directorate Applied Science Program. For more on the data themselves, the methodologies used in creating, a web-based data viewer and web access, please see <https://power.larc.nasa.gov/>.",
       "maintainer": "Adam H. Sparks",
       "keywords": "agroclimatology, agroclimatology-data, climate-data, data-access, earth-science, global, meteorological-data, meteorology, nasa, nasa-power, weather, weather-data, weather-variables",
       "github": "https://github.com/ropensci/nasapower",
@@ -3440,7 +3440,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-21 07:04:42",
+      "date_last_commit": "2025-05-30 12:39:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3540,7 +3540,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 19:10:34",
+      "date_last_commit": "2025-05-30 10:00:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 22:18:06",
+      "date_last_commit": "2025-05-30 12:04:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-30 08:02 UTC"
+  "date": "2025-05-31 07:57 UTC"
 }
