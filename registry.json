@@ -2700,7 +2700,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-05 13:02:30",
+      "date_last_commit": "2025-06-01 04:11:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3440,7 +3440,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-30 12:39:07",
+      "date_last_commit": "2025-06-01 04:14:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-05-31 07:57 UTC"
+  "date": "2025-06-01 08:00 UTC"
 }
