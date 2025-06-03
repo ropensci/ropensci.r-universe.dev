@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-08 07:17:20",
+      "date_last_commit": "2025-06-02 08:26:59",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 09:24:57",
+      "date_last_commit": "2025-06-02 15:14:49",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2800,7 +2800,7 @@
       "url": "https://github.com/ropensci/helminthR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-22 19:56:11",
+      "date_last_commit": "2025-06-02 21:04:39",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4400,7 +4400,7 @@
       "url": "https://github.com/ropensci/qualR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-18 00:53:29",
+      "date_last_commit": "2025-06-03 01:40:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 19:31:35",
+      "date_last_commit": "2025-06-02 14:32:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 16:45:18",
+      "date_last_commit": "2025-06-02 17:54:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-02 07:58 UTC"
+  "date": "2025-06-03 08:01 UTC"
 }
