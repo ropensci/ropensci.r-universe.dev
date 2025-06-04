@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-02 15:14:49",
+      "date_last_commit": "2025-06-03 12:04:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1182,7 +1182,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-13 19:54:40",
+      "date_last_commit": "2025-06-03 12:25:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3540,7 +3540,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-30 10:00:49",
+      "date_last_commit": "2025-06-04 04:45:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-13 11:44:20",
+      "date_last_commit": "2025-06-03 09:52:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4760,7 +4760,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-20 15:09:57",
+      "date_last_commit": "2025-06-03 16:58:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-03 08:01 UTC"
+  "date": "2025-06-04 07:58 UTC"
 }
