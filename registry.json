@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-03 12:04:30",
+      "date_last_commit": "2025-06-04 10:32:13",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-07 06:10:22",
+      "date_last_commit": "2025-06-04 10:46:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2740,7 +2740,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 20:02:06",
+      "date_last_commit": "2025-06-04 12:27:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3180,7 +3180,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-23 14:26:49",
+      "date_last_commit": "2025-06-04 17:22:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3540,7 +3540,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-04 04:45:28",
+      "date_last_commit": "2025-06-04 12:39:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5568,7 +5568,7 @@
     {
       "name": "slopes",
       "description": "Calculate Slopes of Roads, Rivers and Trajectories",
-      "details": "Calculates the slope (longitudinal gradient or steepness) of linear geographic features such as roads <doi:10.1038/s41597-019-0147-x> and rivers <doi:10.1016/j.jhydrol.2018.06.066>. It can use local Digital Elevation Model (DEM) data or download DEM data via the 'ceramic' package. The package also provides functions to add elevation data to linestrings and visualize elevation profiles.",
+      "details": "Calculates the slope (longitudinal gradient or steepness) of linear geographic features such as roads (for more details, see Ariza-López et al. (2019) <doi:10.1038/s41597-019-0147-x>) and rivers (for more details, see Cohen et al. (2018) <doi:10.1016/j.jhydrol.2018.06.066>). It can use local Digital Elevation Model (DEM) data or download DEM data via the 'ceramic' package. The package also provides functions to add elevation data to linestrings and visualize elevation profiles.",
       "maintainer": "Robin Lovelace",
       "keywords": "",
       "github": "https://github.com/ropensci/slopes",
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-30 12:04:23",
+      "date_last_commit": "2025-06-05 07:25:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-04 07:58 UTC"
+  "date": "2025-06-05 07:58 UTC"
 }

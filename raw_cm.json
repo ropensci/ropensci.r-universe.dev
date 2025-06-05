@@ -4767,7 +4767,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.12",
+    "version": "0.2.1.13",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24732,7 +24732,7 @@
     "codeRepository": "https://github.com/ropensci/dynamite",
     "issueTracker": "https://github.com/ropensci/dynamite/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.5.6",
+    "version": "1.5.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -74889,7 +74889,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "slopes",
-    "description": "Calculates the slope (longitudinal gradient or steepness) of linear geographic features such as roads <doi:10.1038/s41597-019-0147-x> and rivers <doi:10.1016/j.jhydrol.2018.06.066>. It can use local Digital Elevation Model (DEM) data or download DEM data via the 'ceramic' package. The package also provides functions to add elevation data to linestrings and visualize elevation profiles.",
+    "description": "Calculates the slope (longitudinal gradient or steepness) of linear geographic features such as roads (for more details, see Ariza-López et al. (2019) <doi:10.1038/s41597-019-0147-x>) and rivers (for more details, see Cohen et al. (2018) <doi:10.1016/j.jhydrol.2018.06.066>). It can use local Digital Elevation Model (DEM) data or download DEM data via the 'ceramic' package. The package also provides functions to add elevation data to linestrings and visualize elevation profiles.",
     "name": "slopes: Calculate Slopes of Roads, Rivers and Trajectories",
     "relatedLink": ["https://github.com/ropensci/slopes/", "https://docs.ropensci.org/slopes/"],
     "codeRepository": "https://github.com/ropensci/slopes",
