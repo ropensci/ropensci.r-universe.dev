@@ -40907,7 +40907,7 @@
     "codeRepository": "https://github.com/ropensci/magick",
     "issueTracker": "https://github.com/ropensci/magick/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.8.6",
+    "version": "2.8.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

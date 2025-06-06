@@ -450,7 +450,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-22 10:04:00",
+      "date_last_commit": "2025-06-05 12:28:30",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -784,7 +784,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-21 20:09:58",
+      "date_last_commit": "2025-06-05 16:31:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3180,7 +3180,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-04 17:22:35",
+      "date_last_commit": "2025-06-05 22:36:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4900,7 +4900,7 @@
       "url": "https://github.com/ropensci/rgnparser",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2023-12-13 08:38:29",
+      "date_last_commit": "2025-06-05 07:58:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-05 07:58 UTC"
+  "date": "2025-06-06 08:01 UTC"
 }
