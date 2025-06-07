@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-02 08:26:59",
+      "date_last_commit": "2025-06-06 13:39:07",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2230,7 +2230,7 @@
     {
       "name": "fellingdater",
       "description": "Estimate, report and combine felling dates of historical tree-ring \n    series",
-      "details": "fellingdater is an R package that aims to facilitate the analysis and interpretation of tree-ring data from wooden cultural heritage objects and structures. The package standardizes the process of computing and combining felling date estimates, both for individual and groups of related tree-ring series.",
+      "details": "fellingdater aims to facilitate the analysis and interpretation of tree-ring data from wooden cultural heritage objects and structures. The package standardizes the process of computing and combining felling date estimates, both for individual and groups of related tree-ring series.",
       "maintainer": "Kristof Haneca",
       "keywords": "dendrochronology, sapwood, tree-rings",
       "github": "https://github.com/ropensci/fellingdater",
@@ -2242,7 +2242,7 @@
       "url": "https://github.com/ropensci/fellingdater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-24 18:35:28",
+      "date_last_commit": "2025-06-06 20:10:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3180,7 +3180,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-05 22:36:40",
+      "date_last_commit": "2025-06-06 13:24:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4460,7 +4460,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 13:16:39",
+      "date_last_commit": "2025-06-06 12:57:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-06 08:01 UTC"
+  "date": "2025-06-07 07:57 UTC"
 }

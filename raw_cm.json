@@ -29437,13 +29437,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "fellingdater",
-    "description": "fellingdater is an R package that aims to facilitate the analysis and interpretation of tree-ring data from wooden cultural heritage objects and structures. The package standardizes the process of computing and combining felling date estimates, both for individual and groups of related tree-ring series.",
+    "description": "fellingdater aims to facilitate the analysis and interpretation of tree-ring data from wooden cultural heritage objects and structures. The package standardizes the process of computing and combining felling date estimates, both for individual and groups of related tree-ring series.",
     "name": "fellingdater: Estimate, report and combine felling dates of historical tree-ring \n    series",
-    "relatedLink": ["https://docs.ropensci.org/fellingdater", "https://github.com/ropensci/fellingdater"],
+    "relatedLink": ["https://docs.ropensci.org/fellingdater", "https://github.com/ropensci/fellingdater", "https://ropensci.github.io/fellingdater"],
     "codeRepository": "https://github.com/ropensci/fellingdater",
     "issueTracker": "https://github.com/ropensci/fellingdater/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -29625,6 +29625,11 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=dplR"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
       },
       "SystemRequirements": null
     },
