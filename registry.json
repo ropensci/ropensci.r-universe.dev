@@ -3180,7 +3180,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-06 13:24:38",
+      "date_last_commit": "2025-06-07 13:10:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-07 07:57 UTC"
+  "date": "2025-06-08 08:00 UTC"
 }
