@@ -24732,7 +24732,7 @@
     "codeRepository": "https://github.com/ropensci/dynamite",
     "issueTracker": "https://github.com/ropensci/dynamite/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.5.7",
+    "version": "1.6.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51452,7 +51452,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.33",
+    "version": "0.2.5.34",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51696,18 +51696,6 @@
       },
       "4": {
         "@type": "SoftwareApplication",
-        "identifier": "lubridate",
-        "name": "lubridate",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lubridate"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
         "provider": {
@@ -51718,12 +51706,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
@@ -51736,7 +51724,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "reproj",
         "name": "reproj",
@@ -51748,7 +51736,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=reproj"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -51760,7 +51748,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -51772,12 +51760,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -80887,7 +80875,7 @@
     "codeRepository": "https://github.com/ropensci/taxizedb",
     "issueTracker": "https://github.com/ropensci/taxizedb/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80925,6 +80913,18 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
+        "identifier": "taxize",
+        "name": "taxize",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=taxize"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
         "provider": {
@@ -80939,6 +80939,12 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
         "version": ">= 2.4",
@@ -80949,18 +80955,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "data.table",
-        "name": "data.table",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=data.table"
       },
       "3": {
         "@type": "SoftwareApplication",
@@ -81079,18 +81073,6 @@
       },
       "12": {
         "@type": "SoftwareApplication",
-        "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://github.com/ropensci/taxize"
-      },
-      "13": {
-        "@type": "SoftwareApplication",
         "identifier": "vroom",
         "name": "vroom",
         "provider": {
@@ -81127,7 +81109,7 @@
         ],
         "name": "taxizedb: Tools for Working with 'Taxonomic' Databases",
         "identifier": "10.5281/zenodo.1158055",
-        "description": "R package version 0.3.1",
+        "description": "R package version 0.3.2",
         "@id": "https://doi.org/10.5281/zenodo.1158055",
         "sameAs": "https://doi.org/10.5281/zenodo.1158055"
       }
@@ -92396,7 +92378,7 @@
     "codeRepository": "https://github.com/ropenscilabs/deposits",
     "issueTracker": "https://github.com/ropenscilabs/deposits/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.2.1.61",
+    "version": "0.2.1.63",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
