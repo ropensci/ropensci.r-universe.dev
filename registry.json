@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-21 13:05:51",
+      "date_last_commit": "2025-06-11 12:57:49",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-10 07:58:36",
+      "date_last_commit": "2025-06-11 13:16:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-10 13:59:44",
+      "date_last_commit": "2025-06-11 11:34:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4442,7 +4442,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2019-12-09 14:27:53",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -5900,7 +5900,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 20:50:54",
+      "date_last_commit": "2025-06-11 15:03:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5980,7 +5980,7 @@
       "url": "https://github.com/ropensci/taxizedb",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-10 12:31:48",
+      "date_last_commit": "2025-06-11 14:37:28",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-02 17:54:42",
+      "date_last_commit": "2025-06-11 16:09:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-11 07:58 UTC"
+  "date": "2025-06-12 08:01 UTC"
 }
