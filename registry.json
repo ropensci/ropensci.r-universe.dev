@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-11 12:57:49",
+      "date_last_commit": "2025-06-12 11:33:06",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-11 13:16:14",
+      "date_last_commit": "2025-06-12 08:17:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3640,7 +3640,7 @@
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-28 15:00:27",
+      "date_last_commit": "2025-06-12 15:08:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-11 11:34:38",
+      "date_last_commit": "2025-06-12 13:20:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4434,7 +4434,7 @@
       "github": "https://github.com/ropensci/ramlegacy",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/264",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/ramlegacy",
@@ -4740,7 +4740,7 @@
       "url": "https://github.com/ropensci/rentrez",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2020-11-10 22:53:08",
+      "date_last_commit": "2025-06-12 21:14:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-12 08:01 UTC"
+  "date": "2025-06-13 07:57 UTC"
 }
