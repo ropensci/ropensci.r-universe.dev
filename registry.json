@@ -195,7 +195,7 @@
       "description": "Simple Git Client for R",
       "details": "Simple git client for R based on 'libgit2' <https://libgit2.org> with support for SSH and HTTPS remotes. All functions in 'gert' use basic R data types (such as vectors and data-frames) for their arguments and return values. User credentials are shared with command line 'git' through the git-credential store and ssh keys stored on disk or ssh-agent.",
       "maintainer": "Jeroen Ooms",
-      "keywords": "libgit2",
+      "keywords": "",
       "github": "https://github.com/r-lib/gert",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-12 11:33:06",
+      "date_last_commit": "2025-06-13 14:43:36",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1436,7 +1436,7 @@
       "github": "https://github.com/ropensci/colocr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/243",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/colocr",
@@ -1444,7 +1444,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2020-01-04 04:10:25",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -3394,7 +3394,7 @@
       "github": "https://github.com/ropensci/MtreeRing",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/287",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/MtreeRing",
@@ -3402,7 +3402,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-07-17 15:02:06",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -3640,7 +3640,7 @@
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-12 15:08:50",
+      "date_last_commit": "2025-06-13 12:08:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-12 13:20:16",
+      "date_last_commit": "2025-06-13 09:14:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4000,7 +4000,7 @@
       "url": "https://github.com/ropensci/pathviewr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-08 23:59:52",
+      "date_last_commit": "2025-06-13 20:05:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-10 09:50:19",
+      "date_last_commit": "2025-06-13 09:27:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-13 07:57 UTC"
+  "date": "2025-06-14 08:09 UTC"
 }
