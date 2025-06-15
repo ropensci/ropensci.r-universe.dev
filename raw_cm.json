@@ -7342,13 +7342,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "wmm",
-    "description": "Calculate magnetic field at a given location and time according to the World Magnetic Model (WMM). Both the main field and secular variation components are returned. This functionality is useful for physicists and geophysicists who need orthogonal components from WMM. Currently, this package supports annualized time inputs between 2000 and 2025. If desired, users can specify which WMM version to use, e.g., the original WMM2015 release or the recent out-of-cycle WMM2015 release. Methods used to implement WMM, including the Gauss coefficients for each release, are described in the following publications: Chulliat et al (2020) <doi:10.25923/ytk1-yx35>, Chulliat et al (2019) <doi:10.25921/xhr3-0t19>, Chulliat et al (2015) <doi:10.7289/V5TB14V7>, Maus et al (2010) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/WMM2010_Report.pdf>, McLean et al (2004) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/TRWMM_2005.pdf>, and Macmillian et al (2000) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/wmm2000.pdf>.",
+    "description": "Calculate magnetic field at a given location and time according to the World Magnetic Model (WMM). Both the main field and secular variation components are returned. This functionality is useful for physicists and geophysicists who need orthogonal components from WMM. Currently, this package supports annualized time inputs between 2000-01-01 to 2029-12-31. If desired, users can specify which WMM version to use, e.g., the original WMM2015 release or the recent out-of-cycle WMM2015 release. Methods used to implement WMM, including the Gauss coefficients for each release, are described in the following publications: NOAA NCEI Geomagnetic Modeling Team and British Geological Survey (2024) <doi:10.25921/aqfd-sd83>, Chulliat et al (2020) <doi:10.25923/ytk1-yx35>, Chulliat et al (2019) <doi:10.25921/xhr3-0t19>, Chulliat et al (2015) <doi:10.7289/V5TB14V7>, Maus et al (2010) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/WMM2010_Report.pdf>, McLean et al (2004) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/TRWMM_2005.pdf>, and Macmillian et al (2000) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/wmm2000.pdf>.",
     "name": "wmm: World Magnetic Model",
     "relatedLink": "https://github.com/wfrierson/wmm",
     "codeRepository": "https://github.com/wfrierson/wmm",
     "issueTracker": "https://github.com/wfrierson/wmm/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7382,7 +7382,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 2.0.1",
+        "version": ">= 3.2.3",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7395,7 +7395,7 @@
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
-        "version": ">= 1.12.2",
+        "version": ">= 1.17.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7408,7 +7408,7 @@
         "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
-        "version": ">= 1.33",
+        "version": ">= 1.50",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7421,7 +7421,7 @@
         "@type": "SoftwareApplication",
         "identifier": "rmarkdown",
         "name": "rmarkdown",
-        "version": ">= 2.14",
+        "version": ">= 2.29",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7434,7 +7434,7 @@
         "@type": "SoftwareApplication",
         "identifier": "covr",
         "name": "covr",
-        "version": ">= 3.3.1",
+        "version": ">= 3.6.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7442,6 +7442,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=covr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "devtools",
+        "name": "devtools",
+        "version": ">= 2.4.5",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=devtools"
       }
     ],
     "softwareRequirements": {
@@ -7449,7 +7462,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 2.10"
+        "version": ">= 4.3"
       },
       "SystemRequirements": null
     },
@@ -80845,8 +80858,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "taxizedb",
-    "description": "Tools for working with 'taxonomic' databases, including utilities for downloading databases, loading them into various 'SQL' databases, cleaning up files, and providing a 'SQL' connection that can be used to do 'SQL' queries directly or used in 'dplyr'.",
-    "name": "taxizedb: Tools for Working with 'Taxonomic' Databases",
+    "description": "Download taxonomic databases such as CoL, GBIF, ITIS, NCBI, WFO, or Wikidata, convert them into SQLite format, and query them locally for fast, reliable, and reproducible access to taxonomic data.",
+    "name": "taxizedb: Offline Access to Taxonomic Databases",
     "relatedLink": ["https://docs.ropensci.org/taxizedb/", "https://github.com/ropensci/taxizedb"],
     "codeRepository": "https://github.com/ropensci/taxizedb",
     "issueTracker": "https://github.com/ropensci/taxizedb/issues",
@@ -81083,7 +81096,7 @@
             "familyName": "Stirling"
           }
         ],
-        "name": "taxizedb: Tools for Working with 'Taxonomic' Databases",
+        "name": "taxizedb: Offline Access to Taxonomic Databases",
         "identifier": "10.5281/zenodo.1158055",
         "description": "R package version 0.3.2",
         "@id": "https://doi.org/10.5281/zenodo.1158055",

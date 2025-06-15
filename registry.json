@@ -469,7 +469,7 @@
       "url": "https://github.com/r-lib/sodium",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-14 22:49:20",
+      "date_last_commit": "2025-06-14 10:20:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -514,7 +514,7 @@
     {
       "name": "wmm",
       "description": "World Magnetic Model",
-      "details": "Calculate magnetic field at a given location and time according to the World Magnetic Model (WMM). Both the main field and secular variation components are returned. This functionality is useful for physicists and geophysicists who need orthogonal components from WMM. Currently, this package supports annualized time inputs between 2000 and 2025. If desired, users can specify which WMM version to use, e.g., the original WMM2015 release or the recent out-of-cycle WMM2015 release. Methods used to implement WMM, including the Gauss coefficients for each release, are described in the following publications: Chulliat et al (2020) <doi:10.25923/ytk1-yx35>, Chulliat et al (2019) <doi:10.25921/xhr3-0t19>, Chulliat et al (2015) <doi:10.7289/V5TB14V7>, Maus et al (2010) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/WMM2010_Report.pdf>, McLean et al (2004) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/TRWMM_2005.pdf>, and Macmillian et al (2000) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/wmm2000.pdf>.",
+      "details": "Calculate magnetic field at a given location and time according to the World Magnetic Model (WMM). Both the main field and secular variation components are returned. This functionality is useful for physicists and geophysicists who need orthogonal components from WMM. Currently, this package supports annualized time inputs between 2000-01-01 to 2029-12-31. If desired, users can specify which WMM version to use, e.g., the original WMM2015 release or the recent out-of-cycle WMM2015 release. Methods used to implement WMM, including the Gauss coefficients for each release, are described in the following publications: NOAA NCEI Geomagnetic Modeling Team and British Geological Survey (2024) <doi:10.25921/aqfd-sd83>, Chulliat et al (2020) <doi:10.25923/ytk1-yx35>, Chulliat et al (2019) <doi:10.25921/xhr3-0t19>, Chulliat et al (2015) <doi:10.7289/V5TB14V7>, Maus et al (2010) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/WMM2010_Report.pdf>, McLean et al (2004) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/TRWMM_2005.pdf>, and Macmillian et al (2000) <https://www.ngdc.noaa.gov/geomag/WMM/data/WMMReports/wmm2000.pdf>.",
       "maintainer": "Will Frierson",
       "keywords": "",
       "github": "https://github.com/wfrierson/wmm",
@@ -526,7 +526,7 @@
       "url": "https://github.com/wfrierson/wmm",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2023-10-07 23:58:46",
+      "date_last_commit": "2025-06-15 00:21:44",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1922,7 +1922,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-01 22:28:40",
+      "date_last_commit": "2025-06-15 04:48:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-13 09:14:05",
+      "date_last_commit": "2025-06-14 12:19:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5967,8 +5967,8 @@
     },
     {
       "name": "taxizedb",
-      "description": "Tools for Working with 'Taxonomic' Databases",
-      "details": "Tools for working with 'taxonomic' databases, including utilities for downloading databases, loading them into various 'SQL' databases, cleaning up files, and providing a 'SQL' connection that can be used to do 'SQL' queries directly or used in 'dplyr'.",
+      "description": "Offline Access to Taxonomic Databases",
+      "details": "Download taxonomic databases such as CoL, GBIF, ITIS, NCBI, WFO, or Wikidata, convert them into SQLite format, and query them locally for fast, reliable, and reproducible access to taxonomic data.",
       "maintainer": "Tamás Stirling",
       "keywords": "itis, taxize, taxonomic-databases, taxonomy",
       "github": "https://github.com/ropensci/taxizedb",
@@ -5980,7 +5980,7 @@
       "url": "https://github.com/ropensci/taxizedb",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-11 14:37:28",
+      "date_last_commit": "2025-06-14 21:26:32",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-14 08:09 UTC"
+  "date": "2025-06-15 07:56 UTC"
 }
