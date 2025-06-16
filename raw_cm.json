@@ -3518,7 +3518,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.144",
+    "version": "0.4.3.155",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-13 14:43:36",
+      "date_last_commit": "2025-06-15 19:22:56",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1922,7 +1922,7 @@
       "url": "https://github.com/ropensci/eDNAjoint",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-15 04:48:29",
+      "date_last_commit": "2025-06-15 16:18:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-15 07:56 UTC"
+  "date": "2025-06-16 07:57 UTC"
 }
