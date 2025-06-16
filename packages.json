@@ -835,7 +835,7 @@
   {
     "package": "ckanr",
     "url": "https://github.com/ropensci/ckanr",
-    "branch": "master"
+    "branch": "main"
   },
   {
     "package": "cld2",
