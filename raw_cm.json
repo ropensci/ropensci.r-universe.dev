@@ -3518,7 +3518,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3.155",
+    "version": "0.4.3.159",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4498,7 +4498,7 @@
     "codeRepository": "https://github.com/ropensci-org/promoutils",
     "issueTracker": "https://github.com/ropensci-org/promoutils/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -17260,7 +17260,7 @@
     "codeRepository": "https://github.com/ropensci/ckanr",
     "issueTracker": "https://github.com/ropensci/ckanr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.7.0.9000",
+    "version": "0.7.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -17297,7 +17297,7 @@
         "@type": "Person",
         "givenName": "Florian",
         "familyName": "Mayer",
-        "email": "Florian.Mayer@dbca.wa.gov.au",
+        "email": "Florian.Mayer@dpc.wa.gov.au",
         "@id": "https://orcid.org/0000-0003-4269-4242"
       },
       {
@@ -17316,10 +17316,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Francisco",
-        "familyName": "Alves",
-        "email": "fjunior.alves.oliveira@gmail.com",
-        "@id": "https://orcid.org/0000-0003-3390-0534"
+        "givenName": "Florian",
+        "familyName": "Mayer",
+        "email": "Florian.Mayer@dpc.wa.gov.au",
+        "@id": "https://orcid.org/0000-0003-4269-4242"
       }
     ],
     "softwareSuggestions": [
@@ -24745,7 +24745,7 @@
     "codeRepository": "https://github.com/ropensci/dynamite",
     "issueTracker": "https://github.com/ropensci/dynamite/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51472,7 +51472,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.56",
+    "version": "0.2.5.58",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65488,7 +65488,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.1.2",
+    "version": "3.8.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65505,35 +65505,30 @@
       {
         "@type": "Person",
         "givenName": "Scott",
-        "familyName": "Chamberlain",
-        "@id": "https://orcid.org/0000-0003-1444-9135"
+        "familyName": "Chamberlain"
       },
       {
         "@type": "Person",
         "givenName": "Damiano",
-        "familyName": "Oldoni",
-        "@id": "https://orcid.org/0000-0003-3445-7562"
+        "familyName": "Oldoni"
       },
       {
         "@type": "Person",
         "givenName": "John",
         "familyName": "Waller",
-        "email": "jwaller@gbif.org",
-        "@id": "https://orcid.org/0000-0002-7302-5976"
+        "email": "jwaller@gbif.org"
       }
     ],
     "contributor": [
       {
         "@type": "Person",
         "givenName": "Vijay",
-        "familyName": "Barve",
-        "@id": "https://orcid.org/0000-0002-4852-2567"
+        "familyName": "Barve"
       },
       {
         "@type": "Person",
         "givenName": "Peter",
-        "familyName": "Desmet",
-        "@id": "https://orcid.org/0000-0002-8442-8025"
+        "familyName": "Desmet"
       },
       {
         "@type": "Person",
@@ -65543,14 +65538,12 @@
       {
         "@type": "Person",
         "givenName": "Dan",
-        "familyName": "Mcglinn",
-        "@id": "https://orcid.org/0000-0003-2359-3526"
+        "familyName": "Mcglinn"
       },
       {
         "@type": "Person",
         "givenName": "Karthik",
-        "familyName": "Ram",
-        "@id": "https://orcid.org/0000-0002-0233-1757"
+        "familyName": "Ram"
       }
     ],
     "funder": [
@@ -65564,8 +65557,7 @@
         "@type": "Person",
         "givenName": "John",
         "familyName": "Waller",
-        "email": "jwaller@gbif.org",
-        "@id": "https://orcid.org/0000-0002-7302-5976"
+        "email": "jwaller@gbif.org"
       }
     ],
     "softwareSuggestions": [
@@ -65894,7 +65886,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.1.2"
+        "description": "R package version 3.8.2"
       },
       {
         "@type": "ScholarlyArticle",

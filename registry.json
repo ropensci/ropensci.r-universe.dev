@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-15 19:22:56",
+      "date_last_commit": "2025-06-16 19:12:27",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-org/promoutils",
-      "date_last_commit": "2025-05-26 07:35:11",
+      "date_last_commit": "2025-06-16 19:23:46",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1331,7 +1331,7 @@
       "name": "ckanr",
       "description": "Client for the Comprehensive Knowledge Archive Network ('CKAN') API",
       "details": "Client for 'CKAN' API (<https://ckan.org/>). Includes interface to 'CKAN' 'APIs' for search, list, show for packages, organizations, and resources. In addition, provides an interface to the 'datastore' API.",
-      "maintainer": "Francisco Alves",
+      "maintainer": "Florian Mayer",
       "keywords": "api, api-wrapper, ckan, ckan-api, data, database, dataset, open-data",
       "github": "https://github.com/ropensci/ckanr",
       "status": "https://www.repostatus.org#active",
@@ -1342,7 +1342,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2023-03-17 19:38:36",
+      "date_last_commit": "2025-06-16 12:52:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-12 08:17:00",
+      "date_last_commit": "2025-06-17 07:39:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3640,7 +3640,7 @@
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-13 12:08:17",
+      "date_last_commit": "2025-06-16 11:01:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-14 12:19:53",
+      "date_last_commit": "2025-06-16 08:44:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4860,7 +4860,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 09:03:29",
+      "date_last_commit": "2025-06-16 09:34:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-16 07:57 UTC"
+  "date": "2025-06-17 07:58 UTC"
 }
