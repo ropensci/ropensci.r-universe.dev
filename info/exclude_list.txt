@@ -37,6 +37,7 @@ drake-manual
 drat
 elastic_data
 etseed
+events-guidance
 exploRingJSON
 fishbaseapi
 fishbaseapidocs
