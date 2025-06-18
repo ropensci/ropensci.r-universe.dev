@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-06 13:55:13",
+      "date_last_commit": "2025-06-17 12:20:51",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 19:12:27",
+      "date_last_commit": "2025-06-17 12:21:36",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-17 07:39:42",
+      "date_last_commit": "2025-06-17 12:50:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5968,7 +5968,7 @@
     {
       "name": "taxizedb",
       "description": "Offline Access to Taxonomic Databases",
-      "details": "Download taxonomic databases such as CoL, GBIF, ITIS, NCBI, WFO, or Wikidata, convert them into SQLite format, and query them locally for fast, reliable, and reproducible access to taxonomic data.",
+      "details": "Download taxonomic databases, convert them into 'SQLite' format, and query them locally for fast, reliable, and reproducible access to taxonomic data.",
       "maintainer": "Tamás Stirling",
       "keywords": "itis, taxize, taxonomic-databases, taxonomy",
       "github": "https://github.com/ropensci/taxizedb",
@@ -5980,7 +5980,7 @@
       "url": "https://github.com/ropensci/taxizedb",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-14 21:26:32",
+      "date_last_commit": "2025-06-17 10:24:17",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6840,7 +6840,7 @@
       "url": "https://github.com/ropenscilabs/deposits",
       "ropensci_category": "data-publication",
       "ropenscilabs": true,
-      "date_last_commit": "2025-06-10 09:51:08",
+      "date_last_commit": "2025-06-17 12:23:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-17 07:58 UTC"
+  "date": "2025-06-18 07:57 UTC"
 }
