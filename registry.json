@@ -4860,7 +4860,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 09:34:36",
+      "date_last_commit": "2025-06-19 11:36:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-11 16:09:34",
+      "date_last_commit": "2025-06-19 14:08:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-19 07:58 UTC"
+  "date": "2025-06-20 07:57 UTC"
 }

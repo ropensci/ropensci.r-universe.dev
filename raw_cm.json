@@ -65494,7 +65494,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.2",
+    "version": "3.8.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65892,7 +65892,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.2"
+        "description": "R package version 3.8.2.1"
       },
       {
         "@type": "ScholarlyArticle",
