@@ -25342,7 +25342,7 @@
     "codeRepository": "https://github.com/ropensci/eDNAjoint",
     "issueTracker": "https://github.com/ropensci/eDNAjoint/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.1",
+    "version": "0.3.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
