@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-18 10:29:38",
+      "date_last_commit": "2025-06-23 07:33:24",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -450,7 +450,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-05 12:28:30",
+      "date_last_commit": "2025-06-23 06:48:28",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-22 07:57 UTC"
+  "date": "2025-06-23 08:01 UTC"
 }
