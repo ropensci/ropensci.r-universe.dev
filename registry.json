@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-23 09:08:01",
+      "date_last_commit": "2025-06-24 10:55:28",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-23 10:03:09",
+      "date_last_commit": "2025-06-24 13:13:23",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-23 07:33:24",
+      "date_last_commit": "2025-06-24 08:11:26",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1602,7 +1602,7 @@
       "url": "https://github.com/ropensci/daiquiri",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 12:18:34",
+      "date_last_commit": "2025-06-24 16:04:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2788,7 +2788,7 @@
     {
       "name": "helminthR",
       "description": "Access London Natural History Museum Host-Helminth Record Database",
-      "details": "Access to large host-parasite data is often hampered by the availability of data and difficulty in obtaining it in a programmatic way to encourage analyses. 'helminthR' provides a programmatic interface to the London Natural History Museum's host-parasite database, one of the largest host-parasite databases existing currently <https://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/>. The package allows the user to query by host species, parasite species, and geographic location.",
+      "details": "Access to large host-parasite data is often hampered by the availability of data and difficulty in obtaining it in a programmatic way to encourage analyses. 'helminthR' provides accesss to the London Natural History Museum's host-parasite database, one of the largest host-parasite databases existing currently.",
       "maintainer": "Tad Dallas",
       "keywords": "disease-networks, helminth, open-data, parasites",
       "github": "https://github.com/ropensci/helminthR",
@@ -2800,7 +2800,7 @@
       "url": "https://github.com/ropensci/helminthR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-02 21:04:39",
+      "date_last_commit": "2025-06-24 19:58:10",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3840,7 +3840,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-09 16:44:46",
+      "date_last_commit": "2025-06-24 16:24:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4860,7 +4860,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-19 11:36:44",
+      "date_last_commit": "2025-06-24 12:10:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-23 20:27:32",
+      "date_last_commit": "2025-06-25 06:46:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5900,7 +5900,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-18 12:43:50",
+      "date_last_commit": "2025-06-24 12:59:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-24 08:01 UTC"
+  "date": "2025-06-25 07:57 UTC"
 }
