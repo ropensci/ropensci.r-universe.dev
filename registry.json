@@ -3820,7 +3820,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 08:44:02",
+      "date_last_commit": "2025-06-25 09:07:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5000,7 +5000,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-25 06:46:11",
+      "date_last_commit": "2025-06-25 13:40:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5900,7 +5900,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 12:59:15",
+      "date_last_commit": "2025-06-25 20:24:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6500,7 +6500,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-19 14:08:01",
+      "date_last_commit": "2025-06-25 22:25:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6946,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-25 07:57 UTC"
+  "date": "2025-06-26 07:59 UTC"
 }

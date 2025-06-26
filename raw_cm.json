@@ -51424,7 +51424,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.58",
+    "version": "0.2.5.59",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51638,6 +51638,12 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
         "provider": {
@@ -51648,7 +51654,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
@@ -51660,12 +51666,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
@@ -51678,7 +51684,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "reproj",
         "name": "reproj",
@@ -51690,7 +51696,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=reproj"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -51702,7 +51708,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -51714,12 +51720,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -78853,7 +78859,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.3.9005",
+    "version": "1.11.3.9004",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -79438,18 +79444,6 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "fs",
-        "name": "fs",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=fs"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
         "identifier": "igraph",
         "name": "igraph",
         "version": ">= 2.0.0",
@@ -79461,7 +79455,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=igraph"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
@@ -79474,7 +79468,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "prettyunits",
         "name": "prettyunits",
@@ -79487,7 +79481,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=prettyunits"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "ps",
         "name": "ps",
@@ -79500,7 +79494,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ps"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "R6",
         "name": "R6",
@@ -79513,7 +79507,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=R6"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -79526,7 +79520,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "secretbase",
         "name": "secretbase",
@@ -79539,12 +79533,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=secretbase"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats"
       },
-      "16": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -79557,7 +79551,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "17": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "tidyselect",
         "name": "tidyselect",
@@ -79570,17 +79564,17 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyselect"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "tools",
         "name": "tools"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "20": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "vctrs",
         "name": "vctrs",
@@ -79593,7 +79587,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=vctrs"
       },
-      "21": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
