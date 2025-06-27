@@ -224,6 +224,20 @@
     }
   },
   {
+    "package": "PFW",
+    "url": "https://github.com/ropensci/PFW",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 698,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/698"
+      }
+    }
+  },
+  {
     "package": "PostcodesioR",
     "url": "https://github.com/ropensci/PostcodesioR",
     "branch": "master",
