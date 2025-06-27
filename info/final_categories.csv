@@ -16,6 +16,7 @@ pkgcheck,scalereprod,FALSE
 pkgmatch,scalereprod,FALSE
 pkgreviewr,scalereprod,FALSE
 pkgstats,scalereprod,FALSE
+promoutils,scalereprod,FALSE
 repometrics,scalereprod,FALSE
 roblog,scalereprod,TRUE
 roreviewapi,scalereprod,FALSE
@@ -53,6 +54,7 @@ bowerbird,scalereprod,FALSE
 brranching,data-access,FALSE
 butterfly,data-extraction,FALSE
 c14bazAAR,data-access,FALSE
+c3dr,data-extraction,FALSE
 camsRad,data-access,FALSE
 canaper,stat,FALSE
 cde,data-access,FALSE
@@ -114,6 +116,7 @@ fellingdater,scalereprod,FALSE
 fingertipsR,data-access,FALSE
 fireexposuR,scalereprod,FALSE
 fluidsynth,image-processing,FALSE
+forcis,NA,FALSE
 gbifdb,data-access,FALSE
 gendercoder,data-extraction,FALSE
 geojson,geospatial,FALSE
@@ -199,6 +202,7 @@ parzer,geospatial,FALSE
 patentsview,literature,FALSE
 pathviewr,data-extraction,FALSE
 pdftools,literature,FALSE
+PFW,data-access,FALSE
 phonfieldwork,data-extraction,FALSE
 photosearcher,data-access,FALSE
 phruta,data-extraction,FALSE
@@ -263,7 +267,6 @@ rperseus,data-access,FALSE
 Rpolyhedra,data-extraction,FALSE
 rppo,data-access,FALSE
 rredlist,data-access,FALSE
-rrlite,databases,FALSE
 rrricanes,data-access,FALSE
 rrricanesdata,data-access,FALSE
 rsat,geospatial,FALSE
