@@ -336,6 +336,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-org/promoutils",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-06-16 19:23:46",
       "cran_archived": false,
       "staff_maintained": false
@@ -1082,6 +1084,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/c3dr",
+      "ropensci_category": "data-extraction",
+      "ropenscilabs": false,
       "date_last_commit": "2025-05-26 08:54:25",
       "github_archived": false,
       "cran_archived": false,
@@ -2320,6 +2324,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/forcis",
+      "ropenscilabs": false,
       "date_last_commit": "2025-05-20 09:25:29",
       "github_archived": false,
       "cran_archived": false,
@@ -4038,6 +4043,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/PFW",
+      "ropensci_category": "data-access",
+      "ropenscilabs": false,
       "date_last_commit": "2025-06-27 02:41:58",
       "github_archived": false,
       "cran_archived": false,
@@ -6964,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-27 06:28 UTC"
+  "date": "2025-06-27 07:57 UTC"
 }
