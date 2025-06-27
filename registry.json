@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-17 12:20:51",
+      "date_last_commit": "2025-06-26 11:29:43",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 13:13:23",
+      "date_last_commit": "2025-06-26 15:45:21",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -488,7 +488,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-06 10:18:56",
+      "date_last_commit": "2025-06-26 08:09:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1602,7 +1602,7 @@
       "url": "https://github.com/ropensci/daiquiri",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 16:04:32",
+      "date_last_commit": "2025-06-26 16:37:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1882,7 +1882,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-18 08:20:50",
+      "date_last_commit": "2025-06-26 12:02:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3540,7 +3540,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-04 12:39:44",
+      "date_last_commit": "2025-06-26 19:25:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4024,6 +4024,24 @@
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
+    },
+    {
+      "name": "PFW",
+      "description": "Tools for Filtering and Processing Data from Project FeederWatch",
+      "details": "Provides tools to import, clean, filter, and prepare Project FeederWatch data for analysis. Includes functions for taxonomic rollup, easy filtering, zerofilling, merging in site metadata, and more.",
+      "maintainer": "Mason W. Maron",
+      "keywords": "",
+      "github": "https://github.com/ropensci/PFW",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/698",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/PFW",
+      "date_last_commit": "2025-06-27 02:41:58",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
     },
     {
       "name": "phonfieldwork",
@@ -6500,7 +6518,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-25 22:25:53",
+      "date_last_commit": "2025-06-26 17:55:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6680,7 +6698,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-20 13:45:37",
+      "date_last_commit": "2025-06-26 17:50:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6946,5 +6964,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-26 07:59 UTC"
+  "date": "2025-06-27 05:54 UTC"
 }
