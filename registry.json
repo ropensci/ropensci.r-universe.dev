@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 15:45:21",
+      "date_last_commit": "2025-06-27 14:34:06",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-23 06:48:28",
+      "date_last_commit": "2025-06-27 08:13:18",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2233,8 +2233,8 @@
     },
     {
       "name": "fellingdater",
-      "description": "Estimate, report and combine felling dates of historical tree-ring \n    series",
-      "details": "fellingdater aims to facilitate the analysis and interpretation of tree-ring data from wooden cultural heritage objects and structures. The package standardizes the process of computing and combining felling date estimates, both for individual and groups of related tree-ring series.",
+      "description": "Tree-ring dating and estimating felling dates of historical timbers",
+      "details": "fellingdater provides a comprehensive suite of functions for dendrochronological and dendroarchaeological analysis, covering a workflow from tree-ring **data processing** and **crossdating**, up to the estimation and reporting of **felling dates**. Originally designed to assist dendrochronologists in inferring felling dates from dated tree-ring series with partially preserved sapwood, the package has been expanded to include a workflow for tree-ring dating, analysis, and visualization.",
       "maintainer": "Kristof Haneca",
       "keywords": "dendrochronology, sapwood, tree-rings",
       "github": "https://github.com/ropensci/fellingdater",
@@ -2246,7 +2246,7 @@
       "url": "https://github.com/ropensci/fellingdater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-06 20:10:23",
+      "date_last_commit": "2025-06-27 19:57:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2505,7 +2505,7 @@
       "url": "https://github.com/ropensci/gigs",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-19 14:04:06",
+      "date_last_commit": "2025-06-27 09:48:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4045,7 +4045,7 @@
       "url": "https://github.com/ropensci/PFW",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-27 02:41:58",
+      "date_last_commit": "2025-06-28 06:10:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4365,7 +4365,7 @@
       "url": "https://github.com/ropensci/qpdf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-06 19:41:18",
+      "date_last_commit": "2025-06-27 17:49:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5025,7 +5025,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-25 13:40:24",
+      "date_last_commit": "2025-06-27 15:53:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6525,7 +6525,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 17:55:26",
+      "date_last_commit": "2025-06-27 22:48:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6705,7 +6705,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 17:50:41",
+      "date_last_commit": "2025-06-27 22:47:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-27 07:57 UTC"
+  "date": "2025-06-28 07:58 UTC"
 }
