@@ -2814,7 +2814,7 @@
       "name": "historydata",
       "description": "Datasets for Historians",
       "details": "These sample data sets are intended for historians learning R. They include population, institutional, religious, military, and prosopographical data suitable for mapping, quantitative analysis, and network analysis.",
-      "maintainer": "Lincoln Mullen",
+      "maintainer": "Hien Le",
       "keywords": "",
       "github": "https://github.com/ropensci/historydata",
       "status": "https://www.repostatus.org#active",
@@ -2825,7 +2825,7 @@
       "url": "https://github.com/ropensci/historydata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-16 19:02:28",
+      "date_last_commit": "2025-06-29 00:33:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4365,7 +4365,7 @@
       "url": "https://github.com/ropensci/qpdf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-27 17:49:52",
+      "date_last_commit": "2025-06-28 20:25:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6705,7 +6705,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-27 22:47:39",
+      "date_last_commit": "2025-06-29 05:39:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-28 07:58 UTC"
+  "date": "2025-06-29 07:57 UTC"
 }

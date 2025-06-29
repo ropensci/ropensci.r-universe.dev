@@ -37256,6 +37256,12 @@
         "familyName": "Mullen",
         "email": "lincoln@lincolnmullen.com",
         "@id": "https://orcid.org/0000-0001-5103-6917"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Hien",
+        "familyName": "Le",
+        "email": "minhhien2872002@gmail.com"
       }
     ],
     "contributor": [
@@ -37284,10 +37290,9 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Lincoln",
-        "familyName": "Mullen",
-        "email": "lincoln@lincolnmullen.com",
-        "@id": "https://orcid.org/0000-0001-5103-6917"
+        "givenName": "Hien",
+        "familyName": "Le",
+        "email": "minhhien2872002@gmail.com"
       }
     ],
     "softwareSuggestions": [
@@ -57873,7 +57878,7 @@
     "codeRepository": "https://github.com/ropensci/qpdf",
     "issueTracker": "https://github.com/ropensci/qpdf/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "1.3.6",
+    "version": "1.3.9999",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
