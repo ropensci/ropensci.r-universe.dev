@@ -2246,7 +2246,7 @@
       "url": "https://github.com/ropensci/fellingdater",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-27 19:57:44",
+      "date_last_commit": "2025-06-30 06:53:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4365,7 +4365,7 @@
       "url": "https://github.com/ropensci/qpdf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-28 20:25:55",
+      "date_last_commit": "2025-06-29 08:39:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-06-29 07:57 UTC"
+  "date": "2025-06-30 07:57 UTC"
 }
