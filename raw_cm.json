@@ -3161,7 +3161,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.174",
+    "version": "0.1.2.180",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3402,18 +3402,6 @@
       },
       "10": {
         "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "11": {
-        "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
         "provider": {
@@ -3424,7 +3412,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -3436,7 +3424,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
@@ -3448,18 +3436,18 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "pkgstats",
         "name": "pkgstats",
         "sameAs": "https://github.com/ropensci-review-tools/pkgstats"
       },
-      "16": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "rappdirs",
         "name": "rappdirs",
@@ -3471,7 +3459,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rappdirs"
       },
-      "17": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "rmarkdown",
         "name": "rmarkdown",
@@ -3483,7 +3471,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "rprojroot",
         "name": "rprojroot",
@@ -3495,7 +3483,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rprojroot"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -3507,13 +3495,13 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "20": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "srr",
         "name": "srr",
         "sameAs": "https://github.com/ropensci-review-tools/srr"
       },
-      "21": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -7708,14 +7696,7 @@
       "6": {
         "@type": "SoftwareApplication",
         "identifier": "automap",
-        "name": "automap",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=automap"
+        "name": "automap"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -57878,7 +57859,7 @@
     "codeRepository": "https://github.com/ropensci/qpdf",
     "issueTracker": "https://github.com/ropensci/qpdf/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -87745,7 +87726,7 @@
         "@type": "SoftwareApplication",
         "identifier": "webmockr",
         "name": "webmockr",
-        "version": ">= 0.8.0",
+        "version": ">= 2.1.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
