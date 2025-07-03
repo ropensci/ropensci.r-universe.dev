@@ -3161,7 +3161,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.187",
+    "version": "0.1.2.190",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3530,7 +3530,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.22",
+    "version": "0.5.0.24",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51471,7 +51471,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.59",
+    "version": "0.2.5.60",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53391,12 +53391,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
