@@ -4032,8 +4032,8 @@
     },
     {
       "name": "PFW",
-      "description": "Tools for Filtering and Processing Data from Project FeederWatch",
-      "details": "Provides tools to import, clean, filter, and prepare Project FeederWatch data for analysis. Includes functions for taxonomic rollup, easy filtering, zerofilling, merging in site metadata, and more.",
+      "description": "Filtering and Processing Data from Project FeederWatch",
+      "details": "Provides tools to import, clean, filter, and prepare Project FeederWatch data for analysis. Includes functions for taxonomic rollup, easy filtering, zerofilling, merging in site metadata, and more. Project FeederWatch data comes from <https://feederwatch.org/explore/raw-dataset-requests/>.",
       "maintainer": "Mason W. Maron",
       "keywords": "",
       "github": "https://github.com/ropensci/PFW",
@@ -4045,7 +4045,7 @@
       "url": "https://github.com/ropensci/PFW",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-28 06:10:50",
+      "date_last_commit": "2025-07-04 07:52:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5125,7 +5125,7 @@
       "url": "https://github.com/ropensci/rnaturalearthhires",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-28 21:17:59",
+      "date_last_commit": "2025-07-04 06:39:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-03 08:00 UTC"
+  "date": "2025-07-04 07:58 UTC"
 }

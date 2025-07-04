@@ -54195,8 +54195,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "PFW",
-    "description": "Provides tools to import, clean, filter, and prepare Project FeederWatch data for analysis. Includes functions for taxonomic rollup, easy filtering, zerofilling, merging in site metadata, and more.",
-    "name": "PFW: Tools for Filtering and Processing Data from Project FeederWatch",
+    "description": "Provides tools to import, clean, filter, and prepare Project FeederWatch data for analysis. Includes functions for taxonomic rollup, easy filtering, zerofilling, merging in site metadata, and more. Project FeederWatch data comes from <https://feederwatch.org/explore/raw-dataset-requests/>.",
+    "name": "PFW: Filtering and Processing Data from Project FeederWatch",
     "relatedLink": ["https://github.com/ropensci/PFW", "https://ropensci.github.io/PFW/"],
     "codeRepository": "https://github.com/ropensci/PFW",
     "issueTracker": "https://github.com/ropensci/PFW/issues",
@@ -54392,7 +54392,7 @@
             "familyName": "Maron"
           }
         ],
-        "name": "PFW: Tools for Filtering and Processing Data from Project FeederWatch",
+        "name": "PFW: Filtering and Processing Data from Project FeederWatch",
         "url": "https://github.com/ropensci/PFW",
         "description": "R package version 0.1.0"
       }
