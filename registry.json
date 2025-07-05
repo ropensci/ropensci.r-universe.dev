@@ -154,9 +154,9 @@
     },
     {
       "name": "emodnet.wfs",
-      "description": "Access 'EMODnet' Web Feature Service data through R",
+      "description": "Access 'EMODnet' Web Feature Service Data Through R",
       "details": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
-      "maintainer": "Salvador Fernández-Bejarano",
+      "maintainer": "Joana Beja",
       "keywords": "biology, dataproducts, emodnet, marine-data, wfs",
       "github": "https://github.com/EMODnet/emodnet.wfs",
       "status": "https://www.repostatus.org#active",
@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-06 13:39:07",
+      "date_last_commit": "2025-07-04 11:45:57",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-04 10:32:13",
+      "date_last_commit": "2025-07-04 12:37:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1566,7 +1566,7 @@
       "url": "https://github.com/ropensci/crul",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-23 19:46:55",
+      "date_last_commit": "2025-07-04 21:23:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3079,7 +3079,7 @@
       "github": "https://github.com/ropensci/karel",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/620",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/karel",
@@ -3087,7 +3087,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-07-27 00:24:38",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -4045,7 +4045,7 @@
       "url": "https://github.com/ropensci/PFW",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 07:52:53",
+      "date_last_commit": "2025-07-05 02:20:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4754,7 +4754,7 @@
       "name": "rentrez",
       "description": "'Entrez' in R",
       "details": "Provides an R interface to the NCBI's 'EUtils' API, allowing users to search databases like 'GenBank' <https://www.ncbi.nlm.nih.gov/genbank/> and 'PubMed' <https://pubmed.ncbi.nlm.nih.gov/>, process the results of those searches and pull data into their R sessions.",
-      "maintainer": "David Winter",
+      "maintainer": "Indraneel Chakraborty",
       "keywords": "",
       "github": "https://github.com/ropensci/rentrez",
       "status": "https://www.repostatus.org#active",
@@ -4765,7 +4765,7 @@
       "url": "https://github.com/ropensci/rentrez",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-12 21:14:34",
+      "date_last_commit": "2025-07-05 06:50:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5125,7 +5125,7 @@
       "url": "https://github.com/ropensci/rnaturalearthhires",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 06:39:37",
+      "date_last_commit": "2025-07-05 06:35:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6525,7 +6525,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-01 03:13:48",
+      "date_last_commit": "2025-07-04 21:46:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-04 07:58 UTC"
+  "date": "2025-07-05 07:56 UTC"
 }

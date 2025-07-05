@@ -1831,7 +1831,7 @@
     "@type": "SoftwareSourceCode",
     "identifier": "emodnet.wfs",
     "description": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
-    "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service data through R",
+    "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service Data Through R",
     "relatedLink": ["https://docs.ropensci.org/emodnet.wfs/", "https://github.com/EMODnet/emodnet.wfs"],
     "codeRepository": "https://github.com/EMODnet/emodnet.wfs",
     "issueTracker": "https://github.com/EMODnet/emodnet.wfs/issues",
@@ -1844,6 +1844,13 @@
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
     "author": [
+      {
+        "@type": "Person",
+        "givenName": "Joana",
+        "familyName": "Beja",
+        "email": "joana.beja@vliz.be",
+        "@id": "https://orcid.org/0000-0002-5196-8447"
+      },
       {
         "@type": "Person",
         "givenName": "Anna",
@@ -1892,10 +1899,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Salvador",
-        "familyName": "Fernández-Bejarano",
-        "email": "salvador.fernandez@vliz.be",
-        "@id": "https://orcid.org/0000-0003-0535-7677"
+        "givenName": "Joana",
+        "familyName": "Beja",
+        "email": "joana.beja@vliz.be",
+        "@id": "https://orcid.org/0000-0002-5196-8447"
       }
     ],
     "softwareSuggestions": [
@@ -2092,14 +2099,14 @@
         "@type": "SoftwareApplication",
         "identifier": "ows4R",
         "name": "ows4R",
-        "version": ">= 0.4.1",
+        "version": ">= 0.5",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://github.com/eblondel/ows4R"
+        "sameAs": "https://CRAN.R-project.org/package=ows4R"
       },
       "9": {
         "@type": "SoftwareApplication",
@@ -4778,7 +4785,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.13",
+    "version": "0.2.1.15",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -39861,12 +39868,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -64334,6 +64335,13 @@
         "familyName": "Winter",
         "email": "david.winter@gmail.com",
         "@id": "https://orcid.org/0000-0002-6165-0029"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Indraneel",
+        "familyName": "Chakraborty",
+        "email": "hello.indraneel@gmail.com",
+        "@id": "https://orcid.org/0000-0001-6958-8269"
       }
     ],
     "contributor": [
@@ -64355,10 +64363,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "David",
-        "familyName": "Winter",
-        "email": "david.winter@gmail.com",
-        "@id": "https://orcid.org/0000-0002-6165-0029"
+        "givenName": "Indraneel",
+        "familyName": "Chakraborty",
+        "email": "hello.indraneel@gmail.com",
+        "@id": "https://orcid.org/0000-0001-6958-8269"
       }
     ],
     "softwareSuggestions": [
