@@ -5125,7 +5125,7 @@
       "url": "https://github.com/ropensci/rnaturalearthhires",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-05 06:35:45",
+      "date_last_commit": "2025-07-05 11:12:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-05 07:56 UTC"
+  "date": "2025-07-06 07:57 UTC"
 }
