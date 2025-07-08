@@ -110,7 +110,7 @@
       "url": "https://github.com/r-lib/commonmark",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-06 20:35:39",
+      "date_last_commit": "2025-07-07 12:31:35",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-02 14:07:57",
+      "date_last_commit": "2025-07-07 11:06:14",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2146,7 +2146,7 @@
       "url": "https://github.com/ropensci/excluder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-15 21:43:25",
+      "date_last_commit": "2025-07-07 17:39:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3825,7 +3825,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-02 09:07:37",
+      "date_last_commit": "2025-07-07 08:27:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5025,7 +5025,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-02 06:24:15",
+      "date_last_commit": "2025-07-07 14:43:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5325,7 +5325,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 14:19:06",
+      "date_last_commit": "2025-07-07 21:20:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6685,7 +6685,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-23 21:28:16",
+      "date_last_commit": "2025-07-07 09:37:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-07 07:59 UTC"
+  "date": "2025-07-08 07:57 UTC"
 }
