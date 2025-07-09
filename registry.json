@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-07 11:06:14",
+      "date_last_commit": "2025-07-09 07:41:45",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-02 16:45:37",
+      "date_last_commit": "2025-07-08 13:11:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2825,7 +2825,7 @@
       "url": "https://github.com/ropensci/historydata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-29 00:33:30",
+      "date_last_commit": "2025-07-08 14:30:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3145,7 +3145,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 14:34:38",
+      "date_last_commit": "2025-07-08 17:42:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3825,7 +3825,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-07 08:27:32",
+      "date_last_commit": "2025-07-08 10:40:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4885,7 +4885,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 12:10:10",
+      "date_last_commit": "2025-07-08 12:42:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5325,7 +5325,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-07 21:20:56",
+      "date_last_commit": "2025-07-08 16:31:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5665,7 +5665,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-08 20:12:23",
+      "date_last_commit": "2025-07-08 17:35:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-08 07:57 UTC"
+  "date": "2025-07-09 07:58 UTC"
 }
