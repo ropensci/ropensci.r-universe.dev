@@ -1830,13 +1830,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "emodnet.wfs",
-    "description": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
-    "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service Data Through R",
+    "description": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data <https://emodnet.ec.europa.eu/en/emodnet-web-service-documentation#data-download-services>. This includes listing existing data sources, and getting data from each of them.",
+    "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service Data",
     "relatedLink": ["https://docs.ropensci.org/emodnet.wfs/", "https://github.com/EMODnet/emodnet.wfs"],
     "codeRepository": "https://github.com/EMODnet/emodnet.wfs",
     "issueTracker": "https://github.com/EMODnet/emodnet.wfs/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.2.9000",
+    "version": "2.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -2021,7 +2021,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.6.0"
+        "version": ">= 4.1"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -2073,18 +2073,6 @@
       },
       "6": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
         "identifier": "memoise",
         "name": "memoise",
         "provider": {
@@ -2095,7 +2083,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=memoise"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "ows4R",
         "name": "ows4R",
@@ -2108,7 +2096,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=ows4R"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -2120,7 +2108,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -2132,7 +2120,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -2144,7 +2132,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -2156,12 +2144,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "whoami",
         "name": "whoami",
@@ -2199,7 +2187,7 @@
         "name": "{emodnet.wfs}: Access EMODnet Web Feature Service data through R",
         "identifier": "10.14284/679",
         "url": "https://github.com/EMODnet/emodnet.wfs",
-        "description": "R package version 2.0.2.9000. Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project (EASME/EMFF/2017/1.3.1.2/02/SI2.789013), funded by the by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund",
+        "description": "R package version 2.1.0. Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project (EASME/EMFF/2017/1.3.1.2/02/SI2.789013), funded by the by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund",
         "@id": "https://doi.org/10.14284/679",
         "sameAs": "https://doi.org/10.14284/679"
       }
@@ -3544,7 +3532,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.29",
+    "version": "0.5.0.31",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -16360,13 +16348,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "chopin",
-    "description": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on future and mirai parallel backends, terra and sf functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from `par_pad_*` functions to `par_grid`, `par_hierarchy`, or `par_multirasters` functions. Virtually any functions accepting classes in terra or sf packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function `extract_at`, which uses exactextractr, with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation (`summarize_aw`) and summation of exponentially decaying weights (`summarize_sedc`) are also provided.",
+    "description": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from 'par_pad_*()' functions to 'par_grid()', 'par_hierarchy()', or 'par_multirasters()' functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function 'extract_at()', which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation ('summarize_aw()') and summation of exponentially decaying weights ('summarize_sedc()') are also provided.",
     "name": "chopin: Computation of Spatial Data by Hierarchical and Objective Partitioning of Inputs for Parallel Processing",
     "relatedLink": ["https://docs.ropensci.org/chopin/", "https://github.com/ropensci/chopin"],
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.2",
+    "version": "0.9.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -16729,6 +16717,39 @@
       "SystemRequirements": "netcdf"
     },
     "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Insang",
+            "familyName": "Song"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Kyle", "P."],
+            "familyName": "Messier"
+          }
+        ],
+        "name": "chopin: An open source R-language tool to support spatial analysis on parallelizable infrastructure.",
+        "identifier": "10.1016/j.softx.2025.102167",
+        "pagination": "1--8",
+        "@id": "https://doi.org/10.1016/j.softx.2025.102167",
+        "sameAs": "https://doi.org/10.1016/j.softx.2025.102167",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "102167",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "30",
+            "name": "SoftwareX"
+          }
+        }
+      }
+    ],
     "readme": "https://github.com/ropensci/chopin/blob/HEAD/README.md",
     "review": {
       "@type": "Review",
@@ -20043,7 +20064,7 @@
     "codeRepository": "https://github.com/ropensci/crul",
     "issueTracker": "https://github.com/ropensci/crul/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.5.0.91",
+    "version": "1.5.1.95",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -20079,6 +20100,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -20117,14 +20139,26 @@
         "@type": "SoftwareApplication",
         "identifier": "webmockr",
         "name": "webmockr",
-        "version": ">= 0.1.0",
+        "version": ">= 2.1.1.91",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=webmockr"
+        "sameAs": "https://github.com/ropensci/webmockr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
       },
       {
         "@type": "SoftwareApplication",
@@ -20227,6 +20261,30 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=mime"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "lifecycle",
+        "name": "lifecycle",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
       "SystemRequirements": null
     },
@@ -54216,6 +54274,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -87476,7 +87540,7 @@
     "codeRepository": "https://github.com/ropensci/vcr",
     "issueTracker": "https://github.com/ropensci/vcr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.7.0.91",
+    "version": "1.7.1.93",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -87542,14 +87606,14 @@
         "@type": "SoftwareApplication",
         "identifier": "crul",
         "name": "crul",
-        "version": ">= 0.8.4",
+        "version": ">= 1.5.1.95",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=crul"
+        "sameAs": "https://github.com/ropensci/crul"
       },
       {
         "@type": "SoftwareApplication",
@@ -87579,13 +87643,14 @@
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
+        "version": ">= 1.1.2.9000",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=httr2"
+        "sameAs": "https://github.com/r-lib/httr2"
       },
       {
         "@type": "SoftwareApplication",
@@ -87769,19 +87834,6 @@
       },
       "10": {
         "@type": "SoftwareApplication",
-        "identifier": "webmockr",
-        "name": "webmockr",
-        "version": ">= 2.1.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=webmockr"
-      },
-      "11": {
-        "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
         "provider": {
@@ -87792,7 +87844,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
@@ -89394,7 +89446,7 @@
     "codeRepository": "https://github.com/ropensci/weathercan",
     "issueTracker": "https://github.com/ropensci/weathercan/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.7.3.9000",
+    "version": "0.7.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -89470,6 +89522,13 @@
         "givenName": "Russ",
         "familyName": "Allen",
         "email": "mbr@historicip.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Everett",
+        "familyName": "Snieder",
+        "email": "everett.snieder@gmail.com",
+        "@id": "https://orcid.org/0000-0003-4997-3404"
       }
     ],
     "maintainer": [
@@ -90989,7 +91048,7 @@
     "codeRepository": "https://github.com/ropensci/webmockr",
     "issueTracker": "https://github.com/ropensci/webmockr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.1.0",
+    "version": "2.1.1.91",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -91061,18 +91120,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "vcr",
-        "name": "vcr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=vcr"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "crul",
         "name": "crul",
         "provider": {
@@ -91081,7 +91128,7 @@
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=crul"
+        "sameAs": "https://github.com/ropensci/crul"
       },
       {
         "@type": "SoftwareApplication",

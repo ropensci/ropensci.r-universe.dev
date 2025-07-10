@@ -154,8 +154,8 @@
     },
     {
       "name": "emodnet.wfs",
-      "description": "Access 'EMODnet' Web Feature Service Data Through R",
-      "details": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data through R.",
+      "description": "Access 'EMODnet' Web Feature Service Data",
+      "details": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data <https://emodnet.ec.europa.eu/en/emodnet-web-service-documentation#data-download-services>. This includes listing existing data sources, and getting data from each of them.",
       "maintainer": "Joana Beja",
       "keywords": "biology, dataproducts, emodnet, marine-data, wfs",
       "github": "https://github.com/EMODnet/emodnet.wfs",
@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 11:45:57",
+      "date_last_commit": "2025-07-09 08:28:28",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-01 11:48:17",
+      "date_last_commit": "2025-07-09 09:20:15",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-08 13:11:18",
+      "date_last_commit": "2025-07-09 12:38:17",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1254,7 +1254,7 @@
     {
       "name": "chopin",
       "description": "Computation of Spatial Data by Hierarchical and Objective Partitioning of Inputs for Parallel Processing",
-      "details": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on future and mirai parallel backends, terra and sf functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from `par_pad_*` functions to `par_grid`, `par_hierarchy`, or `par_multirasters` functions. Virtually any functions accepting classes in terra or sf packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function `extract_at`, which uses exactextractr, with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation (`summarize_aw`) and summation of exponentially decaying weights (`summarize_sedc`) are also provided.",
+      "details": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from 'par_pad_*()' functions to 'par_grid()', 'par_hierarchy()', or 'par_multirasters()' functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function 'extract_at()', which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation ('summarize_aw()') and summation of exponentially decaying weights ('summarize_sedc()') are also provided.",
       "maintainer": "Insang Song",
       "keywords": "",
       "github": "https://github.com/ropensci/chopin",
@@ -1266,7 +1266,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-02 05:25:04",
+      "date_last_commit": "2025-07-09 11:36:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1566,7 +1566,7 @@
       "url": "https://github.com/ropensci/crul",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 21:23:02",
+      "date_last_commit": "2025-07-10 07:40:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4039,7 +4039,7 @@
       "github": "https://github.com/ropensci/PFW",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/698",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/PFW",
@@ -6525,7 +6525,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 21:46:52",
+      "date_last_commit": "2025-07-10 07:39:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6645,7 +6645,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-25 17:12:09",
+      "date_last_commit": "2025-07-09 20:12:14",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6705,7 +6705,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-02 21:38:12",
+      "date_last_commit": "2025-07-10 07:40:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-09 07:58 UTC"
+  "date": "2025-07-10 07:57 UTC"
 }
