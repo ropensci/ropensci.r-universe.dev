@@ -567,7 +567,7 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-07 18:24:04",
+      "date_last_commit": "2025-07-10 14:26:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1486,7 +1486,7 @@
       "url": "https://github.com/ropensci/concstats",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2024-03-08 22:45:27",
+      "date_last_commit": "2025-07-10 23:53:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1566,7 +1566,7 @@
       "url": "https://github.com/ropensci/crul",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-10 07:40:14",
+      "date_last_commit": "2025-07-10 19:49:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4045,7 +4045,7 @@
       "url": "https://github.com/ropensci/PFW",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-05 02:20:07",
+      "date_last_commit": "2025-07-11 00:25:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6525,7 +6525,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-10 07:39:02",
+      "date_last_commit": "2025-07-10 18:59:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-10 07:57 UTC"
+  "date": "2025-07-11 07:57 UTC"
 }

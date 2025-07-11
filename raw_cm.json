@@ -7849,7 +7849,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.16",
+    "version": "0.2.2.17",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -19001,11 +19001,11 @@
     "identifier": "concstats",
     "description": "Based on individual market shares of all participants in a market or space, the package offers a set of different structural and concentration measures frequently - and not so frequently - used in research and in practice. Measures can be calculated in groups or individually. The calculated measure or the resulting vector in table format should help practitioners make more informed decisions. Methods used in this package are from: 1. Chang, E. J., Guerra, S. M., de Souza Penaloza, R. A. & Tabak, B. M. (2005) \"Banking concentration: the Brazilian case\". 2. Cobham, A. and A. Summer (2013). \"Is It All About the Tails? The Palma Measure of Income Inequality\". 3. Garcia Alba Idunate, P. (1994). \"Un Indice de dominancia para el analisis de la estructura de los mercados\". 4. Ginevicius, R. and S. Cirba (2009). \"Additive measurement of market concentration\" <doi:10.3846/1611-1699.2009.10.191-198>. 5. Herfindahl, O. C. (1950), \"Concentration in the steel industry\" (PhD thesis). 6. Hirschmann, A. O. (1945), \"National power and structure of foreign trade\". 7. Melnik, A., O. Shy, and R. Stenbacka (2008), \"Assessing market dominance\" <doi:10.1016/j.jebo.2008.03.010>. 8. Palma, J. G. (2006). \"Globalizing Inequality: 'Centrifugal' and 'Centripetal' Forces at Work\". 9. Shannon, C. E. (1948). \"A Mathematical Theory of Communication\". 10. Simpson, E. H. (1949). \"Measurement of Diversity\" <doi:10.1038/163688a0>.",
     "name": "concstats: Market Structure, Concentration and Inequality Measures",
-    "relatedLink": ["https://github.com/ropensci/concstats/", "https://docs.ropensci.org/concstats/(website)"],
+    "relatedLink": ["https://github.com/ropensci/concstats/", "https://docs.ropensci.org/concstats/"],
     "codeRepository": "https://github.com/ropensci/concstats",
     "issueTracker": "https://github.com/ropensci/concstats/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -19140,7 +19140,24 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 2.10"
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "checkmate",
+        "name": "checkmate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=checkmate"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
       },
       "SystemRequirements": null
     },
@@ -87643,14 +87660,14 @@
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
-        "version": ">= 1.1.2.9000",
+        "version": ">= 1.1.2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://github.com/r-lib/httr2"
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
       {
         "@type": "SoftwareApplication",
