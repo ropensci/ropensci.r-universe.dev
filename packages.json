@@ -930,7 +930,7 @@
   {
     "package": "concstats",
     "url": "https://github.com/ropensci/concstats",
-    "branch": "master",
+    "branch": "main",
     "metadata": {
       "review": {
         "id": 559,
