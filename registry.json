@@ -325,8 +325,8 @@
     },
     {
       "name": "promoutils",
-      "description": "Utilities for Promoting rOpenSci on Twitter",
-      "details": "Utility functions for accessing GitHub and twitter data.",
+      "description": "Utilities for Promoting rOpenSci on Social Media",
+      "details": "Utility functions for accessing GitHub and social media data.",
       "maintainer": "Steffi LaZerte",
       "keywords": "",
       "github": "https://github.com/ropensci-org/promoutils",
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-org/promoutils",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 19:23:46",
+      "date_last_commit": "2025-07-11 20:50:37",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -946,7 +946,7 @@
       "url": "https://github.com/ropensci/biomartr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-03 18:15:24",
+      "date_last_commit": "2025-07-11 10:11:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1486,7 +1486,7 @@
       "url": "https://github.com/ropensci/concstats",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-10 23:53:56",
+      "date_last_commit": "2025-07-11 20:00:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2885,7 +2885,7 @@
       "url": "https://github.com/ropensci/hydroscoper",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-19 05:36:30",
+      "date_last_commit": "2025-07-11 19:13:41",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3805,7 +3805,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-15 09:04:56",
+      "date_last_commit": "2025-07-11 15:33:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3845,7 +3845,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 16:24:53",
+      "date_last_commit": "2025-07-11 17:02:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5085,7 +5085,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-14 19:34:41",
+      "date_last_commit": "2025-07-11 11:54:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-11 07:57 UTC"
+  "date": "2025-07-12 07:56 UTC"
 }

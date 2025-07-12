@@ -4506,8 +4506,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "promoutils",
-    "description": "Utility functions for accessing GitHub and twitter data.",
-    "name": "promoutils: Utilities for Promoting rOpenSci on Twitter",
+    "description": "Utility functions for accessing GitHub and social media data.",
+    "name": "promoutils: Utilities for Promoting rOpenSci on Social Media",
     "relatedLink": "https://github.com/ropensci-org/promoutils",
     "codeRepository": "https://github.com/ropensci-org/promoutils",
     "issueTracker": "https://github.com/ropensci-org/promoutils/issues",
@@ -12533,6 +12533,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "data.table",
+        "name": "data.table",
+        "version": ">= 1.9.4",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=data.table"
       }
     ],
     "softwareRequirements": {
@@ -12604,19 +12617,6 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "data.table",
-        "name": "data.table",
-        "version": ">= 1.9.4",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=data.table"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
         "version": ">= 0.3.0",
@@ -12628,7 +12628,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -12641,7 +12641,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "downloader",
         "name": "downloader",
@@ -12654,7 +12654,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=downloader"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "RCurl",
         "name": "RCurl",
@@ -12667,7 +12667,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RCurl"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "XML",
         "name": "XML",
@@ -12680,7 +12680,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=XML"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -12693,7 +12693,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -12706,7 +12706,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "15": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -12718,7 +12718,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "16": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "R.utils",
         "name": "R.utils",
@@ -12730,7 +12730,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=R.utils"
       },
-      "17": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "philentropy",
         "name": "philentropy",
@@ -12742,7 +12742,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=philentropy"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -12754,7 +12754,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
@@ -37753,6 +37753,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "httptest",
+        "name": "httptest",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httptest"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
         "version": ">= 3.2",
@@ -51348,7 +51360,7 @@
     "codeRepository": "https://github.com/ropensci/osmapiR",
     "issueTracker": "https://github.com/ropensci/osmapiR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.3.9000",
+    "version": "0.2.3.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -51520,7 +51532,7 @@
         ],
         "name": "osmapiR: An 'OpenStreetMap API' implementation for R",
         "identifier": "10.21105/joss.07151",
-        "description": "R package version 0.2.3.9000",
+        "description": "R package version 0.2.3.9001",
         "pagination": "7151",
         "@id": "https://doi.org/10.21105/joss.07151",
         "sameAs": "https://doi.org/10.21105/joss.07151",
