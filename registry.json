@@ -3545,7 +3545,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 19:25:45",
+      "date_last_commit": "2025-07-12 10:08:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3845,7 +3845,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-11 17:02:54",
+      "date_last_commit": "2025-07-12 18:32:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5085,7 +5085,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-11 11:54:18",
+      "date_last_commit": "2025-07-12 11:23:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-12 07:56 UTC"
+  "date": "2025-07-13 07:56 UTC"
 }
