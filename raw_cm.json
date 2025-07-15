@@ -1843,6 +1843,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -4567,6 +4573,30 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "clipr",
+        "name": "clipr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=clipr"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
         "provider": {
@@ -4577,7 +4607,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "2": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "gh",
         "name": "gh",
@@ -4589,7 +4619,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=gh"
       },
-      "3": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -4601,7 +4631,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
       },
-      "4": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "httr2",
         "name": "httr2",
@@ -4614,7 +4644,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
-      "5": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -4626,7 +4656,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "6": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
@@ -4638,7 +4668,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "7": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
@@ -4650,7 +4680,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "8": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "memoise",
         "name": "memoise",
@@ -4663,7 +4693,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=memoise"
       },
-      "9": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "pandoc",
         "name": "pandoc",
@@ -4675,7 +4705,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=pandoc"
       },
-      "10": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -4687,7 +4717,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "11": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -4699,7 +4729,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "12": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -4711,7 +4741,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "13": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -4723,7 +4753,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "14": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -4735,7 +4765,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "15": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -4747,7 +4777,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "16": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
@@ -4759,7 +4789,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=yaml"
       },
-      "17": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -16355,13 +16385,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "chopin",
-    "description": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from 'par_pad_*()' functions to 'par_grid()', 'par_hierarchy()', or 'par_multirasters()' functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function 'extract_at()', which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation ('summarize_aw()') and summation of exponentially decaying weights ('summarize_sedc()') are also provided.",
-    "name": "chopin: Computation of Spatial Data by Hierarchical and Objective Partitioning of Inputs for Parallel Processing",
+    "description": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from par_pad_*() functions to par_grid(), par_hierarchy(), or par_multirasters() functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function extract_at(), which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation (summarize_aw()) and summation of exponentially decaying weights (summarize_sedc()) are also provided.",
+    "name": "chopin: Spatial Parallel Computing by Hierarchical Data Partitioning",
     "relatedLink": ["https://docs.ropensci.org/chopin/", "https://github.com/ropensci/chopin"],
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -16472,6 +16502,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "lifecycle",
+        "name": "lifecycle",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
       {
         "@type": "SoftwareApplication",
@@ -16708,18 +16750,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=collapse"
-      },
-      "16": {
-        "@type": "SoftwareApplication",
-        "identifier": "lifecycle",
-        "name": "lifecycle",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
       "SystemRequirements": "netcdf"
     },

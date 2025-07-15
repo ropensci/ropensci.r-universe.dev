@@ -161,7 +161,7 @@
       "github": "https://github.com/EMODnet/emodnet.wfs",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/653",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/EMODnet/emodnet.wfs",
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-org/promoutils",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-11 20:50:37",
+      "date_last_commit": "2025-07-14 21:34:28",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1253,8 +1253,8 @@
     },
     {
       "name": "chopin",
-      "description": "Computation of Spatial Data by Hierarchical and Objective Partitioning of Inputs for Parallel Processing",
-      "details": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from 'par_pad_*()' functions to 'par_grid()', 'par_hierarchy()', or 'par_multirasters()' functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function 'extract_at()', which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation ('summarize_aw()') and summation of exponentially decaying weights ('summarize_sedc()') are also provided.",
+      "description": "Spatial Parallel Computing by Hierarchical Data Partitioning",
+      "details": "Geospatial data computation is parallelized by grid, hierarchy, or raster files. Based on 'future' (Bengtsson, 2024 <doi:10.32614/CRAN.package.future>) and 'mirai' (Gao et al., 2025 <doi:10.32614/CRAN.package.mirai>) parallel back-ends, 'terra' (Hijmans et al., 2025 <doi:10.32614/CRAN.package.terra>) and 'sf' (Pebesma et al., 2024 <doi:10.32614/CRAN.package.sf>) functions as well as convenience functions in the package can be distributed over multiple threads. The simplest way of parallelizing generic geospatial computation is to start from par_pad_*() functions to par_grid(), par_hierarchy(), or par_multirasters() functions. Virtually any functions accepting classes in 'terra' or 'sf' packages can be used in the three parallelization functions. A common raster-vector overlay operation is provided as a function extract_at(), which uses 'exactextractr' (Baston, 2023 <doi:10.32614/CRAN.package.exactextractr>), with options for kernel weights for summarizing raster values at vector geometries. Other convenience functions for vector-vector operations including simple areal interpolation (summarize_aw()) and summation of exponentially decaying weights (summarize_sedc()) are also provided.",
       "maintainer": "Insang Song",
       "keywords": "",
       "github": "https://github.com/ropensci/chopin",
@@ -1266,7 +1266,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-09 11:36:08",
+      "date_last_commit": "2025-07-15 02:28:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3845,7 +3845,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-13 17:27:13",
+      "date_last_commit": "2025-07-14 12:03:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5025,7 +5025,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-07 14:43:22",
+      "date_last_commit": "2025-07-14 14:46:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-14 08:01 UTC"
+  "date": "2025-07-15 07:59 UTC"
 }
