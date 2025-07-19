@@ -4174,7 +4174,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.58",
+    "version": "0.2.0.63",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4327,18 +4327,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "roxygen2",
-        "name": "roxygen2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=roxygen2"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
         "version": ">= 3.0.0",
@@ -4479,6 +4467,18 @@
       },
       "10": {
         "@type": "SoftwareApplication",
+        "identifier": "roxygen2",
+        "name": "roxygen2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=roxygen2"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
         "identifier": "sys",
         "name": "sys",
         "provider": {
@@ -4489,7 +4489,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sys"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -16398,6 +16398,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",

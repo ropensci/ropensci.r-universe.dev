@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 07:43:13",
+      "date_last_commit": "2025-07-18 15:02:23",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -167,7 +167,7 @@
       "url": "https://github.com/EMODnet/emodnet.wfs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-17 12:18:36",
+      "date_last_commit": "2025-07-18 12:42:35",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 14:34:37",
+      "date_last_commit": "2025-07-18 11:04:17",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -1260,13 +1260,13 @@
       "github": "https://github.com/ropensci/chopin",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/638",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 05:23:18",
+      "date_last_commit": "2025-07-19 01:19:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1486,7 +1486,7 @@
       "url": "https://github.com/ropensci/concstats",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-15 23:04:35",
+      "date_last_commit": "2025-07-18 15:23:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3145,7 +3145,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-08 17:42:28",
+      "date_last_commit": "2025-07-18 17:22:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5665,7 +5665,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-17 15:30:58",
+      "date_last_commit": "2025-07-18 16:30:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6225,7 +6225,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-05 15:45:27",
+      "date_last_commit": "2025-07-18 17:30:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6525,7 +6525,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-17 13:16:33",
+      "date_last_commit": "2025-07-18 20:33:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6705,7 +6705,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-17 17:52:25",
+      "date_last_commit": "2025-07-18 16:49:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-18 07:59 UTC"
+  "date": "2025-07-19 07:57 UTC"
 }
