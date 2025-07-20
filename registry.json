@@ -946,7 +946,7 @@
       "url": "https://github.com/ropensci/biomartr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-11 10:11:01",
+      "date_last_commit": "2025-07-19 10:19:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3145,7 +3145,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 17:22:01",
+      "date_last_commit": "2025-07-19 12:01:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-19 07:57 UTC"
+  "date": "2025-07-20 07:58 UTC"
 }
