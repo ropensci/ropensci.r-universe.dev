@@ -120,5 +120,9 @@
   {
    "package": "promoutils",
     "url": "https://github.com/ropensci-org/promoutils/"
+  },
+  {
+   "package": "sits",
+    "url": "https://github.com/e-sensing/sits/"
   }
 ]
