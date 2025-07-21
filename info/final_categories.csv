@@ -278,6 +278,7 @@ ruODK,scalereprod,FALSE
 rusda,data-access,FALSE
 rvertnet,data-access,FALSE
 rzmq,scalereprod,FALSE
+sits,geospatial,FALSE
 skimr,scalereprod,FALSE
 skynet,data-access,FALSE
 slopes,geospatial,FALSE
