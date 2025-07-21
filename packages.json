@@ -3006,6 +3006,20 @@
     "branch": "main"
   },
   {
+    "package": "sits",
+    "url": "https://github.com/e-sensing/sits/",
+    "branch": "master",
+    "metadata": {
+      "review": {
+        "id": 596,
+        "status": "reviewed",
+        "version": "1.5.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/596"
+      }
+    }
+  },
+  {
     "package": "skimr",
     "url": "https://github.com/ropensci/skimr",
     "branch": "main",
