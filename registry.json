@@ -2825,7 +2825,7 @@
       "url": "https://github.com/ropensci/historydata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-08 14:30:08",
+      "date_last_commit": "2025-07-21 02:11:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3145,7 +3145,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-19 12:01:29",
+      "date_last_commit": "2025-07-20 15:23:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6405,7 +6405,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-30 08:35:46",
+      "date_last_commit": "2025-07-21 02:56:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6971,5 +6971,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-20 07:58 UTC"
+  "date": "2025-07-21 08:05 UTC"
 }
