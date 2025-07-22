@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-09 12:38:17",
+      "date_last_commit": "2025-07-21 12:28:05",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1585,7 +1585,7 @@
       "url": "https://github.com/ropensci/crul",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-10 19:49:15",
+      "date_last_commit": "2025-07-21 16:35:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3164,7 +3164,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-20 15:23:24",
+      "date_last_commit": "2025-07-21 16:25:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3684,7 +3684,7 @@
       "url": "https://github.com/ropensci/ohun",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-22 16:12:30",
+      "date_last_commit": "2025-07-22 00:29:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5044,7 +5044,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-14 14:46:58",
+      "date_last_commit": "2025-07-21 16:16:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5684,7 +5684,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 16:30:53",
+      "date_last_commit": "2025-07-21 17:27:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6532,7 +6532,7 @@
     {
       "name": "vcr",
       "description": "Record 'HTTP' Calls to Disk",
-      "details": "Record test suite 'HTTP' requests and replays them during future runs. A port of the Ruby gem of the same name (<https://github.com/vcr/vcr/>). Works by hooking into the 'webmockr' R package for matching 'HTTP' requests by various rules ('HTTP' method, 'URL', query parameters, headers, body, etc.), and then caching real 'HTTP' responses on disk in 'cassettes'. Subsequent 'HTTP' requests matching any previous requests in the same 'cassette' use a cached 'HTTP' response.",
+      "details": "Record test suite 'HTTP' requests and replays them during future runs. A port of the Ruby gem of the same name (<https://github.com/vcr/vcr/>). Works by recording real 'HTTP' requests/responses on disk in 'cassettes', and then replaying matching responses on subsequent requests.",
       "maintainer": "Scott Chamberlain",
       "keywords": "api, curl, http, http-mocking, https, mock, mocking, tdd, testing, testing-tools, unit-testing, vcr, web-services",
       "github": "https://github.com/ropensci/vcr",
@@ -6544,7 +6544,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 20:33:58",
+      "date_last_commit": "2025-07-22 06:46:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6724,7 +6724,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 16:49:26",
+      "date_last_commit": "2025-07-21 16:42:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-21 11:20 UTC"
+  "date": "2025-07-22 07:58 UTC"
 }
