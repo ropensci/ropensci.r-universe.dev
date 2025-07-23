@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 10:44:00",
+      "date_last_commit": "2025-07-22 11:01:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 11:04:17",
+      "date_last_commit": "2025-07-22 16:46:33",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-11 10:29:18",
+      "date_last_commit": "2025-07-22 16:26:14",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1105,7 +1105,7 @@
       "url": "https://github.com/ropensci/c3dr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 08:54:25",
+      "date_last_commit": "2025-07-22 11:53:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3684,7 +3684,7 @@
       "url": "https://github.com/ropensci/ohun",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 00:29:12",
+      "date_last_commit": "2025-07-22 16:37:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4464,7 +4464,7 @@
       "url": "https://github.com/ropensci/qualtRics",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-11 13:08:38",
+      "date_last_commit": "2025-07-22 20:02:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6544,7 +6544,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 06:46:08",
+      "date_last_commit": "2025-07-22 17:30:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-22 07:58 UTC"
+  "date": "2025-07-23 07:58 UTC"
 }

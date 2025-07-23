@@ -3162,7 +3162,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.198",
+    "version": "0.1.2.202",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4186,7 +4186,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.63",
+    "version": "0.2.0.64",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5567,7 +5567,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.12",
+    "version": "0.1.1.14",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -88650,6 +88650,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=webfakes"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
       }
     ],
     "softwareRequirements": {
@@ -88758,18 +88770,6 @@
         "sameAs": "https://CRAN.R-project.org/package=waldo"
       },
       "10": {
-        "@type": "SoftwareApplication",
-        "identifier": "withr",
-        "name": "withr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=withr"
-      },
-      "11": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
