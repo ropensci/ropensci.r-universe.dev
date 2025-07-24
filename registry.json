@@ -205,7 +205,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-15 18:56:09",
+      "date_last_commit": "2025-07-23 17:06:22",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 11:01:59",
+      "date_last_commit": "2025-07-23 13:21:53",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 12:28:05",
+      "date_last_commit": "2025-07-23 15:17:15",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 16:26:14",
+      "date_last_commit": "2025-07-23 16:07:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1585,7 +1585,7 @@
       "url": "https://github.com/ropensci/crul",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 16:35:25",
+      "date_last_commit": "2025-07-23 21:24:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3984,7 +3984,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-29 14:23:25",
+      "date_last_commit": "2025-07-23 12:54:27",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4684,7 +4684,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-13 15:10:35",
+      "date_last_commit": "2025-07-24 07:25:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6544,7 +6544,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 17:30:14",
+      "date_last_commit": "2025-07-23 16:45:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6724,7 +6724,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 16:42:06",
+      "date_last_commit": "2025-07-23 21:23:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-23 07:58 UTC"
+  "date": "2025-07-24 07:58 UTC"
 }
