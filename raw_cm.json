@@ -3571,7 +3571,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.35",
+    "version": "0.5.0.36",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6640,13 +6640,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "sits",
-    "description": "An end-to-end toolkit for land use and land cover classification using big Earth observation data, based on machine learning methods applied to satellite image data cubes, as described in Simoes et al (2021) <doi:10.3390/rs13132428>. Builds regular data cubes from collections in AWS, Microsoft Planetary Computer, Brazil Data Cube, Copernicus Data Space Environment (CDSE), Digital Earth Africa, Digital Earth Australia, NASA HLS using the Spatio-temporal Asset Catalog (STAC) protocol (<https://stacspec.org/>) and the 'gdalcubes' R package developed by Appel and Pebesma (2019) <doi:10.3390/data4030092>. Supports visualization methods for images and time series and smoothing filters for dealing with noisy time series. Includes functions for quality assessment of training samples using self-organized maps as presented by Santos et al (2021) <doi:10.1016/j.isprsjprs.2021.04.014>. Includes methods to reduce training samples imbalance proposed by Chawla et al (2002) <doi:10.1613/jair.953>. Provides machine learning methods including support vector machines, random forests, extreme gradient boosting, multi-layer perceptrons, temporal convolutional neural networks proposed by Pelletier et al (2019) <doi:10.3390/rs11050523>, and temporal attention encoders by Garnot and Landrieu (2020) <doi:10.48550/arXiv.2007.00586>. Supports GPU processing of deep learning models using torch <https://torch.mlverse.org/>. Performs efficient classification of big Earth observation data cubes and includes functions for post-classification smoothing based on Bayesian inference as described by Camara et al (2024) <doi:10.3390/rs16234572>, and methods for active learning and uncertainty assessment. Supports region-based time series analysis using package supercells <https://jakubnowosad.com/supercells/>. Enables best practices for estimating area and assessing accuracy of land change as recommended by Olofsson et al (2014) <doi:10.1016/j.rse.2014.02.015>. Minimum recommended requirements: 16 GB RAM and 4 CPU dual-core.",
+    "description": "An end-to-end toolkit for land use and land cover classification using big Earth observation data. Builds satellite image data cubes from cloud collections. Supports visualization methods for images and time series and smoothing filters for dealing with noisy time series. Enables merging of multi-source imagery (SAR, optical, DEM). Includes functions for quality assessment of training samples using self-organized maps and to reduce training samples imbalance. Provides machine learning algorithms including support vector machines, random forests, extreme gradient boosting, multi-layer perceptrons, temporal convolution neural networks, and temporal attention encoders. Performs efficient classification of big Earth observation data cubes and includes functions for post-classification smoothing based on Bayesian inference. Enables best practices for estimating area and assessing accuracy of land change. Includes object-based spatio-temporal segmentation for space-time OBIA. Minimum recommended requirements: 16 GB RAM and 4 CPU dual-core.",
     "name": "sits: Satellite Image Time Series Analysis for Earth Observation Data Cubes",
     "relatedLink": ["https://github.com/e-sensing/sits/", "https://e-sensing.github.io/sitsbook/"],
     "codeRepository": "https://github.com/e-sensing/sits",
     "issueTracker": "https://github.com/e-sensing/sits/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6664,7 +6664,7 @@
         "@type": "Person",
         "givenName": "Rolf",
         "familyName": "Simoes",
-        "email": "rolf.simoes@inpe.br"
+        "email": "rolfsimoes@gmail.com"
       },
       {
         "@type": "Person",
@@ -6694,27 +6694,9 @@
       },
       {
         "@type": "Person",
-        "givenName": "Karine",
-        "familyName": "Ferreira",
-        "email": "karine.ferreira@inpe.br"
-      },
-      {
-        "@type": "Person",
         "givenName": "Charlotte",
         "familyName": "Pelletier",
         "email": "charlotte.pelletier@univ-ubs.fr"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Pedro",
-        "familyName": "Andrade",
-        "email": "pedro.andrade@inpe.br"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Alber",
-        "familyName": "Sanchez",
-        "email": "alber.ipia@inpe.br"
       },
       {
         "@type": "Person",
@@ -6724,9 +6706,63 @@
       },
       {
         "@type": "Person",
+        "givenName": "Karine",
+        "familyName": "Ferreira",
+        "email": "karine.ferreira@inpe.br"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Alber",
+        "familyName": "Sanchez",
+        "email": "alber.ipia@inpe.br"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Alexandre",
+        "familyName": "Assuncao",
+        "email": "alexcarssuncao@gmail.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Daniel",
+        "familyName": "Falbel",
+        "email": "dfalbel@gmail.com"
+      },
+      {
+        "@type": "Person",
         "givenName": "Gilberto",
         "familyName": "Queiroz",
         "email": "gilberto.queiroz@inpe.br"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Johannes",
+        "familyName": "Reiche",
+        "email": "johannes.reiche@wur.nl"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Pedro",
+        "familyName": "Andrade",
+        "email": "pedro.andrade@inpe.br"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Pedro",
+        "familyName": "Brito",
+        "email": "pedro_brito1997@hotmail.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Renato",
+        "familyName": "Assuncao",
+        "email": "assuncaoest@gmail.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Ricardo",
+        "familyName": "Cartaxo",
+        "email": "rcartaxoms@gmail.com"
       },
       {
         "@type": "Person",
@@ -6972,6 +7008,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "lightgbm",
+        "name": "lightgbm",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lightgbm"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
@@ -7051,7 +7099,7 @@
         "@type": "SoftwareApplication",
         "identifier": "RcppArmadillo",
         "name": "RcppArmadillo",
-        "version": ">= 0.12",
+        "version": ">= 14.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7083,6 +7131,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=spdep"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "stars",
+        "name": "stars",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=stars"
       },
       {
         "@type": "SoftwareApplication",
@@ -7145,7 +7205,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.0.0"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -7185,6 +7245,18 @@
       },
       "6": {
         "@type": "SoftwareApplication",
+        "identifier": "leafgl",
+        "name": "leafgl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=leafgl"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
         "identifier": "leaflet",
         "name": "leaflet",
         "version": ">= 2.2.2",
@@ -7196,7 +7268,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=leaflet"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
@@ -7208,7 +7280,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "luz",
         "name": "luz",
@@ -7221,12 +7293,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=luz"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "parallel",
         "name": "parallel"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -7239,7 +7311,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "randomForest",
         "name": "randomForest",
@@ -7251,11 +7323,11 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=randomForest"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
-        "version": ">= 1.0.13",
+        "version": ">= 1.1.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7264,7 +7336,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "rstac",
         "name": "rstac",
@@ -7277,7 +7349,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstac"
       },
-      "14": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -7290,7 +7362,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "15": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "slider",
         "name": "slider",
@@ -7303,16 +7375,16 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=slider"
       },
-      "16": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats"
       },
-      "17": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
-        "version": ">= 1.8-5",
+        "version": ">= 1.8-54",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7321,11 +7393,11 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "18": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
-        "version": ">= 3.1",
+        "version": ">= 3.3.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7334,7 +7406,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "19": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -7347,11 +7419,11 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "20": {
+      "21": {
         "@type": "SoftwareApplication",
         "identifier": "tmap",
         "name": "tmap",
-        "version": ">= 4.0",
+        "version": ">= 4.1",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7360,11 +7432,11 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tmap"
       },
-      "21": {
+      "22": {
         "@type": "SoftwareApplication",
         "identifier": "torch",
         "name": "torch",
-        "version": ">= 0.14.0",
+        "version": ">= 0.15.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -7373,7 +7445,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=torch"
       },
-      "22": {
+      "23": {
         "@type": "SoftwareApplication",
         "identifier": "units",
         "name": "units",
@@ -7385,7 +7457,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=units"
       },
-      "23": {
+      "24": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
@@ -7463,7 +7535,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html",
-    "keywords": ["big-earth-data", "cbers", "earth-observation", "eo-datacubes", "geospatial", "image-time-series", "land-cover-classification", "landsat", "planetary-computer", "r-spatial", "remote-sensing", "rspatial", "satellite-image-time-series", "satellite-imagery", "sentinel-2", "stac-api", "stac-catalog", "cpp"]
+    "keywords": ["big-earth-data", "cbers", "earth-observation", "eo-datacubes", "geospatial", "image-time-series", "land-cover-classification", "landsat", "planetary-computer", "r-spatial", "remote-sensing", "rspatial", "satellite-image-time-series", "satellite-imagery", "sentinel-2", "stac-api", "stac-catalog", "openblas", "cpp", "openmp"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -14053,7 +14125,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.17.0",
+    "version": "0.18.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14180,6 +14252,7 @@
         "@type": "SoftwareApplication",
         "identifier": "CopernicusMarine",
         "name": "CopernicusMarine",
+        "version": ">= 0.2.6",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -14303,6 +14376,18 @@
       },
       "16": {
         "@type": "SoftwareApplication",
+        "identifier": "rstac",
+        "name": "rstac",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rstac"
+      },
+      "17": {
+        "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
         "version": ">= 1.0.0",
@@ -14314,7 +14399,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "17": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -14326,7 +14411,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "18": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "sys",
         "name": "sys",
@@ -14339,7 +14424,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sys"
       },
-      "19": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -14351,7 +14436,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "20": {
+      "21": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -54403,6 +54488,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -72579,7 +72670,7 @@
         "name": "rredlist: 'IUCN' Red List Client",
         "identifier": "10.32614/CRAN.package.rredlist",
         "url": "https://docs.ropensci.org/rredlist/",
-        "description": "R package version 1.0.0",
+        "description": "R package version 1.1.0",
         "@id": "https://doi.org/10.32614/CRAN.package.rredlist",
         "sameAs": "https://doi.org/10.32614/CRAN.package.rredlist"
       }
@@ -92251,7 +92342,7 @@
     "codeRepository": "https://github.com/ropensci/wikitaxa",
     "issueTracker": "https://github.com/ropensci/wikitaxa/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.0.91",
+    "version": "0.4.0.93",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -92343,7 +92434,7 @@
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=vcr"
+        "sameAs": "https://github.com/ropensci/vcr"
       }
     ],
     "softwareRequirements": {
