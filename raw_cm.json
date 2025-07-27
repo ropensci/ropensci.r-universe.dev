@@ -75504,7 +75504,7 @@
     "codeRepository": "https://github.com/ropensci/skimr",
     "issueTracker": "https://github.com/ropensci/skimr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

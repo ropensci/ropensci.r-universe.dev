@@ -805,7 +805,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-17 03:29:01",
+      "date_last_commit": "2025-07-26 14:14:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1785,7 +1785,7 @@
       "url": "https://github.com/ropensci/dendroNetwork",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-25 14:51:14",
+      "date_last_commit": "2025-07-26 18:32:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5584,7 +5584,7 @@
       "url": "https://github.com/ropensci/skimr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-26 03:44:55",
+      "date_last_commit": "2025-07-26 19:54:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-26 07:59 UTC"
+  "date": "2025-07-27 07:59 UTC"
 }
