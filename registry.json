@@ -8,7 +8,7 @@
       "keywords": "analysis-pipeline, assertion-library, assertion-methods, assertions, peer-reviewed, predicate-functions",
       "github": "https://github.com/ropensci/assertr",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/23",
+      "onboarding": "",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
@@ -1293,7 +1293,7 @@
     {
       "name": "chromer",
       "description": "Interface to Chromosome Counts Database API",
-      "details": "A programmatic interface to the Chromosome Counts Database (<https://taux.evolseq.net/CCDB_web/>), Rice et al. (2014) <doi:10.1111/nph.13191>. This package is part of the 'ROpenSci' suite (<https://ropensci.org>).",
+      "details": "A programmatic interface to the Chromosome Counts Database (<https://ccdb.tau.ac.il/>), Rice et al. (2014) <doi:10.1111/nph.13191>. This package is part of the 'ROpenSci' suite (<https://ropensci.org>).",
       "maintainer": "Karl W Broman",
       "keywords": "",
       "github": "https://github.com/ropensci/chromer",
@@ -1305,7 +1305,7 @@
       "url": "https://github.com/ropensci/chromer",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-03-27 11:23:31",
+      "date_last_commit": "2025-07-28 11:18:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1425,7 +1425,7 @@
       "url": "https://github.com/ropensci/codemetar",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:29:42",
+      "date_last_commit": "2025-07-28 18:16:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3464,7 +3464,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-15 09:04:08",
+      "date_last_commit": "2025-07-29 07:35:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3844,7 +3844,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-08 10:40:34",
+      "date_last_commit": "2025-07-28 09:25:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5044,7 +5044,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 16:16:50",
+      "date_last_commit": "2025-07-28 14:40:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5104,7 +5104,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-13 18:00:54",
+      "date_last_commit": "2025-07-28 11:35:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5964,7 +5964,7 @@
       "url": "https://github.com/ropensci/taxa",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-20 09:10:34",
+      "date_last_commit": "2025-07-28 20:21:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6544,7 +6544,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-25 17:24:22",
+      "date_last_commit": "2025-07-28 16:45:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6724,7 +6724,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-23 21:23:21",
+      "date_last_commit": "2025-07-28 22:39:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-28 08:03 UTC"
+  "date": "2025-07-29 08:03 UTC"
 }

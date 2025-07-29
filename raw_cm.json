@@ -177,12 +177,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/assertr/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/23",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": [],
     "keywords": ["analysis-pipeline", "assertion-library", "assertion-methods", "assertions", "peer-reviewed", "predicate-functions"]
   },
   {
@@ -17752,13 +17746,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "chromer",
-    "description": "A programmatic interface to the Chromosome Counts Database (<https://taux.evolseq.net/CCDB_web/>), Rice et al. (2014) <doi:10.1111/nph.13191>. This package is part of the 'ROpenSci' suite (<https://ropensci.org>).",
+    "description": "A programmatic interface to the Chromosome Counts Database (<https://ccdb.tau.ac.il/>), Rice et al. (2014) <doi:10.1111/nph.13191>. This package is part of the 'ROpenSci' suite (<https://ropensci.org>).",
     "name": "chromer: Interface to Chromosome Counts Database API",
     "relatedLink": ["https://docs.ropensci.org/chromer/", "https://github.com/ropensci/chromer"],
     "codeRepository": "https://github.com/ropensci/chromer",
     "issueTracker": "https://github.com/ropensci/chromer/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.8",
+    "version": "0.10",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18722,7 +18716,7 @@
     "codeRepository": "https://github.com/ropensci/codemetar",
     "issueTracker": "https://github.com/ropensci/codemetar/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -52580,7 +52574,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.63",
+    "version": "0.2.5.64",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -81041,7 +81035,7 @@
     "codeRepository": "https://github.com/ropensci/taxa",
     "issueTracker": "https://github.com/ropensci/taxa/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
