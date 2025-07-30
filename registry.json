@@ -8,7 +8,7 @@
       "keywords": "analysis-pipeline, assertion-library, assertion-methods, assertions, peer-reviewed, predicate-functions",
       "github": "https://github.com/ropensci/assertr",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/23",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-27 14:16:44",
+      "date_last_commit": "2025-07-29 12:51:57",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -706,7 +706,7 @@
       "url": "https://github.com/ropensci/aRxiv",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-29 17:40:42",
+      "date_last_commit": "2025-07-29 19:46:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-09 13:55:51",
+      "date_last_commit": "2025-07-29 14:22:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2724,7 +2724,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-01 04:11:48",
+      "date_last_commit": "2025-07-30 07:46:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3684,7 +3684,7 @@
       "url": "https://github.com/ropensci/ohun",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-24 21:53:43",
+      "date_last_commit": "2025-07-29 20:12:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5344,7 +5344,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-27 14:26:14",
+      "date_last_commit": "2025-07-29 09:38:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5684,7 +5684,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-25 18:26:33",
+      "date_last_commit": "2025-07-29 17:51:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-29 08:03 UTC"
+  "date": "2025-07-30 08:01 UTC"
 }
