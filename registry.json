@@ -799,7 +799,7 @@
       "github": "https://github.com/ropensci/baRulho",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/609",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/baRulho",
@@ -807,7 +807,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-07-26 14:14:27",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -1485,7 +1485,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-11-15 17:18:02",
+      "date_last_commit": "2025-07-31 14:41:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3586,7 +3586,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-09-02 09:31:12",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -3678,7 +3678,7 @@
       "github": "https://github.com/ropensci/ohun",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/568",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/ohun",
@@ -3686,7 +3686,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-07-30 14:26:43",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -4184,7 +4184,7 @@
       "url": "https://github.com/ropensci/phylotaR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-19 07:50:34",
+      "date_last_commit": "2024-10-23 10:11:07",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -5344,7 +5344,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-29 09:38:13",
+      "date_last_commit": "2025-07-31 10:15:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-07-31 08:02 UTC"
+  "date": "2025-08-01 08:03 UTC"
 }

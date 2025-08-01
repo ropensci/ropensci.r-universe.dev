@@ -11376,12 +11376,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -11489,14 +11483,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "Rraven",
-        "name": "Rraven",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=Rraven"
+        "name": "Rraven"
       },
       {
         "@type": "SoftwareApplication",
@@ -11645,27 +11632,13 @@
         "@type": "SoftwareApplication",
         "identifier": "warbleR",
         "name": "warbleR",
-        "version": ">= 1.1.32",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=warbleR"
+        "version": ">= 1.1.32"
       },
       "15": {
         "@type": "SoftwareApplication",
         "identifier": "ohun",
         "name": "ohun",
-        "version": ">= 1.0.2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=ohun"
+        "version": ">= 1.0.2"
       },
       "SystemRequirements": null
     },
@@ -19637,7 +19610,7 @@
     "codeRepository": "https://github.com/ropensci/comtradr",
     "issueTracker": "https://github.com/ropensci/comtradr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.3",
+    "version": "1.0.3.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49997,12 +49970,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -50112,14 +50079,7 @@
         "@type": "SoftwareApplication",
         "identifier": "warbleR",
         "name": "warbleR",
-        "version": ">= 1.1.32",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=warbleR"
+        "version": ">= 1.1.32"
       },
       "3": {
         "@type": "SoftwareApplication",
