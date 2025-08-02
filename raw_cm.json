@@ -19610,7 +19610,7 @@
     "codeRepository": "https://github.com/ropensci/comtradr",
     "issueTracker": "https://github.com/ropensci/comtradr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.3.9000",
+    "version": "1.0.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

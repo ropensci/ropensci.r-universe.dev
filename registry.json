@@ -1485,7 +1485,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-31 14:41:40",
+      "date_last_commit": "2025-08-01 13:26:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6244,7 +6244,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-18 17:30:37",
+      "date_last_commit": "2025-08-01 16:57:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6424,7 +6424,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 02:56:46",
+      "date_last_commit": "2025-08-02 06:02:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-01 08:03 UTC"
+  "date": "2025-08-02 07:59 UTC"
 }
