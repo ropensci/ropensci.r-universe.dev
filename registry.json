@@ -1785,7 +1785,7 @@
       "url": "https://github.com/ropensci/dendroNetwork",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-26 18:32:06",
+      "date_last_commit": "2025-08-03 06:21:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-02 07:59 UTC"
+  "date": "2025-08-03 07:59 UTC"
 }
