@@ -23579,7 +23579,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.1.0"
+        "version": ">= 4.2"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -23595,18 +23595,6 @@
       },
       "3": {
         "@type": "SoftwareApplication",
-        "identifier": "Rcpp",
-        "name": "Rcpp",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=Rcpp"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
         "provider": {
@@ -23617,7 +23605,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -23629,7 +23617,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "SystemRequirements": null
+      "SystemRequirements": "Cargo (Rust's package manager), rustc"
     },
     "fileSize": "NAKB",
     "citation": [
@@ -23658,7 +23646,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["dates", "wrangling", "cpp"]
+    "keywords": ["dates", "wrangling", "rust", "cargo"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

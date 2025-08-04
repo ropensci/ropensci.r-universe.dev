@@ -1735,7 +1735,7 @@
       "description": "Standardize Dates in Different Formats or with Missing Data",
       "details": "There are many different formats dates are commonly represented with: the order of day, month, or year can differ, different separators (\"-\", \"/\", or whitespace) can be used, months can be numerical, names, or abbreviations and year given as two digits or four. 'datefixR' takes dates in all these different formats and converts them to R's built-in date class. If 'datefixR' cannot standardize a date, such as because it is too malformed, then the user is told which date cannot be standardized and the corresponding ID for the row. 'datefixR' also allows the imputation of missing days and months with user-controlled behavior.",
       "maintainer": "Nathan Constantine-Cooke",
-      "keywords": "cpp, dates, wrangling",
+      "keywords": "cargo, dates, rust, wrangling",
       "github": "https://github.com/ropensci/datefixR",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/533",
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-29 14:22:13",
+      "date_last_commit": "2025-08-03 17:24:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3164,7 +3164,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-28 07:53:56",
+      "date_last_commit": "2025-08-03 13:50:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-03 07:59 UTC"
+  "date": "2025-08-04 08:01 UTC"
 }
