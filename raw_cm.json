@@ -23418,6 +23418,30 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "future",
+        "name": "future",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=future"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "future.apply",
+        "name": "future.apply",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=future.apply"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "htmltools",
         "name": "htmltools",
         "provider": {
@@ -23605,25 +23629,13 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "stringr",
-        "name": "stringr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=stringr"
-      },
       "SystemRequirements": "Cargo (Rust's package manager), rustc"
     },
     "fileSize": "NAKB",
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2023",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",

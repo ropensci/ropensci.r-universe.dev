@@ -865,7 +865,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 10:03:44",
+      "date_last_commit": "2025-08-05 06:44:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-03 17:24:05",
+      "date_last_commit": "2025-08-04 20:54:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3824,7 +3824,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-30 20:22:30",
+      "date_last_commit": "2025-08-04 16:57:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4464,7 +4464,7 @@
       "url": "https://github.com/ropensci/qualtRics",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 20:02:40",
+      "date_last_commit": "2025-08-05 04:04:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4524,7 +4524,7 @@
       "url": "https://github.com/ropensci/rb3",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-05 09:12:44",
+      "date_last_commit": "2025-08-04 09:06:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5044,7 +5044,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-28 14:40:50",
+      "date_last_commit": "2025-08-04 15:46:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5684,7 +5684,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-30 15:22:32",
+      "date_last_commit": "2025-08-04 14:00:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-04 08:01 UTC"
+  "date": "2025-08-05 08:03 UTC"
 }
