@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-04 20:54:13",
+      "date_last_commit": "2025-08-06 07:36:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4464,7 +4464,7 @@
       "url": "https://github.com/ropensci/qualtRics",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-05 04:04:45",
+      "date_last_commit": "2025-08-05 14:53:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4904,7 +4904,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-08 12:42:38",
+      "date_last_commit": "2025-08-05 13:10:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5684,7 +5684,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-04 14:00:06",
+      "date_last_commit": "2025-08-05 16:21:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6724,7 +6724,7 @@
       "url": "https://github.com/ropensci/webmockr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-28 22:39:42",
+      "date_last_commit": "2025-08-05 13:09:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6990,5 +6990,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-05 08:03 UTC"
+  "date": "2025-08-06 08:04 UTC"
 }
