@@ -12225,7 +12225,7 @@
     "codeRepository": "https://github.com/ropensci/beautier",
     "issueTracker": "https://github.com/ropensci/beautier/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.6.13",
+    "version": "2.6.15",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -12305,6 +12305,12 @@
         "@type": "Person",
         "givenName": "Jianhui",
         "familyName": "Wang"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Ngoc X.B.",
+        "familyName": "Nguyen",
+        "@id": "https://orcid.org/0000-0002-6802-5509"
       },
       {
         "@type": "Person",
@@ -14112,7 +14118,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.18.0",
+    "version": "0.18.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -41779,7 +41785,7 @@
     "codeRepository": "https://github.com/ropensci/lingtypology",
     "issueTracker": "https://github.com/ropensci/lingtypology/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.1.21",
+    "version": "1.1.23",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -72831,15 +72837,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "sp",
-        "name": "sp",
+        "identifier": "terra",
+        "name": "terra",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=sp"
+        "sameAs": "https://CRAN.R-project.org/package=terra"
       },
       {
         "@type": "SoftwareApplication",
