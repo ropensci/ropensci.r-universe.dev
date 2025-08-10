@@ -66162,7 +66162,7 @@
     "codeRepository": "https://github.com/ropensci/rfema",
     "issueTracker": "https://github.com/dylan-turner25/rfema/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -87135,6 +87135,287 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": []
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "trud",
+    "description": "Provides a convenient R interface to the 'National Health Service NHS Technology Reference Update Distribution (TRUD) API', allowing users to list available releases for their subscribed items, retrieve metadata, and download release files. For more information on the API, see <https://isd.digital.nhs.uk/trud/users/guest/filters/0/api>.",
+    "name": "trud: Query the 'NHS TRUD API'",
+    "relatedLink": ["https://docs.ropensci.org/trud/", "https://github.com/ropensci/trud"],
+    "codeRepository": "https://github.com/ropensci/trud",
+    "issueTracker": "https://github.com/ropensci/trud/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.1.0.9000",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Robert",
+        "familyName": "Luben",
+        "@id": "https://orcid.org/0000-0002-5088-6343"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Abraham",
+        "familyName": "Olvera-Barrios",
+        "@id": "https://orcid.org/0000-0002-3305-4465"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Chuin Ying",
+        "familyName": "Ung",
+        "@id": "https://orcid.org/0000-0001-8487-4589"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Alasdair",
+        "familyName": "Warwick",
+        "email": "alasdair.warwick.19@ucl.ac.uk",
+        "@id": "https://orcid.org/0000-0002-0800-2890"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "spelling",
+        "name": "spelling",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=spelling"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.2.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr2",
+        "name": "httr2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "purrr",
+        "name": "purrr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=purrr"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "rvest",
+        "name": "rvest",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rvest"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "stringr",
+        "name": "stringr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=stringr"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "SoftwareSourceCode",
+        "datePublished": "2024",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Alasdair",
+            "familyName": "Warwick",
+            "email": "alasdair.warwick.19@ucl.ac.uk",
+            "@id": "https://orcid.org/0000-0002-0800-2890"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Robert",
+            "familyName": "Luben",
+            "@id": "https://orcid.org/0000-0002-5088-6343"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Abraham",
+            "familyName": "Olvera-Barrios",
+            "@id": "https://orcid.org/0000-0002-3305-4465"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Chuin Ying",
+            "familyName": "Ung",
+            "@id": "https://orcid.org/0000-0001-8487-4589"
+          }
+        ],
+        "name": "Query the NHS TRUD API",
+        "url": "https://github.com/ropensci/trud/"
+      }
+    ],
+    "readme": "https://github.com/ropensci/trud/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/705",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active",
+    "keywords": ["api-wrapper", "ehr", "icd", "nhs", "snomed-ct"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

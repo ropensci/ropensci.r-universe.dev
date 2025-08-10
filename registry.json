@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-08 17:50:34",
+      "date_last_commit": "2025-08-09 20:35:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4844,7 +4844,7 @@
       "url": "https://github.com/ropensci/rfema",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-20 19:01:06",
+      "date_last_commit": "2025-08-09 15:25:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6390,6 +6390,24 @@
       "staff_maintained": false
     },
     {
+      "name": "trud",
+      "description": "Query the 'NHS TRUD API'",
+      "details": "Provides a convenient R interface to the 'National Health Service NHS Technology Reference Update Distribution (TRUD) API', allowing users to list available releases for their subscribed items, retrieve metadata, and download release files. For more information on the API, see <https://isd.digital.nhs.uk/trud/users/guest/filters/0/api>.",
+      "maintainer": "Alasdair Warwick",
+      "keywords": "api-wrapper, ehr, icd, nhs, snomed-ct",
+      "github": "https://github.com/ropensci/trud",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/705",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/trud",
+      "date_last_commit": "2025-08-09 21:58:47",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "tsbox",
       "description": "Class-Agnostic Time Series",
       "details": "Time series toolkit with identical behavior for all time series classes: 'ts','xts', 'data.frame', 'data.table', 'tibble', 'zoo', 'timeSeries', 'tsibble', 'tis' or 'irts'. Also converts reliably between these classes.",
@@ -6990,5 +7008,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-09 07:57 UTC"
+  "date": "2025-08-10 07:56 UTC"
 }
