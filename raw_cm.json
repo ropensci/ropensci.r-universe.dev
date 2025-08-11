@@ -12055,7 +12055,7 @@
         "@type": "SoftwareApplication",
         "identifier": "beautier",
         "name": "beautier",
-        "version": ">= 2.6.11",
+        "version": ">= 2.6.15",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -17331,7 +17331,7 @@
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.4",
+    "version": "0.9.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -17521,6 +17521,30 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "dggridR",
+        "name": "dggridR",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dggridR"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "h3r",
+        "name": "h3r",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=h3r"
       }
     ],
     "softwareRequirements": {
