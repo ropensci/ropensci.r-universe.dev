@@ -1285,7 +1285,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-11 04:47:58",
+      "date_last_commit": "2025-08-12 11:46:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3164,7 +3164,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-03 13:50:58",
+      "date_last_commit": "2025-08-12 19:26:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6402,7 +6402,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/trud",
-      "date_last_commit": "2025-08-12 07:18:42",
+      "date_last_commit": "2025-08-12 14:02:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7008,5 +7008,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-12 07:57 UTC"
+  "date": "2025-08-13 07:58 UTC"
 }
