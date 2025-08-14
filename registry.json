@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-11 11:07:53",
+      "date_last_commit": "2025-08-12 10:12:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7008,5 +7008,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-13 07:58 UTC"
+  "date": "2025-08-14 07:56 UTC"
 }
