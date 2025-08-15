@@ -80276,7 +80276,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.3.9004",
+    "version": "1.11.3.9005",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
