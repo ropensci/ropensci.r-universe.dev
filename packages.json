@@ -3006,6 +3006,20 @@
     "branch": "main"
   },
   {
+    "package": "sasquatch",
+    "url": "https://github.com/ropensci/sasquatch",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 673,
+        "status": "reviewed",
+        "version": "0.0.0.9004",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/673"
+      }
+    }
+  },
+  {
     "package": "sits",
     "url": "https://github.com/e-sensing/sits/",
     "branch": "master",
