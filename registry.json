@@ -1805,7 +1805,7 @@
       "url": "https://github.com/ropensci/dittodb",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2024-04-09 03:01:25",
+      "date_last_commit": "2025-08-17 14:01:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7008,5 +7008,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-17 08:01 UTC"
+  "date": "2025-08-18 07:59 UTC"
 }

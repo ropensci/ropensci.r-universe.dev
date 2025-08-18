@@ -24264,7 +24264,7 @@
     "codeRepository": "https://github.com/ropensci/dittodb",
     "issueTracker": "https://github.com/ropensci/dittodb/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "0.1.8",
+    "version": "0.1.8.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
