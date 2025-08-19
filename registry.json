@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-21 08:20:33",
+      "date_last_commit": "2025-08-18 14:44:29",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-23 13:21:53",
+      "date_last_commit": "2025-08-18 14:10:55",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1025,7 +1025,7 @@
       "url": "https://github.com/ropensci/bowerbird",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-07 05:15:46",
+      "date_last_commit": "2025-08-19 00:42:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1105,7 +1105,7 @@
       "url": "https://github.com/ropensci/c3dr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-22 11:53:08",
+      "date_last_commit": "2025-08-18 10:27:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-15 15:33:13",
+      "date_last_commit": "2025-08-18 09:57:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2744,7 +2744,7 @@
       "url": "https://github.com/ropensci/gtexr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-28 20:43:45",
+      "date_last_commit": "2025-08-19 07:47:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3824,7 +3824,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-04 16:57:43",
+      "date_last_commit": "2025-08-18 11:27:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3833,7 +3833,7 @@
       "name": "osmdata",
       "description": "Import 'OpenStreetMap' Data as Simple Features or Spatial Objects",
       "details": "Download and import of 'OpenStreetMap' ('OSM') data as 'sf' or 'sp' objects. 'OSM' data are extracted from the 'Overpass' web server (<https://overpass-api.de/>) and processed with very fast 'C++' routines for return to 'R'.",
-      "maintainer": "Mark Padgham",
+      "maintainer": "Joan Maspons",
       "keywords": "cpp, cpp, open0street0map, openstreetmap, osm, osm-data, overpass-api, overpass0api, peer-reviewed",
       "github": "https://github.com/ropensci/osmdata",
       "status": "https://www.repostatus.org#active",
@@ -3844,7 +3844,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-30 10:15:20",
+      "date_last_commit": "2025-08-18 14:40:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5044,7 +5044,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-11 15:38:13",
+      "date_last_commit": "2025-08-18 14:37:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5570,6 +5570,24 @@
       "staff_maintained": true
     },
     {
+      "name": "sasquatch",
+      "description": "Use 'SAS', R, and 'quarto' Together",
+      "details": "Use R and 'SAS' within reproducible multilingual 'quarto' documents. Run 'SAS' code blocks interactively, send data back and forth between 'SAS' and R, and render 'SAS' output within quarto documents. 'SAS' connections are established through a combination of 'SASPy' and 'reticulate'.",
+      "maintainer": "Ryan Zomorrodi",
+      "keywords": "",
+      "github": "https://github.com/ropensci/sasquatch",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/673",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/sasquatch",
+      "date_last_commit": "2025-08-18 17:39:11",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "skimr",
       "description": "Compact and Flexible Summaries of Data",
       "details": "A simple to use summary function that can be used with pipes and displays nicely in the console. The default summary statistics may be modified by the user as can the default formatting. Support for data frames and vectors is included, and users can implement their own skim methods for specific object types as described in a vignette. Default summaries include support for inline spark graphs. Instructions for managing these on specific operating systems are given in the \"Using skimr\" vignette and the README.",
@@ -5704,7 +5722,7 @@
       "url": "https://github.com/ropensci/spelling",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-03 18:17:48",
+      "date_last_commit": "2025-08-18 16:30:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6402,7 +6420,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/trud",
-      "date_last_commit": "2025-08-15 09:42:22",
+      "date_last_commit": "2025-08-18 22:20:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7008,5 +7026,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-18 07:59 UTC"
+  "date": "2025-08-19 07:58 UTC"
 }
