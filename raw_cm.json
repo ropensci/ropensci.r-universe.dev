@@ -3578,7 +3578,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.59",
+    "version": "0.5.0.61",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15335,7 +15335,7 @@
     "codeRepository": "https://github.com/ropensci/c3dr",
     "issueTracker": "https://github.com/ropensci/c3dr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.5.9000",
+    "version": "0.2.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15436,7 +15436,7 @@
         "name": "c3dr: Work with motion capture data in R",
         "identifier": "10.5281/zenodo.14870399",
         "url": "https://docs.ropensci.org/c3dr/",
-        "description": "R package version 0.1.5",
+        "description": "R package version 0.2.0",
         "@id": "https://doi.org/10.5281/zenodo.14870399",
         "sameAs": "https://doi.org/10.5281/zenodo.14870399"
       }
@@ -23339,7 +23339,7 @@
     "codeRepository": "https://github.com/ropensci/datefixR",
     "issueTracker": "https://github.com/ropensci/datefixR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.7.0.9000",
+    "version": "2.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23695,7 +23695,7 @@
         "name": "{datefixR}: Standardize Dates in Different Formats or with Missing Data",
         "identifier": "10.5281/zenodo.5655311",
         "url": "https://CRAN.R-project.org/package=datefixR",
-        "description": "R package version 1.7.0.9000",
+        "description": "R package version 2.0.0",
         "@id": "https://doi.org/10.5281/zenodo.5655311",
         "sameAs": "https://doi.org/10.5281/zenodo.5655311"
       }
@@ -24271,7 +24271,7 @@
     "codeRepository": "https://github.com/ropensci/dittodb",
     "issueTracker": "https://github.com/ropensci/dittodb/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "0.1.8.9000",
+    "version": "0.1.9.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75525,7 +75525,7 @@
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.0.9045",
+    "version": "0.0.0.9046",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75631,6 +75631,18 @@
       },
       "3": {
         "@type": "SoftwareApplication",
+        "identifier": "evaluate",
+        "name": "evaluate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=evaluate"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
         "identifier": "htmlwidgets",
         "name": "htmlwidgets",
         "provider": {
@@ -75641,7 +75653,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=htmlwidgets"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
@@ -75653,7 +75665,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "reticulate",
         "name": "reticulate",
@@ -75665,7 +75677,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=reticulate"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -75678,7 +75690,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rstudioapi",
         "name": "rstudioapi",
