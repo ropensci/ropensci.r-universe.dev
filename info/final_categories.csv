@@ -117,7 +117,7 @@ fellingdater,scalereprod,FALSE
 fingertipsR,data-access,FALSE
 fireexposuR,scalereprod,FALSE
 fluidsynth,image-processing,FALSE
-forcis,NA,FALSE
+forcis,data-access,FALSE
 gbifdb,data-access,FALSE
 gendercoder,data-extraction,FALSE
 geojson,geospatial,FALSE
