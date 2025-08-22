@@ -279,7 +279,7 @@ ruODK,scalereprod,FALSE
 rusda,data-access,FALSE
 rvertnet,data-access,FALSE
 rzmq,scalereprod,FALSE
-sasquatch,NA,FALSE
+sasquatch,scalereprod,FALSE
 skimr,scalereprod,FALSE
 skynet,data-access,FALSE
 slopes,geospatial,FALSE
@@ -321,7 +321,7 @@ traits,data-access,FALSE
 treebase,data-access,FALSE
 treedata.table,data-extraction,FALSE
 treestartr,data-extraction,FALSE
-trud,NA,FALSE
+trud,data-access,FALSE
 tsbox,stat,FALSE
 UCSCXenaTools,data-access,FALSE
 unifir,geospatial,FALSE
