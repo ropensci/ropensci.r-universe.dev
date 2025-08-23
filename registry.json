@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-18 14:10:55",
+      "date_last_commit": "2025-08-22 11:58:21",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-21 14:58:58",
+      "date_last_commit": "2025-08-22 10:31:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2343,6 +2343,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/forcis",
+      "ropensci_category": "data-access",
       "ropenscilabs": false,
       "date_last_commit": "2025-05-20 09:25:29",
       "github_archived": false,
@@ -3844,7 +3845,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-18 14:40:30",
+      "date_last_commit": "2025-08-22 13:06:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4564,7 +4565,7 @@
       "url": "https://github.com/ropensci/rcrossref",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-19 14:18:38",
+      "date_last_commit": "2025-08-22 08:11:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4752,19 +4753,19 @@
     {
       "name": "ReLTER",
       "description": "An Interface for the eLTER Community",
-      "details": "ReLTER provides access to DEIMS-SDR (https://deims.org/), and allows interaction with data and software implemented by eLTER Research Infrastructure (RI) thus improving data sharing among European LTER projects. ReLTER uses the R language to access and interact with the DEIMS-SDR archive of information shared by the Long Term Ecological Research (LTER) network. This package grew within eLTER H2020 as a major project that will help advance the development of European Long-Term Ecosystem Research Infrastructures (eLTER RI - https://elter-ri.eu). The ReLTER package functions in particular allow to: - retrieve the information about entities (e.g. sites, datasets, and activities) shared by DEIMS-SDR (see e.g. get_site_info function); - interact with the [ODSEurope](maps.opendatascience.eu) starting with the dataset shared by [DEIMS-SDR](https://deims.org/) (see e.g. [get_site_ODS](https://docs.ropensci.org/ReLTER/reference/get_site_ODS.html) function); - use the eLTER site informations to download and crop geospatial data from other platforms (see e.g. get_site_ODS function); - improve the quality of the dataset (see e.g. get_id_worms). Functions currently implemented are derived from discussions of the needs among the eLTER users community. The ReLTER package will continue to follow the progress of eLTER-RI and evolve, adding new tools and improvements as required.",
+      "details": "ReLTER provides access to DEIMS-SDR (https://deims.org/), and allows interaction with data and software implemented by eLTER Research Infrastructure (RI) thus improving data sharing among European LTER projects. ReLTER uses the R language to access and interact with the DEIMS-SDR archive of information shared by the Long Term Ecological Research (LTER) network. This package grew within eLTER H2020 as a major project that will help advance the development of European Long-Term Ecosystem Research Infrastructures (eLTER RI - https://elter-ri.eu). The ReLTER package functions in particular allow to: - retrieve the information about entities (e.g. sites, datasets, and activities) shared by DEIMS-SDR (see e.g. get_site_info function); - interact with the ODSEurope (maps.opendatascience.eu) starting with the dataset shared by DEIMS-SDR (https://deims.org/) (see e.g. the get_site_ODS() function); - use the eLTER site informations to download and crop geospatial data from other platforms (see e.g. get_site_ODS function()); - improve the quality of the dataset (see e.g. get_id_worms()). Functions currently implemented are derived from discussions of the needs among the eLTER users community. The ReLTER package will continue to follow the progress of eLTER-RI and evolve, adding new tools and improvements as required.",
       "maintainer": "Alessandro Oggioni",
       "keywords": "biodiversity-informatics, data-science, ecology, elter, research-infrastructure",
       "github": "https://github.com/ropensci/ReLTER",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/485",
+      "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/ReLTER",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-18 14:49:45",
+      "date_last_commit": "2025-08-22 12:37:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5582,7 +5583,9 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/sasquatch",
-      "date_last_commit": "2025-08-22 05:52:56",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
+      "date_last_commit": "2025-08-22 17:29:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6420,6 +6423,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/trud",
+      "ropensci_category": "data-access",
+      "ropenscilabs": false,
       "date_last_commit": "2025-08-18 22:20:08",
       "github_archived": false,
       "cran_archived": false,
@@ -6900,7 +6905,7 @@
       "url": "https://github.com/ropenscilabs/aeolus",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2025-02-04 13:26:57",
+      "date_last_commit": "2025-08-22 13:52:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7026,5 +7031,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-22 07:57 UTC"
+  "date": "2025-08-23 08:00 UTC"
 }
