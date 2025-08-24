@@ -3205,7 +3205,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-07 13:10:52",
+      "date_last_commit": "2025-08-23 18:52:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -4465,7 +4465,7 @@
       "url": "https://github.com/ropensci/qualtRics",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-05 14:53:52",
+      "date_last_commit": "2025-08-23 13:24:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6185,7 +6185,7 @@
       "url": "https://github.com/ropensci/tidync",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-15 20:28:54",
+      "date_last_commit": "2025-08-23 10:35:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7031,5 +7031,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-23 08:00 UTC"
+  "date": "2025-08-24 07:57 UTC"
 }
