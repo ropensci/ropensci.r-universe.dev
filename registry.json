@@ -1025,7 +1025,7 @@
       "url": "https://github.com/ropensci/bowerbird",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-20 01:23:10",
+      "date_last_commit": "2025-08-25 04:13:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1545,7 +1545,7 @@
       "url": "https://github.com/ropensci/CRediTas",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2023-05-05 13:08:10",
+      "date_last_commit": "2025-08-25 07:35:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3265,7 +3265,7 @@
       "url": "https://github.com/ropensci/mauricer",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-06 05:46:45",
+      "date_last_commit": "2025-08-25 05:05:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3845,7 +3845,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-22 13:06:03",
+      "date_last_commit": "2025-08-24 18:01:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5585,7 +5585,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-22 17:29:00",
+      "date_last_commit": "2025-08-24 12:57:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6719,7 +6719,7 @@
       "github": "https://github.com/ropensci/weatherOz",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/598",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/weatherOz",
@@ -6727,7 +6727,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-04-16 01:36:34",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -7031,5 +7031,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-24 07:57 UTC"
+  "date": "2025-08-25 07:59 UTC"
 }

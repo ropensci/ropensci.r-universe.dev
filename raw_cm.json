@@ -14125,7 +14125,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.18.3",
+    "version": "0.18.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -20699,11 +20699,11 @@
     "identifier": "CRediTas",
     "description": "A tiny package to generate CRediT author statements (<https://credit.niso.org/>). It provides three functions: create a template, read it back and generate the CRediT author statement in a text file.",
     "name": "CRediTas: Generate CRediT Author Statements",
-    "relatedLink": ["https://github.com/ropensci/CRediTas/", "https://docs.ropensci.org/CRediTas/"],
+    "relatedLink": ["https://github.com/ropensci/CRediTas/", "https://docs.ropensci.org/CRediTas/", "https://github.com/ropensci/CRediTas"],
     "codeRepository": "https://github.com/ropensci/CRediTas",
-    "issueTracker": "https://github.com/ropensci/CRediTas/issues/",
+    "issueTracker": "https://github.com/ropensci/CRediTas/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.2.0.9000",
+    "version": "0.3.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -52611,7 +52611,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.68",
+    "version": "0.3.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75398,7 +75398,7 @@
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0",
+    "version": "0.1.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -91350,12 +91350,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
