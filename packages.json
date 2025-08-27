@@ -1008,6 +1008,20 @@
     "branch": "main"
   },
   {
+    "package": "dataset",
+    "url": "https://github.com/ropensci/dataset",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 681,
+        "status": "reviewed",
+        "version": "0.3.4002",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/681"
+      }
+    }
+  },
+  {
     "package": "dataspice",
     "url": "https://github.com/ropensci/dataspice",
     "branch": "main",
