@@ -53,7 +53,7 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 15:23:11",
+      "date_last_commit": "2025-08-26 14:47:22",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-25 12:18:31",
+      "date_last_commit": "2025-08-26 14:51:58",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-30 10:44:58",
+      "date_last_commit": "2025-08-26 14:43:36",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -509,7 +509,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 08:09:11",
+      "date_last_commit": "2025-08-26 14:45:46",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-22 10:31:15",
+      "date_last_commit": "2025-08-26 16:58:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5585,7 +5585,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-24 12:57:33",
+      "date_last_commit": "2025-08-27 02:14:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5965,7 +5965,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-21 15:58:09",
+      "date_last_commit": "2025-08-26 12:35:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6265,7 +6265,7 @@
       "url": "https://github.com/ropensci/tinkr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-01 16:57:22",
+      "date_last_commit": "2025-08-26 14:02:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6705,7 +6705,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-11 18:13:51",
+      "date_last_commit": "2025-08-26 17:21:46",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6713,7 +6713,7 @@
     {
       "name": "weatherOz",
       "description": "An API Client for Australian Weather and Climate Data Resources",
-      "details": "Provides automated downloading, parsing and formatting of weather data for Australia through API endpoints provided by the Department of Primary Industries and Regional Development ('DPIRD') of Western Australia and by the Science and Technology Division of the Queensland Government's Department of Environment and Science ('DES'). As well as the Bureau of Meteorology ('BOM') of the Australian government precis and coastal forecasts, and downloading and importing radar and satellite imagery files. 'DPIRD' weather data are accessed through public 'APIs' provided by 'DPIRD', <https://www.agric.wa.gov.au/weather-api-20>, providing access to weather station data from the 'DPIRD' weather station network. Australia-wide weather data are based on data from the Australian Bureau of Meteorology ('BOM') data and accessed through 'SILO' (Scientific Information for Land Owners) Jeffrey et al. (2001) <doi:10.1016/S1364-8152(01)00008-1>. 'DPIRD' data are made available under a Creative Commons Attribution 3.0 Licence (CC BY 3.0 AU) license <https://creativecommons.org/licenses/by/3.0/au/deed.en>. SILO data are released under a Creative Commons Attribution 4.0 International licence (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>. 'BOM' data are (c) Australian Government Bureau of Meteorology and released under a Creative Commons (CC) Attribution 3.0 licence or Public Access Licence ('PAL') as appropriate, see <http://www.bom.gov.au/other/copyright.shtml> for further details.",
+      "details": "Provides automated downloading, parsing and formatting of weather data for Australia through API endpoints provided by the Department of Primary Industries and Regional Development ('DPIRD') of Western Australia and by the Science and Technology Division of the Queensland Government's Department of Environment and Science ('DES'). As well as the Bureau of Meteorology ('BOM') of the Australian government precis and coastal forecasts, and downloading and importing radar and satellite imagery files. 'DPIRD' weather data are accessed through public 'APIs' provided by 'DPIRD', <https://www.dpird.wa.gov.au/online-tools/apis/>, providing access to weather station data from the 'DPIRD' weather station network. Australia-wide weather data are based on data from the Australian Bureau of Meteorology ('BOM') data and accessed through 'SILO' (Scientific Information for Land Owners) Jeffrey et al. (2001) <doi:10.1016/S1364-8152(01)00008-1>. 'DPIRD' data are made available under a Creative Commons Attribution 3.0 Licence (CC BY 3.0 AU) license <https://creativecommons.org/licenses/by/3.0/au/deed.en>. SILO data are released under a Creative Commons Attribution 4.0 International licence (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>. 'BOM' data are (c) Australian Government Bureau of Meteorology and released under a Creative Commons (CC) Attribution 3.0 licence or Public Access Licence ('PAL') as appropriate, see <http://www.bom.gov.au/other/copyright.shtml> for further details.",
       "maintainer": "Rodrigo Pires",
       "keywords": "api-client, australia, australia-agriculture, australia-bureau-of-meteorology, australia-climate, australia-weather, bom, climate, data, dpird, meteorological-data, meteorology, rainfall, weather, weather-api, weather-data, weather-forecast, western-australia, western-australia-agriculture",
       "github": "https://github.com/ropensci/weatherOz",
@@ -6725,7 +6725,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-16 01:36:34",
+      "date_last_commit": "2025-08-27 07:12:45",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7031,5 +7031,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-26 08:03 UTC"
+  "date": "2025-08-27 08:02 UTC"
 }
