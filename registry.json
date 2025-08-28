@@ -1691,6 +1691,24 @@
       "staff_maintained": false
     },
     {
+      "name": "dataset",
+      "description": "Create Data Frames for Exchange and Reuse",
+      "details": "The 'dataset' package helps create semantically rich, machine-readable, and interoperable datasets in R. It extends tidy data frames with metadata that preserves meaning, improves interoperability, and makes datasets easier to publish, exchange, and reuse in line with ISO and W3C standards.",
+      "maintainer": "Daniel Antal",
+      "keywords": "dataset, metadata-management",
+      "github": "https://github.com/ropensci/dataset",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/681",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/dataset",
+      "date_last_commit": "2025-08-27 17:57:21",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "DataSpaceR",
       "description": "Interface to 'the CAVD DataSpace'",
       "details": "Provides a convenient API interface to access immunological data within 'the CAVD DataSpace'(<https://dataspace.cavd.org>), a data sharing and discovery tool that facilitates exploration of HIV immunological data from pre-clinical and clinical HIV vaccine studies.",
@@ -3613,7 +3631,7 @@
     {
       "name": "nuts",
       "description": "Convert European Regional Data",
-      "details": "Motivated by changing administrative boundaries over time, the 'nuts' package can convert European regional data with NUTS codes between versions (2006, 2010, 2013, 2016 and 2021) and levels (NUTS 1, NUTS 2 and NUTS 3). The package uses spatial interpolation as in Lam (1983) <doi:10.1559/152304083783914958> based on granular (100m x 100m) area, population and land use data provided by the European Commission's Joint Research Center.",
+      "details": "Motivated by changing administrative boundaries over time, the 'nuts' package can convert European regional data with NUTS codes between versions (2006, 2010, 2013, 2016, 2021 and 2024) and levels (NUTS 1, NUTS 2 and NUTS 3). The package uses spatial interpolation as in Lam (1983) <doi:10.1559/152304083783914958> based on granular (100m x 100m) area, population and land use data provided by the European Commission's Joint Research Center.",
       "maintainer": "Moritz Hennicke",
       "keywords": "europe, european-union, eurostat, nomenclature, nuts, nuts-codes, nuts-regions, regional-data",
       "github": "https://github.com/ropensci/nuts",
@@ -3625,7 +3643,7 @@
       "url": "https://github.com/ropensci/nuts",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-04 07:55:54",
+      "date_last_commit": "2025-08-27 21:05:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7031,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-27 08:02 UTC"
+  "date": "2025-08-28 08:12 UTC"
 }
