@@ -85,6 +85,7 @@ daiquiri,data-extraction,FALSE
 dataaimsr,data-access,FALSE
 datapack,scalereprod,FALSE
 DataPackageR,scalereprod,FALSE
+dataset,data-publication,FALSE
 DataSpaceR,data-access,FALSE
 dataspice,data-publication,FALSE
 datefixR,data-extraction,FALSE
