@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-22 11:58:21",
+      "date_last_commit": "2025-08-28 15:55:12",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-04 12:37:18",
+      "date_last_commit": "2025-08-28 10:13:58",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1703,6 +1703,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/dataset",
+      "ropensci_category": "data-publication",
+      "ropenscilabs": false,
       "date_last_commit": "2025-08-27 17:57:21",
       "github_archived": false,
       "cran_archived": false,
@@ -1763,7 +1765,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-26 16:58:40",
+      "date_last_commit": "2025-08-28 14:22:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3643,7 +3645,7 @@
       "url": "https://github.com/ropensci/nuts",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-27 21:05:48",
+      "date_last_commit": "2025-08-28 08:50:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5363,7 +5365,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-31 10:15:22",
+      "date_last_commit": "2025-08-28 21:22:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5963,7 +5965,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-18 13:00:56",
+      "date_last_commit": "2025-08-28 16:21:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5983,7 +5985,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-26 12:35:13",
+      "date_last_commit": "2025-08-28 18:26:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6743,7 +6745,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-27 07:12:45",
+      "date_last_commit": "2025-08-29 05:49:08",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7049,5 +7051,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-28 08:12 UTC"
+  "date": "2025-08-29 07:57 UTC"
 }
