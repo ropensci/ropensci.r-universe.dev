@@ -5365,7 +5365,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 21:22:05",
+      "date_last_commit": "2025-08-29 17:20:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5965,7 +5965,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 16:21:15",
+      "date_last_commit": "2025-08-29 16:59:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5985,7 +5985,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 18:26:50",
+      "date_last_commit": "2025-08-29 16:59:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7051,5 +7051,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-29 07:57 UTC"
+  "date": "2025-08-30 08:00 UTC"
 }
