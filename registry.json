@@ -5025,7 +5025,7 @@
       "url": "https://github.com/ropensci/rinat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-06-14 05:47:00",
+      "date_last_commit": "2025-08-30 16:29:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7051,5 +7051,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-08-30 08:00 UTC"
+  "date": "2025-08-31 08:02 UTC"
 }

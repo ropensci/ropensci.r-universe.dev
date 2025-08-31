@@ -68182,7 +68182,7 @@
     "relatedLink": "https://docs.ropensci.org/rinat/",
     "codeRepository": "https://github.com/ropensci/rinat",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.9",
+    "version": "0.1.10.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
