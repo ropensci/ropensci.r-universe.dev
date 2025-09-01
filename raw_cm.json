@@ -3578,7 +3578,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.64",
+    "version": "0.5.0.65",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14840,7 +14840,7 @@
     "codeRepository": "https://github.com/ropensci/c14bazAAR",
     "issueTracker": "https://github.com/ropensci/c14bazAAR/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "5.1.0",
+    "version": "5.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15162,7 +15162,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.4.0"
+        "version": ">= 3.5"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -33885,7 +33885,7 @@
     "identifier": "ghql",
     "description": "A 'GraphQL' client, with an R6 interface for initializing a connection to a 'GraphQL' instance, and methods for constructing queries, including fragments and parameterized queries. Queries are checked with the 'libgraphqlparser' C++ parser via the 'graphql' package.",
     "name": "ghql: General Purpose 'GraphQL' Client",
-    "relatedLink": ["https://github.com/ropensci/ghql", "https://docs.ropensci.org/ghql/"],
+    "relatedLink": ["https://docs.ropensci.org/ghql/", "https://github.com/ropensci/ghql"],
     "codeRepository": "https://github.com/ropensci/ghql",
     "issueTracker": "https://github.com/ropensci/ghql/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -46347,7 +46347,7 @@
     "codeRepository": "https://github.com/ropensci/naijR",
     "issueTracker": "https://github.com/ropensci/naijR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -46518,6 +46518,26 @@
       },
       "2": {
         "@type": "SoftwareApplication",
+        "identifier": "grDevices",
+        "name": "grDevices"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "graphics",
+        "name": "graphics"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "utils",
+        "name": "utils"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
         "identifier": "RColorBrewer",
         "name": "RColorBrewer",
         "version": ">= 1.1.2",
@@ -46529,7 +46549,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RColorBrewer"
       },
-      "3": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
@@ -46542,7 +46562,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "4": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "lifecycle",
         "name": "lifecycle",
@@ -46555,17 +46575,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "grDevices",
-        "name": "grDevices"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "graphics",
-        "name": "graphics"
-      },
-      "7": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "mapdata",
         "name": "mapdata",
@@ -46578,7 +46588,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=mapdata"
       },
-      "8": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "maps",
         "name": "maps",
@@ -46591,7 +46601,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=maps"
       },
-      "9": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -46604,7 +46614,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "10": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -46617,12 +46627,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "11": {
-        "@type": "SoftwareApplication",
-        "identifier": "stats",
-        "name": "stats"
-      },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "stringi",
         "name": "stringi",
@@ -46634,11 +46639,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=stringi"
-      },
-      "13": {
-        "@type": "SoftwareApplication",
-        "identifier": "utils",
-        "name": "utils"
       },
       "SystemRequirements": null
     },
