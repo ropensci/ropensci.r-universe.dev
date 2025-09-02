@@ -1469,11 +1469,6 @@
     }
   },
   {
-    "package": "gistr",
-    "url": "https://github.com/ropensci/gistr",
-    "branch": "master"
-  },
-  {
     "package": "git2r",
     "url": "https://github.com/ropensci/git2r",
     "branch": "main"
