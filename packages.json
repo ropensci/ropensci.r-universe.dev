@@ -1540,6 +1540,11 @@
     }
   },
   {
+    "package": "gpg",
+    "url": "https://github.com/ropensci/gpg",
+    "branch": "master"
+  },
+  {
     "package": "grainchanger",
     "url": "https://github.com/ropensci/grainchanger",
     "branch": "master",
