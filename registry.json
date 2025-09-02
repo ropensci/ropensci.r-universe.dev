@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 15:55:12",
+      "date_last_commit": "2025-09-01 11:44:09",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-31 11:05:19",
+      "date_last_commit": "2025-09-01 11:43:18",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-26 14:43:36",
+      "date_last_commit": "2025-09-01 12:39:15",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -1705,7 +1705,7 @@
       "url": "https://github.com/ropensci/dataset",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-27 17:57:21",
+      "date_last_commit": "2025-09-02 07:20:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1765,7 +1765,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 14:22:28",
+      "date_last_commit": "2025-09-01 16:39:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2546,26 +2546,6 @@
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
       "date_last_commit": "2025-07-17 09:23:56",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
-      "name": "gistr",
-      "description": "Work with 'GitHub' 'Gists'",
-      "details": "Work with 'GitHub' 'gists' from 'R' (e.g., <https://en.wikipedia.org/wiki/GitHub#Gist>, <https://docs.github.com/en/github/writing-on-github/creating-gists/>). A 'gist' is simply one or more files with code/text/images/etc. This package allows the user to create new 'gists', update 'gists' with new files, rename files, delete files, get and delete 'gists', star and 'un-star' 'gists', fork 'gists', open a 'gist' in your default browser, get embed code for a 'gist', list 'gist' 'commits', and get rate limit information when 'authenticated'. Some requests require authentication and some do not. 'Gists' website: <https://gist.github.com/>.",
-      "maintainer": "Scott Chamberlain",
-      "keywords": "api, api-wrapper, code, gist, gists, github, github\napi, github-api, github-gist, http, https, script, snippet, web-services",
-      "github": "https://github.com/ropensci/gistr",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": true,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/gistr",
-      "ropensci_category": "scalereprod",
-      "ropenscilabs": false,
-      "date_last_commit": "2022-10-20 18:34:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3645,7 +3625,7 @@
       "url": "https://github.com/ropensci/nuts",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 08:50:48",
+      "date_last_commit": "2025-09-01 15:35:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5065,7 +5045,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-31 13:16:43",
+      "date_last_commit": "2025-09-01 19:45:57",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7051,5 +7031,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-01 07:58 UTC"
+  "date": "2025-09-02 07:59 UTC"
 }
