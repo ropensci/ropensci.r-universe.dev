@@ -35573,13 +35573,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "googleLanguageR",
-    "description": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate/> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language/> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech/> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech/> to turn text into sound files.",
+    "description": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech-to-text> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech> to turn text into sound files.",
     "name": "googleLanguageR: Call Google's 'Natural Language' API, 'Cloud Translation' API, \n  'Cloud Speech' API and 'Cloud Text-to-Speech' API",
-    "relatedLink": ["http://code.markedmondson.me/googleLanguageR/", "https://github.com/ropensci/googleLanguageR", "https://docs.ropensci.org/googleLanguageR/"],
+    "relatedLink": ["https://github.com/ropensci/googleLanguageR", "https://docs.ropensci.org/googleLanguageR/"],
     "codeRepository": "https://github.com/ropensci/googleLanguageR",
     "issueTracker": "https://github.com/ropensci/googleLanguageR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0.9000",
+    "version": "0.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35598,6 +35598,12 @@
         "givenName": "Mark",
         "familyName": "Edmondson",
         "email": "r@sunholo.com"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Cheryl",
+        "familyName": "Isabella",
+        "email": "cheryl.academic@gmail.com"
       }
     ],
     "contributor": [
@@ -35617,9 +35623,9 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Mark",
-        "familyName": "Edmondson",
-        "email": "r@sunholo.com"
+        "givenName": "Cheryl",
+        "familyName": "Isabella",
+        "email": "cheryl.academic@gmail.com"
       }
     ],
     "softwareSuggestions": [
@@ -35766,6 +35772,30 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "av",
+        "name": "av",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=av"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "magrittr",
+        "name": "magrittr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=magrittr"
       }
     ],
     "softwareRequirements": {
@@ -35826,18 +35856,6 @@
       },
       "6": {
         "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
         "version": ">= 0.2.4",
@@ -35849,12 +35867,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -35866,7 +35884,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
@@ -35875,11 +35893,6 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/googleLanguageR/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/127",
-      "provider": "https://ropensci.org"
-    },
     "developmentStatus": [],
     "keywords": ["cloud-speech-api", "cloud-translation-api", "google-api-client", "google-cloud", "google-cloud-speech", "google-nlp", "googleauthr", "natural-language-processing", "peer-reviewed", "sentiment-analysis", "speech-api", "translation-api"]
   },
@@ -52839,7 +52852,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.9000",
+    "version": "0.3.0.9003",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -88134,7 +88147,7 @@
     "codeRepository": "https://github.com/ropensci/UCSCXenaTools",
     "issueTracker": "https://github.com/ropensci/UCSCXenaTools/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

@@ -1765,7 +1765,7 @@
       "url": "https://github.com/ropensci/datefixR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-01 16:39:13",
+      "date_last_commit": "2025-09-03 14:36:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2327,7 +2327,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-05-21 22:16:21",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -2653,19 +2653,19 @@
     {
       "name": "googleLanguageR",
       "description": "Call Google's 'Natural Language' API, 'Cloud Translation' API, \n  'Cloud Speech' API and 'Cloud Text-to-Speech' API",
-      "details": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate/> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language/> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech/> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech/> to turn text into sound files.",
-      "maintainer": "Mark Edmondson",
+      "details": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech-to-text> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech> to turn text into sound files.",
+      "maintainer": "Cheryl Isabella",
       "keywords": "cloud-speech-api, cloud-translation-api, google-api-client, google-cloud, google-cloud-speech, google-nlp, googleauthr, natural-language-processing, peer-reviewed, sentiment-analysis, speech-api, translation-api",
       "github": "https://github.com/ropensci/googleLanguageR",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/127",
+      "onboarding": "",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/googleLanguageR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-20 13:17:33",
+      "date_last_commit": "2025-09-03 11:35:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3863,7 +3863,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-24 18:01:35",
+      "date_last_commit": "2025-09-03 08:15:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4923,7 +4923,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-03 07:23:54",
+      "date_last_commit": "2025-09-04 07:05:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5063,7 +5063,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-02 14:12:17",
+      "date_last_commit": "2025-09-04 07:53:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5363,7 +5363,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-02 19:39:08",
+      "date_last_commit": "2025-09-03 19:17:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6483,7 +6483,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-20 03:39:43",
+      "date_last_commit": "2025-09-04 04:02:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-03 08:02 UTC"
+  "date": "2025-09-04 07:59 UTC"
 }
