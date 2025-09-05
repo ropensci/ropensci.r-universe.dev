@@ -31522,12 +31522,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -66942,7 +66936,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.2.4",
+    "version": "3.8.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67340,7 +67334,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.2.4"
+        "description": "R package version 3.8.3"
       },
       {
         "@type": "ScholarlyArticle",
@@ -68508,7 +68502,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.17.0",
+    "version": "0.17.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -72487,7 +72481,7 @@
     "codeRepository": "https://github.com/ropensci/rredlist",
     "issueTracker": "https://github.com/ropensci/rredlist/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.0.9000",
+    "version": "1.1.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -72799,7 +72793,7 @@
         "name": "rredlist: 'IUCN' Red List Client",
         "identifier": "10.32614/CRAN.package.rredlist",
         "url": "https://docs.ropensci.org/rredlist/",
-        "description": "R package version 1.1.0",
+        "description": "R package version 1.1.1",
         "@id": "https://doi.org/10.32614/CRAN.package.rredlist",
         "sameAs": "https://doi.org/10.32614/CRAN.package.rredlist"
       }

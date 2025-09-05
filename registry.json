@@ -2319,7 +2319,7 @@
       "github": "https://github.com/ropensci/fireexposuR",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/659",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/fireexposuR",
@@ -2843,7 +2843,7 @@
       "url": "https://github.com/ropensci/helminthR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-24 19:58:10",
+      "date_last_commit": "2025-09-04 14:13:45",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4083,7 +4083,7 @@
       "url": "https://github.com/ropensci/PFW",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-11 00:25:22",
+      "date_last_commit": "2025-09-04 19:23:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4923,7 +4923,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-04 07:05:59",
+      "date_last_commit": "2025-09-05 07:10:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5063,7 +5063,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-04 07:53:15",
+      "date_last_commit": "2025-09-04 16:22:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5363,7 +5363,7 @@
       "url": "https://github.com/ropensci/rredlist",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-03 19:17:18",
+      "date_last_commit": "2025-09-04 13:32:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-04 07:59 UTC"
+  "date": "2025-09-05 08:00 UTC"
 }
