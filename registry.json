@@ -205,7 +205,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-23 17:06:22",
+      "date_last_commit": "2025-09-05 19:33:07",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3863,7 +3863,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-03 08:15:00",
+      "date_last_commit": "2025-09-05 11:52:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5483,7 +5483,7 @@
       "url": "https://github.com/ropensci/rsvg",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-23 13:57:55",
+      "date_last_commit": "2025-09-05 23:24:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6763,7 +6763,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-16 03:02:26",
+      "date_last_commit": "2025-09-05 11:52:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-05 08:00 UTC"
+  "date": "2025-09-06 07:58 UTC"
 }
