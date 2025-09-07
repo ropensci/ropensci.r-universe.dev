@@ -3223,7 +3223,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-23 18:52:53",
+      "date_last_commit": "2025-09-06 20:33:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5483,7 +5483,7 @@
       "url": "https://github.com/ropensci/rsvg",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-05 23:24:30",
+      "date_last_commit": "2025-09-06 13:05:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-06 07:58 UTC"
+  "date": "2025-09-07 07:59 UTC"
 }

@@ -74139,11 +74139,11 @@
     "identifier": "rsvg",
     "description": "Renders vector-based svg images into high-quality custom-size bitmap arrays using 'librsvg2'. The resulting bitmap can be written to e.g. png, jpeg or webp format. In addition, the package can convert images directly to various formats such as pdf or postscript.",
     "name": "rsvg: Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays",
-    "relatedLink": ["https://docs.ropensci.org/rsvg/", "https://github.com/ropensci/rsvg"],
+    "relatedLink": ["https://docs.ropensci.org/rsvg/", "https://ropensci.r-universe.dev/rsvg"],
     "codeRepository": "https://github.com/ropensci/rsvg",
     "issueTracker": "https://github.com/ropensci/rsvg/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.6.2",
+    "version": "2.7.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -74295,7 +74295,7 @@
       }
     ],
     "softwareRequirements": {
-      "SystemRequirements": "librsvg2"
+      "SystemRequirements": "librsvg2 (at least version 2.52)"
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rsvg/blob/HEAD/README.md",
