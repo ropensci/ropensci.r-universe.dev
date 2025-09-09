@@ -53,7 +53,7 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-26 14:47:22",
+      "date_last_commit": "2025-09-08 08:05:03",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-03 06:16:36",
+      "date_last_commit": "2025-09-08 14:02:55",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -471,7 +471,7 @@
       "url": "https://github.com/e-sensing/sits",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-24 18:13:55",
+      "date_last_commit": "2025-09-08 17:23:01",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -805,7 +805,7 @@
       "url": "https://github.com/ropensci/baRulho",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-26 14:14:27",
+      "date_last_commit": "2025-09-08 22:19:27",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2525,7 +2525,7 @@
       "url": "https://github.com/ropensci/ghql",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-01 07:10:00",
+      "date_last_commit": "2025-09-08 08:39:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3963,7 +3963,7 @@
       "url": "https://github.com/ropensci/pangaear",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-11-17 20:29:54",
+      "date_last_commit": "2025-09-08 15:58:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4923,7 +4923,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-05 07:10:24",
+      "date_last_commit": "2025-09-08 10:00:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5763,7 +5763,7 @@
       "url": "https://github.com/ropensci/spiro",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-20 08:53:35",
+      "date_last_commit": "2025-09-08 12:17:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-08 08:02 UTC"
+  "date": "2025-09-09 08:01 UTC"
 }

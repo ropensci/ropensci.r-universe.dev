@@ -482,7 +482,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/autotest",
     "issueTracker": "https://github.com/ropensci-review-tools/autotest/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.0.2.213",
+    "version": "0.0.2.215",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3162,7 +3162,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.226",
+    "version": "0.1.2.227",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6670,11 +6670,11 @@
     "identifier": "sits",
     "description": "An end-to-end toolkit for land use and land cover classification using big Earth observation data. Builds satellite image data cubes from cloud collections. Supports visualization methods for images and time series and smoothing filters for dealing with noisy time series. Enables merging of multi-source imagery (SAR, optical, DEM). Includes functions for quality assessment of training samples using self-organized maps and to reduce training samples imbalance. Provides machine learning algorithms including support vector machines, random forests, extreme gradient boosting, multi-layer perceptrons, temporal convolution neural networks, and temporal attention encoders. Performs efficient classification of big Earth observation data cubes and includes functions for post-classification smoothing based on Bayesian inference. Enables best practices for estimating area and assessing accuracy of land change. Includes object-based spatio-temporal segmentation for space-time OBIA. Minimum recommended requirements: 16 GB RAM and 4 CPU dual-core.",
     "name": "sits: Satellite Image Time Series Analysis for Earth Observation Data Cubes",
-    "relatedLink": ["https://github.com/e-sensing/sits/", "https://e-sensing.github.io/sitsbook/"],
+    "relatedLink": ["https://github.com/e-sensing/sits/", "https://e-sensing.github.io/sitsbook/", "https://e-sensing.github.io/sits/"],
     "codeRepository": "https://github.com/e-sensing/sits",
     "issueTracker": "https://github.com/e-sensing/sits/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.5.3",
+    "version": "1.5.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6998,19 +6998,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "httr2",
-        "name": "httr2",
-        "version": ">= 1.1.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr2"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
         "provider": {
@@ -7086,6 +7073,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=openxlsx"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "parallelly",
+        "name": "parallelly",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=parallelly"
       },
       {
         "@type": "SoftwareApplication",
@@ -7273,6 +7272,19 @@
       },
       "6": {
         "@type": "SoftwareApplication",
+        "identifier": "httr2",
+        "name": "httr2",
+        "version": ">= 1.1.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
         "identifier": "leafgl",
         "name": "leafgl",
         "provider": {
@@ -7283,7 +7295,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=leafgl"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "leaflet",
         "name": "leaflet",
@@ -7296,7 +7308,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=leaflet"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
@@ -7308,7 +7320,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "luz",
         "name": "luz",
@@ -7321,12 +7333,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=luz"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "parallel",
         "name": "parallel"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -7339,7 +7351,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "randomForest",
         "name": "randomForest",
@@ -7351,7 +7363,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=randomForest"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
@@ -7364,7 +7376,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "14": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "rstac",
         "name": "rstac",
@@ -7377,7 +7389,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstac"
       },
-      "15": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -7390,7 +7402,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "16": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "slider",
         "name": "slider",
@@ -7403,12 +7415,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=slider"
       },
-      "17": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats"
       },
-      "18": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
@@ -7421,7 +7433,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "19": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -7434,7 +7446,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "20": {
+      "21": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -7447,7 +7459,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "21": {
+      "22": {
         "@type": "SoftwareApplication",
         "identifier": "tmap",
         "name": "tmap",
@@ -7460,7 +7472,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tmap"
       },
-      "22": {
+      "23": {
         "@type": "SoftwareApplication",
         "identifier": "torch",
         "name": "torch",
@@ -7473,7 +7485,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=torch"
       },
-      "23": {
+      "24": {
         "@type": "SoftwareApplication",
         "identifier": "units",
         "name": "units",
@@ -7485,7 +7497,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=units"
       },
-      "24": {
+      "25": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
@@ -33902,7 +33914,7 @@
     "codeRepository": "https://github.com/ropensci/ghql",
     "issueTracker": "https://github.com/ropensci/ghql/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.1.99",
+    "version": "0.1.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -54198,6 +54210,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
+        "version": ">=2.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
