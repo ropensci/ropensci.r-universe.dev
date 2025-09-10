@@ -81,7 +81,7 @@
       "description": "Renders a Multilingual Quarto Book",
       "details": "Automate rendering and cross-linking of Quarto books following a prescribed structure.",
       "maintainer": "Maëlle Salmon",
-      "keywords": "",
+      "keywords": "quarto",
       "github": "https://github.com/ropensci-review-tools/babelquarto",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-28 10:13:58",
+      "date_last_commit": "2025-09-09 08:08:40",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3677,7 +3677,7 @@
       "github": "https://github.com/ropensci/occCite",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/407",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/occCite",
@@ -3685,7 +3685,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-06-16 11:01:41",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -4063,7 +4063,7 @@
       "url": "https://github.com/ropensci/pdftools",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-03 13:48:13",
+      "date_last_commit": "2025-09-09 10:50:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5063,7 +5063,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-04 16:22:30",
+      "date_last_commit": "2025-09-09 08:59:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-09 08:01 UTC"
+  "date": "2025-09-10 07:59 UTC"
 }

@@ -1411,7 +1411,8 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/babelquarto/blob/HEAD/README.md",
-    "developmentStatus": []
+    "developmentStatus": [],
+    "keywords": "quarto"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -4871,7 +4872,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.17",
+    "version": "0.2.1.18",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49791,12 +49792,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -50182,14 +50177,7 @@
       "21": {
         "@type": "SoftwareApplication",
         "identifier": "waffle",
-        "name": "waffle",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=waffle"
+        "name": "waffle"
       },
       "SystemRequirements": null
     },
@@ -55437,7 +55425,7 @@
     "codeRepository": "https://github.com/ropensci/pdftools",
     "issueTracker": "https://github.com/ropensci/pdftools/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.5.0",
+    "version": "3.6.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -65191,14 +65179,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "waffle",
-        "name": "waffle",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=waffle"
+        "name": "waffle"
       },
       {
         "@type": "SoftwareApplication",
@@ -76037,14 +76018,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "extrafont",
-        "name": "extrafont",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=extrafont"
+        "name": "extrafont"
       },
       {
         "@type": "SoftwareApplication",
