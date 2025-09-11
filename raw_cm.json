@@ -1411,6 +1411,11 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci-review-tools/babelquarto/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/720",
+      "provider": "https://ropensci.org"
+    },
     "developmentStatus": [],
     "keywords": "quarto"
   },
@@ -17358,7 +17363,7 @@
     "codeRepository": "https://github.com/ropensci/chopin",
     "issueTracker": "https://github.com/ropensci/chopin/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.6",
+    "version": "0.9.9",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

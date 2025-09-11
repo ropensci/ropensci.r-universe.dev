@@ -84,14 +84,14 @@
       "keywords": "quarto",
       "github": "https://github.com/ropensci-review-tools/babelquarto",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/720",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-22 07:46:15",
+      "date_last_commit": "2025-09-11 07:11:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1285,7 +1285,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-12 11:46:16",
+      "date_last_commit": "2025-09-10 11:49:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5723,7 +5723,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-05 16:21:27",
+      "date_last_commit": "2025-09-10 16:35:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-10 07:59 UTC"
+  "date": "2025-09-11 07:57 UTC"
 }
