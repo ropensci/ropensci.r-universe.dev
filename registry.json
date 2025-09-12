@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-08 14:02:55",
+      "date_last_commit": "2025-09-11 08:28:35",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-09 08:08:40",
+      "date_last_commit": "2025-09-11 14:42:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-23 16:07:11",
+      "date_last_commit": "2025-09-11 08:50:06",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3993,7 +3993,7 @@
       "description": "Parse Messy Geographic Coordinates",
       "details": "Parse messy geographic coordinates from various character formats to decimal degree numeric values. Parse coordinates into their parts (degree, minutes, seconds); calculate hemisphere from coordinates; pull out individually degrees, minutes, or seconds; add and subtract degrees, minutes, and seconds. C++ code herein originally inspired from code written by Jeffrey D. Bogan, but then completely re-written.",
       "maintainer": "Alban Sagouis",
-      "keywords": "coordinates, cpp, data, geo, geospatial, latitude, longitude, parser",
+      "keywords": "coordinates, cpp, data, geo, geospatial, latitude, longitude, parser, quarto",
       "github": "https://github.com/ropensci/parzer",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/341",
@@ -4003,7 +4003,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-23 12:54:27",
+      "date_last_commit": "2025-09-11 19:09:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5063,7 +5063,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-09 08:59:37",
+      "date_last_commit": "2025-09-12 06:51:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-11 07:57 UTC"
+  "date": "2025-09-12 07:57 UTC"
 }
