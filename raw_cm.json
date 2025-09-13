@@ -1693,7 +1693,7 @@
     "codeRepository": "https://github.com/r-lib/credentials",
     "issueTracker": "https://github.com/r-lib/credentials/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5610,7 +5610,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.33",
+    "version": "0.1.1.35",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -8854,7 +8854,7 @@
     "codeRepository": "https://github.com/ropensci/allcontributors",
     "issueTracker": "https://github.com/ropensci/allcontributors/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.17",
+    "version": "0.2.2.19",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80225,7 +80225,7 @@
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.1.9003",
+    "version": "0.13.2.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80539,7 +80539,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.3.9005",
+    "version": "1.11.4.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
