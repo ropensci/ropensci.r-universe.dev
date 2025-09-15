@@ -32395,7 +32395,7 @@
     "codeRepository": "https://github.com/ropensci/gbifdb",
     "issueTracker": "https://github.com/ropensci/gbifdb",
     "license": "Apache License 2",
-    "version": "1.0.0",
+    "version": "1.0.0.99",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -32415,6 +32415,15 @@
         "familyName": "Boettiger",
         "email": "cboettig@gmail.com",
         "@id": "https://orcid.org/0000-0002-1642-628X"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Marc-Olivier",
+        "familyName": "Beausoleil",
+        "email": "marc-olivier.beausoleil@mail.mcgill.ca",
+        "@id": "https://orcid.org/0000-0003-3717-3223"
       }
     ],
     "maintainer": [

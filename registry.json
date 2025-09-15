@@ -2385,7 +2385,7 @@
       "url": "https://github.com/ropensci/gbifdb",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-10-19 19:46:25",
+      "date_last_commit": "2025-09-14 18:53:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6083,7 +6083,7 @@
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-26 08:25:46",
+      "date_last_commit": "2025-09-14 18:13:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7049,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-14 08:02 UTC"
+  "date": "2025-09-15 08:00 UTC"
 }
