@@ -2765,7 +2765,7 @@
     "metadata": {
       "review": {
         "id": 706,
-        "status": "pending",
+        "status": "reviewed",
         "version": "0.2.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/706"
