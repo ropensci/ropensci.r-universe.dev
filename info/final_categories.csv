@@ -128,13 +128,13 @@ geotargets,geospatial,FALSE
 getCRUCLdata,data-access,FALSE
 ghql,http-tools,FALSE
 gigs,scalereprod,FALSE
-gistr,scalereprod,FALSE
 git2r,scalereprod,FALSE
 git2rdata,data-extraction,FALSE
 gitignore,scalereprod,FALSE
 gittargets,scalereprod,FALSE
 GLMMcosinor,stat,FALSE
 googleLanguageR,literature,FALSE
+gpg,security,FALSE
 grainchanger,geospatial,FALSE
 graphql,http-tools,FALSE
 GSODR,data-access,FALSE
