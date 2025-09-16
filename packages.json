@@ -2759,6 +2759,20 @@
     }
   },
   {
+    "package": "rixpress",
+    "url": "https://github.com/ropensci/rixpress",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 706,
+        "status": "pending",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/706"
+      }
+    }
+  },
+  {
     "package": "rmangal",
     "url": "https://github.com/ropensci/rmangal",
     "branch": "main",
