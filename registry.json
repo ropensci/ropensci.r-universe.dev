@@ -62,7 +62,7 @@
       "description": "Helpers for Automatic Translation of Markdown-based Content",
       "details": "Provide workflows and guidance for automatic translation of Markdown-based R content using DeepL API.",
       "maintainer": "Maëlle Salmon",
-      "keywords": "",
+      "keywords": "quarto",
       "github": "https://github.com/ropensci-review-tools/babeldown",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -2683,6 +2683,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/gpg",
+      "ropensci_category": "security",
+      "ropenscilabs": false,
       "date_last_commit": "2025-09-02 08:24:14",
       "github_archived": false,
       "cran_archived": true,
@@ -5063,7 +5065,25 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-12 06:51:04",
+      "date_last_commit": "2025-09-16 09:00:04",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "rixpress",
+      "description": "Build Reproducible Analytical Pipelines with Nix",
+      "details": "Streamlines the creation of reproducible analytical pipelines using `default.nix` expressions generated via `rix` for reproducibility. Define derivations in R, Python or Julia, chain them into a composition of pure functions and build the resulting pipeline using `Nix` as the underlying end-to-end build tool. Functions to plot a DAG representation of the pipeline are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the `targets` package.",
+      "maintainer": "Bruno Rodrigues",
+      "keywords": "",
+      "github": "https://github.com/ropensci/rixpress",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/706",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/rixpress",
+      "date_last_commit": "2025-09-16 15:40:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7049,5 +7069,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-16 07:59 UTC"
+  "date": "2025-09-17 08:02 UTC"
 }
