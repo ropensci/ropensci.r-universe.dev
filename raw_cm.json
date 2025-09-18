@@ -69537,16 +69537,15 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
-        "identifier": "devtools",
-        "name": "devtools",
-        "version": ">= 1.10.0",
+        "identifier": "pak",
+        "name": "pak",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=devtools"
+        "sameAs": "https://CRAN.R-project.org/package=pak"
       },
       {
         "@type": "SoftwareApplication",
