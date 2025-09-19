@@ -3169,7 +3169,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.228",
+    "version": "0.1.2.229",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75977,6 +75977,7 @@
         "@type": "SoftwareApplication",
         "identifier": "reticulate",
         "name": "reticulate",
+        "version": ">= 1.41.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -76010,7 +76011,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstudioapi"
       },
-      "SystemRequirements": "\n    python (>= 3.4.0), \n    SASPy,\n    java (>= 7) required for IOM access method"
+      "SystemRequirements": "python (>= 3.4.0), SASPy, java (>= 7) required for IOM\n    access method"
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/sasquatch/blob/HEAD/README.md",
@@ -91765,7 +91766,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "weatherOz",
-    "description": "Provides automated downloading, parsing and formatting of weather data for Australia through API endpoints provided by the Department of Primary Industries and Regional Development ('DPIRD') of Western Australia and by the Science and Technology Division of the Queensland Government's Department of Environment and Science ('DES'). As well as the Bureau of Meteorology ('BOM') of the Australian government precis and coastal forecasts, and downloading and importing radar and satellite imagery files. 'DPIRD' weather data are accessed through public 'APIs' provided by 'DPIRD', <https://www.dpird.wa.gov.au/online-tools/apis/>, providing access to weather station data from the 'DPIRD' weather station network. Australia-wide weather data are based on data from the Australian Bureau of Meteorology ('BOM') data and accessed through 'SILO' (Scientific Information for Land Owners) Jeffrey et al. (2001) <doi:10.1016/S1364-8152(01)00008-1>. 'DPIRD' data are made available under a Creative Commons Attribution 3.0 Licence (CC BY 3.0 AU) license <https://creativecommons.org/licenses/by/3.0/au/deed.en>. SILO data are released under a Creative Commons Attribution 4.0 International licence (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>. 'BOM' data are (c) Australian Government Bureau of Meteorology and released under a Creative Commons (CC) Attribution 3.0 licence or Public Access Licence ('PAL') as appropriate, see <http://www.bom.gov.au/other/copyright.shtml> for further details.",
+    "description": "Provides automated downloading, parsing and formatting of weather data for Australia through API endpoints provided by the Department of Primary Industries and Regional Development (DPIRD) of Western Australia and by the Science and Technology Division of the Queensland Government's Department of Environment and Science (DES). As well as the Bureau of Meteorology (BOM) of the Australian government precis and coastal forecasts, and downloading and importing radar and satellite imagery files. DPIRD weather data are accessed through public APIs provided by DPIRD, <https://www.dpird.wa.gov.au/online-tools/apis/>, providing access to weather station data from the DPIRD weather station network. Australia-wide weather data are based on data from the Australian Bureau of Meteorology (BOM) data and accessed through SILO (Scientific Information for Land Owners) Jeffrey et al. (2001) <doi:10.1016/S1364-8152(01)00008-1>. DPIRD data are made available under a Creative Commons Attribution 3.0 Licence (CC BY 3.0 AU) license <https://creativecommons.org/licenses/by/3.0/au/deed.en>. SILO data are released under a Creative Commons Attribution 4.0 International licence (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>. BOM data are (c) Australian Government Bureau of Meteorology and released under a Creative Commons (CC) Attribution 3.0 licence or Public Access Licence (PAL) as appropriate, see <http://www.bom.gov.au/other/copyright.shtml> for further details.",
     "name": "weatherOz: An API Client for Australian Weather and Climate Data Resources",
     "relatedLink": ["https://github.com/ropensci/weatherOz/", "https://docs.ropensci.org/weatherOz/"],
     "codeRepository": "https://github.com/ropensci/weatherOz",
@@ -91778,6 +91779,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -92673,6 +92680,42 @@
       },
       "2": {
         "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "digest",
+        "name": "digest",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=digest"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "hoardr",
+        "name": "hoardr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=hoardr"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
         "provider": {
@@ -92683,7 +92726,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
       },
-      "3": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -92695,7 +92738,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "4": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -92707,7 +92750,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "5": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -92719,7 +92762,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "6": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -92731,12 +92774,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "7": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "8": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -92748,7 +92791,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "9": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -92760,7 +92803,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "10": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "data.tree",
         "name": "data.tree",
@@ -92772,7 +92815,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=data.tree"
       },
-      "11": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -92784,7 +92827,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "12": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "base64enc",
         "name": "base64enc",
@@ -92796,7 +92839,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=base64enc"
       },
-      "13": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -92808,7 +92851,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "14": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
