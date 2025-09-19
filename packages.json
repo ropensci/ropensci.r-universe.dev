@@ -1597,6 +1597,20 @@
     "branch": "master"
   },
   {
+    "package": "hdcuremodels",
+    "url": "https://github.com/ropensci/hdcuremodels",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 692,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/692"
+      }
+    }
+  },
+  {
     "package": "hddtools",
     "url": "https://github.com/ropensci/hddtools",
     "branch": "master",
