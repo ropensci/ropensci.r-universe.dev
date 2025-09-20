@@ -31516,13 +31516,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "fireexposuR",
-    "description": "Methods for computing and visualizing wildfire igntion exposure and directional vulnerability that are published in a series of scientific publications are automated by the functions in this package. See Beverly et al. (2010) <doi:10.1071/WF09071>, Beverly et al. (2021) <doi:10.1007/s10980-020-01173-8>, and Beverly and Forbes (2023) <doi:10.1007/s11069-023-05885-3> for background and methodology.",
+    "description": "Methods for computing and visualizing wildfire ignition exposure and directional vulnerability that are published in a series of scientific publications are automated by the functions in this package. See Beverly et al. (2010) <doi:10.1071/WF09071>, Beverly et al. (2021) <doi:10.1007/s10980-020-01173-8>, and Beverly and Forbes (2023) <doi:10.1007/s11069-023-05885-3> for background and methodology.",
     "name": "fireexposuR: Compute and Visualize Wildfire Exposure",
     "relatedLink": ["https://github.com/ropensci/fireexposuR", "https://docs.ropensci.org/fireexposuR/"],
     "codeRepository": "https://github.com/ropensci/fireexposuR",
     "issueTracker": "https://github.com/ropensci/fireexposuR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.1.0",
+    "version": "1.1.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -31692,6 +31692,18 @@
       },
       "9": {
         "@type": "SoftwareApplication",
+        "identifier": "sf",
+        "name": "sf",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=sf"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
         "provider": {
@@ -31702,7 +31714,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -31714,7 +31726,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "tidyselect",
         "name": "tidyselect",
@@ -31726,7 +31738,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyselect"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "tidyterra",
         "name": "tidyterra",
@@ -31738,7 +31750,19 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyterra"
       },
-      "13": {
+      "14": {
+        "@type": "SoftwareApplication",
+        "identifier": "tmap",
+        "name": "tmap",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tmap"
+      },
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -38237,6 +38261,432 @@
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/handlr/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "identifier": "hdcuremodels",
+    "description": "Provides functions for fitting various penalized parametric and semi-parametric mixture cure models with different penalty functions, testing for a significant cure fraction, and testing for sufficient follow-up as described in Fu et al (2022)<doi:10.1002/sim.9513> and Archer et al (2024)<doi:10.1186/s13045-024-01553-6>. False discovery rate controlled variable selection is provided using model-X knock-offs. ",
+    "name": "hdcuremodels: High-Dimensional Cure Models",
+    "relatedLink": "https://github.com/kelliejarcher/hdcuremodels",
+    "codeRepository": "https://github.com/ropensci/hdcuremodels",
+    "issueTracker": "https://github.com/kelliejarcher/hdcuremodels/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.0.5",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Han",
+        "familyName": "Fu"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Kellie J.",
+        "familyName": "Archer",
+        "email": "archer.43@osu.edu",
+        "@id": "https://orcid.org/0000-0003-1555-5781"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Kellie J.",
+        "familyName": "Archer",
+        "email": "archer.43@osu.edu",
+        "@id": "https://orcid.org/0000-0003-1555-5781"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "Rdsdp",
+        "name": "Rdsdp",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=Rdsdp"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "roxygen2",
+        "name": "roxygen2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=roxygen2"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "srr",
+        "name": "srr",
+        "sameAs": "https://github.com/ropensci-review-tools/srr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.2.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "doParallel",
+        "name": "doParallel",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=doParallel"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "flexsurv",
+        "name": "flexsurv",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=flexsurv"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "flexsurvcure",
+        "name": "flexsurvcure",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=flexsurvcure"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "foreach",
+        "name": "foreach",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=foreach"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "ggplot2",
+        "name": "ggplot2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "ggpubr",
+        "name": "ggpubr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggpubr"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "glmnet",
+        "name": "glmnet",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=glmnet"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "knockoff",
+        "name": "knockoff",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knockoff"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "mvnfast",
+        "name": "mvnfast",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=mvnfast"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
+        "identifier": "parallel",
+        "name": "parallel"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "plyr",
+        "name": "plyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=plyr"
+      },
+      "13": {
+        "@type": "SoftwareApplication",
+        "identifier": "methods",
+        "name": "methods"
+      },
+      "14": {
+        "@type": "SoftwareApplication",
+        "identifier": "survival",
+        "name": "survival",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=survival"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2024",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": ["Kellie", "J."],
+            "familyName": "Archer"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Han",
+            "familyName": "Fu"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Krzysztof",
+            "familyName": "Mrozek"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Deedra",
+            "familyName": "Nicolet"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Alice", "S."],
+            "familyName": "Mims"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Geoffrey", "L."],
+            "familyName": "Uy"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Wendy",
+            "familyName": "Stock"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["John", "C."],
+            "familyName": "Byrd"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Wolfgang",
+            "familyName": "Hiddemann"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Jan",
+            "familyName": "Braess"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Karsten",
+            "familyName": "Spiekermann"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Klaus", "H."],
+            "familyName": "Metzeler"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Tobias",
+            "familyName": "Herold"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Ann-Kathrin",
+            "familyName": "Eisfeld"
+          }
+        ],
+        "name": "Identifying long-term survivors and those at higher or lower risk of relapse among patients with cytogenetically normal acute myeloid leukemia using a high-dimensional mixture cure model",
+        "url": "https://jhoonline.biomedcentral.com/articles/10.1186/s13045-024-01553-6",
+        "pagination": "28",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "datePublished": "2024",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "17",
+            "name": "Journal of Hematology & Oncology"
+          }
+        }
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2022",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Han",
+            "familyName": "Fu"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Deedra",
+            "familyName": "Nicolet"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Kryzsztof",
+            "familyName": "Mrozek"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Richard", "M."],
+            "familyName": "Stone"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Ann-Kathrin",
+            "familyName": "Eisfeld"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["John", "C."],
+            "familyName": "Byrd"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Kellie", "J."],
+            "familyName": "Archer"
+          }
+        ],
+        "name": "Controlled variable selection in Weibull mixture cure models for high-dimensional data",
+        "url": "doi:10.1002/sim.9513",
+        "pagination": "8706",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "22",
+          "datePublished": "2022",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "41",
+            "name": "Statistics in Medicine"
+          }
+        }
+      }
+    ],
+    "readme": "https://github.com/ropensci/hdcuremodels/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -68686,13 +69136,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rixpress",
-    "description": "Streamlines the creation of reproducible analytical pipelines using `default.nix` expressions generated via `rix` for reproducibility. Define derivations in R, Python or Julia, chain them into a composition of pure functions and build the resulting pipeline using `Nix` as the underlying end-to-end build tool. Functions to plot a DAG representation of the pipeline are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the `targets` package.",
+    "description": "Streamlines the creation of reproducible analytical pipelines using 'default.nix' expressions generated via 'rix' for reproducibility. Define derivations in R, Python or Julia, chain them into a composition of pure functions and build the resulting pipeline using 'Nix' as the underlying end-to-end build tool. Functions to plot a DAG representation of the pipeline are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the 'targets' package.",
     "name": "rixpress: Build Reproducible Analytical Pipelines with Nix",
-    "relatedLink": ["https://github.com/ropensci/rixpress/", "https://docs.ropensci.org/rixpress"],
+    "relatedLink": ["https://github.com/ropensci/rixpress/", "https://docs.ropensci.org/rixpress/"],
     "codeRepository": "https://github.com/ropensci/rixpress",
-    "issueTracker": "https://github.com/ropensci/rixpress/issues",
+    "issueTracker": "https://github.com/ropensci/rixpress/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0",
+    "version": "0.10.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -68895,7 +69345,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=processx"
       },
-      "SystemRequirements": null
+      "SystemRequirements": "Nix"
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rixpress/blob/HEAD/README.md",
