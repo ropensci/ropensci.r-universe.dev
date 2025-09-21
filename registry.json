@@ -1095,7 +1095,7 @@
       "description": "Read and Write C3D Motion Capture Files",
       "details": "A wrapper for the 'EZC3D' library to work with C3D motion capture data.",
       "maintainer": "Simon Nolte",
-      "keywords": "cpp",
+      "keywords": "cpp, quarto",
       "github": "https://github.com/ropensci/c3dr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/686",
@@ -5101,7 +5101,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rixpress",
-      "date_last_commit": "2025-09-20 07:52:11",
+      "date_last_commit": "2025-09-20 18:55:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-20 07:58 UTC"
+  "date": "2025-09-21 08:05 UTC"
 }
