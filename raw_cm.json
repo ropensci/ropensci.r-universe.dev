@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.19",
+    "version": "0.2.1.24",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -69717,7 +69717,7 @@
     "codeRepository": "https://github.com/ropensci/rnassqs",
     "issueTracker": "https://github.com/ropensci/rnassqs/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -69743,6 +69743,11 @@
         "@type": "Person",
         "givenName": "Robert",
         "familyName": "Dinterman"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Austin",
+        "familyName": "Pearce"
       },
       {
         "@type": "Person",
@@ -69917,7 +69922,7 @@
         ],
         "name": "{rnassqs}: Access the NASS 'Quick Stats' API",
         "url": "https://CRAN.R-project.org/package=rnassqs",
-        "description": "R package version 0.6.3"
+        "description": "R package version 0.6.4"
       }
     ],
     "readme": "https://github.com/ropensci/rnassqs/blob/HEAD/README.md",

@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-11 14:42:59",
+      "date_last_commit": "2025-09-22 06:26:22",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -5141,7 +5141,7 @@
       "url": "https://github.com/ropensci/rnassqs",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-08-29 23:16:15",
+      "date_last_commit": "2025-09-22 01:34:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-21 08:05 UTC"
+  "date": "2025-09-22 08:02 UTC"
 }
