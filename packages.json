@@ -3194,6 +3194,11 @@
     "branch": "main"
   },
   {
+    "package": "ssarp",
+    "url": "https://github.com/ropensci/ssarp",
+    "branch": "main"
+  },
+  {
     "package": "ssh",
     "url": "https://github.com/ropensci/ssh",
     "branch": "master"
