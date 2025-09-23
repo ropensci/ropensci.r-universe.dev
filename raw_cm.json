@@ -3169,7 +3169,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.229",
+    "version": "0.1.2.230",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4216,7 +4216,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.64",
+    "version": "0.2.0.66",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.24",
+    "version": "0.2.1.30",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80914,7 +80914,7 @@
     "codeRepository": "https://github.com/ropensci/tarchetypes",
     "issueTracker": "https://github.com/ropensci/tarchetypes/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.2.9000",
+    "version": "0.13.2.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

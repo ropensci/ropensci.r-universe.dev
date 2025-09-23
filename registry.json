@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-18 12:05:42",
+      "date_last_commit": "2025-09-22 14:04:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-01 12:39:15",
+      "date_last_commit": "2025-09-22 14:43:14",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-22 06:26:22",
+      "date_last_commit": "2025-09-23 07:54:15",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1325,7 +1325,7 @@
       "url": "https://github.com/ropensci/circle",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-09 15:58:39",
+      "date_last_commit": "2025-09-22 18:45:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5083,7 +5083,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-16 09:00:04",
+      "date_last_commit": "2025-09-22 15:06:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6001,7 +6001,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-12 17:49:38",
+      "date_last_commit": "2025-09-22 19:25:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-22 08:02 UTC"
+  "date": "2025-09-23 08:00 UTC"
 }
