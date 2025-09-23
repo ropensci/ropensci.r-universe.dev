@@ -528,7 +528,7 @@
     "metadata": {
       "review": {
         "id": 720,
-        "status": "unknown",
+        "status": "pending",
         "version": "0.0.1",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/720"
