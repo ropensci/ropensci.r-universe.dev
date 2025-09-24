@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.30",
+    "version": "0.2.1.37",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23279,7 +23279,7 @@
     "codeRepository": "https://github.com/ropensci/dataspice",
     "issueTracker": "https://github.com/ropensci/dataspice/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -26586,7 +26586,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["bayesian-inference", "panel-data", "stan", "statistical-models"]
+    "keywords": ["bayesian-inference", "panel-data", "stan", "statistical-models", "quarto"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -44828,7 +44828,7 @@
     "codeRepository": "https://github.com/ropensci/medrxivr",
     "issueTracker": "https://github.com/ropensci/medrxivr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53297,7 +53297,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.9004",
+    "version": "0.3.0.9016",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -78746,6 +78746,389 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "ssarp",
+    "description": "Create Species- and Speciation-Area Relationships using occurrence records or presence-absence matrices.",
+    "name": "ssarp: Species-/Speciation-Area Relationship Projector",
+    "relatedLink": ["https://github.com/ropensci/ssarp", "https://docs.ropensci.org/ssarp"],
+    "codeRepository": "https://github.com/ropensci/ssarp",
+    "issueTracker": "https://github.com/ropensci/ssarp/issues",
+    "license": "https://spdx.org/licenses/GPL-2.0",
+    "version": "0.5.0",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Kristen",
+        "familyName": "Martinet",
+        "email": "kmartinet@outlook.com",
+        "@id": "https://orcid.org/0000-0002-3905-9507"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Luke",
+        "familyName": "Harmon",
+        "@id": "https://orcid.org/0000-0002-4985-5750"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Cristian",
+        "familyName": "Román-Palacios",
+        "@id": "https://orcid.org/0000-0003-1696-4886"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Kristen",
+        "familyName": "Martinet",
+        "email": "kmartinet@outlook.com",
+        "@id": "https://orcid.org/0000-0002-3905-9507"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "version": ">= 1.46",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rgbif",
+        "name": "rgbif",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rgbif"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "BAMMtools",
+        "name": "BAMMtools",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=BAMMtools"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "httptest",
+        "name": "httptest",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httptest"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "spdep",
+        "name": "spdep",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=spdep"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "epm",
+        "name": "epm",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=epm"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "ape",
+        "name": "ape",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ape"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "checkmate",
+        "name": "checkmate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=checkmate"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "Dict",
+        "name": "Dict",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=Dict"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr",
+        "name": "httr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "mapdata",
+        "name": "mapdata",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=mapdata"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "maps",
+        "name": "maps",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=maps"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "reshape2",
+        "name": "reshape2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=reshape2"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "segmented",
+        "name": "segmented",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=segmented"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
+        "identifier": "sf",
+        "name": "sf",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=sf"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
+        "identifier": "stringi",
+        "name": "stringi",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=stringi"
+      },
+      "13": {
+        "@type": "SoftwareApplication",
+        "identifier": "terra",
+        "name": "terra",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=terra"
+      },
+      "14": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.3.0"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "citation": [
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2025",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": ["Kristen", "M."],
+            "familyName": "Martinet"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Cristian",
+            "familyName": "Román-Palacios"
+          },
+          {
+            "@type": "Person",
+            "givenName": ["Luke", "J."],
+            "familyName": "Harmon"
+          }
+        ],
+        "name": "SSARP: An R Package for Easily Creating Species- and Speciation- Area Relationships Using Web Databases",
+        "identifier": "https://doi.org/10.1101/2024.12.31.630948",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.12.31.630948v1",
+        "@id": "https://doi.org/10.1101/2024.12.31.630948",
+        "sameAs": "https://doi.org/10.1101/2024.12.31.630948",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "name": "bioRxiv"
+          }
+        }
+      }
+    ],
+    "readme": "https://github.com/ropensci/ssarp/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/685",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": "https://www.repostatus.org/#active"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "ssh",
     "description": "Connect to a remote server over SSH to transfer files via SCP, setup a secure tunnel, or run a command or script on the host while streaming stdout and stderr directly to the client.",
     "name": "ssh: Secure Shell (SSH) Client for R",
@@ -94951,7 +95334,7 @@
         "@type": "SoftwareApplication",
         "identifier": "tinkr",
         "name": "tinkr",
-        "version": ">= 0.2.0.9001",
+        "version": ">= 0.3.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",

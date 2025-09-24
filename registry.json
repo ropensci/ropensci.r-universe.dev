@@ -186,7 +186,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-23 18:13:25",
+      "date_last_commit": "2025-09-23 14:55:22",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-23 07:54:15",
+      "date_last_commit": "2025-09-24 06:23:24",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1745,7 +1745,7 @@
       "url": "https://github.com/ropensci/dataspice",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2021-05-28 07:39:19",
+      "date_last_commit": "2025-09-23 21:24:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1915,7 +1915,7 @@
       "description": "Bayesian Modeling and Causal Inference for Multivariate\n    Longitudinal Data",
       "details": "Easy-to-use and efficient interface for Bayesian inference of complex panel (time series) data using dynamic multivariate panel models by Helske and Tikka (2024) <doi:10.1016/j.alcr.2024.100617>. The package supports joint modeling of multiple measurements per individual, time-varying and time-invariant effects, and a wide range of discrete and continuous distributions. Estimation of these dynamic multivariate panel models is carried out via 'Stan'. For an in-depth tutorial of the package, see (Tikka and Helske, 2024) <doi:10.48550/arXiv.2302.01607>.",
       "maintainer": "Santtu Tikka",
-      "keywords": "bayesian-inference, panel-data, stan, statistical-models",
+      "keywords": "bayesian-inference, panel-data, quarto, stan, statistical-models",
       "github": "https://github.com/ropensci/dynamite",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/554",
@@ -3203,7 +3203,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-12 19:26:05",
+      "date_last_commit": "2025-09-23 21:44:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3383,7 +3383,7 @@
       "url": "https://github.com/ropensci/medrxivr",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-27 08:01:35",
+      "date_last_commit": "2025-09-24 07:18:06",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3883,7 +3883,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-05 11:52:47",
+      "date_last_commit": "2025-09-23 11:35:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5827,6 +5827,24 @@
       "staff_maintained": false
     },
     {
+      "name": "ssarp",
+      "description": "Species-/Speciation-Area Relationship Projector",
+      "details": "Create Species- and Speciation-Area Relationships using occurrence records or presence-absence matrices.",
+      "maintainer": "Kristen Martinet",
+      "keywords": "",
+      "github": "https://github.com/ropensci/ssarp",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/685",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/ssarp",
+      "date_last_commit": "2025-09-23 21:47:57",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "ssh",
       "description": "Secure Shell (SSH) Client for R",
       "details": "Connect to a remote server over SSH to transfer files via SCP, setup a secure tunnel, or run a command or script on the host while streaming stdout and stderr directly to the client.",
@@ -6961,7 +6979,7 @@
       "url": "https://github.com/ropenscilabs/aeolus",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2025-08-22 13:52:22",
+      "date_last_commit": "2025-09-23 08:16:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7105,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-23 08:00 UTC"
+  "date": "2025-09-24 07:58 UTC"
 }
