@@ -3169,7 +3169,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.230",
+    "version": "0.1.2.233",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4216,7 +4216,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.66",
+    "version": "0.2.0.68",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.37",
+    "version": "0.2.1.42",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -76700,7 +76700,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "extrafont",
-        "name": "extrafont"
+        "name": "extrafont",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=extrafont"
       },
       {
         "@type": "SoftwareApplication",
@@ -81611,7 +81618,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.4.9000",
+    "version": "1.11.4.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
