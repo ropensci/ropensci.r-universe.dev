@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-24 16:52:17",
+      "date_last_commit": "2025-09-25 15:13:06",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3243,7 +3243,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-07 21:51:44",
+      "date_last_commit": "2025-09-25 13:11:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3703,7 +3703,7 @@
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 11:01:41",
+      "date_last_commit": "2025-09-25 13:14:45",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7049,7 +7049,7 @@
       "description": "Transform Google Docs into Quarto Books",
       "details": "Automate the Transformation of a Google Document into a Quarto Book source.",
       "maintainer": "Maëlle Salmon",
-      "keywords": "",
+      "keywords": "quarto",
       "github": "https://github.com/ropenscilabs/quartificate",
       "status": "https://www.repostatus.org#concept",
       "onboarding": "",
@@ -7105,5 +7105,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-25 07:59 UTC"
+  "date": "2025-09-26 08:01 UTC"
 }

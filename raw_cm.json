@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.42",
+    "version": "0.2.1.45",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -96271,7 +96271,8 @@
     },
     "fileSize": "0KB",
     "readme": "https://github.com/ropenscilabs/quartificate/blob/HEAD/README.md",
-    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#experimental"
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#experimental",
+    "keywords": "quarto"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
