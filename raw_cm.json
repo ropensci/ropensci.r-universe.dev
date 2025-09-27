@@ -50403,6 +50403,11 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=taxize"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "waffle",
+        "name": "waffle"
       }
     ],
     "softwareRequirements": {
@@ -50626,11 +50631,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=DBI"
-      },
-      "21": {
-        "@type": "SoftwareApplication",
-        "identifier": "waffle",
-        "name": "waffle"
       },
       "SystemRequirements": null
     },
