@@ -50238,7 +50238,7 @@
     "codeRepository": "https://github.com/ropensci/occCite",
     "issueTracker": "https://github.com/ropensci/occCite/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -50574,18 +50574,6 @@
       },
       "16": {
         "@type": "SoftwareApplication",
-        "identifier": "tidyr",
-        "name": "tidyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=tidyr"
-      },
-      "17": {
-        "@type": "SoftwareApplication",
         "identifier": "RPostgreSQL",
         "name": "RPostgreSQL",
         "provider": {
@@ -50596,7 +50584,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RPostgreSQL"
       },
-      "18": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "RColorBrewer",
         "name": "RColorBrewer",
@@ -50607,6 +50595,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=RColorBrewer"
+      },
+      "18": {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyr",
+        "name": "tidyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
       "19": {
         "@type": "SoftwareApplication",
@@ -50674,7 +50674,7 @@
         "name": "occCite: Querying and Managing Large Biodiversity Occurrence Datasets",
         "identifier": "10.5281/zenodo.4726676",
         "url": "https://CRAN.R-project.org/package=occCite",
-        "description": "R package version 0.6.0",
+        "description": "R package version 0.6.1",
         "@id": "https://doi.org/10.5281/zenodo.4726676",
         "sameAs": "https://doi.org/10.5281/zenodo.4726676"
       }
