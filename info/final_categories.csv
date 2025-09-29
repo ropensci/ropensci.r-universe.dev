@@ -141,6 +141,7 @@ GSODR,data-access,FALSE
 gtexr,data-access,FALSE
 gutenbergr,data-access,FALSE
 handlr,literature,FALSE
+hdcuremodels,stat,FALSE
 hddtools,data-access,FALSE
 helminthR,data-access,FALSE
 historydata,data-access,FALSE
@@ -254,6 +255,7 @@ riem,data-access,FALSE
 rinat,data-access,FALSE
 ritis,taxonomy,FALSE
 rix,scalereprod,FALSE
+rixpress,scalereprod,FALSE
 rmangal,data-access,FALSE
 rnassqs,data-access,FALSE
 rnaturalearth,geospatial,FALSE
@@ -290,6 +292,7 @@ spatsoc,geospatial,FALSE
 spelling,data-extraction,FALSE
 spiro,data-extraction,FALSE
 spocc,data-access,FALSE
+ssarp,scalereprod,FALSE
 ssh,security,FALSE
 stantargets,scalereprod,FALSE
 stats19,data-access,FALSE
