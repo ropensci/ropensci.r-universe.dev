@@ -41380,12 +41380,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -50333,18 +50327,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "knitr",
-        "name": "knitr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
         "provider": {
@@ -50357,15 +50339,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
+        "identifier": "knitr",
+        "name": "knitr",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
       },
       {
         "@type": "SoftwareApplication",
@@ -50381,15 +50363,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
       },
       {
         "@type": "SoftwareApplication",
@@ -50406,6 +50388,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "waffle",
         "name": "waffle"
       }
@@ -50419,18 +50413,6 @@
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "bib2df",
-        "name": "bib2df",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=bib2df"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
         "identifier": "BIEN",
         "name": "BIEN",
         "provider": {
@@ -50441,61 +50423,19 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=BIEN"
       },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "DBI",
+        "name": "DBI",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=DBI"
+      },
       "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "curl",
-        "name": "curl",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=curl"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "dplyr",
-        "name": "dplyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dplyr"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "lubridate",
-        "name": "lubridate",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lubridate"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
-        "identifier": "methods",
-        "name": "methods"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
-        "identifier": "rgbif",
-        "name": "rgbif",
-        "version": ">= 3.1",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rgbif"
-      },
-      "9": {
         "@type": "SoftwareApplication",
         "identifier": "RefManageR",
         "name": "RefManageR",
@@ -50507,22 +50447,89 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RefManageR"
       },
-      "10": {
+      "5": {
         "@type": "SoftwareApplication",
-        "identifier": "stringr",
-        "name": "stringr",
+        "identifier": "RColorBrewer",
+        "name": "RColorBrewer",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=stringr"
+        "sameAs": "https://CRAN.R-project.org/package=RColorBrewer"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "RPostgreSQL",
+        "name": "RPostgreSQL",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=RPostgreSQL"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "bib2df",
+        "name": "bib2df",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=bib2df"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "ggplot2",
+        "name": "ggplot2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
       },
       "11": {
         "@type": "SoftwareApplication",
-        "identifier": "stats",
-        "name": "stats"
+        "identifier": "htmltools",
+        "name": "htmltools",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=htmltools"
       },
       "12": {
         "@type": "SoftwareApplication",
@@ -50538,29 +50545,35 @@
       },
       "13": {
         "@type": "SoftwareApplication",
-        "identifier": "htmltools",
-        "name": "htmltools",
+        "identifier": "lubridate",
+        "name": "lubridate",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=htmltools"
+        "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
       "14": {
         "@type": "SoftwareApplication",
-        "identifier": "ggplot2",
-        "name": "ggplot2",
+        "identifier": "methods",
+        "name": "methods"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "rgbif",
+        "name": "rgbif",
+        "version": ">= 3.1",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
+        "sameAs": "https://CRAN.R-project.org/package=rgbif"
       },
-      "15": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -50572,31 +50585,24 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "16": {
-        "@type": "SoftwareApplication",
-        "identifier": "RPostgreSQL",
-        "name": "RPostgreSQL",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=RPostgreSQL"
-      },
       "17": {
         "@type": "SoftwareApplication",
-        "identifier": "RColorBrewer",
-        "name": "RColorBrewer",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "18": {
+        "@type": "SoftwareApplication",
+        "identifier": "stringr",
+        "name": "stringr",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=RColorBrewer"
+        "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "18": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -50608,7 +50614,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
       },
-      "19": {
+      "20": {
         "@type": "SoftwareApplication",
         "identifier": "viridis",
         "name": "viridis",
@@ -50619,18 +50625,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=viridis"
-      },
-      "20": {
-        "@type": "SoftwareApplication",
-        "identifier": "DBI",
-        "name": "DBI",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=DBI"
       },
       "SystemRequirements": null
     },
