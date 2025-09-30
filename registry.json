@@ -5093,7 +5093,7 @@
     {
       "name": "rixpress",
       "description": "Build Reproducible Analytical Pipelines with Nix",
-      "details": "Streamlines the creation of reproducible analytical pipelines using 'default.nix' expressions generated via 'rix' for reproducibility. Define derivations in R, Python or Julia, chain them into a composition of pure functions and build the resulting pipeline using 'Nix' as the underlying end-to-end build tool. Functions to plot a DAG representation of the pipeline are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the 'targets' package.",
+      "details": "Streamlines the creation of reproducible analytical pipelines using 'default.nix' expressions generated via the 'rix' package for reproducibility. Define derivations in 'R', 'Python' or 'Julia', chain them into a composition of pure functions and build the resulting pipeline using 'Nix' as the underlying end-to-end build tool. Functions to plot the pipeline as a directed acyclic graph are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the 'targets' package.",
       "maintainer": "Bruno Rodrigues",
       "keywords": "",
       "github": "https://github.com/ropensci/rixpress",
@@ -5105,7 +5105,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-20 18:55:21",
+      "date_last_commit": "2025-09-30 07:56:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-30 07:29 UTC"
+  "date": "2025-09-30 08:02 UTC"
 }
