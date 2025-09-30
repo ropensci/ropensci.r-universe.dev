@@ -31522,7 +31522,7 @@
     "codeRepository": "https://github.com/ropensci/fireexposuR",
     "issueTracker": "https://github.com/ropensci/fireexposuR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.1.0.9002",
+    "version": "1.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -50239,6 +50239,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -67375,7 +67381,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.3",
+    "version": "3.8.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67773,7 +67779,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.3"
+        "description": "R package version 3.8.3.1"
       },
       {
         "@type": "ScholarlyArticle",

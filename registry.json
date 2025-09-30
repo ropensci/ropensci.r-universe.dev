@@ -2325,7 +2325,7 @@
       "url": "https://github.com/ropensci/fireexposuR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-19 18:42:24",
+      "date_last_commit": "2025-09-29 17:58:07",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2823,6 +2823,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/hdcuremodels",
+      "ropensci_category": "stat",
+      "ropenscilabs": false,
       "date_last_commit": "2025-09-19 13:57:24",
       "github_archived": false,
       "cran_archived": false,
@@ -3697,15 +3699,15 @@
       "github": "https://github.com/ropensci/occCite",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/407",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/occCite",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-29 07:45:56",
+      "date_last_commit": "2025-09-29 09:40:12",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -4943,7 +4945,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-08 10:00:58",
+      "date_last_commit": "2025-09-29 12:12:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5083,7 +5085,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-22 15:06:36",
+      "date_last_commit": "2025-09-29 15:53:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5101,6 +5103,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rixpress",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2025-09-20 18:55:21",
       "github_archived": false,
       "cran_archived": false,
@@ -5701,7 +5705,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-12 11:05:07",
+      "date_last_commit": "2025-09-29 12:35:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5839,7 +5843,9 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/ssarp",
-      "date_last_commit": "2025-09-23 21:47:57",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
+      "date_last_commit": "2025-09-29 22:26:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5879,7 +5885,7 @@
       "url": "https://github.com/ropensci/stantargets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-14 19:41:03",
+      "date_last_commit": "2025-09-29 15:54:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5899,7 +5905,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-14 13:14:08",
+      "date_last_commit": "2025-09-29 10:30:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7105,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-09-29 08:02 UTC"
+  "date": "2025-09-30 07:29 UTC"
 }
