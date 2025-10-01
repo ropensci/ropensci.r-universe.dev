@@ -68947,7 +68947,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.17.2",
+    "version": "0.17.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -69137,7 +69137,7 @@
     "@type": "SoftwareSourceCode",
     "identifier": "rixpress",
     "description": "Streamlines the creation of reproducible analytical pipelines using 'default.nix' expressions generated via the 'rix' package for reproducibility. Define derivations in 'R', 'Python' or 'Julia', chain them into a composition of pure functions and build the resulting pipeline using 'Nix' as the underlying end-to-end build tool. Functions to plot the pipeline as a directed acyclic graph are included, as well as functions to load and inspect intermediary results for interactive analysis. User experience heavily inspired by the 'targets' package.",
-    "name": "rixpress: Build Reproducible Analytical Pipelines with Nix",
+    "name": "rixpress: Build Reproducible Analytical Pipelines with 'Nix'",
     "relatedLink": ["https://github.com/ropensci/rixpress/", "https://docs.ropensci.org/rixpress/"],
     "codeRepository": "https://github.com/ropensci/rixpress",
     "issueTracker": "https://github.com/ropensci/rixpress/issues/",
@@ -81618,7 +81618,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.4.9001",
+    "version": "1.11.4.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
