@@ -4866,7 +4866,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.45",
+    "version": "0.2.1.49",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6496,7 +6496,7 @@
     "codeRepository": "https://github.com/ropensci-training/saperlipopette",
     "issueTracker": "https://github.com/ropensci-training/saperlipopette/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.0.9000",
+    "version": "0.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -31529,6 +31529,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -69142,7 +69148,7 @@
     "codeRepository": "https://github.com/ropensci/rixpress",
     "issueTracker": "https://github.com/ropensci/rixpress/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -77897,7 +77903,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.10",
+    "version": "0.2.11.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -78064,13 +78070,14 @@
         "@type": "SoftwareApplication",
         "identifier": "lwgeom",
         "name": "lwgeom",
+        "version": ">= 0.2.15",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=lwgeom"
+        "sameAs": "https://github.com/r-spatial/lwgeom"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -79955,6 +79962,54 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=covr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "readODS",
+        "name": "readODS",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=readODS"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "gt",
+        "name": "gt",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gt"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "clock",
+        "name": "clock",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=clock"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "reshape2",
+        "name": "reshape2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=reshape2"
       }
     ],
     "softwareRequirements": {
