@@ -77903,7 +77903,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.11.9000",
+    "version": "0.2.11.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
