@@ -64214,7 +64214,7 @@
     "codeRepository": "https://github.com/ropensci/readODS",
     "issueTracker": "https://github.com/ropensci/readODS/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.3.3",
+    "version": "2.3.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -64322,6 +64322,12 @@
         "givenName": "Till",
         "familyName": "Straube",
         "email": "straube@geo.uni-frankfurt.de"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Mauricio",
+        "familyName": "Vargas Sepulveda",
+        "email": "m.vargas.sepulveda@gmail.com"
       },
       {
         "@type": "Person",
