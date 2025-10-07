@@ -22204,7 +22204,7 @@
     "codeRepository": "https://github.com/ropensci/datapack",
     "issueTracker": "https://github.com/ropensci/datapack/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -22222,20 +22222,24 @@
         "@type": "Person",
         "givenName": "Matthew B.",
         "familyName": "Jones",
-        "email": "jones@nceas.ucsb.edu"
+        "email": "jones@nceas.ucsb.edu",
+        "@id": "https://orcid.org/0000-0003-0077-4738"
       },
       {
         "@type": "Person",
         "givenName": "Peter",
         "familyName": "Slaughter",
-        "email": "slaughter@nceas.ucsb.edu"
+        "email": "slaughter@nceas.ucsb.edu",
+        "@id": "https://orcid.org/0000-0002-2192-403X"
       }
     ],
     "contributor": [
       {
-        "@type": "Organization",
-        "name": "S. Jeanette Clark",
-        "email": "jclark@nceas.ucsb.edu"
+        "@type": "Person",
+        "givenName": "Jeanette",
+        "familyName": "Clark",
+        "email": "jclark@nceas.ucsb.edu",
+        "@id": "https://orcid.org/0000-0003-4703-1974"
       }
     ],
     "copyrightHolder": [
@@ -22249,7 +22253,8 @@
         "@type": "Person",
         "givenName": "Matthew B.",
         "familyName": "Jones",
-        "email": "jones@nceas.ucsb.edu"
+        "email": "jones@nceas.ucsb.edu",
+        "@id": "https://orcid.org/0000-0003-0077-4738"
       }
     ],
     "softwareSuggestions": [
@@ -22410,7 +22415,7 @@
     "citation": [
       {
         "@type": "SoftwareSourceCode",
-        "datePublished": "2022",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -22428,7 +22433,7 @@
         "name": "{datapack}: A Flexible Container to Transport and Manipulate Data and Associated Resources",
         "identifier": "10.5063/F1QV3JGM",
         "url": "https://github.com/ropensci/datapack",
-        "description": "R package version 1.4.1",
+        "description": "R package version 1.4.2",
         "@id": "https://doi.org/10.5063/F1QV3JGM",
         "sameAs": "https://doi.org/10.5063/F1QV3JGM"
       }
@@ -79708,6 +79713,13 @@
         "givenName": "Mark",
         "familyName": "Padgham",
         "@id": "https://orcid.org/0000-0003-2172-5265"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Blaise",
+        "familyName": "Kelly",
+        "email": "blaise@kello.co.uk",
+        "@id": "https://orcid.org/0000-0003-2623-1598"
       }
     ],
     "contributor": [
@@ -88257,9 +88269,9 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "treedata.table",
-    "description": "An implementation that combines trait data and a phylogenetic tree (or trees) into a single object of class treedata.table. The resulting object can be easily manipulated to simultaneously change the trait- and tree-level sampling. Currently implemented functions allow users to use a 'data.table' syntax when performing operations on the trait dataset within the treedata.table object.",
+    "description": "An implementation that combines trait data and a phylogenetic tree (or trees) into a single object of class 'treedata.table'. The resulting object can be easily manipulated to simultaneously change the trait- and tree-level sampling. Currently implemented functions allow users to use a 'data.table' syntax when performing operations on the trait dataset within the 'treedata.table' object. For more details see Roman-Palacios et al. (2021) <doi:10.7717/peerj.12450>.",
     "name": "treedata.table: Manipulation of Matched Phylogenies and Data using 'data.table'",
-    "relatedLink": ["https://ropensci.github.io/treedata.table", "https://docs.ropensci.org/treedata.table/", "https://github.com/ropensci/treedata.table/"],
+    "relatedLink": ["https://ropensci.github.io/treedata.table/", "https://docs.ropensci.org/treedata.table/", "https://github.com/ropensci/treedata.table/"],
     "codeRepository": "https://github.com/ropensci/treedata.table",
     "issueTracker": "https://github.com/ropensci/treedata.table/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -88282,8 +88294,8 @@
         "@type": "Person",
         "givenName": "Cristian",
         "familyName": "Roman-Palacios",
-        "email": "cromanpa94@email.arizona.edu",
-        "@id": "https://orcid.org/0000-0003-4692-3225"
+        "email": "cromanpa@arizona.edu",
+        "@id": "https://orcid.org/0000-0003-1696-4886"
       },
       {
         "@type": "Person",
@@ -88305,8 +88317,8 @@
         "@type": "Person",
         "givenName": "Cristian",
         "familyName": "Roman-Palacios",
-        "email": "cromanpa94@email.arizona.edu",
-        "@id": "https://orcid.org/0000-0003-4692-3225"
+        "email": "cromanpa@arizona.edu",
+        "@id": "https://orcid.org/0000-0003-1696-4886"
       }
     ],
     "softwareSuggestions": [

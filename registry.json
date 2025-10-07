@@ -1665,7 +1665,7 @@
       "url": "https://github.com/ropensci/datapack",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-03 23:24:05",
+      "date_last_commit": "2025-10-06 23:06:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5905,7 +5905,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 16:47:04",
+      "date_last_commit": "2025-10-07 04:15:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6453,7 +6453,7 @@
     {
       "name": "treedata.table",
       "description": "Manipulation of Matched Phylogenies and Data using 'data.table'",
-      "details": "An implementation that combines trait data and a phylogenetic tree (or trees) into a single object of class treedata.table. The resulting object can be easily manipulated to simultaneously change the trait- and tree-level sampling. Currently implemented functions allow users to use a 'data.table' syntax when performing operations on the trait dataset within the treedata.table object.",
+      "details": "An implementation that combines trait data and a phylogenetic tree (or trees) into a single object of class 'treedata.table'. The resulting object can be easily manipulated to simultaneously change the trait- and tree-level sampling. Currently implemented functions allow users to use a 'data.table' syntax when performing operations on the trait dataset within the 'treedata.table' object. For more details see Roman-Palacios et al. (2021) <doi:10.7717/peerj.12450>.",
       "maintainer": "Cristian Roman-Palacios",
       "keywords": "",
       "github": "https://github.com/ropensci/treedata.table",
@@ -6465,7 +6465,7 @@
       "url": "https://github.com/ropensci/treedata.table",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2021-09-10 21:06:39",
+      "date_last_commit": "2025-10-06 16:34:08",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-06 07:59 UTC"
+  "date": "2025-10-07 07:58 UTC"
 }
