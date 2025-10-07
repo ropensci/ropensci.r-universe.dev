@@ -2253,7 +2253,7 @@
     "metadata": {
       "review": {
         "id": 703,
-        "status": "pending",
+        "status": "reviewed",
         "version": "0.0.1",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/703"
