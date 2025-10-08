@@ -186,7 +186,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-23 14:55:22",
+      "date_last_commit": "2025-10-08 07:11:53",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 06:54:14",
+      "date_last_commit": "2025-10-07 10:25:34",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 16:47:06",
+      "date_last_commit": "2025-10-07 10:46:21",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-12 09:07:04",
+      "date_last_commit": "2025-10-07 10:02:26",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2365,7 +2365,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-19 12:02:47",
+      "date_last_commit": "2025-10-07 09:24:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2485,7 +2485,7 @@
       "url": "https://github.com/ropensci/geotargets",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-06 00:17:09",
+      "date_last_commit": "2025-10-07 23:17:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3925,7 +3925,7 @@
       "url": "https://github.com/ropensci/osmplotr",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-19 12:31:50",
+      "date_last_commit": "2025-10-07 14:24:31",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4006,6 +4006,24 @@
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
       "date_last_commit": "2025-04-09 07:21:21",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "partialling.out",
+      "description": "Residuals from partial regressions",
+      "details": "Creates a data frame with the residuals of partial regressions of the main explanatory variable and the variable of interest. This method follows the Frisch-Waugh-Lovell theorem, as explained in Lovell (2008) <doi:10.3200/JECE.39.1.88-91>.",
+      "maintainer": "Marc Bosch-Matas",
+      "keywords": "",
+      "github": "https://github.com/ropensci/partialling.out",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/703",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/partialling.out",
+      "date_last_commit": "2025-10-07 15:24:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4385,7 +4403,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 17:48:49",
+      "date_last_commit": "2025-10-07 22:12:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5085,7 +5103,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-30 09:55:04",
+      "date_last_commit": "2025-10-07 14:20:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5099,13 +5117,13 @@
       "github": "https://github.com/ropensci/rixpress",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/706",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 19:03:22",
+      "date_last_commit": "2025-10-07 20:13:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6325,7 +6343,7 @@
       "url": "https://github.com/ropensci/tiler",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-11 21:16:10",
+      "date_last_commit": "2025-10-07 21:45:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6545,7 +6563,7 @@
       "url": "https://github.com/ropensci/UCSCXenaTools",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-04 04:02:32",
+      "date_last_commit": "2025-10-07 15:55:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6825,7 +6843,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-19 07:35:04",
+      "date_last_commit": "2025-10-08 06:57:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7129,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-07 07:58 UTC"
+  "date": "2025-10-08 07:58 UTC"
 }
