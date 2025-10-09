@@ -80003,13 +80003,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "stats19",
-    "description": "Tools to help download, process and analyse the UK road collision data collected using the 'STATS19' form. The datasets are provided as 'CSV' files with detailed road safety information about the circumstances of car crashes and other incidents on the roads resulting in casualties in Great Britain from 1979 to present. Tables are available on 'colissions' with the circumstances (e.g. speed limit of road), information about 'vehicles' involved (e.g. type of vehicle), and 'casualties' (e.g. age). The statistics relate only to events on public roads that were reported to the police, and subsequently recorded, using the 'STATS19' collision reporting form. See the Department for Transport website <https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data> for more information on these datasets. The package is described in a paper in the Journal of Open Source Software (Lovelace et al. 2019) <doi:10.21105/joss.01181>. See Gilardi et al. (2022) <doi:10.1111/rssa.12823>, Vidal-Tortosa et al. (2021) <doi:10.1016/j.jth.2021.101291>, and Tait et al. (2023) <doi:10.1016/j.aap.2022.106895> for examples of how the data can be used for methodological and empirical road safety research.",
+    "description": "Work with and download road traffic casualty data from Great Britain. Enables access to the UK's official road safety statistics, 'STATS19'. Enables users to specify a download directory for the data, which can be set permanently by adding `STATS19_DOWNLOAD_DIRECTORY=/path/to/a/dir` to your `.Renviron` file, which can be opened with `usethis::edit_r_environ()`. The data is provided as a series of `.csv` files. This package downloads, reads-in and formats the data, making it suitable for analysis. See the stats19 vignette for details. Data available from 1979 to 2024. See the official data series at <https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data>. The package is described in a paper in the Journal of Open Source Software (Lovelace et al. 2019) <doi:10.21105/joss.01181>. See Gilardi et al. (2022) <doi:10.1111/rssa.12823>, Vidal-Tortosa et al. (2021) <doi:10.1016/j.jth.2021.101291>, Tait et al. (2023) <doi:10.1016/j.aap.2022.106895>, and León et al. (2025) <doi:10.18637/jss.v114.i09> for examples of how the data can be used for methodological and empirical research.",
     "name": "stats19: Work with Open Road Traffic Casualty Data from Great Britain",
     "relatedLink": ["https://github.com/ropensci/stats19", "https://docs.ropensci.org/stats19/"],
     "codeRepository": "https://github.com/ropensci/stats19",
     "issueTracker": "https://github.com/ropensci/stats19/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "3.3.1",
+    "version": "3.4.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80089,31 +80089,6 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
-        "identifier": "curl",
-        "name": "curl",
-        "version": ">= 3.2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=curl"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "dplyr",
-        "name": "dplyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dplyr"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "ggplot2",
         "name": "ggplot2",
         "provider": {
@@ -80135,18 +80110,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "lubridate",
-        "name": "lubridate",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
       {
         "@type": "SoftwareApplication",
@@ -80271,18 +80234,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "jsonlite",
-        "name": "jsonlite",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "spatstat.geom",
         "name": "spatstat.geom",
         "provider": {
@@ -80352,18 +80303,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=clock"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "reshape2",
-        "name": "reshape2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=reshape2"
       }
     ],
     "softwareRequirements": {
@@ -80392,6 +80331,19 @@
       },
       "4": {
         "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "version": ">= 3.2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
         "provider": {
@@ -80402,10 +80354,41 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
-        "identifier": "tools",
-        "name": "tools"
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "lubridate",
+        "name": "lubridate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lubridate"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
       "SystemRequirements": null
     },
