@@ -3193,7 +3193,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.234",
+    "version": "0.1.2.235",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55234,7 +55234,7 @@
     "identifier": "partialling.out",
     "description": "Creates a data frame with the residuals of partial regressions of the main explanatory variable and the variable of interest. This method follows the Frisch-Waugh-Lovell theorem, as explained in Lovell (2008) <doi:10.3200/JECE.39.1.88-91>.",
     "name": "partialling.out: Residuals from partial regressions",
-    "relatedLink": "https://github.com/ropensci/partialling.out",
+    "relatedLink": ["https://docs.ropensci.org/partialling.out", "https://github.com/ropensci/partialling.out"],
     "codeRepository": "https://github.com/ropensci/partialling.out",
     "issueTracker": "https://github.com/ropensci/partialling.out/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
@@ -83407,7 +83407,7 @@
     "identifier": "taxize",
     "description": "Interacts with a suite of web application programming interfaces (API) for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. Some of the services supported include 'NCBI E-utilities' (<https://www.ncbi.nlm.nih.gov/books/NBK25501/>), 'Encyclopedia of Life' (<https://eol.org/docs/what-is-eol/data-services>), 'Global Biodiversity Information Facility' (<https://techdocs.gbif.org/en/openapi/>), and many more. Links to the API documentation for other supported services are available in the documentation for their respective functions in this package.",
     "name": "taxize: Taxonomic Information from Around the Web",
-    "relatedLink": ["https://docs.ropensci.org/taxize/", "https://github.com/ropensci/taxize", "https://taxize.dev"],
+    "relatedLink": ["https://docs.ropensci.org/taxize/", "https://github.com/ropensci/taxize"],
     "codeRepository": "https://github.com/ropensci/taxize",
     "issueTracker": "https://github.com/ropensci/taxize/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -88601,6 +88601,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
