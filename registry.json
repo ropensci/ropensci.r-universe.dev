@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-10 07:32:18",
+      "date_last_commit": "2025-10-10 08:57:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1653,7 +1653,7 @@
     {
       "name": "datapack",
       "description": "A Flexible Container to Transport and Manipulate Data and Associated\n    Resources",
-      "details": "Provides a flexible container to transport and manipulate complex sets of data. These data may consist of multiple data files and associated meta data and ancillary files. Individual data objects have associated system level meta data, and data files are linked together using the OAI-ORE standard resource map which describes the relationships between the files. The OAI- ORE standard is described at <https://www.openarchives.org/ore/>. Data packages can be serialized and transported as structured files that have been created following the BagIt specification. The BagIt specification is described at <https://tools.ietf.org/html/draft-kunze-bagit-08>.",
+      "details": "Provides a flexible container to transport and manipulate complex sets of data. These data may consist of multiple data files and associated meta data and ancillary files. Individual data objects have associated system level meta data, and data files are linked together using the OAI-ORE standard resource map which describes the relationships between the files. The OAI- ORE standard is described at <https://www.openarchives.org/ore/>. Data packages can be serialized and transported as structured files that have been created following the BagIt specification. The BagIt specification is described at <https://datatracker.ietf.org/doc/html/draft-kunze-bagit-08>.",
       "maintainer": "Matthew B. Jones",
       "keywords": "",
       "github": "https://github.com/ropensci/datapack",
@@ -1665,7 +1665,7 @@
       "url": "https://github.com/ropensci/datapack",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-06 23:06:34",
+      "date_last_commit": "2025-10-10 00:00:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5563,7 +5563,7 @@
       "url": "https://github.com/ropensci/rtika",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2023-05-04 22:09:30",
+      "date_last_commit": "2025-10-11 04:41:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5863,7 +5863,7 @@
       "url": "https://github.com/ropensci/ssarp",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-09 22:19:04",
+      "date_last_commit": "2025-10-10 22:31:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7129,5 +7129,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-10 07:58 UTC"
+  "date": "2025-10-11 08:01 UTC"
 }
