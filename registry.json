@@ -4023,7 +4023,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/partialling.out",
-      "date_last_commit": "2025-10-10 06:46:51",
+      "date_last_commit": "2025-10-11 19:27:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5563,7 +5563,7 @@
       "url": "https://github.com/ropensci/rtika",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-11 04:41:55",
+      "date_last_commit": "2025-10-11 15:10:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7129,5 +7129,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-11 08:01 UTC"
+  "date": "2025-10-12 07:58 UTC"
 }
