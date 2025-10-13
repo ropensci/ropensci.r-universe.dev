@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-11 07:11:25",
+      "date_last_commit": "2025-10-13 07:26:03",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4012,7 +4012,7 @@
     },
     {
       "name": "partialling.out",
-      "description": "Residuals from partial regressions",
+      "description": "Residuals from Partial Regressions",
       "details": "Creates a data frame with the residuals of partial regressions of the main explanatory variable and the variable of interest. This method follows the Frisch-Waugh-Lovell theorem, as explained in Lovell (2008) <doi:10.3200/JECE.39.1.88-91>.",
       "maintainer": "Marc Bosch-Matas",
       "keywords": "",
@@ -4023,7 +4023,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/partialling.out",
-      "date_last_commit": "2025-10-11 19:27:22",
+      "date_last_commit": "2025-10-12 18:39:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5563,7 +5563,7 @@
       "url": "https://github.com/ropensci/rtika",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-11 15:10:35",
+      "date_last_commit": "2025-10-12 13:59:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7129,5 +7129,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-12 07:58 UTC"
+  "date": "2025-10-13 08:02 UTC"
 }
