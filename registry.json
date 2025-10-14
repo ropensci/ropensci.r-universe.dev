@@ -2365,7 +2365,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 09:24:01",
+      "date_last_commit": "2025-10-13 14:28:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3885,7 +3885,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-23 11:35:14",
+      "date_last_commit": "2025-10-13 16:42:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5103,7 +5103,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 14:20:35",
+      "date_last_commit": "2025-10-13 16:00:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5386,26 +5386,6 @@
       "date_last_commit": "2024-10-31 19:51:49",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
-      "name": "rppo",
-      "description": "Access the Global Plant Phenology Data Portal",
-      "details": "Search plant phenology data aggregated from several sources and available on the Global Plant Phenology Data Portal. ",
-      "maintainer": "John Deck",
-      "keywords": "peer-reviewed",
-      "github": "https://github.com/ropensci/rppo",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/207",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/rppo",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2023-06-22 17:12:47",
-      "github_archived": false,
-      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -5863,7 +5843,7 @@
       "url": "https://github.com/ropensci/ssarp",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-10 22:31:19",
+      "date_last_commit": "2025-10-13 21:49:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6632,7 +6612,7 @@
       "name": "USAboundaries",
       "description": "Historical and Contemporary Boundaries of the United States of America",
       "details": "The boundaries for geographical units in the United States of America contained in this package include state, county, congressional district, and zip code tabulation area. Contemporary boundaries are provided by the U.S. Census Bureau (public domain). Historical boundaries for the years from 1629 to 2000 are provided form the Newberry Library's 'Atlas of Historical County Boundaries' (licensed CC BY-NC-SA). Additional data is provided in the 'USAboundariesData' package; this package provides an interface to access that data.",
-      "maintainer": "Lincoln Mullen",
+      "maintainer": "Jacci Ziebert",
       "keywords": "digital-history, history, spatial-data",
       "github": "https://github.com/ropensci/USAboundaries",
       "status": "https://www.repostatus.org#active",
@@ -6643,7 +6623,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2021-10-12 14:59:19",
+      "date_last_commit": "2025-10-13 21:54:11",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6652,7 +6632,7 @@
       "name": "USAboundariesData",
       "description": "Datasets for the 'USAboundaries' package",
       "details": "Contains datasets, including higher resolution boundary data, for use in the 'USAboundaries' package. These datasets come from the U.S. Census Bureau, the Newberry Library's 'Historical Atlas of U.S. County Boundaries', and Erik Steiner's 'United States Historical City Populations, 1790-2010'.",
-      "maintainer": "Lincoln Mullen",
+      "maintainer": "Jacci Ziebert",
       "keywords": "",
       "github": "https://github.com/ropensci/USAboundariesData",
       "status": "https://www.repostatus.org#active",
@@ -6663,7 +6643,7 @@
       "url": "https://github.com/ropensci/USAboundariesData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2021-10-08 17:42:54",
+      "date_last_commit": "2025-10-13 21:36:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7129,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-13 08:02 UTC"
+  "date": "2025-10-14 08:01 UTC"
 }
