@@ -1205,7 +1205,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-21 09:26:27",
+      "date_last_commit": "2025-10-14 12:32:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2365,7 +2365,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 14:28:52",
+      "date_last_commit": "2025-10-14 14:23:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3885,7 +3885,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 16:42:49",
+      "date_last_commit": "2025-10-14 15:48:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4403,7 +4403,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 22:12:23",
+      "date_last_commit": "2025-10-14 16:49:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5103,7 +5103,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 16:00:11",
+      "date_last_commit": "2025-10-14 15:22:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5123,7 +5123,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 20:13:32",
+      "date_last_commit": "2025-10-14 13:35:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-14 08:01 UTC"
+  "date": "2025-10-15 07:57 UTC"
 }

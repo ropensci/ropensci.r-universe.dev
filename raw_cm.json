@@ -32212,16 +32212,12 @@
     "fileSize": "NAKB",
     "citation": [
       {
-        "@type": "SoftwareSourceCode",
+        "@type": "ScholarlyArticle",
         "datePublished": "2025",
         "author": [
           {
             "@type": "Organization",
             "name": "Casajus Nicolas"
-          },
-          {
-            "@type": "Organization",
-            "name": "Greco Mattia"
           },
           {
             "@type": "Organization",
@@ -32234,11 +32230,26 @@
           {
             "@type": "Organization",
             "name": "de Garidel-Thoron Thibault"
+          },
+          {
+            "@type": "Organization",
+            "name": "Greco Mattia"
           }
         ],
-        "name": "forcis: {H}andle the {FORCIS} {F}oraminifera {D}atabase",
-        "url": "https://docs.ropensci.org/forcis/",
-        "description": "R package version 1.0.1"
+        "name": "forcis: {A}n {R} package for accessing, handling and analysing the {FORCIS} database",
+        "identifier": "10.21105/joss.09217",
+        "pagination": "9217",
+        "@id": "https://doi.org/10.21105/joss.09217",
+        "sameAs": "https://doi.org/10.21105/joss.09217",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "10",
+            "name": "Journal of Open Source Software"
+          }
+        }
       },
       {
         "@type": "ScholarlyArticle",
@@ -53344,7 +53355,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.9017",
+    "version": "0.3.0.9018",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
