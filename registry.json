@@ -5103,7 +5103,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-14 15:22:42",
+      "date_last_commit": "2025-10-15 09:46:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5763,7 +5763,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-03 15:05:49",
+      "date_last_commit": "2025-10-15 20:04:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5903,7 +5903,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-08 15:20:45",
+      "date_last_commit": "2025-10-16 00:41:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-15 07:57 UTC"
+  "date": "2025-10-16 07:58 UTC"
 }
