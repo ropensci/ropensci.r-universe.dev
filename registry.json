@@ -726,7 +726,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-25 16:32:40",
+      "date_last_commit": "2025-10-18 19:20:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3765,7 +3765,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-24 17:51:22",
+      "date_last_commit": "2025-10-18 13:21:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-18 07:57 UTC"
+  "date": "2025-10-19 07:58 UTC"
 }

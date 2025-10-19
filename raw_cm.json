@@ -10572,7 +10572,7 @@
     "codeRepository": "https://github.com/ropensci/av",
     "issueTracker": "https://github.com/ropensci/av/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.9.5",
+    "version": "0.9.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
