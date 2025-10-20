@@ -726,7 +726,7 @@
       "url": "https://github.com/ropensci/av",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-18 19:20:55",
+      "date_last_commit": "2025-10-19 08:27:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-19 07:58 UTC"
+  "date": "2025-10-20 07:58 UTC"
 }
