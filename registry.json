@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 07:26:03",
+      "date_last_commit": "2025-10-21 13:34:52",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -5123,7 +5123,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-14 13:35:31",
+      "date_last_commit": "2025-10-21 15:24:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5763,7 +5763,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-15 20:04:25",
+      "date_last_commit": "2025-10-21 18:39:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6023,7 +6023,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-22 19:25:54",
+      "date_last_commit": "2025-10-21 19:56:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-21 08:01 UTC"
+  "date": "2025-10-22 07:57 UTC"
 }
