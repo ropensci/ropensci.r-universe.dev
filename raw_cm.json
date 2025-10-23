@@ -11689,13 +11689,27 @@
         "@type": "SoftwareApplication",
         "identifier": "warbleR",
         "name": "warbleR",
-        "version": ">= 1.1.32"
+        "version": ">= 1.1.32",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=warbleR"
       },
       "15": {
         "@type": "SoftwareApplication",
         "identifier": "ohun",
         "name": "ohun",
-        "version": ">= 1.0.2"
+        "version": ">= 1.0.2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ohun"
       },
       "SystemRequirements": null
     },
@@ -35671,13 +35685,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "googleLanguageR",
-    "description": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech-to-text> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech> to turn text into sound files.",
-    "name": "googleLanguageR: Call Google's 'Natural Language' API, 'Cloud Translation' API, \n  'Cloud Speech' API and 'Cloud Text-to-Speech' API",
-    "relatedLink": ["https://github.com/ropensci/googleLanguageR", "https://docs.ropensci.org/googleLanguageR/"],
+    "description": "Access Google Cloud machine learning APIs for text and speech tasks. Use the Cloud Translation API for text detection and translation, the Natural Language API to analyze sentiment, entities, and syntax, the Cloud Speech API to transcribe audio to text, and the Cloud Text-to-Speech API to synthesize text into audio files.",
+    "name": "googleLanguageR: Call Google's 'Natural Language', 'Cloud Translation', 'Cloud\n        Speech', and 'Cloud Text-to-Speech' APIs",
+    "relatedLink": "https://github.com/ropensci/googleLanguageR",
     "codeRepository": "https://github.com/ropensci/googleLanguageR",
     "issueTracker": "https://github.com/ropensci/googleLanguageR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.1",
+    "version": "0.3.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -35699,8 +35713,8 @@
       },
       {
         "@type": "Person",
-        "givenName": "Cheryl",
-        "familyName": "Isabella",
+        "givenName": "Cheryl Isabella",
+        "familyName": "Lim",
         "email": "cheryl.academic@gmail.com"
       }
     ],
@@ -35721,8 +35735,8 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Cheryl",
-        "familyName": "Isabella",
+        "givenName": "Cheryl Isabella",
+        "familyName": "Lim",
         "email": "cheryl.academic@gmail.com"
       }
     ],
@@ -50769,6 +50783,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.1 (2025-06-13)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -50878,7 +50898,14 @@
         "@type": "SoftwareApplication",
         "identifier": "warbleR",
         "name": "warbleR",
-        "version": ">= 1.1.32"
+        "version": ">= 1.1.32",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=warbleR"
       },
       "3": {
         "@type": "SoftwareApplication",
@@ -85622,13 +85649,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "tidyhydat",
-    "description": "Provides functions to access historical and real-time national 'hydrometric' data from Water Survey of Canada data sources (<https://dd.weather.gc.ca/hydrometric/csv/> and <https://collaboration.cmc.ec.gc.ca/cmc/hydrometrics/www/>) and then applies tidy data principles.",
+    "description": "Provides functions to access historical and real-time national 'hydrometric' data from Water Survey of Canada data sources and then applies tidy data principles.",
     "name": "tidyhydat: Extract and Tidy Canadian 'Hydrometric' Data",
     "relatedLink": ["https://docs.ropensci.org/tidyhydat/", "https://github.com/ropensci/tidyhydat/"],
     "codeRepository": "https://github.com/ropensci/tidyhydat",
     "issueTracker": "https://github.com/ropensci/tidyhydat/issues/",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "0.7.1.9000",
+    "version": "0.7.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -90411,7 +90438,7 @@
     "codeRepository": "https://github.com/ropensci/USAboundariesData",
     "issueTracker": "https://github.com/ropensci/USAboundariesData/issues",
     "license": "https://spdx.org/licenses/CC-BY-NC-SA-4.0",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

@@ -2652,9 +2652,9 @@
     },
     {
       "name": "googleLanguageR",
-      "description": "Call Google's 'Natural Language' API, 'Cloud Translation' API, \n  'Cloud Speech' API and 'Cloud Text-to-Speech' API",
-      "details": "Call 'Google Cloud' machine learning APIs for text and speech tasks. Call the 'Cloud Translation' API <https://cloud.google.com/translate> for detection and translation of text, the 'Natural Language' API <https://cloud.google.com/natural-language> to analyse text for sentiment, entities or syntax, the 'Cloud Speech' API <https://cloud.google.com/speech-to-text> to transcribe sound files to text and the 'Cloud Text-to-Speech' API <https://cloud.google.com/text-to-speech> to turn text into sound files.",
-      "maintainer": "Cheryl Isabella",
+      "description": "Call Google's 'Natural Language', 'Cloud Translation', 'Cloud\n        Speech', and 'Cloud Text-to-Speech' APIs",
+      "details": "Access Google Cloud machine learning APIs for text and speech tasks. Use the Cloud Translation API for text detection and translation, the Natural Language API to analyze sentiment, entities, and syntax, the Cloud Speech API to transcribe audio to text, and the Cloud Text-to-Speech API to synthesize text into audio files.",
+      "maintainer": "Cheryl Isabella Lim",
       "keywords": "cloud-speech-api, cloud-translation-api, google-api-client, google-cloud, google-cloud-speech, google-nlp, googleauthr, natural-language-processing, peer-reviewed, sentiment-analysis, speech-api, translation-api",
       "github": "https://github.com/ropensci/googleLanguageR",
       "status": "https://www.repostatus.org#active",
@@ -2665,7 +2665,7 @@
       "url": "https://github.com/ropensci/googleLanguageR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-04 00:24:26",
+      "date_last_commit": "2025-10-22 11:46:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3719,7 +3719,7 @@
       "github": "https://github.com/ropensci/ohun",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/568",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/ohun",
@@ -3727,7 +3727,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-07-30 14:26:43",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -6023,7 +6023,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-21 19:56:39",
+      "date_last_commit": "2025-10-22 13:22:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6043,7 +6043,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-20 18:22:09",
+      "date_last_commit": "2025-10-22 13:38:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6231,7 +6231,7 @@
     {
       "name": "tidyhydat",
       "description": "Extract and Tidy Canadian 'Hydrometric' Data",
-      "details": "Provides functions to access historical and real-time national 'hydrometric' data from Water Survey of Canada data sources (<https://dd.weather.gc.ca/hydrometric/csv/> and <https://collaboration.cmc.ec.gc.ca/cmc/hydrometrics/www/>) and then applies tidy data principles.",
+      "details": "Provides functions to access historical and real-time national 'hydrometric' data from Water Survey of Canada data sources and then applies tidy data principles.",
       "maintainer": "Sam Albers",
       "keywords": "citz, government-data, hydrology, hydrometrics, tidy-data, water-resources",
       "github": "https://github.com/ropensci/tidyhydat",
@@ -6243,7 +6243,7 @@
       "url": "https://github.com/ropensci/tidyhydat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-15 16:25:46",
+      "date_last_commit": "2025-10-22 22:50:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6643,7 +6643,7 @@
       "url": "https://github.com/ropensci/USAboundariesData",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 21:36:01",
+      "date_last_commit": "2025-10-23 01:07:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-22 07:57 UTC"
+  "date": "2025-10-23 08:00 UTC"
 }
