@@ -201,6 +201,7 @@ outcomerate,scalereprod,FALSE
 paleobioDB,data-access,FALSE
 pangaear,data-access,FALSE
 pangoling,scalereprod,FALSE
+partialling.out,stat,FALSE
 parzer,geospatial,FALSE
 patentsview,literature,FALSE
 pathviewr,data-extraction,FALSE
@@ -269,7 +270,6 @@ rOPTRAM,geospatial,FALSE
 rotl,data-access,FALSE
 rperseus,data-access,FALSE
 Rpolyhedra,data-extraction,FALSE
-rppo,data-access,FALSE
 rredlist,data-access,FALSE
 rrricanes,data-access,FALSE
 rrricanesdata,data-access,FALSE
