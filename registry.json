@@ -452,7 +452,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 12:28:04",
+      "date_last_commit": "2025-10-24 07:44:17",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1205,7 +1205,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-14 12:32:33",
+      "date_last_commit": "2025-10-23 12:31:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4023,6 +4023,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/partialling.out",
+      "ropensci_category": "stat",
+      "ropenscilabs": false,
       "date_last_commit": "2025-10-20 12:33:16",
       "github_archived": false,
       "cran_archived": false,
@@ -7109,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-23 08:00 UTC"
+  "date": "2025-10-24 07:57 UTC"
 }
