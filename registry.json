@@ -799,7 +799,7 @@
       "github": "https://github.com/ropensci/baRulho",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/609",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/baRulho",
@@ -807,7 +807,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-09-08 22:19:27",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -4405,7 +4405,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-14 16:49:15",
+      "date_last_commit": "2025-10-24 19:21:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-24 07:57 UTC"
+  "date": "2025-10-25 08:00 UTC"
 }
