@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 15:40:04",
+      "date_last_commit": "2025-10-28 12:57:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2365,7 +2365,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-14 14:23:35",
+      "date_last_commit": "2025-10-28 16:33:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3885,7 +3885,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 15:51:10",
+      "date_last_commit": "2025-10-28 11:35:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-28 08:00 UTC"
+  "date": "2025-10-29 08:01 UTC"
 }
