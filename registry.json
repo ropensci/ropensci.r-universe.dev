@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-28 12:57:37",
+      "date_last_commit": "2025-10-29 09:49:53",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -3305,7 +3305,7 @@
       "url": "https://github.com/ropensci/mauricer",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-25 05:05:16",
+      "date_last_commit": "2025-10-29 13:11:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3345,7 +3345,7 @@
       "url": "https://github.com/ropensci/mcbette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-31 10:49:34",
+      "date_last_commit": "2025-10-29 13:11:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3885,7 +3885,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-28 11:35:44",
+      "date_last_commit": "2025-10-29 12:57:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6245,7 +6245,7 @@
       "url": "https://github.com/ropensci/tidyhydat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-22 22:50:37",
+      "date_last_commit": "2025-10-29 17:59:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-29 08:01 UTC"
+  "date": "2025-10-30 07:58 UTC"
 }
