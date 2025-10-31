@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-29 09:49:53",
+      "date_last_commit": "2025-10-30 12:22:08",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -865,7 +865,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-08 10:14:38",
+      "date_last_commit": "2025-10-29 13:10:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1205,7 +1205,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 17:45:24",
+      "date_last_commit": "2025-10-30 11:38:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2325,7 +2325,7 @@
       "url": "https://github.com/ropensci/fireexposuR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-20 17:13:59",
+      "date_last_commit": "2025-10-30 19:58:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2645,7 +2645,7 @@
       "url": "https://github.com/ropensci/GLMMcosinor",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-16 06:40:48",
+      "date_last_commit": "2025-10-30 08:03:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3725,7 +3725,7 @@
       "url": "https://github.com/ropensci/ohun",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-30 14:26:43",
+      "date_last_commit": "2025-10-30 14:50:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5765,7 +5765,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-21 18:39:19",
+      "date_last_commit": "2025-10-30 22:56:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6825,7 +6825,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-08 06:57:35",
+      "date_last_commit": "2025-10-31 07:39:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-10-30 07:58 UTC"
+  "date": "2025-10-31 07:58 UTC"
 }
