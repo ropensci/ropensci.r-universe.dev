@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-31 16:59:32",
+      "date_last_commit": "2025-11-01 14:53:22",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -528,7 +528,7 @@
       "url": "https://github.com/YuLab-SMU/treeio",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-17 02:30:03",
+      "date_last_commit": "2025-11-01 14:36:55",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -4585,7 +4585,7 @@
       "url": "https://github.com/ropensci/rb3",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-04 09:06:00",
+      "date_last_commit": "2025-11-01 11:06:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5105,7 +5105,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 16:01:19",
+      "date_last_commit": "2025-11-01 09:49:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-01 08:10 UTC"
+  "date": "2025-11-02 07:58 UTC"
 }
