@@ -2325,7 +2325,7 @@
       "url": "https://github.com/ropensci/fireexposuR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-30 19:58:34",
+      "date_last_commit": "2025-11-03 20:53:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3885,7 +3885,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-29 12:57:08",
+      "date_last_commit": "2025-11-03 18:21:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5105,7 +5105,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-01 09:49:30",
+      "date_last_commit": "2025-11-03 14:35:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6825,7 +6825,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-31 12:38:57",
+      "date_last_commit": "2025-11-03 08:30:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-03 07:58 UTC"
+  "date": "2025-11-04 07:57 UTC"
 }

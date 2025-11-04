@@ -31877,8 +31877,8 @@
     "fileSize": "NAKB",
     "citation": [
       {
-        "@type": "SoftwareSourceCode",
-        "datePublished": "2024",
+        "@type": "ScholarlyArticle",
+        "datePublished": "2025",
         "author": [
           {
             "@type": "Person",
@@ -31886,9 +31886,22 @@
             "familyName": "Forbes"
           }
         ],
-        "name": "fireexposuR: Compute and Visualize Wildfire Exposure",
-        "url": "https://github.com/ropensci/fireexposuR",
-        "description": "R Package version xxx"
+        "name": "fireexposuR: An R package for computing and visualizing wildfire exposure",
+        "identifier": "10.21105/joss.08479",
+        "description": "R package version 1.2.0",
+        "pagination": "8479",
+        "@id": "https://doi.org/10.21105/joss.08479",
+        "sameAs": "https://doi.org/10.21105/joss.08479",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "114",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "10",
+            "name": "Journal of Open Source Software"
+          }
+        }
       }
     ],
     "readme": "https://github.com/ropensci/fireexposuR/blob/HEAD/README.md",
@@ -53431,7 +53444,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.9020",
+    "version": "0.3.0.9021",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
