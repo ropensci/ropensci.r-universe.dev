@@ -1365,7 +1365,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-16 12:52:32",
+      "date_last_commit": "2025-11-05 05:18:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6785,7 +6785,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 16:59:48",
+      "date_last_commit": "2025-11-04 21:39:50",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-04 07:57 UTC"
+  "date": "2025-11-05 07:57 UTC"
 }
