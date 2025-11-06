@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-01 14:53:22",
+      "date_last_commit": "2025-11-05 16:33:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -7111,5 +7111,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-05 07:57 UTC"
+  "date": "2025-11-06 08:02 UTC"
 }
