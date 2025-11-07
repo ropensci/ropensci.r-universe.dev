@@ -2087,11 +2087,6 @@
     }
   },
   {
-    "package": "onekp",
-    "url": "https://github.com/ropensci/onekp",
-    "branch": "master"
-  },
-  {
     "package": "openalexR",
     "url": "https://github.com/ropensci/openalexR",
     "branch": "main",
