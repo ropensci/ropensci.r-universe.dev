@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-02 11:29:09",
+      "date_last_commit": "2025-11-07 09:42:09",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-06 14:48:27",
+      "date_last_commit": "2025-11-07 10:39:48",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-24 11:45:14",
+      "date_last_commit": "2025-11-07 10:54:36",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -1205,7 +1205,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-30 11:38:16",
+      "date_last_commit": "2025-11-07 20:19:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3731,26 +3731,6 @@
       "staff_maintained": false
     },
     {
-      "name": "onekp",
-      "description": "Retrieve Data from the 1000 Plants Initiative (1KP)",
-      "details": " The 1000 Plants Initiative (www.onekp.com) has sequenced the transcriptomes of over 1000 plant species. This package allows these sequences and metadata to be retrieved and filtered by code, species or recursively by clade. Scientific names and NCBI taxonomy IDs are both supported.",
-      "maintainer": "Dhakal Rijan",
-      "keywords": "",
-      "github": "https://github.com/ropensci/onekp",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/onekp",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2023-04-09 00:39:20",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "openalexR",
       "description": "Getting Bibliographic Records from 'OpenAlex' Database Using 'DSL'\n    API",
       "details": "A set of tools to extract bibliographic content from 'OpenAlex' database using API <https://docs.openalex.org>.",
@@ -3765,7 +3745,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-20 16:44:46",
+      "date_last_commit": "2025-11-07 18:26:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7111,5 +7091,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-07 07:56 UTC"
+  "date": "2025-11-08 07:57 UTC"
 }
