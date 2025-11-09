@@ -6605,7 +6605,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-13 21:54:11",
+      "date_last_commit": "2025-11-08 20:40:08",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7091,5 +7091,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-08 07:57 UTC"
+  "date": "2025-11-09 07:58 UTC"
 }
