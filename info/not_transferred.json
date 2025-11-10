@@ -124,5 +124,9 @@
   {
    "package": "sits",
     "url": "https://github.com/e-sensing/sits/"
+  },
+  {
+   "package": "distionary",
+    "url": "https://github.com/probaverse/distionary/"
   }
 ]
