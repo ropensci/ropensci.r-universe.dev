@@ -5085,7 +5085,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-03 14:35:50",
+      "date_last_commit": "2025-11-09 14:26:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7091,5 +7091,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-09 07:58 UTC"
+  "date": "2025-11-10 08:02 UTC"
 }
