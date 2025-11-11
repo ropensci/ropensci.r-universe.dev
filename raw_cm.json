@@ -1836,6 +1836,199 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
+    "identifier": "distionary",
+    "description": "Create and evaluate probability distribution objects from a variety of families or define custom distributions. Automatically compute distributional properties, even when they have not been specified. This package supports statistical modeling and simulations, and forms the core of the probaverse suite of R packages.",
+    "name": "distionary: Create and Evaluate Probability Distributions",
+    "relatedLink": ["https://distionary.probaverse.com/", "https://github.com/probaverse/distionary"],
+    "codeRepository": "https://github.com/probaverse/distionary",
+    "issueTracker": "https://github.com/probaverse/distionary/issues",
+    "license": "https://spdx.org/licenses/MIT",
+    "version": "0.1.0",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "R",
+      "url": "https://r-project.org"
+    },
+    "runtimePlatform": "R version 4.5.2 (2025-10-31)",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Vincenzo",
+        "familyName": "Coia",
+        "email": "vincenzo.coia@gmail.com"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Amogh",
+        "familyName": "Joshi"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Shuyi",
+        "familyName": "Tan"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Zhipeng",
+        "familyName": "Zhu"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Vincenzo",
+        "familyName": "Coia",
+        "email": "vincenzo.coia@gmail.com"
+      }
+    ],
+    "maintainer": [
+      {
+        "@type": "Person",
+        "givenName": "Vincenzo",
+        "familyName": "Coia",
+        "email": "vincenzo.coia@gmail.com"
+      }
+    ],
+    "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "covr",
+        "name": "covr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=covr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "knitr",
+        "name": "knitr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "rmarkdown",
+        "name": "rmarkdown",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "testthat",
+        "name": "testthat",
+        "version": ">= 3.0.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      }
+    ],
+    "softwareRequirements": {
+      "1": {
+        "@type": "SoftwareApplication",
+        "identifier": "checkmate",
+        "name": "checkmate",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=checkmate"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
+        "identifier": "ellipsis",
+        "name": "ellipsis",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ellipsis"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "vctrs",
+        "name": "vctrs",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vctrs"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 2.10"
+      },
+      "SystemRequirements": null
+    },
+    "fileSize": "NAKB",
+    "readme": "https://github.com/probaverse/distionary/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/688",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html#stable", "https://www.repostatus.org/#active"],
+    "keywords": "distributions"
+  },
+  {
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
     "identifier": "emodnet.wfs",
     "description": "Access and interrogate 'EMODnet' (European Marine Observation and Data Network) Web Feature Service data <https://emodnet.ec.europa.eu/en/emodnet-web-service-documentation#data-download-services>. This includes listing existing data sources, and getting data from each of them.",
     "name": "emodnet.wfs: Access 'EMODnet' Web Feature Service Data",
@@ -3616,7 +3809,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.0.111",
+    "version": "0.5.1.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55728,7 +55921,7 @@
     "codeRepository": "https://github.com/ropensci/pdftools",
     "issueTracker": "https://github.com/ropensci/pdftools/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.6.0",
+    "version": "3.7.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -57631,7 +57824,7 @@
     "codeRepository": "https://github.com/ropensci/piggyback",
     "issueTracker": "https://github.com/ropensci/piggyback/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.5.9006",
+    "version": "0.1.5.9007",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -57822,6 +58015,12 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "R",
+        "name": "R",
+        "version": ">= 4.1.0"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "cli",
         "name": "cli",
         "provider": {
@@ -57832,7 +58031,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -57844,7 +58043,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "gh",
         "name": "gh",
@@ -57856,7 +58055,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=gh"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -57868,7 +58067,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -57880,7 +58079,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
@@ -57892,7 +58091,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=fs"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "memoise",
         "name": "memoise",
@@ -57904,7 +58103,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=memoise"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -71645,7 +71844,7 @@
     "codeRepository": "https://github.com/ropensci/rOPTRAM",
     "issueTracker": "https://github.com/ropensci/rOPTRAM/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.0",
+    "version": "0.3.1.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -71762,11 +71961,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "stats",
-        "name": "stats"
       },
       {
         "@type": "SoftwareApplication",
@@ -71887,6 +72081,11 @@
       },
       "5": {
         "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
         "provider": {
@@ -71897,7 +72096,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
