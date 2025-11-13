@@ -4402,7 +4402,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 22:34:48",
+      "date_last_commit": "2025-11-12 22:01:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4962,7 +4962,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-11 11:01:35",
+      "date_last_commit": "2025-11-12 11:57:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6022,7 +6022,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-22 13:22:56",
+      "date_last_commit": "2025-11-12 16:06:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6042,7 +6042,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-22 13:38:56",
+      "date_last_commit": "2025-11-12 13:54:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6622,7 +6622,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-08 20:40:08",
+      "date_last_commit": "2025-11-13 02:24:03",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-12 07:57 UTC"
+  "date": "2025-11-13 07:57 UTC"
 }

@@ -90066,6 +90066,7 @@
         "@type": "SoftwareApplication",
         "identifier": "USAboundariesData",
         "name": "USAboundariesData",
+        "version": ">= 0.5.0",
         "sameAs": "https://github.com/ropensci/USAboundariesData"
       },
       "SystemRequirements": null
