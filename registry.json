@@ -298,7 +298,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-11 10:17:41",
+      "date_last_commit": "2025-11-14 03:15:44",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-07 10:54:36",
+      "date_last_commit": "2025-11-14 02:26:15",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -431,7 +431,7 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-18 09:50:57",
+      "date_last_commit": "2025-11-13 18:12:57",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -723,7 +723,7 @@
       "url": "https://github.com/ropensci/aRxiv",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-29 19:46:41",
+      "date_last_commit": "2025-11-13 19:38:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1382,7 +1382,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-05 05:18:36",
+      "date_last_commit": "2025-11-14 06:26:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4402,7 +4402,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-12 22:01:42",
+      "date_last_commit": "2025-11-13 18:02:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5142,7 +5142,7 @@
       "url": "https://github.com/ropensci/rmangal",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-01-07 15:38:15",
+      "date_last_commit": "2025-11-14 03:22:51",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-13 07:57 UTC"
+  "date": "2025-11-14 07:59 UTC"
 }
