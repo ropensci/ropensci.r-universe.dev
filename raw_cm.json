@@ -10618,7 +10618,7 @@
     "codeRepository": "https://github.com/ropensci/aRxiv",
     "issueTracker": "https://github.com/ropensci/aRxiv/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.14",
+    "version": "0.15.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23073,7 +23073,7 @@
     "codeRepository": "https://github.com/ropensci/dataset",
     "issueTracker": "https://github.com/ropensci/dataset/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23317,7 +23317,7 @@
         ],
         "name": "dataset: Create Data Frames for Exchange and Reuse",
         "url": "https://docs.ropensci.org/dataset",
-        "description": "R package version 0.4.0"
+        "description": "R package version 0.4.1"
       },
       {
         "@type": "CreativeWork",
@@ -36694,7 +36694,7 @@
     "codeRepository": "https://github.com/ropensci/GSODR",
     "issueTracker": "https://github.com/ropensci/GSODR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "4.1.4.9000",
+    "version": "5.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -36967,18 +36967,6 @@
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "countrycode",
-        "name": "countrycode",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=countrycode"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
         "provider": {
@@ -36989,7 +36977,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "4": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
@@ -37001,6 +36989,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=data.table"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
+        "identifier": "lifecycle",
+        "name": "lifecycle",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
       },
       "5": {
         "@type": "SoftwareApplication",
@@ -37065,7 +37065,7 @@
         "name": "{GSODR}: Global Summary Daily Weather Data in R",
         "identifier": "10.5281/zenodo.1040727",
         "url": "https://CRAN.R-project.org/package=nasapower",
-        "description": "R package version 4.1.4.9000",
+        "description": "R package version 5.0.0",
         "@id": "https://doi.org/10.5281/zenodo.1040727",
         "sameAs": "https://doi.org/10.5281/zenodo.1040727"
       },

@@ -723,7 +723,7 @@
       "url": "https://github.com/ropensci/aRxiv",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-13 19:38:55",
+      "date_last_commit": "2025-11-15 13:28:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1722,7 +1722,7 @@
       "url": "https://github.com/ropensci/dataset",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-02 07:20:07",
+      "date_last_commit": "2025-11-16 07:48:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2762,7 +2762,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-26 12:28:17",
+      "date_last_commit": "2025-11-15 12:39:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-15 07:58 UTC"
+  "date": "2025-11-16 07:56 UTC"
 }
