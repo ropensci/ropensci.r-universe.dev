@@ -222,7 +222,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-05 19:33:07",
+      "date_last_commit": "2025-11-16 14:50:27",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -842,7 +842,7 @@
       "url": "https://github.com/ropensci/BaseSet",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 16:15:17",
+      "date_last_commit": "2025-11-16 19:55:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1382,7 +1382,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 06:26:18",
+      "date_last_commit": "2025-11-17 05:17:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1722,7 +1722,7 @@
       "url": "https://github.com/ropensci/dataset",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-16 07:48:10",
+      "date_last_commit": "2025-11-16 16:41:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3902,7 +3902,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-14 12:03:13",
+      "date_last_commit": "2025-11-16 10:18:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6502,7 +6502,7 @@
       "url": "https://github.com/ropensci/trud",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-18 22:20:08",
+      "date_last_commit": "2025-11-16 09:02:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-16 07:56 UTC"
+  "date": "2025-11-17 07:58 UTC"
 }
