@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 02:26:15",
+      "date_last_commit": "2025-11-18 04:51:34",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -1382,7 +1382,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-17 05:17:01",
+      "date_last_commit": "2025-11-17 09:59:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4962,7 +4962,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-12 11:57:46",
+      "date_last_commit": "2025-11-17 08:00:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6782,7 +6782,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-04 21:39:50",
+      "date_last_commit": "2025-11-17 16:30:15",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-17 07:58 UTC"
+  "date": "2025-11-18 07:59 UTC"
 }

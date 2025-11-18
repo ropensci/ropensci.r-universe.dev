@@ -4445,7 +4445,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.75",
+    "version": "0.2.0.85",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18734,15 +18734,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "lazyeval",
-        "name": "lazyeval",
+        "identifier": "rlang",
+        "name": "rlang",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=lazyeval"
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
       }
     ],
     "softwareRequirements": {
@@ -67473,7 +67473,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.3.2",
+    "version": "3.8.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67871,7 +67871,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.3.2"
+        "description": "R package version 3.8.4"
       },
       {
         "@type": "ScholarlyArticle",
