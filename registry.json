@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-21 13:34:52",
+      "date_last_commit": "2025-11-18 14:54:46",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1382,7 +1382,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-17 09:59:42",
+      "date_last_commit": "2025-11-19 07:42:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4402,7 +4402,7 @@
       "url": "https://github.com/ropensci/prism",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 20:23:03",
+      "date_last_commit": "2025-11-18 22:18:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5642,7 +5642,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-18 15:33:09",
+      "date_last_commit": "2025-11-19 04:00:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-18 07:59 UTC"
+  "date": "2025-11-19 07:57 UTC"
 }

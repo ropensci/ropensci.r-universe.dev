@@ -1186,7 +1186,7 @@
     "identifier": "babelquarto",
     "description": "Automate rendering and cross-linking of Quarto books following a prescribed structure.",
     "name": "babelquarto: Renders a Multilingual Quarto Book",
-    "relatedLink": "https://github.com/ropensci-review-tools/babelquarto",
+    "relatedLink": ["https://docs.ropensci.org/babelquarto/", "https://github.com/ropensci-review-tools/babelquarto"],
     "codeRepository": "https://github.com/ropensci-review-tools/babelquarto",
     "issueTracker": "https://github.com/ropensci-review-tools/babelquarto/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -18695,6 +18695,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "readr",
+        "name": "readr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=readr"
       },
       {
         "@type": "SoftwareApplication",
@@ -59443,7 +59455,7 @@
     "codeRepository": "https://github.com/ropensci/prism",
     "issueTracker": "https://github.com/ropensci/prism/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0",
+    "version": "0.3.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -76210,7 +76222,7 @@
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0.9000",
+    "version": "0.1.0.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
