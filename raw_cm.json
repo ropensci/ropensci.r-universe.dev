@@ -4445,7 +4445,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.85",
+    "version": "0.2.0.93",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

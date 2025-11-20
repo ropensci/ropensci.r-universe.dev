@@ -336,7 +336,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-18 04:51:34",
+      "date_last_commit": "2025-11-20 05:51:25",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -4742,7 +4742,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-04 20:23:10",
+      "date_last_commit": "2025-11-19 19:56:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-19 07:57 UTC"
+  "date": "2025-11-20 07:57 UTC"
 }
