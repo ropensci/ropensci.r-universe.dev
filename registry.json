@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-18 14:54:46",
+      "date_last_commit": "2025-11-20 09:26:00",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -703,7 +703,7 @@
       "url": "https://github.com/ropensci/arkdb",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-21 14:56:15",
+      "date_last_commit": "2025-11-20 16:44:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2062,7 +2062,7 @@
       "url": "https://github.com/ropensci/emld",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2020-10-23 21:42:08",
+      "date_last_commit": "2025-11-20 19:56:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-20 07:57 UTC"
+  "date": "2025-11-21 07:59 UTC"
 }

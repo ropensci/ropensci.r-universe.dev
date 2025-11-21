@@ -1190,7 +1190,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/babelquarto",
     "issueTracker": "https://github.com/ropensci-review-tools/babelquarto/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.1",
+    "version": "0.1.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -28065,7 +28065,7 @@
     "codeRepository": "https://github.com/ropensci/emld",
     "issueTracker": "https://github.com/ropensci/emld/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -28331,7 +28331,7 @@
       "url": "https://github.com/ropensci/software-review/issues/269",
       "provider": "https://ropensci.org"
     },
-    "developmentStatus": "https://www.tidyverse.org/lifecycle/#maturing"
+    "developmentStatus": "https://lifecycle.r-lib.org/articles/stages.html#experimental"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
