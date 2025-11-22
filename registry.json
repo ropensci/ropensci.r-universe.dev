@@ -1222,7 +1222,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-07 20:19:56",
+      "date_last_commit": "2025-11-22 00:29:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4742,7 +4742,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-19 19:56:10",
+      "date_last_commit": "2025-11-21 10:01:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-21 07:59 UTC"
+  "date": "2025-11-22 07:56 UTC"
 }
