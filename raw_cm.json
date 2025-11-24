@@ -93609,6 +93609,18 @@
       },
       "3": {
         "@type": "SoftwareApplication",
+        "identifier": "DBI",
+        "name": "DBI",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=DBI"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
         "identifier": "digest",
         "name": "digest",
         "provider": {
@@ -93619,7 +93631,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=digest"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "hoardr",
         "name": "hoardr",
@@ -93631,7 +93643,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=hoardr"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -93643,7 +93655,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "httr",
         "name": "httr",
@@ -93655,7 +93667,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=httr"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rvest",
         "name": "rvest",
@@ -93667,7 +93679,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rvest"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -93679,7 +93691,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -93691,12 +93703,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "methods",
         "name": "methods"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -93708,7 +93720,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -93720,7 +93732,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "data.tree",
         "name": "data.tree",
@@ -93732,7 +93744,19 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=data.tree"
       },
-      "14": {
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "RSQLite",
+        "name": "RSQLite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=RSQLite"
+      },
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -93744,7 +93768,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "15": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "base64enc",
         "name": "base64enc",
@@ -93756,7 +93780,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=base64enc"
       },
-      "16": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -93768,7 +93792,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "17": {
+      "19": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
