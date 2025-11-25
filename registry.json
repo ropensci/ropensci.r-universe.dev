@@ -165,7 +165,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/probaverse/distionary",
-      "date_last_commit": "2025-11-08 19:06:22",
+      "date_last_commit": "2025-11-24 21:42:09",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1262,7 +1262,7 @@
       "url": "https://github.com/ropensci/chirps",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-21 10:55:21",
+      "date_last_commit": "2025-11-24 09:33:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2382,7 +2382,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-28 16:33:07",
+      "date_last_commit": "2025-11-24 16:55:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5102,7 +5102,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-10 16:08:45",
+      "date_last_commit": "2025-11-24 18:45:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5702,7 +5702,7 @@
       "url": "https://github.com/ropensci/slopes",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-29 12:35:51",
+      "date_last_commit": "2025-11-24 15:44:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6782,7 +6782,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-17 16:30:15",
+      "date_last_commit": "2025-11-24 15:57:16",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-24 07:58 UTC"
+  "date": "2025-11-25 07:59 UTC"
 }
