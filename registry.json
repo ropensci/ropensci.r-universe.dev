@@ -165,7 +165,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/probaverse/distionary",
-      "date_last_commit": "2025-11-24 21:42:09",
+      "date_last_commit": "2025-11-25 12:25:28",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3590,7 +3590,7 @@
     {
       "name": "nlrx",
       "description": "Setup, Run and Analyze 'NetLogo' Model Simulations from 'R' via 'XML'",
-      "details": "Setup, run and analyze 'NetLogo' (<https://ccl.northwestern.edu/netlogo/>) model simulations in 'R'. 'nlrx' experiments use a similar structure as 'NetLogos' Behavior Space experiments. However, 'nlrx' offers more flexibility and additional tools for running and analyzing complex simulation designs and sensitivity analyses. The user defines all information that is needed in an intuitive framework, using class objects. Experiments are submitted from 'R' to 'NetLogo' via 'XML' files that are dynamically written, based on specifications defined by the user. By nesting model calls in future environments, large simulation design with many runs can be executed in parallel. This also enables simulating 'NetLogo' experiments on remote high performance computing machines. In order to use this package, 'Java' and 'NetLogo' (>= 5.3.1) need to be available on the executing system.",
+      "details": "Setup, run and analyze 'NetLogo' (<https://www.netlogo.org>) model simulations in 'R'. 'nlrx' experiments use a similar structure as 'NetLogos' Behavior Space experiments. However, 'nlrx' offers more flexibility and additional tools for running and analyzing complex simulation designs and sensitivity analyses. The user defines all information that is needed in an intuitive framework, using class objects. Experiments are submitted from 'R' to 'NetLogo' via 'XML' files that are dynamically written, based on specifications defined by the user. By nesting model calls in future environments, large simulation design with many runs can be executed in parallel. This also enables simulating 'NetLogo' experiments on remote high performance computing machines. In order to use this package, 'Java' and 'NetLogo' (>= 5.3.1) need to be available on the executing system.",
       "maintainer": "Sebastian Hanss",
       "keywords": "agent-based-modeling, individual-based-modelling, netlogo, peer-reviewed",
       "github": "https://github.com/ropensci/nlrx",
@@ -3602,7 +3602,7 @@
       "url": "https://github.com/ropensci/nlrx",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-05 07:12:03",
+      "date_last_commit": "2025-11-25 13:59:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4962,7 +4962,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-17 08:00:30",
+      "date_last_commit": "2025-11-25 10:38:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6922,7 +6922,7 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-12 17:41:35",
+      "date_last_commit": "2025-11-25 18:06:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-25 07:59 UTC"
+  "date": "2025-11-26 08:01 UTC"
 }
