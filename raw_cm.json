@@ -48994,7 +48994,7 @@
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.1",
+    "version": "0.13.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49089,6 +49089,7 @@
         "@type": "SoftwareApplication",
         "identifier": "RSQLite",
         "name": "RSQLite",
+        "version": ">= 2.4.4",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
