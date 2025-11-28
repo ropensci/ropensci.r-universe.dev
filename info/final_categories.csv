@@ -7,6 +7,7 @@ babelquarto,scalereprod,FALSE
 commonmark,data-extraction,FALSE
 commonmetar,scalereprod,FALSE
 credentials,scalereprod,FALSE
+distionary,stat,FALSE
 emodnet.wfs,data-access,FALSE
 frictionless,data-publication,FALSE
 gert,scalereprod,FALSE
@@ -187,7 +188,6 @@ nuts,data-extraction,FALSE
 oai,literature,FALSE
 occCite,data-access,FALSE
 ohun,data-extraction,FALSE
-onekp,data-access,FALSE
 openalexR,literature,FALSE
 opencage,geospatial,FALSE
 opencv,image-processing,FALSE
