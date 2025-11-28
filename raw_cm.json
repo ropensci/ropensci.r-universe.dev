@@ -94733,6 +94733,12 @@
         "familyName": "Ooms",
         "email": "jeroenooms@gmail.com",
         "@id": "https://orcid.org/0000-0002-4035-0289"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Bill",
+        "familyName": "Denney",
+        "@id": "https://orcid.org/0000-0002-5759-428X"
       }
     ],
     "copyrightHolder": [
