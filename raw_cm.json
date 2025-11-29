@@ -57072,14 +57072,7 @@
       "6": {
         "@type": "SoftwareApplication",
         "identifier": "ips",
-        "name": "ips",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=ips"
+        "name": "ips"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -77455,11 +77448,11 @@
     "identifier": "smapr",
     "description": " Facilitates programmatic access to NASA Soil Moisture Active Passive (SMAP) data with R. It includes functions to search for, acquire, and extract SMAP data.",
     "name": "smapr: Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data",
-    "relatedLink": ["https://docs.ropensci.org/smapr", "https://github.com/ropensci/smapr"],
+    "relatedLink": ["https://docs.ropensci.org/smapr/", "https://github.com/ropensci/smapr"],
     "codeRepository": "https://github.com/ropensci/smapr",
     "issueTracker": "https://github.com/ropensci/smapr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -77471,7 +77464,7 @@
         "@type": "Person",
         "givenName": "Maxwell",
         "familyName": "Joseph",
-        "email": "maxwell.b.joseph@colorado.edu"
+        "email": "maxwellbjoseph@gmail.com"
       },
       {
         "@type": "Person",
@@ -77486,12 +77479,20 @@
         "email": "zasc3143@colorado.edu"
       }
     ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Maxwell",
+        "familyName": "Joseph",
+        "email": "maxwellbjoseph@gmail.com"
+      }
+    ],
     "maintainer": [
       {
         "@type": "Person",
         "givenName": "Maxwell",
         "familyName": "Joseph",
-        "email": "maxwell.b.joseph@colorado.edu"
+        "email": "maxwellbjoseph@gmail.com"
       }
     ],
     "softwareSuggestions": [
@@ -77613,18 +77614,6 @@
       },
       "6": {
         "@type": "SoftwareApplication",
-        "identifier": "rvest",
-        "name": "rvest",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rvest"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
         "identifier": "terra",
         "name": "terra",
         "provider": {
@@ -77635,18 +77624,6 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=terra"
       },
-      "8": {
-        "@type": "SoftwareApplication",
-        "identifier": "xml2",
-        "name": "xml2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=xml2"
-      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -77656,7 +77633,7 @@
       "url": "https://github.com/ropensci/software-review/issues/231",
       "provider": "https://ropensci.org"
     },
-    "developmentStatus": ["https://www.tidyverse.org/lifecycle/#maturing", "http://www.repostatus.org/#active"],
+    "developmentStatus": ["https://lifecycle.r-lib.org/articles/stages.html", "https://www.repostatus.org/#active"],
     "keywords": ["acquisition", "extract-data", "nasa", "peer-reviewed", "raster", "smap-data", "soil-mapping", "soil-moisture", "soil-moisture-sensor"]
   },
   {
