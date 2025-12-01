@@ -1384,7 +1384,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-19 07:42:25",
+      "date_last_commit": "2025-11-30 14:58:55",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3004,7 +3004,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-05 03:48:23",
+      "date_last_commit": "2025-11-30 16:01:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3624,7 +3624,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-26 21:47:52",
+      "date_last_commit": "2025-11-30 19:08:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5824,7 +5824,7 @@
       "url": "https://github.com/ropensci/spocc",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-28 13:51:51",
+      "date_last_commit": "2025-11-30 16:00:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7110,5 +7110,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-11-30 07:57 UTC"
+  "date": "2025-12-01 08:00 UTC"
 }

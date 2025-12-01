@@ -18599,7 +18599,7 @@
     "codeRepository": "https://github.com/ropensci/ckanr",
     "issueTracker": "https://github.com/ropensci/ckanr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.8.0.9000",
+    "version": "0.8.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49053,6 +49053,7 @@
         "@type": "SoftwareApplication",
         "identifier": "sofa",
         "name": "sofa",
+        "version": ">= 0.4.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49065,6 +49066,7 @@
         "@type": "SoftwareApplication",
         "identifier": "elastic",
         "name": "elastic",
+        "version": ">= 1.2.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49077,6 +49079,7 @@
         "@type": "SoftwareApplication",
         "identifier": "mongolite",
         "name": "mongolite",
+        "version": ">= 4.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49089,7 +49092,7 @@
         "@type": "SoftwareApplication",
         "identifier": "RSQLite",
         "name": "RSQLite",
-        "version": ">= 2.4.4",
+        "version": ">= 2.4.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49102,6 +49105,7 @@
         "@type": "SoftwareApplication",
         "identifier": "duckdb",
         "name": "duckdb",
+        "version": ">= 1.4.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49114,6 +49118,7 @@
         "@type": "SoftwareApplication",
         "identifier": "RPostgres",
         "name": "RPostgres",
+        "version": ">= 1.4.8",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
