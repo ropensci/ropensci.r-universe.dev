@@ -1181,11 +1181,6 @@
     }
   },
   {
-    "package": "elastic",
-    "url": "https://github.com/ropensci/elastic",
-    "branch": "master"
-  },
-  {
     "package": "emld",
     "url": "https://github.com/ropensci/emld",
     "branch": "master",
