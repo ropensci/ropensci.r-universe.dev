@@ -161,7 +161,7 @@
       "github": "https://github.com/probaverse/distionary",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/688",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/probaverse/distionary",
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-07 09:42:09",
+      "date_last_commit": "2025-12-01 11:28:07",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2104,7 +2104,7 @@
       "url": "https://github.com/ropensci/epair",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-07-23 06:24:02",
+      "date_last_commit": "2025-12-01 19:01:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3974,7 +3974,7 @@
       "description": "Client for the 'Pangaea' Database",
       "details": "Tools to interact with the 'Pangaea' Database (<https://www.pangaea.de>), including functions for searching for data, fetching 'datasets' by 'dataset' 'ID', and working with the 'Pangaea' 'OAI-PMH' service.",
       "maintainer": "Scott Chamberlain",
-      "keywords": "api-client, archive, atmosphere, chemistry, data, earth science, ecology, environmental science, paleobiology, paleontology, pangaea, scientific, webservice-client",
+      "keywords": "",
       "github": "https://github.com/ropensci/pangaear",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -4044,7 +4044,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-11 19:09:45",
+      "date_last_commit": "2025-12-01 08:13:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6024,7 +6024,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-12 16:06:41",
+      "date_last_commit": "2025-12-01 14:09:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6664,7 +6664,7 @@
       "url": "https://github.com/ropensci/vcr",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-28 16:45:38",
+      "date_last_commit": "2025-12-02 00:18:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7110,5 +7110,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-01 08:00 UTC"
+  "date": "2025-12-02 07:57 UTC"
 }
