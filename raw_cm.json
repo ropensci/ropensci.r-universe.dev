@@ -9499,7 +9499,7 @@
     "codeRepository": "https://github.com/ropensci/antanym",
     "issueTracker": "https://github.com/ropensci/antanym/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.4",
+    "version": "0.5.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -9616,16 +9616,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=leaflet"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rgdal",
-        "name": "rgdal"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rgeos",
-        "name": "rgeos"
       },
       {
         "@type": "SoftwareApplication",
@@ -13985,18 +13975,6 @@
       },
       "17": {
         "@type": "SoftwareApplication",
-        "identifier": "philentropy",
-        "name": "philentropy",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=philentropy"
-      },
-      "18": {
-        "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
         "provider": {
@@ -14007,7 +13985,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
       },
-      "19": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
@@ -27601,126 +27579,6 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
-    "identifier": "elastic",
-    "description": "Connect to 'Elasticsearch', a 'NoSQL' database built on the 'Java' Virtual Machine. Interacts with the 'Elasticsearch' 'HTTP' API (<https://www.elastic.co/elasticsearch/>), including functions for setting connection details to 'Elasticsearch' instances, loading bulk data, searching for documents with both 'HTTP' query variables and 'JSON' based body requests. In addition, 'elastic' provides functions for interacting with API's for 'indices', documents, nodes, clusters, an interface to the cat API, and more.",
-    "name": "elastic: General Purpose Interface to 'Elasticsearch'",
-    "relatedLink": ["https://docs.ropensci.org/elastic/", "https://github.com/ropensci/elastic"],
-    "codeRepository": "https://github.com/ropensci/elastic",
-    "issueTracker": "https://github.com/ropensci/elastic/issues",
-    "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.1.91",
-    "programmingLanguage": {
-      "@type": "ComputerLanguage",
-      "name": "R",
-      "url": "https://r-project.org"
-    },
-    "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
-    "author": [
-      {
-        "@type": "Person",
-        "givenName": "Scott",
-        "familyName": "Chamberlain",
-        "email": "myrmecocystus@gmail.com",
-        "@id": "https://orcid.org/0000-0003-1444-9135"
-      }
-    ],
-    "maintainer": [
-      {
-        "@type": "Person",
-        "givenName": "Scott",
-        "familyName": "Chamberlain",
-        "email": "myrmecocystus@gmail.com",
-        "@id": "https://orcid.org/0000-0003-1444-9135"
-      }
-    ],
-    "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
-      }
-    ],
-    "softwareRequirements": {
-      "1": {
-        "@type": "SoftwareApplication",
-        "identifier": "utils",
-        "name": "utils"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "curl",
-        "name": "curl",
-        "version": ">= 2.2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=curl"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "crul",
-        "name": "crul",
-        "version": ">= 0.9.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=crul"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "jsonlite",
-        "name": "jsonlite",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "R6",
-        "name": "R6",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=R6"
-      },
-      "SystemRequirements": null
-    },
-    "applicationCategory": "Databases",
-    "isPartOf": "https://ropensci.org",
-    "keywords": ["database", "elasticsearch", "http", "api", "search", "nosql", "java", "json", "documents", "data-science", "database-wrapper", "etl"],
-    "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/elastic/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#active"
-  },
-  {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
     "identifier": "EML",
     "description": "Work with Ecological Metadata Language ('EML') files. 'EML' is a widely used metadata standard in the ecological and environmental sciences, described in Jones et al. (2006), <doi:10.1146/annurev.ecolsys.37.091305.110031>.",
     "name": "EML: Read and Write Ecological Metadata Language Files",
@@ -38635,11 +38493,11 @@
     "identifier": "hdcuremodels",
     "description": "Provides functions for fitting various penalized parametric and semi-parametric mixture cure models with different penalty functions, testing for a significant cure fraction, and testing for sufficient follow-up as described in Fu et al (2022)<doi:10.1002/sim.9513> and Archer et al (2024)<doi:10.1186/s13045-024-01553-6>. False discovery rate controlled variable selection is provided using model-X knock-offs. ",
     "name": "hdcuremodels: High-Dimensional Cure Models",
-    "relatedLink": "https://github.com/kelliejarcher/hdcuremodels",
+    "relatedLink": "https://github.com/ropensci/hdcuremodels",
     "codeRepository": "https://github.com/ropensci/hdcuremodels",
-    "issueTracker": "https://github.com/kelliejarcher/hdcuremodels/issues",
+    "issueTracker": "https://github.com/ropensci/hdcuremodels/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38985,7 +38843,7 @@
           }
         ],
         "name": "Identifying long-term survivors and those at higher or lower risk of relapse among patients with cytogenetically normal acute myeloid leukemia using a high-dimensional mixture cure model",
-        "url": "https://jhoonline.biomedcentral.com/articles/10.1186/s13045-024-01553-6",
+        "url": "https://link.springer.com/article/10.1186/s13045-024-01553-6",
         "pagination": "28",
         "isPartOf": {
           "@type": "PublicationIssue",
@@ -39053,6 +38911,11 @@
       }
     ],
     "readme": "https://github.com/ropensci/hdcuremodels/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/692",
+      "provider": "https://ropensci.org"
+    },
     "developmentStatus": []
   },
   {
@@ -42353,7 +42216,7 @@
     "codeRepository": "https://github.com/ropensci/landscapetools",
     "issueTracker": "https://github.com/ropensci/landscapetools/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.6.2",
+    "version": "0.6.2.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -42453,7 +42316,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.1.0"
+        "version": ">= 3.5"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -42502,6 +42365,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
+      },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "rlang",
+        "name": "rlang",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
       "SystemRequirements": null
     },
@@ -79737,6 +79612,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "tidyselect",
+        "name": "tidyselect",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tidyselect"
       },
       {
         "@type": "SoftwareApplication",

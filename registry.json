@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-01 11:28:07",
+      "date_last_commit": "2025-12-02 09:00:16",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-13 18:12:57",
+      "date_last_commit": "2025-12-03 21:57:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -645,7 +645,7 @@
       "url": "https://github.com/ropensci/antanym",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2022-09-05 04:46:58",
+      "date_last_commit": "2025-12-02 23:06:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -884,7 +884,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-31 08:01:19",
+      "date_last_commit": "2025-12-02 11:30:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -984,7 +984,7 @@
       "url": "https://github.com/ropensci/biomartr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 09:05:11",
+      "date_last_commit": "2025-12-02 15:45:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2010,26 +2010,6 @@
       "staff_maintained": false
     },
     {
-      "name": "elastic",
-      "description": "General Purpose Interface to 'Elasticsearch'",
-      "details": "Connect to 'Elasticsearch', a 'NoSQL' database built on the 'Java' Virtual Machine. Interacts with the 'Elasticsearch' 'HTTP' API (<https://www.elastic.co/elasticsearch/>), including functions for setting connection details to 'Elasticsearch' instances, loading bulk data, searching for documents with both 'HTTP' query variables and 'JSON' based body requests. In addition, 'elastic' provides functions for interacting with API's for 'indices', documents, nodes, clusters, an interface to the cat API, and more.",
-      "maintainer": "Scott Chamberlain",
-      "keywords": "api, data-science, database, database-wrapper, documents, elasticsearch, etl, http, java, json, nosql, search",
-      "github": "https://github.com/ropensci/elastic",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": true,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/elastic",
-      "ropensci_category": "databases",
-      "ropenscilabs": false,
-      "date_last_commit": "2023-05-25 14:20:05",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "EML",
       "description": "Read and Write Ecological Metadata Language Files",
       "details": "Work with Ecological Metadata Language ('EML') files. 'EML' is a widely used metadata standard in the ecological and environmental sciences, described in Jones et al. (2006), <doi:10.1146/annurev.ecolsys.37.091305.110031>.",
@@ -2664,7 +2644,7 @@
       "url": "https://github.com/ropensci/GLMMcosinor",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-30 08:03:43",
+      "date_last_commit": "2025-12-04 01:40:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2837,14 +2817,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/hdcuremodels",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/692",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/hdcuremodels",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-02 11:18:39",
+      "date_last_commit": "2025-12-03 20:10:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3204,7 +3184,7 @@
       "url": "https://github.com/ropensci/landscapetools",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 13:11:15",
+      "date_last_commit": "2025-12-02 12:34:36",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4044,7 +4024,7 @@
       "url": "https://github.com/ropensci/parzer",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-01 08:13:00",
+      "date_last_commit": "2025-12-02 14:04:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4564,7 +4544,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-06 12:57:28",
+      "date_last_commit": "2025-12-03 00:42:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5104,7 +5084,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-24 18:45:06",
+      "date_last_commit": "2025-12-02 12:02:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5144,7 +5124,7 @@
       "url": "https://github.com/ropensci/rmangal",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 14:03:41",
+      "date_last_commit": "2025-12-03 21:47:34",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -5764,7 +5744,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-10 14:49:45",
+      "date_last_commit": "2025-12-02 13:39:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5904,7 +5884,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-17 21:15:16",
+      "date_last_commit": "2025-12-03 14:20:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6244,7 +6224,7 @@
       "url": "https://github.com/ropensci/tidyhydat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-29 17:59:45",
+      "date_last_commit": "2025-12-03 19:30:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6324,7 +6304,7 @@
       "url": "https://github.com/ropensci/tiler",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 21:45:20",
+      "date_last_commit": "2025-12-02 18:46:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7110,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-02 07:57 UTC"
+  "date": "2025-12-04 07:58 UTC"
 }
