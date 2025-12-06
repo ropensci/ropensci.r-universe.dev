@@ -394,7 +394,7 @@
       "type": "experimental",
       "url": "https://github.com/ropenscilabs/roblog",
       "ropensci_category": "scalereprod",
-      "ropenscilabs": true,
+      "ropenscilabs": false,
       "date_last_commit": "2025-09-29 07:16:48",
       "cran_archived": false,
       "staff_maintained": true
@@ -3604,7 +3604,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-04 20:33:18",
+      "date_last_commit": "2025-12-05 21:03:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5884,7 +5884,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-03 14:20:30",
+      "date_last_commit": "2025-12-05 17:03:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6984,7 +6984,7 @@
       "url": "https://github.com/ropenscilabs/deposits",
       "ropensci_category": "data-publication",
       "ropenscilabs": true,
-      "date_last_commit": "2025-06-17 12:23:10",
+      "date_last_commit": "2025-12-05 14:13:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-05 07:57 UTC"
+  "date": "2025-12-06 07:57 UTC"
 }
