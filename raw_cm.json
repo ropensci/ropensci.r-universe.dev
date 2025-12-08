@@ -19947,7 +19947,7 @@
     "codeRepository": "https://github.com/ropensci/comtradr",
     "issueTracker": "https://github.com/ropensci/comtradr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.4",
+    "version": "1.0.4.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -22749,7 +22749,7 @@
     "codeRepository": "https://github.com/ropensci/DataPackageR",
     "issueTracker": "https://github.com/ropensci/DataPackageR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.16.1",
+    "version": "0.16.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -22933,18 +22933,6 @@
       },
       "5": {
         "@type": "SoftwareApplication",
-        "identifier": "futile.logger",
-        "name": "futile.logger",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=futile.logger"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
         "provider": {
@@ -22955,7 +22943,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "pkgbuild",
         "name": "pkgbuild",
@@ -22967,7 +22955,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=pkgbuild"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "pkgload",
         "name": "pkgload",
@@ -22979,7 +22967,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=pkgload"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rmarkdown",
         "name": "rmarkdown",
@@ -22991,7 +22979,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "roxygen2",
         "name": "roxygen2",
@@ -23003,7 +22991,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=roxygen2"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "rprojroot",
         "name": "rprojroot",
@@ -23015,7 +23003,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rprojroot"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "usethis",
         "name": "usethis",
@@ -23027,12 +23015,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=usethis"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "14": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "yaml",
         "name": "yaml",
@@ -48875,7 +48863,7 @@
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.13.1.9000",
+    "version": "0.14.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

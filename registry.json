@@ -1504,7 +1504,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-27 15:02:59",
+      "date_last_commit": "2025-12-07 22:53:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1704,7 +1704,7 @@
       "url": "https://github.com/ropensci/DataPackageR",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-09-17 17:28:39",
+      "date_last_commit": "2025-12-08 06:27:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3604,7 +3604,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-05 21:03:09",
+      "date_last_commit": "2025-12-07 09:35:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-07 07:59 UTC"
+  "date": "2025-12-08 07:57 UTC"
 }
