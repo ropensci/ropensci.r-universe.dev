@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-14 03:15:44",
+      "date_last_commit": "2025-12-08 08:41:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-20 05:51:25",
+      "date_last_commit": "2025-12-08 11:26:13",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -685,7 +685,7 @@
       "url": "https://github.com/ropensci/aorsf",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-21 14:14:42",
+      "date_last_commit": "2025-12-08 15:33:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -725,7 +725,7 @@
       "url": "https://github.com/ropensci/aRxiv",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-15 13:28:39",
+      "date_last_commit": "2025-12-08 19:45:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -864,7 +864,7 @@
       "url": "https://github.com/ropensci/beastier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-10 11:15:57",
+      "date_last_commit": "2025-12-08 18:23:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -884,7 +884,7 @@
       "url": "https://github.com/ropensci/beautier",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-02 11:30:43",
+      "date_last_commit": "2025-12-08 18:28:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5084,7 +5084,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-02 12:02:49",
+      "date_last_commit": "2025-12-08 15:10:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-08 07:57 UTC"
+  "date": "2025-12-09 08:00 UTC"
 }
