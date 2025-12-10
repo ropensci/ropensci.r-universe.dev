@@ -332,13 +332,13 @@
       "github": "https://github.com/ropensci-review-tools/pkgstats",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-08 11:26:13",
+      "date_last_commit": "2025-12-09 15:56:07",
       "cran_archived": true,
       "staff_maintained": true
     },
@@ -1924,7 +1924,7 @@
       "url": "https://github.com/ropensci/dwctaxon",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-19 11:28:56",
+      "date_last_commit": "2025-12-10 07:20:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-09 08:00 UTC"
+  "date": "2025-12-10 08:00 UTC"
 }
