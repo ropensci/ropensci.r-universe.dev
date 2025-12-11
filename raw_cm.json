@@ -3392,7 +3392,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.241",
+    "version": "0.1.2.248",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3821,7 +3821,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1.13",
+    "version": "0.5.1.14",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34795,7 +34795,7 @@
     "codeRepository": "https://github.com/ropensci/git2rdata",
     "issueTracker": "https://github.com/ropensci/git2rdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -34993,14 +34993,14 @@
       {
         "@type": "SoftwareSourceCode",
         "datePublished": "2025",
-        "author": {
-          "author": {
+        "author": [
+          {
             "@type": "Person",
             "givenName": "Thierry",
             "familyName": "Onkelinx"
           }
-        },
-        "name": "git2rdata: Store and Retrieve Data.frames in a Git Repository. Version 0.5.0",
+        ],
+        "name": "git2rdata: Store and Retrieve Data.frames in a Git Repository. Version 0.5.1",
         "identifier": "10.5281/zenodo.1485309",
         "url": "https://ropensci.github.io/git2rdata/",
         "@id": "https://doi.org/10.5281/zenodo.1485309",

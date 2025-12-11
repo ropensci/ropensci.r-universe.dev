@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-02 09:00:16",
+      "date_last_commit": "2025-12-10 11:23:58",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-08 08:41:37",
+      "date_last_commit": "2025-12-10 09:31:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1384,7 +1384,7 @@
       "url": "https://github.com/ropensci/ckanr",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-30 14:58:55",
+      "date_last_commit": "2025-12-10 08:07:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1504,7 +1504,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-07 22:53:12",
+      "date_last_commit": "2025-12-10 21:09:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2584,7 +2584,7 @@
       "url": "https://github.com/ropensci/git2rdata",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-01-24 18:58:58",
+      "date_last_commit": "2025-12-10 13:26:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-10 08:00 UTC"
+  "date": "2025-12-11 08:01 UTC"
 }
