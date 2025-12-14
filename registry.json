@@ -725,7 +725,7 @@
       "url": "https://github.com/ropensci/aRxiv",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-08 19:45:24",
+      "date_last_commit": "2025-12-13 12:31:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7090,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-13 07:59 UTC"
+  "date": "2025-12-14 07:56 UTC"
 }

@@ -10632,7 +10632,7 @@
     "codeRepository": "https://github.com/ropensci/aRxiv",
     "issueTracker": "https://github.com/ropensci/aRxiv/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.16",
+    "version": "0.18",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
