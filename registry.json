@@ -1504,7 +1504,7 @@
       "url": "https://github.com/ropensci/comtradr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-10 21:09:06",
+      "date_last_commit": "2025-12-14 16:52:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1924,7 +1924,7 @@
       "url": "https://github.com/ropensci/dwctaxon",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-10 07:20:32",
+      "date_last_commit": "2025-12-15 02:06:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-04 12:27:52",
+      "date_last_commit": "2025-12-14 19:27:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3248,6 +3248,24 @@
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
+    },
+    {
+      "name": "mantis",
+      "description": "Multiple Time Series Scanner",
+      "details": "Generate interactive html reports that enable quick visual review of multiple related time series stored in a data frame. For static datasets, this can help to identify any temporal artefacts that may affect the validity of subsequent analyses. For live data feeds, regularly scheduled reports can help to pro-actively identify data feed problems or unexpected trends that may require action. The reports are self-contained and shareable without a web server. ",
+      "maintainer": "T. Phuong Quan",
+      "keywords": "",
+      "github": "https://github.com/ropensci/mantis",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/710",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/mantis",
+      "date_last_commit": "2025-12-15 01:16:39",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
     },
     {
       "name": "mapmetadata",
@@ -4824,7 +4842,7 @@
       "url": "https://github.com/ropensci/rentrez",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-05 06:50:21",
+      "date_last_commit": "2025-12-14 10:10:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7090,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-14 07:56 UTC"
+  "date": "2025-12-15 07:58 UTC"
 }
