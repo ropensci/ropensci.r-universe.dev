@@ -1838,6 +1838,20 @@
     "branch": "master"
   },
   {
+    "package": "mantis",
+    "url": "https://github.com/ropensci/mantis",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 710,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/710"
+      }
+    }
+  },
+  {
     "package": "mapmetadata",
     "url": "https://github.com/ropensci/mapmetadata",
     "branch": "main",
