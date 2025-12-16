@@ -288,19 +288,25 @@
     "package": "RNeXML",
     "url": "https://github.com/ropensci/RNeXML",
     "branch": "master",
-    "metadata": "data-publication"
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
   },
   {
     "package": "RSelenium",
     "url": "https://github.com/ropensci/RSelenium",
     "branch": "master",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "ReLTER",
     "url": "https://github.com/ropensci/ReLTER",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "RefManageR",
@@ -366,25 +372,33 @@
     "package": "USAboundaries",
     "url": "https://github.com/ropensci/USAboundaries",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "USAboundariesData",
     "url": "https://github.com/ropensci/USAboundariesData",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "aRxiv",
     "url": "https://github.com/ropensci/aRxiv",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "aeolus",
     "url": "https://github.com/ropenscilabs/aeolus",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "agroclimatico",
@@ -405,7 +419,9 @@
     "package": "allcontributors",
     "url": "https://github.com/ropensci/allcontributors",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "allodb",
@@ -441,7 +457,9 @@
     "package": "antiword",
     "url": "https://github.com/ropensci/antiword",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "aorsf",
@@ -507,13 +525,17 @@
     "package": "autotest",
     "url": "https://github.com/ropensci-review-tools/autotest",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "av",
     "url": "https://github.com/ropensci/av",
     "branch": "master",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "awardFindR",
@@ -564,7 +586,9 @@
     "package": "babeldown",
     "url": "https://github.com/ropensci-review-tools/babeldown",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "babelquarto",
@@ -600,13 +624,17 @@
     "package": "beastier",
     "url": "https://github.com/ropensci/beastier",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "beautier",
     "url": "https://github.com/ropensci/beautier",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "bib2df",
@@ -627,7 +655,9 @@
     "package": "bibtex",
     "url": "https://github.com/ropensci/bibtex",
     "branch": "main",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "bikedata",
@@ -648,7 +678,9 @@
     "package": "binman",
     "url": "https://github.com/ropensci/binman",
     "branch": "master",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "biomartr",
@@ -684,7 +716,9 @@
     "package": "bold",
     "url": "https://github.com/ropensci/bold",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "bowerbird",
@@ -705,7 +739,9 @@
     "package": "brranching",
     "url": "https://github.com/ropensci/brranching",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "butterfly",
@@ -906,7 +942,9 @@
     "package": "chromer",
     "url": "https://github.com/ropensci/chromer",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "circle",
@@ -927,25 +965,33 @@
     "package": "citecorp",
     "url": "https://github.com/ropensci/citecorp",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "ckanr",
     "url": "https://github.com/ropensci/ckanr",
     "branch": "main",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "cld2",
     "url": "https://github.com/ropensci/cld2",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "cld3",
     "url": "https://github.com/ropensci/cld3",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "codemetar",
@@ -996,13 +1042,17 @@
     "package": "commonmark",
     "url": "https://github.com/r-lib/commonmark",
     "branch": "main",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "commonmetar",
     "url": "https://github.com/ropensci-org/commonmetar/",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "comtradr",
@@ -1038,13 +1088,17 @@
     "package": "credentials",
     "url": "https://github.com/r-lib/credentials",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "crul",
     "url": "https://github.com/ropensci/crul",
     "branch": "main",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "cyphr",
@@ -1095,7 +1149,9 @@
     "package": "datapack",
     "url": "https://github.com/ropensci/datapack",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "dataset",
@@ -1176,7 +1232,9 @@
     "package": "deposits",
     "url": "https://github.com/ropenscilabs/deposits",
     "branch": "main",
-    "metadata": "data-publication"
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
   },
   {
     "package": "distionary",
@@ -1497,7 +1555,9 @@
     "package": "fluidsynth",
     "url": "https://github.com/ropensci/fluidsynth",
     "branch": "main",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "forcis",
@@ -1563,19 +1623,25 @@
     "package": "geojson",
     "url": "https://github.com/ropensci/geojson",
     "branch": "main",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geojsonio",
     "url": "https://github.com/ropensci/geojsonio",
     "branch": "main",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geonames",
     "url": "https://github.com/ropensci/geonames",
     "branch": "master",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geotargets",
@@ -1596,7 +1662,9 @@
     "package": "gert",
     "url": "https://github.com/r-lib/gert",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "getCRUCLdata",
@@ -1617,7 +1685,9 @@
     "package": "ghql",
     "url": "https://github.com/ropensci/ghql",
     "branch": "master",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "gigs",
@@ -1638,7 +1708,9 @@
     "package": "git2r",
     "url": "https://github.com/ropensci/git2r",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "git2rdata",
@@ -1659,7 +1731,9 @@
     "package": "gitcellar",
     "url": "https://github.com/ropensci-org/gitcellar",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "gitignore",
@@ -1695,7 +1769,9 @@
     "package": "goodpractice",
     "url": "https://github.com/ropensci-review-tools/goodpractice",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "googleLanguageR",
@@ -1716,7 +1792,9 @@
     "package": "gpg",
     "url": "https://github.com/ropensci/gpg",
     "branch": "master",
-    "metadata": "security"
+    "metadata": {
+      "ropensci_category": "security"
+    }
   },
   {
     "package": "grainchanger",
@@ -1737,7 +1815,9 @@
     "package": "graphql",
     "url": "https://github.com/ropensci/graphql",
     "branch": "master",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "gtexr",
@@ -1773,7 +1853,9 @@
     "package": "handlr",
     "url": "https://github.com/ropensci/handlr",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "hdcuremodels",
@@ -1809,25 +1891,33 @@
     "package": "helminthR",
     "url": "https://github.com/ropensci/helminthR",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "historydata",
     "url": "https://github.com/ropensci/historydata",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "hoardr",
     "url": "https://github.com/ropensci/hoardr",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "hunspell",
     "url": "https://github.com/ropensci/hunspell",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "hydroscoper",
@@ -1848,7 +1938,9 @@
     "package": "icepalace",
     "url": "https://github.com/ropenscilabs/icepalace",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "iheatmapr",
@@ -1884,7 +1976,9 @@
     "package": "internetarchive",
     "url": "https://github.com/ropensci/internetarchive",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "jagstargets",
@@ -1905,25 +1999,33 @@
     "package": "jenkins",
     "url": "https://github.com/ropensci/jenkins",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "jqr",
     "url": "https://github.com/ropensci/jqr",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "jsonld",
     "url": "https://github.com/ropensci/jsonld",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "jstor",
@@ -1959,13 +2061,17 @@
     "package": "katex",
     "url": "https://github.com/ropensci/katex",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "landscapetools",
     "url": "https://github.com/ropensci/landscapetools",
     "branch": "master",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "lightr",
@@ -2001,7 +2107,9 @@
     "package": "magick",
     "url": "https://github.com/ropensci/magick",
     "branch": "master",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "mantis",
@@ -2051,7 +2159,9 @@
     "package": "mauricer",
     "url": "https://github.com/ropensci/mauricer",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "mbquartR",
@@ -2177,13 +2287,17 @@
     "package": "natserv",
     "url": "https://github.com/ropensci/natserv",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "neotoma",
     "url": "https://github.com/ropensci/neotoma",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "nlrx",
@@ -2204,7 +2318,9 @@
     "package": "nodbi",
     "url": "https://github.com/ropensci/nodbi",
     "branch": "master",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "nomisr",
@@ -2330,7 +2446,9 @@
     "package": "opencv",
     "url": "https://github.com/ropensci/opencv",
     "branch": "master",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "opentripplanner",
@@ -2441,13 +2559,17 @@
     "package": "paleobioDB",
     "url": "https://github.com/ropensci/paleobioDB",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "pangaear",
     "url": "https://github.com/ropensci/pangaear",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "pangoling",
@@ -2528,7 +2650,9 @@
     "package": "pdftools",
     "url": "https://github.com/ropensci/pdftools",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "phonfieldwork",
@@ -2579,7 +2703,9 @@
     "package": "phylocomr",
     "url": "https://github.com/ropensci/phylocomr",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "phylogram",
@@ -2645,7 +2771,9 @@
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "pkgmatch",
@@ -2666,13 +2794,17 @@
     "package": "pkgreviewr",
     "url": "https://github.com/ropensci-org/pkgreviewr",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "plater",
@@ -2708,7 +2840,9 @@
     "package": "postdoc",
     "url": "https://github.com/ropensci/postdoc",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "predictNMB",
@@ -2729,31 +2863,41 @@
     "package": "prism",
     "url": "https://github.com/ropensci/prism",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "prismjs",
     "url": "https://github.com/ropensci/prismjs",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "promoutils",
     "url": "https://github.com/ropensci-org/promoutils/",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "qcoder",
     "url": "https://github.com/ropenscilabs/qcoder",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "qpdf",
     "url": "https://github.com/ropensci/qpdf",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "quadkeyr",
@@ -2804,13 +2948,17 @@
     "package": "quartificate",
     "url": "https://github.com/ropenscilabs/quartificate",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "r2readthedocs",
     "url": "https://github.com/ropenscilabs/r2readthedocs",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rOPTRAM",
@@ -2891,19 +3039,25 @@
     "package": "rcrossref",
     "url": "https://github.com/ropensci/rcrossref",
     "branch": "main",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "rdatacite",
     "url": "https://github.com/ropensci/rdatacite",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "rdataretriever",
     "url": "https://github.com/ropensci/rdataretriever",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rdflib",
@@ -2939,7 +3093,9 @@
     "package": "rdryad",
     "url": "https://github.com/ropensci/rdryad",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "readODS",
@@ -2960,14 +3116,18 @@
     "package": "rebird",
     "url": "https://github.com/ropensci/rebird",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "redland",
     "url": "https://github.com/ropensci/redland-bindings",
     "branch": "master",
     "subdir": "R/redland",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "refsplitr",
@@ -2988,19 +3148,25 @@
     "package": "rentrez",
     "url": "https://github.com/ropensci/rentrez",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "repometrics",
     "url": "https://github.com/ropensci-review-tools/repometrics",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rerddap",
     "url": "https://github.com/ropensci/rerddap",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "restez",
@@ -3051,31 +3217,41 @@
     "package": "rfisheries",
     "url": "https://github.com/ropensci/rfisheries",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rgbif",
     "url": "https://github.com/ropensci/rgbif",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rglobi",
     "url": "https://github.com/ropensci/rglobi",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rgnparser",
     "url": "https://github.com/ropensci/rgnparser",
     "branch": "main",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "rgpdd",
     "url": "https://github.com/ropensci/rgpdd",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "riem",
@@ -3096,13 +3272,17 @@
     "package": "rinat",
     "url": "https://github.com/ropensci/rinat",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "ritis",
     "url": "https://github.com/ropensci/ritis",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "rix",
@@ -3183,19 +3363,25 @@
     "package": "rnaturalearthdata",
     "url": "https://github.com/ropensci/rnaturalearthdata",
     "branch": "main",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "roadoi",
@@ -3216,7 +3402,9 @@
     "package": "roblog",
     "url": "https://github.com/ropensci-org/roblog",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "robotstxt",
@@ -3237,13 +3425,17 @@
     "package": "roreviewapi",
     "url": "https://github.com/ropensci-review-tools/roreviewapi",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rotemplate",
     "url": "https://github.com/ropensci-org/rotemplate",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rotl",
@@ -3309,7 +3501,9 @@
     "package": "rrricanesdata",
     "url": "https://github.com/ropensci/rrricanesdata",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rsat",
@@ -3345,13 +3539,17 @@
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rsvg",
     "url": "https://github.com/ropensci/rsvg",
     "branch": "master",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "rtika",
@@ -3402,19 +3600,25 @@
     "package": "rvertnet",
     "url": "https://github.com/ropensci/rvertnet",
     "branch": "main",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rzmq",
     "url": "https://github.com/ropensci/rzmq",
     "branch": "master",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "saperlipopette",
     "url": "https://github.com/ropensci-training/saperlipopette/",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "sasquatch",
@@ -3510,13 +3714,17 @@
     "package": "sodium",
     "url": "https://github.com/r-lib/sodium",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "sofa",
     "url": "https://github.com/ropensci/sofa",
     "branch": "master",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "spatsoc",
@@ -3537,7 +3745,9 @@
     "package": "spelling",
     "url": "https://github.com/ropensci/spelling",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "spiro",
@@ -3558,13 +3768,17 @@
     "package": "spocc",
     "url": "https://github.com/ropensci/spocc",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "srr",
     "url": "https://github.com/ropensci-review-tools/srr",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "ssarp",
@@ -3585,7 +3799,9 @@
     "package": "ssh",
     "url": "https://github.com/ropensci/ssh",
     "branch": "master",
-    "metadata": "security"
+    "metadata": {
+      "ropensci_category": "security"
+    }
   },
   {
     "package": "stantargets",
@@ -3681,7 +3897,9 @@
     "package": "tarchetypes",
     "url": "https://github.com/ropensci/tarchetypes",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "targets",
@@ -3702,7 +3920,9 @@
     "package": "taxa",
     "url": "https://github.com/ropensci/taxa",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxadb",
@@ -3723,13 +3943,17 @@
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxlist",
@@ -3765,7 +3989,9 @@
     "package": "tesseract",
     "url": "https://github.com/ropensci/tesseract",
     "branch": "master",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "textreuse",
@@ -3861,7 +4087,9 @@
     "package": "tif",
     "url": "https://github.com/ropenscilabs/tif",
     "branch": "master",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "tiler",
@@ -3882,7 +4110,9 @@
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "tokenizers",
@@ -3903,7 +4133,9 @@
     "package": "tracerer",
     "url": "https://github.com/ropensci/tracerer",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "tradestatistics",
@@ -3924,13 +4156,17 @@
     "package": "traits",
     "url": "https://github.com/ropensci/traits",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "treebase",
     "url": "https://github.com/ropensci/treebase",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "treedata.table",
@@ -4026,19 +4262,25 @@
     "package": "universe",
     "url": "https://github.com/ropensci/universe",
     "branch": "main",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "unrtf",
     "url": "https://github.com/ropensci/unrtf",
     "branch": "main",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "branch": "main",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "virtuoso",
@@ -4104,7 +4346,9 @@
     "package": "wdman",
     "url": "https://github.com/ropensci/wdman",
     "branch": "master",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "weatherOz",
@@ -4140,19 +4384,25 @@
     "package": "webchem",
     "url": "https://github.com/ropensci/webchem",
     "branch": "master",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
     "branch": "main",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "wikitaxa",
     "url": "https://github.com/ropensci/wikitaxa",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "wmm",
@@ -4188,19 +4438,25 @@
     "package": "worrms",
     "url": "https://github.com/ropensci/worrms",
     "branch": "master",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "writexl",
     "url": "https://github.com/ropensci/writexl",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "xslt",
     "url": "https://github.com/ropensci/xslt",
     "branch": "master",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "yfR",
