@@ -67227,7 +67227,7 @@
     "codeRepository": "https://github.com/ropensci/rfishbase",
     "issueTracker": "https://github.com/ropensci/rfishbase/issues",
     "license": "https://spdx.org/licenses/CC0-1.0",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67368,7 +67368,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.0"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -67408,30 +67408,6 @@
       },
       "5": {
         "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "jsonlite",
-        "name": "jsonlite",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
         "provider": {
@@ -67442,7 +67418,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "8": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "duckdbfs",
         "name": "duckdbfs",
@@ -67455,7 +67431,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=duckdbfs"
       },
-      "9": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -67467,7 +67443,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "10": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "magrittr",
         "name": "magrittr",
@@ -67479,7 +67455,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=magrittr"
       },
-      "11": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "memoise",
         "name": "memoise",
@@ -67490,6 +67466,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=memoise"
+      },
+      "10": {
+        "@type": "SoftwareApplication",
+        "identifier": "xml2",
+        "name": "xml2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=xml2"
       },
       "SystemRequirements": null
     },
@@ -78000,7 +77988,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.12.9000",
+    "version": "0.2.12.9001",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -81796,7 +81784,7 @@
     "codeRepository": "https://github.com/ropensci/targets",
     "issueTracker": "https://github.com/ropensci/targets/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.11.4.9003",
+    "version": "1.11.4.9004",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
