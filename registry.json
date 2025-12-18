@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-20 17:04:56",
+      "date_last_commit": "2025-12-17 10:59:37",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 10:46:21",
+      "date_last_commit": "2025-12-17 10:42:05",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4562,7 +4562,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-03 00:42:40",
+      "date_last_commit": "2025-12-17 13:59:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5762,7 +5762,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-16 15:00:45",
+      "date_last_commit": "2025-12-17 20:53:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-17 07:58 UTC"
+  "date": "2025-12-18 07:57 UTC"
 }
