@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 11:29:43",
+      "date_last_commit": "2025-12-18 13:28:40",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-10 09:31:37",
+      "date_last_commit": "2025-12-18 10:37:28",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -844,7 +844,7 @@
       "url": "https://github.com/ropensci/BaseSet",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-16 19:55:05",
+      "date_last_commit": "2025-12-19 00:47:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1224,7 +1224,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-29 10:00:38",
+      "date_last_commit": "2025-12-19 01:12:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-07 18:26:39",
+      "date_last_commit": "2025-12-18 17:14:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4962,7 +4962,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-12 11:08:17",
+      "date_last_commit": "2025-12-18 09:42:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-18 07:57 UTC"
+  "date": "2025-12-19 07:57 UTC"
 }
