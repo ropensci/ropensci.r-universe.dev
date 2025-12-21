@@ -11187,6 +11187,7 @@
         "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
+        "version": ">= 1.50",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
