@@ -38037,6 +38037,13 @@
     "author": [
       {
         "@type": "Person",
+        "givenName": "Jordan",
+        "familyName": "Bradford",
+        "email": "jrdnbradford@gmail.com",
+        "@id": "https://orcid.org/0009-0000-8570-3474"
+      },
+      {
+        "@type": "Person",
         "givenName": "Jon",
         "familyName": "Harmon",
         "email": "jonthegeek@gmail.com",
@@ -38047,13 +38054,6 @@
         "givenName": "Myfanwy",
         "familyName": "Johnston",
         "email": "mrowlan1@gmail.com"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Jordan",
-        "familyName": "Bradford",
-        "email": "jrdnbradford@gmail.com",
-        "@id": "https://orcid.org/0009-0000-8570-3474"
       },
       {
         "@type": "Person",
@@ -38073,10 +38073,10 @@
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Jon",
-        "familyName": "Harmon",
-        "email": "jonthegeek@gmail.com",
-        "@id": "https://orcid.org/0000-0003-4781-4346"
+        "givenName": "Jordan",
+        "familyName": "Bradford",
+        "email": "jrdnbradford@gmail.com",
+        "@id": "https://orcid.org/0009-0000-8570-3474"
       }
     ],
     "softwareSuggestions": [
@@ -72967,12 +72967,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",

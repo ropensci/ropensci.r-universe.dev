@@ -2773,7 +2773,7 @@
       "name": "gutenbergr",
       "description": "Download and Process Public Domain Works from Project Gutenberg",
       "details": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
-      "maintainer": "Jon Harmon",
+      "maintainer": "Jordan Bradford",
       "keywords": "peer-reviewed",
       "github": "https://github.com/ropensci/gutenbergr",
       "status": "https://www.repostatus.org#active",
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-14 19:27:33",
+      "date_last_commit": "2025-12-22 20:39:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3244,7 +3244,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-25 13:11:12",
+      "date_last_commit": "2025-12-22 18:51:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-19 14:16:33",
+      "date_last_commit": "2025-12-22 16:28:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5102,7 +5102,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-15 15:52:45",
+      "date_last_commit": "2025-12-22 15:16:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5376,7 +5376,7 @@
       "github": "https://github.com/ropensci/Rpolyhedra",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/157",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/Rpolyhedra",
@@ -5384,7 +5384,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2024-10-31 19:51:49",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-22 08:00 UTC"
+  "date": "2025-12-23 08:01 UTC"
 }
