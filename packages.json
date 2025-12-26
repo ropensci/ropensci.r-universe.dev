@@ -1201,7 +1201,7 @@
   {
     "package": "dbparser",
     "url": "https://github.com/ropensci/dbparser",
-    "branch": "master",
+    "branch": "dev",
     "metadata": {
       "review": {
         "id": 347,
