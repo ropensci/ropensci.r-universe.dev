@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-18 07:19:41",
+      "date_last_commit": "2025-12-26 08:36:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-26 07:56 UTC"
+  "date": "2025-12-27 07:57 UTC"
 }

@@ -24339,7 +24339,7 @@
     "codeRepository": "https://github.com/ropensci/dbparser",
     "issueTracker": "https://github.com/ropensci/dbparser/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.3",
+    "version": "2.1.0.9002",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24439,6 +24439,18 @@
     "softwareRequirements": {
       "1": {
         "@type": "SoftwareApplication",
+        "identifier": "data.table",
+        "name": "data.table",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=data.table"
+      },
+      "2": {
+        "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
         "provider": {
@@ -24449,7 +24461,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "2": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "progress",
         "name": "progress",
@@ -24461,7 +24473,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=progress"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -24473,7 +24485,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -24485,12 +24497,17 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "tools",
         "name": "tools"
       },
-      "6": {
+      "7": {
+        "@type": "SoftwareApplication",
+        "identifier": "utils",
+        "name": "utils"
+      },
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "XML",
         "name": "XML",
@@ -24502,7 +24519,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=XML"
       },
-      "7": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -24528,7 +24545,7 @@
         ],
         "name": "DrugBank Database XML Parser",
         "url": "https://CRAN.R-project.org/package=dbparser",
-        "description": "R package version 2.0.3"
+        "description": "R package version 2.1.0.9002"
       }
     ],
     "readme": "https://github.com/ropensci/dbparser/blob/HEAD/README.md",
