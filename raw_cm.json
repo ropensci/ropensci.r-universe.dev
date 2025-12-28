@@ -24339,7 +24339,7 @@
     "codeRepository": "https://github.com/ropensci/dbparser",
     "issueTracker": "https://github.com/ropensci/dbparser/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.1.0.9002",
+    "version": "2.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24545,7 +24545,7 @@
         ],
         "name": "DrugBank Database XML Parser",
         "url": "https://CRAN.R-project.org/package=dbparser",
-        "description": "R package version 2.1.0.9002"
+        "description": "R package version 2.2.0"
       }
     ],
     "readme": "https://github.com/ropensci/dbparser/blob/HEAD/README.md",

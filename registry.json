@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-26 08:36:56",
+      "date_last_commit": "2025-12-27 18:29:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3244,7 +3244,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-22 18:51:00",
+      "date_last_commit": "2025-12-27 12:41:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-27 07:57 UTC"
+  "date": "2025-12-28 07:56 UTC"
 }
