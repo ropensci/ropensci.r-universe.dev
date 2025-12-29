@@ -38320,7 +38320,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["digital-humanities", "peer-reviewed"]
+    "keywords": ["digital-humanities", "nlp", "peer-reviewed", "project-gutenberg", "text-mining"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
