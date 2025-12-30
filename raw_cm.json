@@ -5119,7 +5119,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.60",
+    "version": "0.2.1.67",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38111,6 +38111,45 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "devtools",
+        "name": "devtools",
+        "version": ">= 2.4.5",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=devtools"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "fs",
+        "name": "fs",
+        "version": ">= 1.6.6",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=fs"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "here",
+        "name": "here",
+        "version": ">= 1.0.2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=here"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
         "provider": {
@@ -38120,6 +38159,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "lubridate",
+        "name": "lubridate",
+        "version": ">= 1.9.4",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
       {
         "@type": "SoftwareApplication",
@@ -38172,6 +38224,19 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "usethis",
+        "name": "usethis",
+        "version": ">= 3.2.1",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=usethis"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
         "provider": {
@@ -38181,6 +38246,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "xml2",
+        "name": "xml2",
+        "version": ">= 1.5.1",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=xml2"
       }
     ],
     "softwareRequirements": {
@@ -38320,7 +38398,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["digital-humanities", "nlp", "peer-reviewed", "project-gutenberg", "text-mining"]
+    "keywords": ["digital-humanities", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -84017,7 +84095,7 @@
     "codeRepository": "https://github.com/ropensci/taxlist",
     "issueTracker": "https://github.com/ropensci/taxlist/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.3.4",
+    "version": "0.3.6",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -84207,18 +84285,6 @@
         "identifier": "utils",
         "name": "utils"
       },
-      "11": {
-        "@type": "SoftwareApplication",
-        "identifier": "vegdata",
-        "name": "vegdata",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=vegdata"
-      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -84236,7 +84302,7 @@
         ],
         "name": "taxlist: Handling Taxonomic Lists",
         "url": "https://cran.r-project.org/package=taxlist",
-        "description": "R package version 0.3.4"
+        "description": "R package version 0.3.6"
       },
       {
         "@type": "ScholarlyArticle",
@@ -84269,13 +84335,7 @@
         }
       }
     ],
-    "readme": "https://github.com/ropensci/taxlist/blob/HEAD/README.md",
-    "review": {
-      "@type": "Review",
-      "url": "https://github.com/ropensci/software-review/issues/233",
-      "provider": "https://ropensci.org"
-    },
-    "developmentStatus": []
+    "readme": "https://github.com/ropensci/taxlist/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -84641,7 +84701,7 @@
     "codeRepository": "https://github.com/ropensci/tesseract",
     "issueTracker": "https://github.com/ropensci/tesseract/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "5.2.3",
+    "version": "5.2.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

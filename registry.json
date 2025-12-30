@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-26 05:36:16",
+      "date_last_commit": "2025-12-30 07:43:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2774,7 +2774,7 @@
       "description": "Download and Process Public Domain Works from Project Gutenberg",
       "details": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
       "maintainer": "Jordan Bradford",
-      "keywords": "digital-humanities, nlp, peer-reviewed, project-gutenberg, text-mining",
+      "keywords": "digital-humanities, nlp, peer-reviewed, project-gutenberg, public-domain, text-mining",
       "github": "https://github.com/ropensci/gutenbergr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/41",
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-29 00:12:36",
+      "date_last_commit": "2025-12-30 02:44:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5102,7 +5102,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-22 15:16:07",
+      "date_last_commit": "2025-12-29 17:39:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6135,14 +6135,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/taxlist",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/233",
+      "onboarding": "",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-14 18:13:54",
+      "date_last_commit": "2025-12-29 15:22:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6182,7 +6182,7 @@
       "url": "https://github.com/ropensci/tesseract",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-23 13:55:20",
+      "date_last_commit": "2025-12-29 14:29:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-29 07:58 UTC"
+  "date": "2025-12-30 07:57 UTC"
 }
