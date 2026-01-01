@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-30 02:44:43",
+      "date_last_commit": "2025-12-31 16:17:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6782,7 +6782,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-15 17:46:25",
+      "date_last_commit": "2026-01-01 02:43:44",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2025-12-31 07:58 UTC"
+  "date": "2026-01-01 07:58 UTC"
 }
