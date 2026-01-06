@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-16 14:50:27",
+      "date_last_commit": "2026-01-05 20:54:06",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-02 19:15:37",
+      "date_last_commit": "2026-01-05 23:52:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5102,7 +5102,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-29 17:39:32",
+      "date_last_commit": "2026-01-05 15:34:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5662,7 +5662,7 @@
       "url": "https://github.com/ropensci/skimr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-02 18:42:48",
+      "date_last_commit": "2026-01-06 03:53:04",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6042,7 +6042,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-28 17:23:17",
+      "date_last_commit": "2026-01-05 20:59:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-05 08:01 UTC"
+  "date": "2026-01-06 07:58 UTC"
 }
