@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-17 10:59:37",
+      "date_last_commit": "2026-01-08 21:02:20",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-05 20:54:06",
+      "date_last_commit": "2026-01-08 16:52:53",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-30 17:00:12",
+      "date_last_commit": "2026-01-08 20:51:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-07 17:13:56",
+      "date_last_commit": "2026-01-08 14:26:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5182,7 +5182,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-02 18:32:03",
+      "date_last_commit": "2026-01-08 18:44:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5662,7 +5662,7 @@
       "url": "https://github.com/ropensci/skimr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-06 03:53:04",
+      "date_last_commit": "2026-01-08 23:45:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-08 08:02 UTC"
+  "date": "2026-01-09 07:59 UTC"
 }
