@@ -2738,7 +2738,7 @@
     "codeRepository": "https://github.com/r-lib/gert",
     "issueTracker": "https://github.com/r-lib/gert/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38034,7 +38034,7 @@
     "identifier": "gutenbergr",
     "description": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
     "name": "gutenbergr: Download and Process Public Domain Works from Project Gutenberg",
-    "relatedLink": ["https://docs.ropensci.org/gutenbergr/", "https://github.com/ropensci/gutenbergr"],
+    "relatedLink": ["https://docs.ropensci.org/gutenbergr/", "https://ropensci.r-universe.dev/gutenbergr", "https://github.com/ropensci/gutenbergr"],
     "codeRepository": "https://github.com/ropensci/gutenbergr",
     "issueTracker": "https://github.com/ropensci/gutenbergr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
@@ -38282,18 +38282,6 @@
       },
       "3": {
         "@type": "SoftwareApplication",
-        "identifier": "dlr",
-        "name": "dlr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dlr"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
         "provider": {
@@ -38304,7 +38292,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "glue",
         "name": "glue",
@@ -38316,7 +38304,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=glue"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
@@ -38328,7 +38316,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "readMDTable",
         "name": "readMDTable",
@@ -38340,7 +38328,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readMDTable"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -38352,7 +38340,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -38364,7 +38352,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -38376,7 +38364,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -38388,7 +38376,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "urltools",
         "name": "urltools",

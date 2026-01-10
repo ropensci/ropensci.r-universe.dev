@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-08 16:52:53",
+      "date_last_commit": "2026-01-09 19:39:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-08 20:51:27",
+      "date_last_commit": "2026-01-09 20:17:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2504,7 +2504,7 @@
       "url": "https://github.com/ropensci/getCRUCLdata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-06 08:12:34",
+      "date_last_commit": "2026-01-10 05:09:34",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-08 14:26:24",
+      "date_last_commit": "2026-01-09 23:32:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-09 07:59 UTC"
+  "date": "2026-01-10 07:58 UTC"
 }
