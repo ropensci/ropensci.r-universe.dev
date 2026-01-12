@@ -2886,7 +2886,7 @@
   {
     "package": "qcoder",
     "url": "https://github.com/ropenscilabs/qcoder",
-    "branch": "master",
+    "branch": "main",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
