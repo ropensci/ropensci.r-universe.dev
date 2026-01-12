@@ -1224,7 +1224,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-20 22:09:28",
+      "date_last_commit": "2026-01-11 19:20:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1844,7 +1844,7 @@
       "url": "https://github.com/ropensci/dittodb",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-11 05:03:29",
+      "date_last_commit": "2026-01-11 15:31:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-22 16:28:18",
+      "date_last_commit": "2026-01-12 00:37:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5122,7 +5122,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-10 11:49:24",
+      "date_last_commit": "2026-01-11 12:41:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7042,7 +7042,7 @@
       "url": "https://github.com/ropenscilabs/qcoder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": true,
-      "date_last_commit": "2021-12-27 16:40:23",
+      "date_last_commit": "2026-01-12 03:29:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-11 07:57 UTC"
+  "date": "2026-01-12 08:00 UTC"
 }
