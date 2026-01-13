@@ -4457,7 +4457,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.5",
+    "version": "0.2.1.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -26925,7 +26925,7 @@
     "codeRepository": "https://github.com/ropensci/EDIutils",
     "issueTracker": "https://github.com/ropensci/EDIutils/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.3",
+    "version": "2.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -26943,16 +26943,14 @@
         "@type": "Person",
         "givenName": "Colin",
         "familyName": "Smith",
-        "email": "colin.smith@wisc.edu",
-        "@id": "https://orcid.org/0000-0003-2261-9931"
+        "email": "colin.smith@wisc.edu"
       }
     ],
     "contributor": [
       {
         "@type": "Person",
         "givenName": "Corinna",
-        "familyName": "Gries",
-        "@id": "https://orcid.org/0000-0002-9091-6543"
+        "familyName": "Gries"
       }
     ],
     "maintainer": [
@@ -26960,8 +26958,7 @@
         "@type": "Person",
         "givenName": "Colin",
         "familyName": "Smith",
-        "email": "colin.smith@wisc.edu",
-        "@id": "https://orcid.org/0000-0003-2261-9931"
+        "email": "colin.smith@wisc.edu"
       }
     ],
     "softwareSuggestions": [
@@ -27086,6 +27083,11 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
+        "identifier": "utils",
+        "name": "utils"
       },
       "SystemRequirements": null
     },
@@ -38038,7 +38040,7 @@
     "codeRepository": "https://github.com/ropensci/gutenbergr",
     "issueTracker": "https://github.com/ropensci/gutenbergr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.3.1.9000",
+    "version": "0.4.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

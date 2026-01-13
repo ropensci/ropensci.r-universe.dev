@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-08 21:02:20",
+      "date_last_commit": "2026-01-12 21:08:01",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-18 10:37:28",
+      "date_last_commit": "2026-01-12 10:58:13",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-16 12:35:56",
+      "date_last_commit": "2026-01-12 15:34:38",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1964,7 +1964,7 @@
       "url": "https://github.com/ropensci/EDIutils",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-10-10 17:21:04",
+      "date_last_commit": "2026-01-09 17:34:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-09 23:32:59",
+      "date_last_commit": "2026-01-12 14:15:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5102,7 +5102,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-10 11:19:13",
+      "date_last_commit": "2026-01-12 16:48:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5122,7 +5122,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-11 12:41:02",
+      "date_last_commit": "2026-01-13 07:10:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7042,7 +7042,7 @@
       "url": "https://github.com/ropenscilabs/qcoder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": true,
-      "date_last_commit": "2026-01-12 03:29:56",
+      "date_last_commit": "2026-01-13 05:06:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7108,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-12 08:00 UTC"
+  "date": "2026-01-13 07:58 UTC"
 }
