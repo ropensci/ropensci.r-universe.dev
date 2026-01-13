@@ -3098,6 +3098,20 @@
     }
   },
   {
+    "package": "read.abares",
+    "url": "https://github.com/ropensci/read.abares",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 667,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/667"
+      }
+    }
+  },
+  {
     "package": "readODS",
     "url": "https://github.com/ropensci/readODS",
     "branch": "v2.4",
