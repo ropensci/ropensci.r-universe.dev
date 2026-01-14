@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-05 04:40:50",
+      "date_last_commit": "2026-01-13 15:14:39",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1224,7 +1224,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-11 19:20:03",
+      "date_last_commit": "2026-01-13 21:11:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1724,7 +1724,7 @@
       "url": "https://github.com/ropensci/dataset",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-16 16:41:40",
+      "date_last_commit": "2026-01-13 18:06:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1932,7 +1932,7 @@
     {
       "name": "dynamite",
       "description": "Bayesian Modeling and Causal Inference for Multivariate\n    Longitudinal Data",
-      "details": "Easy-to-use and efficient interface for Bayesian inference of complex panel (time series) data using dynamic multivariate panel models by Helske and Tikka (2024) <doi:10.1016/j.alcr.2024.100617>. The package supports joint modeling of multiple measurements per individual, time-varying and time-invariant effects, and a wide range of discrete and continuous distributions. Estimation of these dynamic multivariate panel models is carried out via 'Stan'. For an in-depth tutorial of the package, see (Tikka and Helske, 2024) <doi:10.48550/arXiv.2302.01607>.",
+      "details": "Easy-to-use and efficient interface for Bayesian inference of complex panel (time series) data using dynamic multivariate panel models by Helske and Tikka (2024) <doi:10.1016/j.alcr.2024.100617>. The package supports joint modeling of multiple measurements per individual, time-varying and time-invariant effects, and a wide range of discrete and continuous distributions. Estimation of these dynamic multivariate panel models is carried out via 'Stan'. For an in-depth tutorial of the package, see (Tikka and Helske, 2025) <doi:10.18637/jss.v115.i05>.",
       "maintainer": "Santtu Tikka",
       "keywords": "bayesian-inference, panel-data, quarto, stan, statistical-models",
       "github": "https://github.com/ropensci/dynamite",
@@ -1944,7 +1944,7 @@
       "url": "https://github.com/ropensci/dynamite",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-26 12:02:19",
+      "date_last_commit": "2026-01-13 10:12:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 14:15:42",
+      "date_last_commit": "2026-01-13 19:03:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3262,7 +3262,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mantis",
-      "date_last_commit": "2025-12-15 01:16:39",
+      "date_last_commit": "2026-01-13 16:22:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 00:37:40",
+      "date_last_commit": "2026-01-13 17:12:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4002,7 +4002,7 @@
       "url": "https://github.com/ropensci/pangoling",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-09 07:21:21",
+      "date_last_commit": "2026-01-13 15:59:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4728,6 +4728,24 @@
       "staff_maintained": false
     },
     {
+      "name": "read.abares",
+      "description": "Download and Import Agricultural Data from the Australian Bureau of\n    Agricultural and Resource Economics and Sciences (ABARES) and\n    Australian Bureau of Statistics (ABS)",
+      "details": "Download and import agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Data types serviced include spreadsheets, CSV files, geospatial data including shape files and geotiffs covering topics including broadacre crops, livestock, soil data, commodities and more.",
+      "maintainer": "Adam H. Sparks",
+      "keywords": "agriculture, agriculture-data, agriculture-dataset, agriculture-trade-data, australia, data-retrieval, land-use-classification, land-use-data, open-data, open-datasets",
+      "github": "https://github.com/ropensci/read.abares",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/667",
+      "on_cran": false,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/read.abares",
+      "date_last_commit": "2026-01-13 13:00:21",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "readODS",
       "description": "Read and Write ODS Files",
       "details": "Read ODS (OpenDocument Spreadsheet) into R as data frame. Also support writing data frame into ODS file.",
@@ -4862,7 +4880,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-03 16:58:30",
+      "date_last_commit": "2026-01-14 00:24:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5182,7 +5200,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-08 18:44:39",
+      "date_last_commit": "2026-01-13 19:14:41",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6802,7 +6820,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-19 03:01:29",
+      "date_last_commit": "2026-01-14 05:56:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7042,7 +7060,7 @@
       "url": "https://github.com/ropenscilabs/qcoder",
       "ropensci_category": "data-extraction",
       "ropenscilabs": true,
-      "date_last_commit": "2026-01-13 05:06:14",
+      "date_last_commit": "2026-01-13 17:44:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7108,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-13 07:58 UTC"
+  "date": "2026-01-14 08:10 UTC"
 }
