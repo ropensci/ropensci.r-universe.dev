@@ -6928,7 +6928,7 @@
     "codeRepository": "https://github.com/e-sensing/sits",
     "issueTracker": "https://github.com/e-sensing/sits/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.5.3.1",
+    "version": "1.5.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7152,18 +7152,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=dtwclust"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "DiagrammeR",
-        "name": "DiagrammeR",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=DiagrammeR"
       },
       {
         "@type": "SoftwareApplication",
@@ -7400,6 +7388,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=scales"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "snic",
+        "name": "snic",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=snic"
       },
       {
         "@type": "SoftwareApplication",
@@ -7730,7 +7730,7 @@
         "@type": "SoftwareApplication",
         "identifier": "torch",
         "name": "torch",
-        "version": ">= 0.15.0",
+        "version": ">= 0.16.3",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -49366,14 +49366,7 @@
         "@type": "SoftwareApplication",
         "identifier": "elastic",
         "name": "elastic",
-        "version": ">= 1.2.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=elastic"
+        "version": ">= 1.2.0"
       },
       {
         "@type": "SoftwareApplication",
@@ -51687,7 +51680,7 @@
     "codeRepository": "https://github.com/ropensci/openalexR",
     "issueTracker": "https://github.com/ropensci/openalexR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.0.0",
+    "version": "3.0.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53367,7 +53360,7 @@
     "codeRepository": "https://github.com/ropensci/osmdata",
     "issueTracker": "https://github.com/ropensci/osmdata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.3.0.9021",
+    "version": "0.3.0.9024",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -54862,6 +54855,7 @@
     },
     "applicationCategory": "Biodiversity",
     "isPartOf": "https://ropensci.org",
+    "keywords": ["Pangaea", "environmentalscience", "earthscience", "archive", "paleontology", "ecology", "chemistry", "atmosphere"],
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md",
     "developmentStatus": []
@@ -59267,7 +59261,7 @@
     "codeRepository": "https://github.com/ropensci/postdoc",
     "issueTracker": "https://github.com/ropensci/postdoc/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -69753,7 +69747,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.17.3",
+    "version": "0.17.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -89476,6 +89470,53 @@
     },
     "fileSize": "NAKB",
     "citation": [
+      {
+        "@type": "ScholarlyArticle",
+        "datePublished": "2026",
+        "author": [
+          {
+            "@type": "Person",
+            "givenName": "Alasdair Neil",
+            "familyName": "Warwick",
+            "email": "alasdair.warwick.19@ucl.ac.uk",
+            "@id": "https://orcid.org/0000-0002-0800-2890"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Abraham",
+            "familyName": "Olvera-Barrios",
+            "@id": "https://orcid.org/0000-0002-3305-4465"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Chuin Ying",
+            "familyName": "Ung",
+            "@id": "https://orcid.org/0000-0001-8487-4589"
+          },
+          {
+            "@type": "Person",
+            "givenName": "Robert",
+            "familyName": "Luben",
+            "@id": "https://orcid.org/0000-0002-5088-6343"
+          }
+        ],
+        "name": "trud: An R interface to the NHS England Technology Reference data Update Distribution (TRUD) API",
+        "identifier": "10.21105/joss.09000",
+        "url": "https://doi.org/10.21105/joss.09000",
+        "pagination": "9000",
+        "@id": "https://doi.org/10.21105/joss.09000",
+        "sameAs": "https://doi.org/10.21105/joss.09000",
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "117",
+          "datePublished": "2026",
+          "isPartOf": {
+            "@type": ["PublicationVolume", "Periodical"],
+            "volumeNumber": "11",
+            "name": "Journal of Open Source Software"
+          }
+        }
+      },
       {
         "@type": "SoftwareSourceCode",
         "datePublished": "2024",

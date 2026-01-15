@@ -490,7 +490,7 @@
       "url": "https://github.com/e-sensing/sits",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-08 17:23:01",
+      "date_last_commit": "2026-01-14 18:08:19",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-13 17:12:36",
+      "date_last_commit": "2026-01-14 09:51:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3882,7 +3882,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-03 18:21:54",
+      "date_last_commit": "2026-01-14 11:48:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3972,7 +3972,7 @@
       "description": "Client for the 'Pangaea' Database",
       "details": "Tools to interact with the 'Pangaea' Database (<https://www.pangaea.de>), including functions for searching for data, fetching 'datasets' by 'dataset' 'ID', and working with the 'Pangaea' 'OAI-PMH' service.",
       "maintainer": "Scott Chamberlain",
-      "keywords": "",
+      "keywords": "archive, atmosphere, chemistry, earthscience, ecology, environmentalscience, paleontology, Pangaea",
       "github": "https://github.com/ropensci/pangaear",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -4362,7 +4362,7 @@
       "url": "https://github.com/ropensci/postdoc",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-13 12:59:50",
+      "date_last_commit": "2026-01-14 16:33:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5120,7 +5120,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 16:48:08",
+      "date_last_commit": "2026-01-15 07:52:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6520,7 +6520,7 @@
       "url": "https://github.com/ropensci/trud",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-16 09:02:54",
+      "date_last_commit": "2026-01-14 15:48:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-14 08:10 UTC"
+  "date": "2026-01-15 08:00 UTC"
 }
