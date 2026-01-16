@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 15:34:38",
+      "date_last_commit": "2026-01-15 10:43:55",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-30 07:43:25",
+      "date_last_commit": "2026-01-15 16:37:14",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -414,7 +414,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-07 10:02:26",
+      "date_last_commit": "2026-01-15 10:50:17",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -528,7 +528,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-26 14:45:46",
+      "date_last_commit": "2026-01-15 10:42:36",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1244,7 +1244,7 @@
       "url": "https://github.com/ropensci/charlatan",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:22:52",
+      "date_last_commit": "2026-01-15 20:01:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2044,7 +2044,7 @@
       "url": "https://github.com/ropensci/emld",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-20 19:56:27",
+      "date_last_commit": "2026-01-15 20:47:03",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4740,7 +4740,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/read.abares",
-      "date_last_commit": "2026-01-13 13:00:21",
+      "date_last_commit": "2026-01-16 07:48:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4880,7 +4880,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-14 00:24:31",
+      "date_last_commit": "2026-01-15 15:36:54",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4980,7 +4980,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-18 09:42:17",
+      "date_last_commit": "2026-01-15 12:37:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5120,7 +5120,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-15 07:52:47",
+      "date_last_commit": "2026-01-15 15:33:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5360,7 +5360,7 @@
       "url": "https://github.com/ropensci/rotl",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2023-06-16 12:51:36",
+      "date_last_commit": "2026-01-15 17:36:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5920,7 +5920,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-12 11:26:37",
+      "date_last_commit": "2026-01-15 09:55:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6060,7 +6060,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-05 20:59:10",
+      "date_last_commit": "2026-01-15 16:12:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-15 08:00 UTC"
+  "date": "2026-01-16 07:57 UTC"
 }

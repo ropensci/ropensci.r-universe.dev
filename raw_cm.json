@@ -4457,7 +4457,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.7",
+    "version": "0.2.1.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5870,7 +5870,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.36",
+    "version": "0.1.1.39",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7916,7 +7916,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/srr",
     "issueTracker": "https://github.com/ropensci-review-tools/srr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.4.9",
+    "version": "0.1.4.10",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -17032,7 +17032,7 @@
     "codeRepository": "https://github.com/ropensci/charlatan",
     "issueTracker": "https://github.com/ropensci/charlatan/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -27964,7 +27964,7 @@
     "codeRepository": "https://github.com/ropensci/emld",
     "issueTracker": "https://github.com/ropensci/emld/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.2",
+    "version": "0.5.3",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -68193,7 +68193,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.4.3",
+    "version": "3.8.4.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -68579,7 +68579,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.4.3"
+        "description": "R package version 3.8.4.4"
       },
       {
         "@type": "ScholarlyArticle",
@@ -72929,7 +72929,7 @@
     "codeRepository": "https://github.com/ropensci/rotl",
     "issueTracker": "https://github.com/ropensci/rotl/issues",
     "license": "https://spdx.org/licenses/BSD-2-Clause",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
