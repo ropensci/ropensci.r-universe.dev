@@ -5870,7 +5870,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.39",
+    "version": "0.1.1.41",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -16736,7 +16736,7 @@
     "codeRepository": "https://github.com/ropensci/cffr",
     "issueTracker": "https://github.com/ropensci/cffr/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.2.1",
+    "version": "1.2.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -16857,7 +16857,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 4.0.0"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -24339,7 +24339,7 @@
     "codeRepository": "https://github.com/ropensci/dbparser",
     "issueTracker": "https://github.com/ropensci/dbparser/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.2.1",
+    "version": "2.2.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -24545,7 +24545,7 @@
         ],
         "name": "DrugBank Database XML Parser",
         "url": "https://CRAN.R-project.org/package=dbparser",
-        "description": "R package version 2.2.1"
+        "description": "R package version 2.2.1.9000"
       }
     ],
     "readme": "https://github.com/ropensci/dbparser/blob/HEAD/README.md",
@@ -28589,14 +28589,7 @@
       "16": {
         "@type": "SoftwareApplication",
         "identifier": "fuzzyjoin",
-        "name": "fuzzyjoin",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=fuzzyjoin"
+        "name": "fuzzyjoin"
       },
       "17": {
         "@type": "SoftwareApplication",
@@ -64577,8 +64570,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "read.abares",
-    "description": "Download and import agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Data types serviced include spreadsheets, CSV files, geospatial data including shape files and geotiffs covering topics including broadacre crops, livestock, soil data, commodities and more.",
-    "name": "read.abares: Download and Import Agricultural Data from the Australian Bureau of\n    Agricultural and Resource Economics and Sciences (ABARES) and\n    Australian Bureau of Statistics (ABS)",
+    "description": "Download and import agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Data types serviced include spreadsheets, comma separated value (CSV) files, geospatial data including shape files and geotiffs covering topics including broadacre crops, livestock, soil data, commodities and more. Unifies field names and formats for data interoperability making analysis easier by standardising names between data formats. Also simplifies importing geospatial data as well as correcting issues in the geospatial data upon import.",
+    "name": "read.abares: Read Data from the Australian Bureau of Agricultural and Resource\n    Economics and Sciences (ABARES) and Australian Bureau of Statistics\n    (ABS)",
     "relatedLink": ["https://github.com/ropensci/read.abares", "https://docs.ropensci.org/read.abares/"],
     "codeRepository": "https://github.com/ropensci/read.abares",
     "issueTracker": "https://github.com/ropensci/read.abares/issues",
@@ -64989,8 +64982,8 @@
             "familyName": "Sparks"
           }
         ],
-        "name": "{read.abares}: Download and Import Agricultural Data from the\n    Australian Bureau of Agricultural and Resource Economics and Sciences\n    (ABARES) and Australian Bureau of Statistics (ABS)",
-        "url": "https://adamhsparks.github.io/read.abares/",
+        "name": "{read.abares}: Read Data from the Australian Bureau of Agricultural\n    and Resource Economics and Sciences (ABARES) and Australian Bureau of\n    Statistics (ABS)",
+        "url": "https://docs.ropensci.org/read.abares/",
         "description": "R package version 2.0.0"
       }
     ],
@@ -68193,7 +68186,7 @@
     "codeRepository": "https://github.com/ropensci/rgbif",
     "issueTracker": "https://github.com/ropensci/rgbif/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "3.8.4.4",
+    "version": "3.8.4.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -68579,7 +68572,7 @@
         ],
         "name": "rgbif: Interface to the Global Biodiversity Information Facility API",
         "url": "https://CRAN.R-project.org/package=rgbif",
-        "description": "R package version 3.8.4.4"
+        "description": "R package version 3.8.4.5"
       },
       {
         "@type": "ScholarlyArticle",
@@ -90729,7 +90722,7 @@
     "identifier": "USAboundaries",
     "description": "The boundaries for geographical units in the United States of America contained in this package include state, county, congressional district, and zip code tabulation area. Contemporary boundaries are provided by the U.S. Census Bureau (public domain). Historical boundaries for the years from 1629 to 2000 are provided form the Newberry Library's 'Atlas of Historical County Boundaries' (licensed CC BY-NC-SA). Additional data is provided in the 'USAboundariesData' package; this package provides an interface to access that data.",
     "name": "USAboundaries: Historical and Contemporary Boundaries of the United States of America",
-    "relatedLink": ["https://docs.ropensci.org/USAboundaries", "https://github.com/ropensci/USAboundaries"],
+    "relatedLink": ["https://docs.ropensci.org/USAboundaries/", "https://github.com/ropensci/USAboundaries"],
     "codeRepository": "https://github.com/ropensci/USAboundaries",
     "issueTracker": "https://github.com/ropensci/USAboundaries/issues",
     "license": "https://spdx.org/licenses/MIT",
