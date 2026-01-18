@@ -2774,7 +2774,7 @@
       "description": "Download and Process Public Domain Works from Project Gutenberg",
       "details": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
       "maintainer": "Jordan Bradford",
-      "keywords": "digital-humanities, nlp, peer-reviewed, project-gutenberg, public-domain, text-mining",
+      "keywords": "digital-humanities, natural-language-processing, nlp, peer-reviewed, project-gutenberg, public-domain, text-mining",
       "github": "https://github.com/ropensci/gutenbergr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/41",
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-13 19:03:26",
+      "date_last_commit": "2026-01-18 02:45:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3609,8 +3609,8 @@
     },
     {
       "name": "nodbi",
-      "description": "'NoSQL' Database Connector",
-      "details": "Simplified JSON document database access and manipulation, providing a common API across supported 'NoSQL' databases 'Elasticsearch', 'CouchDB', 'MongoDB' as well as 'SQLite/JSON1', 'PostgreSQL', and 'DuckDB'.",
+      "description": "'NoSQL' Database Interface",
+      "details": "R database interface for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
       "maintainer": "Ralf Herold",
       "keywords": "couchdb, database, documents, duckdb, elasticsearch, json, mongodb, nosql, postgresql, sqlite",
       "github": "https://github.com/ropensci/nodbi",
@@ -3622,7 +3622,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-07 09:35:15",
+      "date_last_commit": "2026-01-17 14:32:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3972,7 +3972,7 @@
       "description": "Client for the 'Pangaea' Database",
       "details": "Tools to interact with the 'Pangaea' Database (<https://www.pangaea.de>), including functions for searching for data, fetching 'datasets' by 'dataset' 'ID', and working with the 'Pangaea' 'OAI-PMH' service.",
       "maintainer": "Scott Chamberlain",
-      "keywords": "archive, atmosphere, chemistry, earthscience, ecology, environmentalscience, paleontology, Pangaea",
+      "keywords": "api-client, archive, atmosphere, chemistry, data, earth science, ecology, environmental science, paleobiology, paleontology, pangaea, scientific, webservice-client",
       "github": "https://github.com/ropensci/pangaear",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -3982,7 +3982,7 @@
       "url": "https://github.com/ropensci/pangaear",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-08 15:58:35",
+      "date_last_commit": "2026-01-17 10:24:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4182,7 +4182,7 @@
       "url": "https://github.com/ropensci/phruta",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2024-07-05 14:06:15",
+      "date_last_commit": "2026-01-17 10:42:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4482,7 +4482,7 @@
       "url": "https://github.com/ropensci/QuadratiK",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-05 10:35:07",
+      "date_last_commit": "2026-01-17 17:46:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5660,7 +5660,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-19 04:00:48",
+      "date_last_commit": "2026-01-18 07:12:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-17 08:00 UTC"
+  "date": "2026-01-18 07:58 UTC"
 }

@@ -25859,14 +25859,7 @@
         "@type": "SoftwareApplication",
         "identifier": "qs",
         "name": "qs",
-        "version": ">= 0.20.2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=qs"
+        "version": ">= 0.20.2"
       },
       {
         "@type": "SoftwareApplication",
@@ -38258,7 +38251,6 @@
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
-        "version": ">= 1.5.1",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -38405,7 +38397,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["digital-humanities", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining"]
+    "keywords": ["digital-humanities", "natural-language-processing", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -40929,14 +40921,7 @@
         "@type": "SoftwareApplication",
         "identifier": "qs",
         "name": "qs",
-        "version": ">= 0.23.2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=qs"
+        "version": ">= 0.23.2"
       },
       {
         "@type": "SoftwareApplication",
@@ -49281,13 +49266,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "nodbi",
-    "description": "Simplified JSON document database access and manipulation, providing a common API across supported 'NoSQL' databases 'Elasticsearch', 'CouchDB', 'MongoDB' as well as 'SQLite/JSON1', 'PostgreSQL', and 'DuckDB'.",
-    "name": "nodbi: 'NoSQL' Database Connector",
+    "description": "R database interface for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
+    "name": "nodbi: 'NoSQL' Database Interface",
     "relatedLink": ["https://docs.ropensci.org/nodbi/", "https://github.com/ropensci/nodbi"],
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.14.0",
+    "version": "0.14.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -49359,7 +49344,8 @@
         "@type": "SoftwareApplication",
         "identifier": "elastic",
         "name": "elastic",
-        "version": ">= 1.2.0"
+        "version": ">= 1.2.1",
+        "sameAs": "https://github.com/ropensci-archive/elastic"
       },
       {
         "@type": "SoftwareApplication",
@@ -49503,7 +49489,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.4.0"
+        "version": ">= 3.5.0"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -54731,7 +54717,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
-        "version": ">=2.0.0",
+        "version": ">= 2.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -54848,7 +54834,7 @@
     },
     "applicationCategory": "Biodiversity",
     "isPartOf": "https://ropensci.org",
-    "keywords": ["Pangaea", "environmentalscience", "earthscience", "archive", "paleontology", "ecology", "chemistry", "atmosphere"],
+    "keywords": ["pangaea", "environmental science", "earth science", "archive", "paleontology", "ecology", "chemistry", "atmosphere", "api-client", "data", "paleobiology", "scientific", "webservice-client"],
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/pangaear/blob/HEAD/README.md",
     "developmentStatus": []
@@ -57363,7 +57349,8 @@
       "6": {
         "@type": "SoftwareApplication",
         "identifier": "ips",
-        "name": "ips"
+        "name": "ips",
+        "sameAs": "https://github.com/cran/ips"
       },
       "7": {
         "@type": "SoftwareApplication",
@@ -57409,7 +57396,8 @@
       "11": {
         "@type": "SoftwareApplication",
         "identifier": "reutils",
-        "name": "reutils"
+        "name": "reutils",
+        "sameAs": "https://github.com/cran/reutils"
       },
       "12": {
         "@type": "SoftwareApplication",
@@ -60527,7 +60515,7 @@
     "codeRepository": "https://github.com/ropensci/QuadratiK",
     "issueTracker": "https://github.com/ropensci/QuadratiK/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -71386,14 +71374,7 @@
         "@type": "SoftwareApplication",
         "identifier": "rfigshare",
         "name": "rfigshare",
-        "version": ">= 0.3.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rfigshare"
+        "version": ">= 0.3.0"
       },
       {
         "@type": "SoftwareApplication",
@@ -76905,7 +76886,7 @@
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0.9001",
+    "version": "0.1.0.9003",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
