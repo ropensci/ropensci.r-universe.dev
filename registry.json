@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-18 02:45:25",
+      "date_last_commit": "2026-01-18 18:27:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5660,7 +5660,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-18 07:12:45",
+      "date_last_commit": "2026-01-18 15:56:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-18 07:58 UTC"
+  "date": "2026-01-19 08:04 UTC"
 }

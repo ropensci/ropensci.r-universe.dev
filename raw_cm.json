@@ -76882,7 +76882,7 @@
     "identifier": "sasquatch",
     "description": "Use R and 'SAS' within reproducible multilingual 'quarto' documents. Run 'SAS' code blocks interactively, send data back and forth between 'SAS' and R, and render 'SAS' output within quarto documents. 'SAS' connections are established through a combination of 'SASPy' and 'reticulate'.",
     "name": "sasquatch: Use 'SAS', R, and 'quarto' Together",
-    "relatedLink": ["https://docs.ropensci.org/sasquatch", "https://github.com/ropensci/sasquatch"],
+    "relatedLink": ["https://docs.ropensci.org/sasquatch/", "https://github.com/ropensci/sasquatch"],
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
