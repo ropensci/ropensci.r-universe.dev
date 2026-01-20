@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-18 18:27:37",
+      "date_last_commit": "2026-01-19 13:03:35",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5120,7 +5120,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-16 13:44:20",
+      "date_last_commit": "2026-01-19 16:19:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5200,7 +5200,7 @@
       "url": "https://github.com/ropensci/rnaturalearth",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-13 19:14:41",
+      "date_last_commit": "2026-01-19 17:24:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6640,7 +6640,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-17 02:16:50",
+      "date_last_commit": "2026-01-20 03:52:05",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6800,7 +6800,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-07 16:08:38",
+      "date_last_commit": "2026-01-19 22:24:47",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-19 08:04 UTC"
+  "date": "2026-01-20 08:02 UTC"
 }

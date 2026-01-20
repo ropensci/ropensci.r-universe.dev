@@ -38038,7 +38038,7 @@
     "codeRepository": "https://github.com/ropensci/gutenbergr",
     "issueTracker": "https://github.com/ropensci/gutenbergr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.4.0.9000",
+    "version": "0.4.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70770,7 +70770,7 @@
     "codeRepository": "https://github.com/ropensci/rnaturalearth",
     "issueTracker": "https://github.com/ropensci/rnaturalearth/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.1.0.9000",
+    "version": "1.2.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -90854,6 +90854,12 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "USAboundariesData",
+        "name": "USAboundariesData",
+        "version": ">= 0.5.0"
       }
     ],
     "softwareRequirements": {
@@ -90875,13 +90881,6 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=cli"
       },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "USAboundariesData",
-        "name": "USAboundariesData",
-        "version": ">= 0.5.0",
-        "sameAs": "https://github.com/ropensci/USAboundariesData"
-      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -90892,7 +90891,7 @@
         "author": [
           {
             "@type": "Person",
-            "givenName": ["Lincoln", "A."],
+            "givenName": "Lincoln",
             "familyName": "Mullen"
           },
           {
@@ -90901,7 +90900,7 @@
             "familyName": "Bratt"
           }
         ],
-        "name": "{USAboundaries}: Historical and Contemporary Boundaries\nof the United States of America",
+        "name": "{USAboundaries}: Historical and Contemporary Boundaries of the United States of America",
         "identifier": "10.21105/joss.00314",
         "url": "https://doi.org/10.21105/joss.00314",
         "pagination": "314",
@@ -90909,6 +90908,7 @@
         "sameAs": "https://doi.org/10.21105/joss.00314",
         "isPartOf": {
           "@type": "PublicationIssue",
+          "issueNumber": "23",
           "datePublished": "2018",
           "isPartOf": {
             "@type": ["PublicationVolume", "Periodical"],
@@ -92917,7 +92917,7 @@
     "codeRepository": "https://github.com/ropensci/weathercan",
     "issueTracker": "https://github.com/ropensci/weathercan/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.7.7",
+    "version": "0.7.8",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -93007,6 +93007,13 @@
         "familyName": "Persi",
         "email": "joshpersi@gmail.com",
         "@id": "https://orcid.org/0000-0002-2700-6483"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Mahjabin",
+        "familyName": "Oyshi",
+        "email": "oyshimahjabin3@gmail.com",
+        "@id": "https://orcid.org/0009-0000-7992-6727"
       }
     ],
     "maintainer": [
