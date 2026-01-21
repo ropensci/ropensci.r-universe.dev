@@ -5119,7 +5119,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/repometrics",
     "issueTracker": "https://github.com/ropensci-review-tools/repometrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.67",
+    "version": "0.2.1.77",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -43657,7 +43657,7 @@
         "@type": "Person",
         "givenName": "Rachael",
         "familyName": "Stickland",
-        "email": "rstickland@turing.ac.uk",
+        "email": "r.stickland@bham.ac.uk",
         "@id": "https://orcid.org/0000-0003-3398-4272"
       }
     ],
@@ -43692,7 +43692,7 @@
         "@type": "Person",
         "givenName": "Rachael",
         "familyName": "Stickland",
-        "email": "rstickland@turing.ac.uk",
+        "email": "r.stickland@bham.ac.uk",
         "@id": "https://orcid.org/0000-0003-3398-4272"
       }
     ],
@@ -91011,7 +91011,7 @@
     "codeRepository": "https://github.com/ropensci/vcr",
     "issueTracker": "https://github.com/ropensci/vcr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.1.0",
+    "version": "2.1.1.91",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
