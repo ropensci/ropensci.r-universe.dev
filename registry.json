@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-20 11:11:51",
+      "date_last_commit": "2026-01-21 16:00:58",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1224,7 +1224,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-20 14:16:42",
+      "date_last_commit": "2026-01-21 20:32:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1344,7 +1344,7 @@
       "url": "https://github.com/ropensci/circle",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-26 08:28:05",
+      "date_last_commit": "2026-01-21 10:58:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2784,7 +2784,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-19 13:03:35",
+      "date_last_commit": "2026-01-22 00:32:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3762,7 +3762,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-14 09:51:19",
+      "date_last_commit": "2026-01-21 19:19:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5154,7 +5154,7 @@
       "github": "https://github.com/ropensci/rmangal",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/332",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rmangal",
@@ -5162,7 +5162,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-12-03 21:47:34",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-21 08:02 UTC"
+  "date": "2026-01-22 08:03 UTC"
 }
