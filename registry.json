@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-15 10:43:55",
+      "date_last_commit": "2026-01-22 16:22:02",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1333,7 +1333,7 @@
       "name": "circle",
       "description": "R Client Package for Circle CI",
       "details": "Tools for interacting with the 'Circle CI' API (<https://circleci.com/docs/api/v2/>). Besides executing common tasks such as querying build logs and restarting builds, this package also helps setting up permissions to deploy from builds.",
-      "maintainer": "Patrick Schratz",
+      "maintainer": "David Munoz Tord",
       "keywords": "api-client, circle-ci, continuous-deployment, continuous-integration",
       "github": "https://github.com/ropensci/circle",
       "status": "https://www.repostatus.org#active",
@@ -1344,7 +1344,7 @@
       "url": "https://github.com/ropensci/circle",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-21 10:58:23",
+      "date_last_commit": "2026-01-22 09:08:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-16 16:08:23",
+      "date_last_commit": "2026-01-22 15:00:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4550,7 +4550,7 @@
     {
       "name": "rangr",
       "description": "Mechanistic Simulation of Species Range Dynamics",
-      "details": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>.",
+      "details": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>. This work was supported by the National Science Centre, Poland, grant no. 2018/29/B/NZ8/00066 and the Poznań Supercomputing and Networking Centre (grant no. pl0090-01).",
       "maintainer": "Katarzyna Markowska",
       "keywords": "",
       "github": "https://github.com/ropensci/rangr",
@@ -4562,7 +4562,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-17 13:59:17",
+      "date_last_commit": "2026-01-22 23:43:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4729,18 +4729,18 @@
     },
     {
       "name": "read.abares",
-      "description": "Read Data from the Australian Bureau of Agricultural and Resource\n    Economics and Sciences (ABARES) and Australian Bureau of Statistics\n    (ABS)",
-      "details": "Download and import agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Data types serviced include spreadsheets, comma separated value (CSV) files, geospatial data including shape files and geotiffs covering topics including broadacre crops, livestock, soil data, commodities and more. Unifies field names and formats for data interoperability making analysis easier by standardising names between data formats. Also simplifies importing geospatial data as well as correcting issues in the geospatial data upon import.",
+      "description": "Read Australian Agricultural Data from Government Agencies",
+      "details": "Downloads and imports agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and the Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Supports multiple data formats including spreadsheets, comma‑separated value (CSV) files, and geospatial data such as shapefiles and GeoTIFFs. Covers topics such as broadacre crops, livestock, soils, commodities and related agricultural information. The package standardises field names and data formats to improve interoperability and simplify analysis. It also streamlines the import of geospatial data and corrects common issues found in these data sources upon loading.",
       "maintainer": "Adam H. Sparks",
       "keywords": "agriculture, agriculture-data, agriculture-dataset, agriculture-trade-data, australia, data-retrieval, land-use-classification, land-use-data, open-data, open-datasets",
       "github": "https://github.com/ropensci/read.abares",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/667",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/read.abares",
-      "date_last_commit": "2026-01-17 04:50:17",
+      "date_last_commit": "2026-01-23 06:57:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5120,7 +5120,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-19 16:19:15",
+      "date_last_commit": "2026-01-22 16:03:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5160,7 +5160,7 @@
       "url": "https://github.com/ropensci/rmangal",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-03 21:47:34",
+      "date_last_commit": "2026-01-22 14:39:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7126,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-22 08:03 UTC"
+  "date": "2026-01-23 08:01 UTC"
 }

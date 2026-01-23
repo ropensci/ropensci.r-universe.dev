@@ -4457,7 +4457,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.8",
+    "version": "0.2.1.13",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18206,7 +18206,7 @@
     "codeRepository": "https://github.com/ropensci/circle",
     "issueTracker": "https://github.com/ropensci/circle/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.7.3",
+    "version": "0.7.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -18228,13 +18228,20 @@
         "@id": "https://orcid.org/0000-0003-0748-6624"
       }
     ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "David",
+        "familyName": "Munoz Tord",
+        "email": "david.munoztord@mailbox.org"
+      }
+    ],
     "maintainer": [
       {
         "@type": "Person",
-        "givenName": "Patrick",
-        "familyName": "Schratz",
-        "email": "patrick.schratz@gmail.com",
-        "@id": "https://orcid.org/0000-0003-0748-6624"
+        "givenName": "David",
+        "familyName": "Munoz Tord",
+        "email": "david.munoztord@mailbox.org"
       }
     ],
     "softwareSuggestions": [
@@ -61869,13 +61876,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "rangr",
-    "description": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>.",
+    "description": "Integrates population dynamics and dispersal into a mechanistic virtual species simulator. The package can be used to study the effects of environmental change on population growth and range shifts. It allows for simple and straightforward definition of population dynamics (including positive density dependence), extensive possibilities for defining dispersal kernels, and the ability to generate virtual ecologist data. Learn more about the 'rangr' at <https://docs.ropensci.org/rangr/>. This work was supported by the National Science Centre, Poland, grant no. 2018/29/B/NZ8/00066 and the Poznań Supercomputing and Networking Centre (grant no. pl0090-01).",
     "name": "rangr: Mechanistic Simulation of Species Range Dynamics",
     "relatedLink": ["https://github.com/ropensci/rangr", "https://docs.ropensci.org/rangr/", "https://doi.org/10.1111/2041-210X.14475"],
     "codeRepository": "https://github.com/ropensci/rangr",
     "issueTracker": "https://github.com/ropensci/rangr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -64558,19 +64565,25 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "read.abares",
-    "description": "Download and import agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Data types serviced include spreadsheets, comma separated value (CSV) files, geospatial data including shape files and geotiffs covering topics including broadacre crops, livestock, soil data, commodities and more. Unifies field names and formats for data interoperability making analysis easier by standardising names between data formats. Also simplifies importing geospatial data as well as correcting issues in the geospatial data upon import.",
-    "name": "read.abares: Read Data from the Australian Bureau of Agricultural and Resource\n    Economics and Sciences (ABARES) and Australian Bureau of Statistics\n    (ABS)",
+    "description": "Downloads and imports agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and the Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Supports multiple data formats including spreadsheets, comma‑separated value (CSV) files, and geospatial data such as shapefiles and GeoTIFFs. Covers topics such as broadacre crops, livestock, soils, commodities and related agricultural information. The package standardises field names and data formats to improve interoperability and simplify analysis. It also streamlines the import of geospatial data and corrects common issues found in these data sources upon loading.",
+    "name": "read.abares: Read Australian Agricultural Data from Government Agencies",
     "relatedLink": ["https://github.com/ropensci/read.abares", "https://docs.ropensci.org/read.abares/"],
     "codeRepository": "https://github.com/ropensci/read.abares",
     "issueTracker": "https://github.com/ropensci/read.abares/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -64972,7 +64985,7 @@
         ],
         "name": "{read.abares}: Read Data from the Australian Bureau of Agricultural\n    and Resource Economics and Sciences (ABARES) and Australian Bureau of\n    Statistics (ABS)",
         "url": "https://docs.ropensci.org/read.abares/",
-        "description": "R package version 2.0.0"
+        "description": "R package version 2.0.1"
       }
     ],
     "readme": "https://github.com/ropensci/read.abares/blob/HEAD/README.md",
@@ -70153,7 +70166,7 @@
     "codeRepository": "https://github.com/ropensci/rmangal",
     "issueTracker": "https://github.com/ropensci/rmangal/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.2.0",
+    "version": "2.2.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70178,7 +70191,7 @@
         "@type": "Person",
         "givenName": "Kevin",
         "familyName": "Cazelles",
-        "email": "kevin.cazelles@gmail.com",
+        "email": "kevin.cazelles@insileco.io",
         "@id": "https://orcid.org/0000-0001-6619-9874"
       },
       {
@@ -70244,7 +70257,7 @@
         "@type": "Person",
         "givenName": "Kevin",
         "familyName": "Cazelles",
-        "email": "kevin.cazelles@gmail.com",
+        "email": "kevin.cazelles@insileco.io",
         "@id": "https://orcid.org/0000-0001-6619-9874"
       }
     ],
@@ -70508,7 +70521,7 @@
         ],
         "name": "rmangal: An R package to interact with Mangal database",
         "url": "https://docs.ropensci.org/rmangal/",
-        "description": "R package version 2.2.0"
+        "description": "R package version 2.2.2"
       },
       {
         "@type": "CreativeWork",
@@ -70526,7 +70539,7 @@
           }
         ],
         "name": "rmangal: An R package to interact with Mangal database",
-        "identifier": "https://doi.org/10.59350/51nby-5v347",
+        "identifier": "10.59350/51nby-5v347",
         "url": "https://docs.ropensci.org/rmangal/",
         "@id": "https://doi.org/10.59350/51nby-5v347",
         "sameAs": "https://doi.org/10.59350/51nby-5v347"
