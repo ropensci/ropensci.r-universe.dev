@@ -1237,6 +1237,20 @@
     }
   },
   {
+    "package": "dfms",
+    "url": "https://github.com/ropensci/dfms",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 556,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/556"
+      }
+    }
+  },
+  {
     "package": "distionary",
     "url": "https://github.com/probaverse/distionary/",
     "branch": "main",
