@@ -1795,7 +1795,7 @@
       "review": {
         "id": 127,
         "status": "reviewed",
-        "version": {},
+        "version": "0.0.0.9000",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/127"
       },
