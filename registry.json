@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-20 09:26:00",
+      "date_last_commit": "2026-01-23 12:47:17",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1825,6 +1825,24 @@
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
       "date_last_commit": "2025-08-03 06:21:22",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "dfms",
+      "description": "Dynamic Factor Models",
+      "details": "Efficient estimation of Dynamic Factor Models using the Expectation Maximization (EM) algorithm or Two-Step (2S) estimation, supporting datasets with missing data. Factors are assumed to follow a stationary VAR process of order p. The estimation options follow advances in the econometric literature: either running the Kalman Filter and Smoother once with initial values from PCA - 2S estimation as in Doz, Giannone and Reichlin (2011) <doi:10.1016/j.jeconom.2011.02.012> - or via iterated Kalman Filtering and Smoothing until EM convergence - following Doz, Giannone and Reichlin (2012) <doi:10.1162/REST_a_00225> - or using the adapted EM algorithm of Banbura and Modugno (2014) <doi:10.1002/jae.2306>, allowing arbitrary patterns of missing data. The implementation makes heavy use of the 'Armadillo' 'C++' library and the 'collapse' package, providing for particularly speedy estimation. A comprehensive set of methods supports interpretation and visualization of the model as well as forecasting. Information criteria to choose the number of factors are also provided - following Bai and Ng (2002) <doi:10.1111/1468-0262.00273>.",
+      "maintainer": "Sebastian Krantz",
+      "keywords": "cpp, dynamic-factor-models, openblas, time-series",
+      "github": "https://github.com/ropensci/dfms",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "https://github.com/ropensci/software-review/issues/556",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/dfms",
+      "date_last_commit": "2026-01-24 04:50:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3762,7 +3780,7 @@
       "url": "https://github.com/ropensci/openalexR",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-21 19:19:50",
+      "date_last_commit": "2026-01-23 16:21:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5120,7 +5138,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-22 16:03:23",
+      "date_last_commit": "2026-01-23 12:10:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6800,7 +6818,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-19 22:24:47",
+      "date_last_commit": "2026-01-23 20:59:58",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7126,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-23 08:01 UTC"
+  "date": "2026-01-24 07:57 UTC"
 }
