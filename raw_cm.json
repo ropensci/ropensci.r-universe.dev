@@ -70112,7 +70112,7 @@
     "codeRepository": "https://github.com/ropensci/rixpress",
     "issueTracker": "https://github.com/ropensci/rixpress/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.10.1",
+    "version": "0.11.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70287,6 +70287,18 @@
       },
       "2": {
         "@type": "SoftwareApplication",
+        "identifier": "cli",
+        "name": "cli",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cli"
+      },
+      "3": {
+        "@type": "SoftwareApplication",
         "identifier": "igraph",
         "name": "igraph",
         "provider": {
@@ -70297,7 +70309,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=igraph"
       },
-      "3": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -70309,7 +70321,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "processx",
         "name": "processx",
