@@ -40534,7 +40534,7 @@
     "codeRepository": "https://github.com/ropensci/ijtiff",
     "issueTracker": "https://github.com/ropensci/ijtiff/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "3.1.3",
+    "version": "3.2.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -40696,7 +40696,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.5"
+        "version": ">= 4.2"
       },
       "2": {
         "@type": "SoftwareApplication",
@@ -49528,6 +49528,12 @@
         "identifier": "elastic",
         "name": "elastic",
         "version": ">= 1.2.1",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
         "sameAs": "https://github.com/ropensci-archive/elastic"
       },
       {
@@ -55920,13 +55926,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "patentsview",
-    "description": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
+    "description": "Provides functions to simplify the 'PatentsView' API (<https://search.patentsview.org/docs/docs/Search%20API/SearchAPIReference/#api-query-language>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
     "name": "patentsview: An R Client to the 'PatentsView' API",
     "relatedLink": "https://docs.ropensci.org/patentsview/index.html",
     "codeRepository": "https://github.com/ropensci/patentsview",
     "issueTracker": "https://github.com/ropensci/patentsview/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.3.0",
+    "version": "1.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -55964,6 +55970,18 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
+        "identifier": "dplyr",
+        "name": "dplyr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=dplyr"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
         "provider": {
@@ -55990,6 +56008,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -56009,6 +56028,19 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=tidyr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "vcr",
+        "name": "vcr",
+        "version": ">= 1.6.0",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=vcr"
       }
     ],
     "softwareRequirements": {
@@ -56016,19 +56048,19 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.1"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
+        "identifier": "httr2",
+        "name": "httr2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
       "3": {
         "@type": "SoftwareApplication",
@@ -56059,6 +56091,11 @@
         "identifier": "utils",
         "name": "utils"
       },
+      "6": {
+        "@type": "SoftwareApplication",
+        "identifier": "stats",
+        "name": "stats"
+      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -56069,7 +56106,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": [],
-    "keywords": ["patents", "patentsview", "patentsview-api", "peer-reviewed", "uspto"]
+    "keywords": ["patents", "patentsearch-api", "patentsview", "patentsview-api", "peer-reviewed", "uspto"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -69917,7 +69954,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.18.0",
+    "version": "0.18.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70112,7 +70149,7 @@
     "codeRepository": "https://github.com/ropensci/rixpress",
     "issueTracker": "https://github.com/ropensci/rixpress/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.11.0",
+    "version": "0.11.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -85343,7 +85380,7 @@
     "codeRepository": "https://github.com/ropensci/tesseract",
     "issueTracker": "https://github.com/ropensci/tesseract/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "5.2.4",
+    "version": "5.2.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

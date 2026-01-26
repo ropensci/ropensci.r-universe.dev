@@ -3002,7 +3002,7 @@
       "url": "https://github.com/ropensci/ijtiff",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-30 16:01:25",
+      "date_last_commit": "2026-01-26 03:29:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4068,9 +4068,9 @@
     {
       "name": "patentsview",
       "description": "An R Client to the 'PatentsView' API",
-      "details": "Provides functions to simplify the 'PatentsView' API (<https://patentsview.org/apis/purpose>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
+      "details": "Provides functions to simplify the 'PatentsView' API (<https://search.patentsview.org/docs/docs/Search%20API/SearchAPIReference/#api-query-language>) query language, send GET and POST requests to the API's twenty seven endpoints, and parse the data that comes back.",
       "maintainer": "Christopher Baker",
-      "keywords": "patents, patentsview, patentsview-api, peer-reviewed, uspto",
+      "keywords": "patents, patentsearch-api, patentsview, patentsview-api, peer-reviewed, uspto",
       "github": "https://github.com/ropensci/patentsview",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/112",
@@ -4080,7 +4080,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 13:26:03",
+      "date_last_commit": "2026-01-25 18:39:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5138,7 +5138,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-23 12:10:17",
+      "date_last_commit": "2026-01-25 10:48:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5158,7 +5158,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-24 17:14:57",
+      "date_last_commit": "2026-01-25 12:00:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6218,7 +6218,7 @@
       "url": "https://github.com/ropensci/tesseract",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-29 14:29:19",
+      "date_last_commit": "2026-01-25 19:02:14",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6658,7 +6658,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-20 03:52:05",
+      "date_last_commit": "2026-01-25 21:33:56",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7144,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-25 07:57 UTC"
+  "date": "2026-01-26 08:02 UTC"
 }
