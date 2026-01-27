@@ -845,6 +845,30 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "cld3",
+        "name": "cld3",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=cld3"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "clipr",
+        "name": "clipr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=clipr"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "fs",
         "name": "fs",
         "provider": {
@@ -869,15 +893,15 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "httptest2",
-        "name": "httptest2",
+        "identifier": "vcr",
+        "name": "vcr",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=httptest2"
+        "sameAs": "https://CRAN.R-project.org/package=vcr"
       },
       {
         "@type": "SoftwareApplication",
@@ -3392,7 +3416,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.257",
+    "version": "0.1.2.260",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4457,7 +4481,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.13",
+    "version": "0.2.1.14",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5307,18 +5331,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=withr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "zoo",
-        "name": "zoo",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=zoo"
       }
     ],
     "softwareRequirements": {
@@ -5477,6 +5489,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://github.com/ropensci-review-tools/pkgstats"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
+        "identifier": "zoo",
+        "name": "zoo",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=zoo"
       },
       "SystemRequirements": null
     },
@@ -24909,13 +24933,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "dfms",
-    "description": "Efficient estimation of Dynamic Factor Models using the Expectation Maximization (EM) algorithm or Two-Step (2S) estimation, supporting datasets with missing data. Factors are assumed to follow a stationary VAR process of order p. The estimation options follow advances in the econometric literature: either running the Kalman Filter and Smoother once with initial values from PCA - 2S estimation as in Doz, Giannone and Reichlin (2011) <doi:10.1016/j.jeconom.2011.02.012> - or via iterated Kalman Filtering and Smoothing until EM convergence - following Doz, Giannone and Reichlin (2012) <doi:10.1162/REST_a_00225> - or using the adapted EM algorithm of Banbura and Modugno (2014) <doi:10.1002/jae.2306>, allowing arbitrary patterns of missing data. The implementation makes heavy use of the 'Armadillo' 'C++' library and the 'collapse' package, providing for particularly speedy estimation. A comprehensive set of methods supports interpretation and visualization of the model as well as forecasting. Information criteria to choose the number of factors are also provided - following Bai and Ng (2002) <doi:10.1111/1468-0262.00273>.",
+    "description": "Efficient estimation of Dynamic Factor Models using the Expectation Maximization (EM) algorithm or Two-Step (2S) estimation, supporting datasets with missing data and mixed-frequency nowcasting applications. Factors follow a stationary VAR process of order p. Estimation options include: running the Kalman Filter and Smoother once with PCA initial values (2S) as in Doz, Giannone and Reichlin (2011) <doi:10.1016/j.jeconom.2011.02.012>; iterated Kalman Filtering and Smoothing until EM convergence as in Doz, Giannone and Reichlin (2012) <doi:10.1162/REST_a_00225>; or the adapted EM algorithm of Banbura and Modugno (2014) <doi:10.1002/jae.2306>, allowing arbitrary missing-data patterns and monthly-quarterly mixed-frequency datasets. The implementation uses the 'Armadillo' 'C++' library and the 'collapse' package for fast estimation. A comprehensive set of methods supports interpretation and visualization, forecasting, and decomposition of the 'news' content of macroeconomic data releases following Banbura and Modugno (2014). Information criteria to choose the number of factors are also provided, following Bai and Ng (2002) <doi:10.1111/1468-0262.00273>.",
     "name": "dfms: Dynamic Factor Models",
     "relatedLink": ["https://docs.ropensci.org/dfms/", "https://github.com/ropensci/dfms"],
     "codeRepository": "https://github.com/ropensci/dfms",
     "issueTracker": "https://github.com/ropensci/dfms/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.4.1",
+    "version": "1.0.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -25041,7 +25065,7 @@
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
-        "version": ">= 3.5.0"
+        "version": ">= 4.1.0"
       },
       "2": {
         "@type": "SoftwareApplication",

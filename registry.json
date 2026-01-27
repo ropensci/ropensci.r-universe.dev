@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-18 13:28:40",
+      "date_last_commit": "2026-01-26 13:54:59",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-13 15:14:39",
+      "date_last_commit": "2026-01-26 15:38:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-22 16:22:02",
+      "date_last_commit": "2026-01-26 08:50:46",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-org/promoutils",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-20 15:54:37",
+      "date_last_commit": "2026-01-26 18:38:06",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-21 16:00:58",
+      "date_last_commit": "2026-01-26 17:02:25",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1832,7 +1832,7 @@
     {
       "name": "dfms",
       "description": "Dynamic Factor Models",
-      "details": "Efficient estimation of Dynamic Factor Models using the Expectation Maximization (EM) algorithm or Two-Step (2S) estimation, supporting datasets with missing data. Factors are assumed to follow a stationary VAR process of order p. The estimation options follow advances in the econometric literature: either running the Kalman Filter and Smoother once with initial values from PCA - 2S estimation as in Doz, Giannone and Reichlin (2011) <doi:10.1016/j.jeconom.2011.02.012> - or via iterated Kalman Filtering and Smoothing until EM convergence - following Doz, Giannone and Reichlin (2012) <doi:10.1162/REST_a_00225> - or using the adapted EM algorithm of Banbura and Modugno (2014) <doi:10.1002/jae.2306>, allowing arbitrary patterns of missing data. The implementation makes heavy use of the 'Armadillo' 'C++' library and the 'collapse' package, providing for particularly speedy estimation. A comprehensive set of methods supports interpretation and visualization of the model as well as forecasting. Information criteria to choose the number of factors are also provided - following Bai and Ng (2002) <doi:10.1111/1468-0262.00273>.",
+      "details": "Efficient estimation of Dynamic Factor Models using the Expectation Maximization (EM) algorithm or Two-Step (2S) estimation, supporting datasets with missing data and mixed-frequency nowcasting applications. Factors follow a stationary VAR process of order p. Estimation options include: running the Kalman Filter and Smoother once with PCA initial values (2S) as in Doz, Giannone and Reichlin (2011) <doi:10.1016/j.jeconom.2011.02.012>; iterated Kalman Filtering and Smoothing until EM convergence as in Doz, Giannone and Reichlin (2012) <doi:10.1162/REST_a_00225>; or the adapted EM algorithm of Banbura and Modugno (2014) <doi:10.1002/jae.2306>, allowing arbitrary missing-data patterns and monthly-quarterly mixed-frequency datasets. The implementation uses the 'Armadillo' 'C++' library and the 'collapse' package for fast estimation. A comprehensive set of methods supports interpretation and visualization, forecasting, and decomposition of the 'news' content of macroeconomic data releases following Banbura and Modugno (2014). Information criteria to choose the number of factors are also provided, following Bai and Ng (2002) <doi:10.1111/1468-0262.00273>.",
       "maintainer": "Sebastian Krantz",
       "keywords": "cpp, dynamic-factor-models, openblas, time-series",
       "github": "https://github.com/ropensci/dfms",
@@ -1842,7 +1842,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/dfms",
-      "date_last_commit": "2026-01-24 04:50:18",
+      "date_last_commit": "2026-01-27 07:41:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5138,7 +5138,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-25 10:48:51",
+      "date_last_commit": "2026-01-26 16:09:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5158,7 +5158,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-25 12:00:11",
+      "date_last_commit": "2026-01-26 08:28:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6218,7 +6218,7 @@
       "url": "https://github.com/ropensci/tesseract",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-25 19:02:14",
+      "date_last_commit": "2026-01-26 13:10:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6278,7 +6278,7 @@
       "url": "https://github.com/ropensci/tidyhydat",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-03 19:30:54",
+      "date_last_commit": "2026-01-27 04:44:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6818,7 +6818,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-23 20:59:58",
+      "date_last_commit": "2026-01-26 23:10:56",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7144,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-26 08:02 UTC"
+  "date": "2026-01-27 08:04 UTC"
 }
