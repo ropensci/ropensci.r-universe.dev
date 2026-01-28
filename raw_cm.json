@@ -482,7 +482,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/autotest",
     "issueTracker": "https://github.com/ropensci-review-tools/autotest/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.0.2.215",
+    "version": "0.1.0.19",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -788,7 +788,7 @@
     "identifier": "babeldown",
     "description": "Provide workflows and guidance for automatic translation of Markdown-based R content using DeepL API.",
     "name": "babeldown: Helpers for Automatic Translation of Markdown-based Content",
-    "relatedLink": "https://github.com/ropensci-review-tools/babeldown",
+    "relatedLink": ["https://docs.ropensci.org/babeldown", "https://github.com/ropensci-review-tools/babeldown"],
     "codeRepository": "https://github.com/ropensci-review-tools/babeldown",
     "issueTracker": "https://github.com/ropensci-review-tools/babeldown/issues",
     "license": "https://spdx.org/licenses/MIT",
@@ -86382,8 +86382,19 @@
     ],
     "copyrightHolder": [
       {
+        "@type": "Person",
+        "givenName": "Sam",
+        "familyName": "Albers",
+        "email": "sam.albers@gmail.com",
+        "@id": "https://orcid.org/0000-0002-9270-7884"
+      },
+      {
         "@type": "Organization",
         "name": "Province of British Columbia"
+      },
+      {
+        "@type": "Organization",
+        "name": "Tula Foundation"
       }
     ],
     "maintainer": [
