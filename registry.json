@@ -528,7 +528,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-15 10:42:36",
+      "date_last_commit": "2026-01-28 11:23:42",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1804,7 +1804,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 04:26:08",
+      "date_last_commit": "2026-01-28 10:38:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5138,7 +5138,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-27 12:58:54",
+      "date_last_commit": "2026-01-28 18:20:15",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5158,7 +5158,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-26 08:28:33",
+      "date_last_commit": "2026-01-28 18:19:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5798,7 +5798,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-19 15:50:15",
+      "date_last_commit": "2026-01-28 15:33:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6646,7 +6646,7 @@
     {
       "name": "USAboundaries",
       "description": "Historical and Contemporary Boundaries of the United States of America",
-      "details": "The boundaries for geographical units in the United States of America contained in this package include state, county, congressional district, and zip code tabulation area. Contemporary boundaries are provided by the U.S. Census Bureau (public domain). Historical boundaries for the years from 1629 to 2000 are provided form the Newberry Library's 'Atlas of Historical County Boundaries' (licensed CC BY-NC-SA). Additional data is provided in the 'USAboundariesData' package; this package provides an interface to access that data.",
+      "details": "The boundaries for geographical units in the United States of America contained in this package include state, county, congressional district, and zip code tabulation area. Contemporary boundaries are provided by the U.S. Census Bureau (public domain). Historical boundaries for the years from 1629 to 2000 are provided form the Newberry Library's Atlas of Historical County Boundaries (licensed CC BY-NC-SA). Additional data is provided in the USAboundariesData package; this package provides an interface to access that data.",
       "maintainer": "Jacci Ziebert",
       "keywords": "digital-history, history, spatial-data",
       "github": "https://github.com/ropensci/USAboundaries",
@@ -6658,7 +6658,7 @@
       "url": "https://github.com/ropensci/USAboundaries",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-25 21:33:56",
+      "date_last_commit": "2026-01-29 01:25:22",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7144,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-28 08:02 UTC"
+  "date": "2026-01-29 08:12 UTC"
 }
