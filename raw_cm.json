@@ -14428,7 +14428,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.18.4",
+    "version": "0.18.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -23473,14 +23473,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "pryr",
-        "name": "pryr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pryr"
+        "name": "pryr"
       },
       {
         "@type": "SoftwareApplication",
@@ -25914,14 +25907,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "disk.frame",
-        "name": "disk.frame",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=disk.frame"
+        "name": "disk.frame"
       },
       {
         "@type": "SoftwareApplication",
@@ -42130,14 +42116,7 @@
       "12": {
         "@type": "SoftwareApplication",
         "identifier": "pryr",
-        "name": "pryr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=pryr"
+        "name": "pryr"
       },
       "13": {
         "@type": "SoftwareApplication",
@@ -43549,7 +43528,7 @@
     "codeRepository": "https://github.com/ropensci/mantis",
     "issueTracker": "https://github.com/ropensci/mantis/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.1",
+    "version": "1.0.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -90993,6 +90972,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
