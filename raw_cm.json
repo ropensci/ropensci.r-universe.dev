@@ -23111,12 +23111,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -72342,8 +72336,7 @@
     "isPartOf": "https://ropensci.org",
     "keywords": ["earth", "science", "climate", "precipitation", "temperature", "storm", "buoy", "ncdc", "noaa", "tornadoe", "sea ice", "isd", "noaa-data"],
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/rnoaa/blob/HEAD/README.md",
-    "developmentStatus": "https://www.repostatus.org/#unsupported"
+    "readme": "https://github.com/ropensci/rnoaa/blob/HEAD/README.md"
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

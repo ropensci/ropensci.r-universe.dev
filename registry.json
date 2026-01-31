@@ -1718,7 +1718,7 @@
       "github": "https://github.com/ropensci/dataset",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/681",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/dataset",
@@ -5158,7 +5158,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 18:19:50",
+      "date_last_commit": "2026-01-30 12:17:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5290,11 +5290,11 @@
       "maintainer": "Daniel Hocking",
       "keywords": "buoy, climate, earth, isd, ncdc, noaa, noaa-data, precipitation, science, sea ice, storm, temperature, tornadoe",
       "github": "https://github.com/ropensci/rnoaa",
-      "status": "https://www.repostatus.org#unsupported",
+      "status": "https://www.repostatus.org#active",
       "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
-      "type": "archived",
+      "type": "active",
       "url": "https://github.com/ropensci/rnoaa",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
@@ -7144,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-30 08:12 UTC"
+  "date": "2026-01-31 08:00 UTC"
 }
