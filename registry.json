@@ -5158,7 +5158,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-30 12:17:51",
+      "date_last_commit": "2026-01-31 21:11:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5290,11 +5290,11 @@
       "maintainer": "Daniel Hocking",
       "keywords": "buoy, climate, earth, isd, ncdc, noaa, noaa-data, precipitation, science, sea ice, storm, temperature, tornadoe",
       "github": "https://github.com/ropensci/rnoaa",
-      "status": "https://www.repostatus.org#active",
+      "status": "https://www.repostatus.org#unsupported",
       "onboarding": "",
       "on_cran": false,
       "on_bioc": false,
-      "type": "active",
+      "type": "archived",
       "url": "https://github.com/ropensci/rnoaa",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
@@ -5518,7 +5518,7 @@
       "url": "https://github.com/ropensci/RSelenium",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2023-07-17 07:37:25",
+      "date_last_commit": "2026-02-01 07:34:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7144,5 +7144,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-01-31 08:00 UTC"
+  "date": "2026-02-01 08:08 UTC"
 }
