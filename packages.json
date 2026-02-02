@@ -789,21 +789,6 @@
     }
   },
   {
-    "package": "cRegulome",
-    "url": "https://github.com/ropensci/cRegulome",
-    "branch": "master",
-    "metadata": {
-      "review": {
-        "id": 149,
-        "status": "reviewed",
-        "version": "0.99.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/149"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "camsRad",
     "url": "https://github.com/ropensci/camsRad",
     "branch": "master",
