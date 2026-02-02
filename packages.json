@@ -2937,14 +2937,6 @@
     }
   },
   {
-    "package": "r2readthedocs",
-    "url": "https://github.com/ropenscilabs/r2readthedocs",
-    "branch": "main",
-    "metadata": {
-      "ropensci_category": "scalereprod"
-    }
-  },
-  {
     "package": "rOPTRAM",
     "url": "https://github.com/ropensci/rOPTRAM",
     "branch": "main",
