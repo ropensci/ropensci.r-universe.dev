@@ -27054,13 +27054,13 @@
         "author": [
           {
             "@type": "Person",
-            "givenName": "Santtu",
-            "familyName": "Tikka"
+            "givenName": "Jouni",
+            "familyName": "Helske"
           },
           {
             "@type": "Person",
-            "givenName": "Jouni",
-            "familyName": "Helske"
+            "givenName": "Santtu",
+            "familyName": "Tikka"
           }
         ],
         "name": "Estimating Causal Effects from Panel Data with Dynamic\n    Multivariate Panel Models",
@@ -75335,6 +75335,7 @@
         "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
