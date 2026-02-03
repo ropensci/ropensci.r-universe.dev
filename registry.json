@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-26 15:38:30",
+      "date_last_commit": "2026-02-02 12:20:27",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -645,7 +645,7 @@
       "url": "https://github.com/ropensci/antanym",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-02 23:06:07",
+      "date_last_commit": "2026-02-03 03:14:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -924,7 +924,7 @@
       "url": "https://github.com/ropensci/bibtex",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2023-11-22 06:09:38",
+      "date_last_commit": "2026-02-02 18:56:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1567,26 +1567,6 @@
       "date_last_commit": "2025-08-25 11:42:15",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
-      "name": "cRegulome",
-      "description": "Obtain and Visualize Regulome-Gene Expression Correlations in Cancer",
-      "details": "Builds a 'SQLite' database file of pre-calculated transcription factor/microRNA-gene correlations (co-expression) in cancer from the Cistrome Cancer Liu et al. (2011) <doi:10.1186/gb-2011-12-8-r83> and 'miRCancerdb' databases (in press). Provides custom classes and functions to query, tidy and plot the correlation data.",
-      "maintainer": "Mahmoud Ahmed",
-      "keywords": "cancer-genomics, database, datascience, microrna, peer-reviewed, tcga-data, transcription-factors",
-      "github": "https://github.com/ropensci/cRegulome",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/149",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/cRegulome",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2020-04-04 08:17:42",
-      "github_archived": false,
-      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -4326,26 +4306,6 @@
       "staff_maintained": false
     },
     {
-      "name": "popler",
-      "description": "Popler R Package",
-      "details": "Browse and query the popler database.",
-      "maintainer": "Compagnoni Aldo",
-      "keywords": "",
-      "github": "https://github.com/ropensci/popler",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "https://github.com/ropensci/software-review/issues/254",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/popler",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2019-11-13 14:19:29",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "PostcodesioR",
       "description": "API Wrapper Around 'Postcodes.io'",
       "details": "Free UK geocoding using data from Office for National Statistics. It is using several functions to get information about post codes, outward codes, reverse geocoding, nearest post codes/outward codes, validation, or randomly generate a post code. API wrapper around <https://postcodes.io>.",
@@ -5018,7 +4978,7 @@
       "url": "https://github.com/ropensci/rglobi",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 14:20:56",
+      "date_last_commit": "2026-02-02 15:01:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5138,7 +5098,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 18:20:15",
+      "date_last_commit": "2026-02-02 15:38:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5798,7 +5758,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 15:33:30",
+      "date_last_commit": "2026-02-02 14:11:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6171,14 +6131,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/taxlist",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/233",
       "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/taxlist",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-29 15:22:01",
+      "date_last_commit": "2026-02-03 07:50:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6618,7 +6578,7 @@
       "url": "https://github.com/ropensci/universe",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-07 09:08:49",
+      "date_last_commit": "2026-02-02 14:54:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6998,7 +6958,7 @@
       "url": "https://github.com/ropensci/yfR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-19 17:58:08",
+      "date_last_commit": "2026-02-02 12:28:02",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7104,26 +7064,6 @@
       "staff_maintained": false
     },
     {
-      "name": "r2readthedocs",
-      "description": "Convert R Package Documentation to a 'readthedocs' Website",
-      "details": "Convert R package documentation to a 'readthedocs' website.",
-      "maintainer": "Mark Padgham",
-      "keywords": "",
-      "github": "https://github.com/ropenscilabs/r2readthedocs",
-      "status": "https://www.repostatus.org#concept",
-      "onboarding": "",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "experimental",
-      "url": "https://github.com/ropenscilabs/r2readthedocs",
-      "ropensci_category": "scalereprod",
-      "ropenscilabs": true,
-      "date_last_commit": "2024-06-21 09:51:00",
-      "github_archived": false,
-      "cran_archived": false,
-      "staff_maintained": true
-    },
-    {
       "name": "tif",
       "description": "Text Interchange Format",
       "details": "Provides validation functions for common interchange formats for representing text data in R. Includes formats for corpus objects, document term matrices, and tokens. Other annotations can be stored by overloading the tokens structure.",
@@ -7144,5 +7084,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-02 08:33 UTC"
+  "date": "2026-02-03 08:24 UTC"
 }
