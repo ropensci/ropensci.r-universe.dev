@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-02 12:20:27",
+      "date_last_commit": "2026-02-04 15:56:50",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -528,7 +528,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 11:23:42",
+      "date_last_commit": "2026-02-04 15:47:02",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -5098,7 +5098,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 08:24:11",
+      "date_last_commit": "2026-02-04 09:32:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5118,7 +5118,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 08:23:09",
+      "date_last_commit": "2026-02-04 20:15:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5758,7 +5758,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-03 15:30:15",
+      "date_last_commit": "2026-02-04 15:46:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6038,7 +6038,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-03 21:00:37",
+      "date_last_commit": "2026-02-04 21:02:34",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7084,5 +7084,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-04 08:26 UTC"
+  "date": "2026-02-05 08:30 UTC"
 }
