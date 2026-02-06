@@ -70,6 +70,10 @@
     "url": "https://github.com/ropensci-review-tools/repometrics"
   },
   {
+    "package": "orgmetrics",
+    "url": "https://github.com/ropensci-review-tools/orgmetrics"
+  },
+  {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r"
   },
