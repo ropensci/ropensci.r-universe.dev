@@ -6779,7 +6779,7 @@
     "codeRepository": "https://github.com/ropensci-training/saperlipopette",
     "issueTracker": "https://github.com/ropensci-training/saperlipopette/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0",
+    "version": "0.1.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7940,7 +7940,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/srr",
     "issueTracker": "https://github.com/ropensci-review-tools/srr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.4.23",
+    "version": "0.1.4.35",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -78107,7 +78107,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.12.9008",
+    "version": "0.2.12.9009",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -83328,7 +83328,7 @@
     "codeRepository": "https://github.com/ropensci/taxize",
     "issueTracker": "https://github.com/ropensci/taxize/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

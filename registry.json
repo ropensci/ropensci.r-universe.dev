@@ -205,7 +205,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-12 14:26:03",
+      "date_last_commit": "2026-02-05 21:18:14",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -471,7 +471,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-24 07:44:17",
+      "date_last_commit": "2026-02-05 13:38:37",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -528,7 +528,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 15:47:02",
+      "date_last_commit": "2026-02-05 11:26:52",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -685,7 +685,7 @@
       "url": "https://github.com/ropensci/aorsf",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-08 15:33:46",
+      "date_last_commit": "2026-02-05 18:44:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4460,7 +4460,7 @@
       "url": "https://github.com/ropensci/QuadratiK",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-03 22:50:21",
+      "date_last_commit": "2026-02-05 10:54:17",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5758,7 +5758,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 15:46:26",
+      "date_last_commit": "2026-02-05 18:58:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6098,7 +6098,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-09 16:58:20",
+      "date_last_commit": "2026-02-05 19:58:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7084,5 +7084,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-05 08:30 UTC"
+  "date": "2026-02-06 08:33 UTC"
 }
