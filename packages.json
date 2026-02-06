@@ -2465,6 +2465,11 @@
     }
   },
   {
+    "package": "orgmetrics",
+    "url": "https://github.com/ropensci-review-tools/orgmetrics",
+    "branch": "main"
+  },
+  {
     "package": "osfr",
     "url": "https://github.com/ropensci/osfr",
     "branch": "master",
