@@ -187,7 +187,7 @@
       "ropensci_category": "data-access",
       "ropenscilabs": false,
       "date_last_commit": "2025-08-20 12:48:43",
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -1839,7 +1839,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/dfms",
-      "date_last_commit": "2026-01-27 17:13:20",
+      "date_last_commit": "2026-02-07 22:38:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6117,7 +6117,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2026-02-06 18:42:21",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -6877,7 +6877,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-07-24 22:28:13",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-07 08:06 UTC"
+  "date": "2026-02-08 08:06 UTC"
 }
