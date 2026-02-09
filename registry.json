@@ -180,7 +180,7 @@
       "github": "https://github.com/EMODnet/emodnet.wfs",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/653",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/EMODnet/emodnet.wfs",
@@ -6109,7 +6109,7 @@
       "github": "https://github.com/ropensci/taxize",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/taxize",
@@ -6869,7 +6869,7 @@
       "github": "https://github.com/ropensci/wikitaxa",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": true,
+      "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/wikitaxa",
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-08 08:06 UTC"
+  "date": "2026-02-09 08:36 UTC"
 }

@@ -2073,12 +2073,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -15256,14 +15250,7 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.9.97",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "version": ">= 0.9.97"
       },
       "6": {
         "@type": "SoftwareApplication",
@@ -39604,14 +39591,7 @@
       "3": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       "SystemRequirements": null
     },
@@ -47768,14 +47748,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "WikidataR",
-        "name": "WikidataR",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=WikidataR"
+        "name": "WikidataR"
       }
     ],
     "softwareRequirements": {
@@ -51270,14 +51243,7 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.10",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "version": ">= 0.10"
       },
       {
         "@type": "SoftwareApplication",
@@ -57616,14 +57582,7 @@
       "5": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       "6": {
         "@type": "SoftwareApplication",
@@ -66323,14 +66282,7 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.9.97",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "version": ">= 0.9.97"
       },
       {
         "@type": "SoftwareApplication",
@@ -71754,14 +71706,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       {
         "@type": "SoftwareApplication",
@@ -76486,14 +76431,7 @@
       "7": {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       "8": {
         "@type": "SoftwareApplication",
@@ -79166,14 +79104,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       {
         "@type": "SoftwareApplication",
@@ -83685,12 +83616,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -84011,14 +83936,7 @@
         "@type": "SoftwareApplication",
         "identifier": "wikitaxa",
         "name": "wikitaxa",
-        "version": ">= 0.3.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=wikitaxa"
+        "version": ">= 0.3.0"
       },
       "19": {
         "@type": "SoftwareApplication",
@@ -84283,14 +84201,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "name": "taxize"
       },
       {
         "@type": "SoftwareApplication",
@@ -88578,14 +88489,7 @@
         "@type": "SoftwareApplication",
         "identifier": "taxize",
         "name": "taxize",
-        "version": ">= 0.7.4",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
+        "version": ">= 0.7.4"
       },
       "10": {
         "@type": "SoftwareApplication",
@@ -94865,12 +94769,6 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "provider": {
-      "@id": "https://cran.r-project.org",
-      "@type": "Organization",
-      "name": "Comprehensive R Archive Network (CRAN)",
-      "url": "https://cran.r-project.org"
-    },
     "author": [
       {
         "@type": "Person",
@@ -94963,14 +94861,7 @@
       "2": {
         "@type": "SoftwareApplication",
         "identifier": "WikidataR",
-        "name": "WikidataR",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=WikidataR"
+        "name": "WikidataR"
       },
       "3": {
         "@type": "SoftwareApplication",
