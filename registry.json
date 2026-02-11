@@ -279,7 +279,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
-      "date_last_commit": "2026-02-09 16:37:40",
+      "date_last_commit": "2026-02-10 15:22:00",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -310,14 +310,14 @@
       "keywords": "cpp, embeddings, llms, natural-language-processing",
       "github": "https://github.com/ropensci-review-tools/pkgmatch",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/671",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 10:58:13",
+      "date_last_commit": "2026-02-10 09:45:23",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-26 08:50:46",
+      "date_last_commit": "2026-02-10 15:01:39",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -488,7 +488,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-05 13:38:37",
+      "date_last_commit": "2026-02-10 14:52:36",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -545,7 +545,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-05 11:26:52",
+      "date_last_commit": "2026-02-10 15:20:14",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1241,7 +1241,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-28 00:25:26",
+      "date_last_commit": "2026-02-11 06:10:11",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1461,7 +1461,7 @@
       "url": "https://github.com/ropensci/codemetar",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-28 18:16:50",
+      "date_last_commit": "2026-02-10 18:06:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-10 08:37 UTC"
+  "date": "2026-02-11 08:33 UTC"
 }
