@@ -4830,7 +4830,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.1.18",
+    "version": "0.2.2.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -43593,7 +43593,7 @@
     "codeRepository": "https://github.com/ropensci/mantis",
     "issueTracker": "https://github.com/ropensci/mantis/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0.1.9000",
+    "version": "1.0.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -94787,11 +94787,11 @@
     "identifier": "wikitaxa",
     "description": "'Taxonomic' information from 'Wikipedia', 'Wikicommons', 'Wikispecies', and 'Wikidata'. Functions included for getting taxonomic information from each of the sources just listed, as well performing taxonomic search.",
     "name": "wikitaxa: Taxonomic Information from 'Wikipedia'",
-    "relatedLink": ["https://docs.ropensci.org/wikitaxa", "https://github.com/ropensci/wikitaxa"],
+    "relatedLink": ["https://docs.ropensci.org/wikitaxa/", "https://github.com/ropensci/wikitaxa"],
     "codeRepository": "https://github.com/ropensci/wikitaxa",
     "issueTracker": "https://github.com/ropensci/wikitaxa/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.4.0.93",
+    "version": "0.5.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -94877,7 +94877,7 @@
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://github.com/ropensci/vcr"
+        "sameAs": "https://CRAN.R-project.org/package=vcr"
       }
     ],
     "softwareRequirements": {
@@ -94889,11 +94889,6 @@
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "WikidataR",
-        "name": "WikidataR"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
         "identifier": "data.table",
         "name": "data.table",
         "provider": {
@@ -94904,7 +94899,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=data.table"
       },
-      "4": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
@@ -94916,7 +94911,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "crul",
         "name": "crul",
@@ -94929,7 +94924,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=crul"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -94941,7 +94936,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -94953,7 +94948,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -94964,6 +94959,30 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
+      },
+      "8": {
+        "@type": "SoftwareApplication",
+        "identifier": "WikipediR",
+        "name": "WikipediR",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=WikipediR"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "httr",
+        "name": "httr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=httr"
       },
       "SystemRequirements": null
     },
