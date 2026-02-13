@@ -279,7 +279,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
-      "date_last_commit": "2026-02-11 11:14:13",
+      "date_last_commit": "2026-02-12 10:40:00",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-11 11:12:41",
+      "date_last_commit": "2026-02-12 10:39:07",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -488,7 +488,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-10 14:52:36",
+      "date_last_commit": "2026-02-13 08:01:42",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1801,7 +1801,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-12 02:34:47",
+      "date_last_commit": "2026-02-12 11:59:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3877,7 +3877,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-18 11:27:38",
+      "date_last_commit": "2026-02-12 16:08:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6875,7 +6875,7 @@
       "url": "https://github.com/ropensci/wikitaxa",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-12 00:42:42",
+      "date_last_commit": "2026-02-12 17:47:19",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-12 08:31 UTC"
+  "date": "2026-02-13 08:35 UTC"
 }
