@@ -53,7 +53,7 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-27 09:57:38",
+      "date_last_commit": "2026-02-13 11:14:40",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-09 09:20:15",
+      "date_last_commit": "2026-02-13 16:27:43",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -279,7 +279,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
-      "date_last_commit": "2026-02-12 10:40:00",
+      "date_last_commit": "2026-02-13 11:26:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -298,7 +298,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 15:56:50",
+      "date_last_commit": "2026-02-13 13:40:26",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -317,7 +317,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-10 09:45:23",
+      "date_last_commit": "2026-02-13 11:48:04",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -355,7 +355,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-12 10:39:07",
+      "date_last_commit": "2026-02-13 10:56:48",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -393,7 +393,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-26 17:02:25",
+      "date_last_commit": "2026-02-13 12:00:11",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -431,7 +431,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-16 09:18:34",
+      "date_last_commit": "2026-02-13 12:08:01",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -478,7 +478,7 @@
       "description": "Create Example Git Messes",
       "details": "Holds functions creating Git messes, that users would then solve, to follow <https://ohshitgit.com/>.",
       "maintainer": "Maëlle Salmon",
-      "keywords": "git",
+      "keywords": "git, quarto",
       "github": "https://github.com/ropensci-training/saperlipopette",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
@@ -488,7 +488,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 08:01:42",
+      "date_last_commit": "2026-02-13 13:44:26",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -545,7 +545,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-10 15:20:14",
+      "date_last_commit": "2026-02-13 12:38:54",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -4557,7 +4557,7 @@
       "url": "https://github.com/ropensci/rangr",
       "ropensci_category": "stat",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-22 23:43:24",
+      "date_last_commit": "2026-02-13 13:20:01",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6115,7 +6115,7 @@
       "url": "https://github.com/ropensci/taxize",
       "ropensci_category": "taxonomy",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-06 18:42:21",
+      "date_last_commit": "2026-02-13 19:44:23",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -6869,7 +6869,7 @@
       "github": "https://github.com/ropensci/wikitaxa",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/wikitaxa",
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-13 08:35 UTC"
+  "date": "2026-02-14 08:05 UTC"
 }
