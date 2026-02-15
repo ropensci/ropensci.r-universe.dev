@@ -1231,7 +1231,7 @@
       "description": "Generate Citation File Format ('cff') Metadata for R Packages",
       "details": "The Citation File Format version 1.2.0 <doi:10.5281/zenodo.5171937> is a human and machine readable file format which provides citation metadata for software. This package provides core utilities to generate and validate this metadata.",
       "maintainer": "Diego Hernangómez",
-      "keywords": "attribution, cff, citation, citation-file-format, citation-files, credit, metadata, ropensci",
+      "keywords": "attribution, cff, citation, citation-file-format, citation-files, credit, metadata, quarto, ropensci",
       "github": "https://github.com/ropensci/cffr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/463",
@@ -1241,7 +1241,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-11 06:10:11",
+      "date_last_commit": "2026-02-15 01:59:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1801,7 +1801,7 @@
       "url": "https://github.com/ropensci/dbparser",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-12 11:59:13",
+      "date_last_commit": "2026-02-14 14:58:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3219,7 +3219,7 @@
       "url": "https://github.com/ropensci/lightr",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-10-27 12:10:20",
+      "date_last_commit": "2026-02-14 09:18:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3877,7 +3877,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-12 16:08:48",
+      "date_last_commit": "2026-02-14 21:22:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5915,7 +5915,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-20 16:22:56",
+      "date_last_commit": "2026-02-15 05:12:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6109,7 +6109,7 @@
       "github": "https://github.com/ropensci/taxize",
       "status": "https://www.repostatus.org#active",
       "onboarding": "",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/taxize",
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-14 08:05 UTC"
+  "date": "2026-02-15 08:06 UTC"
 }
