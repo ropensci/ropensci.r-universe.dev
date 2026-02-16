@@ -1241,7 +1241,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-15 01:59:45",
+      "date_last_commit": "2026-02-16 06:14:10",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3877,7 +3877,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-14 21:22:56",
+      "date_last_commit": "2026-02-15 22:08:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6117,7 +6117,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2026-02-13 19:44:23",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -6877,7 +6877,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2026-02-12 17:47:19",
       "github_archived": false,
-      "cran_archived": true,
+      "cran_archived": false,
       "staff_maintained": false
     },
     {
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-15 08:06 UTC"
+  "date": "2026-02-16 08:32 UTC"
 }

@@ -53433,7 +53433,7 @@
     "codeRepository": "https://github.com/ropensci/osmapiR",
     "issueTracker": "https://github.com/ropensci/osmapiR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.4.9004",
+    "version": "0.2.5.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53605,7 +53605,7 @@
         ],
         "name": "osmapiR: An 'OpenStreetMap API' implementation for R",
         "identifier": "10.21105/joss.07151",
-        "description": "R package version 0.2.4.9004",
+        "description": "R package version 0.2.5.9000",
         "pagination": "7151",
         "@id": "https://doi.org/10.21105/joss.07151",
         "sameAs": "https://doi.org/10.21105/joss.07151",
