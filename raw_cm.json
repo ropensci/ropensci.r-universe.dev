@@ -3193,6 +3193,13 @@
         "@type": "Person",
         "givenName": "Fabian",
         "familyName": "Scheipl"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Athanasia Mo",
+        "familyName": "Mowinckel",
+        "email": "a.m.mowinckel@psykologi.uio.no",
+        "@id": "https://orcid.org/0000-0002-5756-0223"
       }
     ],
     "copyrightHolder": [

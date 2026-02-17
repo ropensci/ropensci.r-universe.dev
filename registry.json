@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 16:27:43",
+      "date_last_commit": "2026-02-16 17:16:17",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1241,7 +1241,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-16 06:14:10",
+      "date_last_commit": "2026-02-17 00:38:40",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5115,7 +5115,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 09:32:07",
+      "date_last_commit": "2026-02-16 16:02:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7101,5 +7101,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-16 08:32 UTC"
+  "date": "2026-02-17 08:34 UTC"
 }
