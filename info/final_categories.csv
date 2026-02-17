@@ -58,7 +58,6 @@ concstats,stat,FALSE
 CoordinateCleaner,data-extraction,FALSE
 credentials,scalereprod,FALSE
 CRediTas,data-publication,FALSE
-cRegulome,data-access,FALSE
 crul,http-tools,FALSE
 cyphr,security,FALSE
 daiquiri,data-extraction,FALSE
@@ -72,6 +71,7 @@ datefixR,data-extraction,FALSE
 dbparser,data-access,FALSE
 dendroNetwork,scalereprod,FALSE
 deposits,data-publication,TRUE
+dfms,stat,FALSE
 distionary,stat,FALSE
 dittodb,databases,FALSE
 DoOR.data,data-access,FALSE
@@ -82,7 +82,6 @@ dynamite,stat,FALSE
 EDIutils,data-access,FALSE
 eDNAjoint,stat,FALSE
 eia,data-access,FALSE
-elastic,databases,FALSE
 EML,data-publication,FALSE
 emld,data-extraction,FALSE
 emodnet.wfs,data-access,FALSE
@@ -151,6 +150,7 @@ landscapetools,geospatial,FALSE
 lightr,data-extraction,FALSE
 lingtypology,literature,FALSE
 magick,image-processing,FALSE
+mantis,data-extraction,FALSE
 mapmetadata,data-extraction,FALSE
 mapscanner,geospatial,FALSE
 mauricer,scalereprod,FALSE
@@ -179,6 +179,7 @@ openalexR,literature,FALSE
 opencage,geospatial,FALSE
 opencv,image-processing,FALSE
 opentripplanner,geospatial,FALSE
+orgmetrics,scalereprod,FALSE
 osfr,scalereprod,FALSE
 osmapiR,geospatial,FALSE
 osmdata,geospatial,FALSE
@@ -207,7 +208,6 @@ pkgmatch,scalereprod,FALSE
 pkgreviewr,scalereprod,FALSE
 pkgstats,scalereprod,FALSE
 plater,scalereprod,FALSE
-popler,data-access,FALSE
 PostcodesioR,geospatial,FALSE
 postdoc,scalereprod,FALSE
 predictNMB,stat,FALSE
@@ -221,7 +221,6 @@ QuadratiK,stat,FALSE
 qualR,data-access,FALSE
 qualtRics,data-access,FALSE
 quartificate,scalereprod,TRUE
-r2readthedocs,scalereprod,TRUE
 ramlegacy,data-access,FALSE
 rangr,stat,FALSE
 rb3,data-access,FALSE
@@ -232,6 +231,7 @@ rdataretriever,data-access,FALSE
 rdflib,data-extraction,FALSE
 rdhs,data-access,FALSE
 rdryad,data-access,FALSE
+read.abares,data-access,FALSE
 readODS,data-extraction,FALSE
 rebird,data-access,FALSE
 redland,data-extraction,FALSE
