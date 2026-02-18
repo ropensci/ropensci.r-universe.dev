@@ -1684,7 +1684,7 @@
   {
     "package": "ghql",
     "url": "https://github.com/ropensci/ghql",
-    "branch": "master",
+    "branch": "main",
     "metadata": {
       "ropensci_category": "http-tools"
     }
