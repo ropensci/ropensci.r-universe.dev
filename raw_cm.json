@@ -3767,7 +3767,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.265",
+    "version": "0.1.2.271",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6250,7 +6250,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.43",
+    "version": "0.1.1.57",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -6287,6 +6287,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=bspm"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "gh",
+        "name": "gh",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=gh"
       },
       {
         "@type": "SoftwareApplication",
@@ -38452,6 +38464,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "ggplot2",
+        "name": "ggplot2",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=ggplot2"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "here",
         "name": "here",
         "version": ">= 1.0.2",
@@ -38515,6 +38539,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "textdata",
+        "name": "textdata",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=textdata"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
         "provider": {
@@ -38536,6 +38572,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=tidytext"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "quarto",
+        "name": "quarto",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=quarto"
       },
       {
         "@type": "SoftwareApplication",
@@ -38712,7 +38760,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["digital-humanities", "natural-language-processing", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining"]
+    "keywords": ["digital-humanities", "natural-language-processing", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining", "quarto"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

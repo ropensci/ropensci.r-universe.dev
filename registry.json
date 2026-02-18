@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-16 17:16:17",
+      "date_last_commit": "2026-02-17 19:30:38",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -279,6 +279,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
+      "ropensci_category": "scalereprod",
+      "ropenscilabs": false,
       "date_last_commit": "2026-02-13 11:26:30",
       "cran_archived": false,
       "staff_maintained": true
@@ -298,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 13:40:26",
+      "date_last_commit": "2026-02-17 19:39:44",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -431,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 12:08:01",
+      "date_last_commit": "2026-02-17 18:24:30",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -1839,6 +1841,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/dfms",
+      "ropensci_category": "stat",
+      "ropenscilabs": false,
       "date_last_commit": "2026-02-07 22:38:39",
       "github_archived": false,
       "cran_archived": false,
@@ -2789,7 +2793,7 @@
       "description": "Download and Process Public Domain Works from Project Gutenberg",
       "details": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
       "maintainer": "Jordan Bradford",
-      "keywords": "digital-humanities, natural-language-processing, nlp, peer-reviewed, project-gutenberg, public-domain, text-mining",
+      "keywords": "digital-humanities, natural-language-processing, nlp, peer-reviewed, project-gutenberg, public-domain, quarto, text-mining",
       "github": "https://github.com/ropensci/gutenbergr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/41",
@@ -2799,7 +2803,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-02 01:30:32",
+      "date_last_commit": "2026-02-17 18:15:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3277,6 +3281,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/mantis",
+      "ropensci_category": "data-extraction",
+      "ropenscilabs": false,
       "date_last_commit": "2026-02-11 20:03:06",
       "github_archived": false,
       "cran_archived": false,
@@ -4735,6 +4741,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/read.abares",
+      "ropensci_category": "data-access",
+      "ropenscilabs": false,
       "date_last_commit": "2026-01-23 06:57:18",
       "github_archived": false,
       "cran_archived": false,
@@ -5115,7 +5123,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-16 16:02:00",
+      "date_last_commit": "2026-02-18 06:56:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6055,7 +6063,7 @@
       "url": "https://github.com/ropensci/targets",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-09 16:45:26",
+      "date_last_commit": "2026-02-17 19:05:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7101,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-17 08:34 UTC"
+  "date": "2026-02-18 08:36 UTC"
 }
