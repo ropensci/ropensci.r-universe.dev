@@ -53,9 +53,9 @@
       "url": "https://github.com/ropensci-review-tools/autotest",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 11:14:40",
+      "date_last_commit": "2026-02-18 14:47:27",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "babeldown",
@@ -72,9 +72,9 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-27 10:10:29",
+      "date_last_commit": "2026-02-18 14:59:11",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "babelquarto",
@@ -91,9 +91,9 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-23 12:47:17",
+      "date_last_commit": "2026-02-18 14:34:36",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "commonmark",
@@ -129,7 +129,7 @@
       "url": "https://github.com/maelle/commonmetar",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 07:32:12",
+      "date_last_commit": "2026-02-18 15:22:18",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -243,7 +243,7 @@
       "url": "https://github.com/ropensci-org/gitcellar",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-03 07:58:22",
+      "date_last_commit": "2026-02-18 15:23:27",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,9 +262,9 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-17 19:30:38",
+      "date_last_commit": "2026-02-18 14:44:33",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "orgmetrics",
@@ -300,9 +300,9 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-17 19:39:44",
+      "date_last_commit": "2026-02-18 14:43:58",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "pkgmatch",
@@ -319,9 +319,9 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 11:48:04",
+      "date_last_commit": "2026-02-18 15:16:13",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "pkgreviewr",
@@ -338,7 +338,7 @@
       "url": "https://github.com/ropensci-org/pkgreviewr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-18 17:17:25",
+      "date_last_commit": "2026-02-18 15:24:27",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,9 +357,9 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 10:56:48",
+      "date_last_commit": "2026-02-18 15:14:25",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "promoutils",
@@ -395,9 +395,9 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 12:00:11",
+      "date_last_commit": "2026-02-18 15:23:18",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "roblog",
@@ -414,9 +414,9 @@
       "url": "https://github.com/ropenscilabs/roblog",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-29 07:16:48",
+      "date_last_commit": "2026-02-18 14:57:52",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "roreviewapi",
@@ -433,9 +433,9 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-17 18:24:30",
+      "date_last_commit": "2026-02-18 14:46:53",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "rotemplate",
@@ -452,9 +452,9 @@
       "url": "https://github.com/ropensci-org/rotemplate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-27 14:04:29",
+      "date_last_commit": "2026-02-18 14:48:22",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "rsi",
@@ -490,7 +490,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 13:44:26",
+      "date_last_commit": "2026-02-18 15:25:09",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -547,9 +547,9 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-13 12:38:54",
+      "date_last_commit": "2026-02-18 15:15:51",
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "treeio",
@@ -624,10 +624,10 @@
       "url": "https://github.com/ropensci/allcontributors",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-12 14:26:40",
+      "date_last_commit": "2026-02-18 15:24:58",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "allodb",
@@ -1243,7 +1243,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-17 00:38:40",
+      "date_last_commit": "2026-02-18 13:34:30",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2543,7 +2543,7 @@
       "url": "https://github.com/ropensci/ghql",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-08 08:39:59",
+      "date_last_commit": "2026-02-18 15:17:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2793,7 +2793,7 @@
       "description": "Download and Process Public Domain Works from Project Gutenberg",
       "details": "Download and process public domain works in the Project Gutenberg collection <https://www.gutenberg.org/>. Includes metadata for all Project Gutenberg works, so that they can be searched and retrieved.",
       "maintainer": "Jordan Bradford",
-      "keywords": "digital-humanities, natural-language-processing, nlp, peer-reviewed, project-gutenberg, public-domain, quarto, text-mining",
+      "keywords": "digital-humanities, natural-language-processing, nlp, peer-reviewed, project-gutenberg, public-domain, text-mining",
       "github": "https://github.com/ropensci/gutenbergr",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/41",
@@ -2803,7 +2803,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-17 18:15:25",
+      "date_last_commit": "2026-02-18 20:27:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5123,7 +5123,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 06:56:18",
+      "date_last_commit": "2026-02-19 08:12:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5143,7 +5143,7 @@
       "url": "https://github.com/ropensci/rixpress",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-04 20:15:49",
+      "date_last_commit": "2026-02-19 07:29:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6431,7 +6431,7 @@
     {
       "name": "traits",
       "description": "Species Trait Data from Around the Web",
-      "details": "Species trait data from many sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant traits from 'BETYdb', and data from 'EOL Traitbank' and 'Birdlife International'.",
+      "details": "Species trait data from many sources, including sequence data from NCBI (<https://www.ncbi.nlm.nih.gov/>), plant traits from BETYdb, and data from EOL Traitbank and BirdLife International.",
       "maintainer": "David LeBauer",
       "keywords": "api, api-client, biodiversity, ecology, environmental-data, species, species-traits, taxonomy, traits, web-services",
       "github": "https://github.com/ropensci/traits",
@@ -6443,7 +6443,7 @@
       "url": "https://github.com/ropensci/traits",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-10 19:35:06",
+      "date_last_commit": "2026-02-18 21:50:22",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7023,10 +7023,10 @@
       "url": "https://github.com/ropenscilabs/deposits",
       "ropensci_category": "data-publication",
       "ropenscilabs": true,
-      "date_last_commit": "2025-12-05 14:13:27",
+      "date_last_commit": "2026-02-18 14:37:39",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "icepalace",
@@ -7109,5 +7109,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-18 08:36 UTC"
+  "date": "2026-02-19 08:34 UTC"
 }

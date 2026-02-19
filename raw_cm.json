@@ -4837,7 +4837,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.6",
+    "version": "0.2.2.13",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -5041,6 +5041,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "toml",
+        "name": "toml",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=toml"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "visNetwork",
         "name": "visNetwork",
         "provider": {
@@ -5168,6 +5180,18 @@
       },
       "11": {
         "@type": "SoftwareApplication",
+        "identifier": "rprojroot",
+        "name": "rprojroot",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=rprojroot"
+      },
+      "12": {
+        "@type": "SoftwareApplication",
         "identifier": "sys",
         "name": "sys",
         "provider": {
@@ -5178,7 +5202,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sys"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -38575,18 +38599,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "quarto",
-        "name": "quarto",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=quarto"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "usethis",
         "name": "usethis",
         "version": ">= 3.2.1",
@@ -38760,7 +38772,7 @@
       "provider": "https://ropensci.org"
     },
     "developmentStatus": "https://www.repostatus.org/#active",
-    "keywords": ["digital-humanities", "natural-language-processing", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining", "quarto"]
+    "keywords": ["digital-humanities", "natural-language-processing", "nlp", "peer-reviewed", "project-gutenberg", "public-domain", "text-mining"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -69759,7 +69771,7 @@
     "codeRepository": "https://github.com/ropensci/rix",
     "issueTracker": "https://github.com/ropensci/rix/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.18.1",
+    "version": "0.18.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -69954,7 +69966,7 @@
     "codeRepository": "https://github.com/ropensci/rixpress",
     "issueTracker": "https://github.com/ropensci/rixpress/issues/",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.12.1",
+    "version": "0.12.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -70045,6 +70057,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "maybe",
+        "name": "maybe",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=maybe"
       },
       {
         "@type": "SoftwareApplication",
@@ -88457,13 +88481,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "traits",
-    "description": "Species trait data from many sources, including sequence data from 'NCBI' (<https://www.ncbi.nlm.nih.gov/>), plant traits from 'BETYdb', and data from 'EOL Traitbank' and 'Birdlife International'.",
+    "description": "Species trait data from many sources, including sequence data from NCBI (<https://www.ncbi.nlm.nih.gov/>), plant traits from BETYdb, and data from EOL Traitbank and BirdLife International.",
     "name": "traits: Species Trait Data from Around the Web",
     "relatedLink": ["https://docs.ropensci.org/traits/", "https://github.com/ropensci/traits"],
     "codeRepository": "https://github.com/ropensci/traits",
     "issueTracker": "https://github.com/ropensci/traits/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.2",
+    "version": "0.6.0",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -88511,6 +88535,15 @@
         "@type": "Person",
         "givenName": "Rupert",
         "familyName": "Collins"
+      }
+    ],
+    "copyrightHolder": [
+      {
+        "@type": "Person",
+        "givenName": "Scott",
+        "familyName": "Chamberlain",
+        "email": "myrmecocystus@gmail.com",
+        "@id": "https://orcid.org/0000-0003-1444-9135"
       }
     ],
     "maintainer": [
