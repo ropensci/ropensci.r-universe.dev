@@ -1,5 +1,19 @@
 [
   {
+    "package": "Athlytics",
+    "url": "https://github.com/ropensci/Athlytics",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 728,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/728"
+      }
+    }
+  },
+  {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
     "branch": "main",
