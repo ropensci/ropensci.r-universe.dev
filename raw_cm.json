@@ -3417,7 +3417,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/orgmetrics",
     "issueTracker": "https://github.com/ropensci-review-tools/orgmetrics/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.211",
+    "version": "0.1.2.212",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53104,7 +53104,7 @@
     "codeRepository": "https://github.com/ropensci/osfr",
     "issueTracker": "https://github.com/ropensci/osfr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.2.9",
+    "version": "0.2.9.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -53296,7 +53296,7 @@
         "@type": "SoftwareApplication",
         "identifier": "vcr",
         "name": "vcr",
-        "version": ">= 0.5",
+        "version": ">= 2.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -53304,6 +53304,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=vcr"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "withr",
+        "name": "withr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=withr"
       }
     ],
     "softwareRequirements": {
@@ -66369,14 +66381,7 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "leaflet.extras",
-        "name": "leaflet.extras",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=leaflet.extras"
+        "name": "leaflet.extras"
       },
       {
         "@type": "SoftwareApplication",
@@ -75089,7 +75094,7 @@
     "codeRepository": "https://github.com/ropensci/RSelenium",
     "issueTracker": "https://github.com/ropensci/RSelenium/issues",
     "license": "https://spdx.org/licenses/AGPL-3.0",
-    "version": "1.7.9.9000",
+    "version": "1.7.10",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
