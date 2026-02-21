@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 15:59:51",
+      "date_last_commit": "2026-02-20 10:38:18",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -91,7 +91,7 @@
       "url": "https://github.com/ropensci-review-tools/babelquarto",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 14:34:36",
+      "date_last_commit": "2026-02-20 16:10:52",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -205,7 +205,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 08:30:47",
+      "date_last_commit": "2026-02-20 14:30:10",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 11:20:30",
+      "date_last_commit": "2026-02-20 11:46:20",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -745,6 +745,24 @@
       "ropensci_category": "literature",
       "ropenscilabs": false,
       "date_last_commit": "2025-12-13 12:31:54",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
+      "name": "Athlytics",
+      "description": "Academic R Package for Sports Physiology Analysis from Local 'Strava' Data",
+      "details": "An open-source computational framework for longitudinal analysis of exercise physiology metrics using local 'Strava' data exports. Designed for personal analysis and sports science applications, this package provides standardized functions to calculate and visualize key physiological indicators including Acute:Chronic Workload Ratio (ACWR), Efficiency Factor (EF), and training load metrics. ",
+      "maintainer": "Zhiang He",
+      "keywords": "activity-tracking, acute-chronic-workload-ratio, aerobic-decoupling, cohort-analysis, efficiency-factor, endurance-training, ewma, exercise-physiology, ggplot2, gpx-tcx-fit, rolling-average, sports-analytics, tidyverse, training-load, trimp",
+      "github": "https://github.com/ropensci/Athlytics",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/Athlytics",
+      "date_last_commit": "2026-02-20 12:31:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7109,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-20 08:29 UTC"
+  "date": "2026-02-21 08:03 UTC"
 }
