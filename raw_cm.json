@@ -49898,8 +49898,8 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "nodbi",
-    "description": "R database interface for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
-    "name": "nodbi: 'NoSQL' Database Interface",
+    "description": "R database connector for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
+    "name": "nodbi: Document 'NoSQL' Database DBI Connector",
     "relatedLink": ["https://docs.ropensci.org/nodbi/", "https://github.com/ropensci/nodbi"],
     "codeRepository": "https://github.com/ropensci/nodbi",
     "issueTracker": "https://github.com/ropensci/nodbi/issues",
@@ -49976,14 +49976,14 @@
         "@type": "SoftwareApplication",
         "identifier": "elastic",
         "name": "elastic",
-        "version": ">= 1.2.1",
+        "version": ">= 1.2.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://github.com/ropensci-archive/elastic"
+        "sameAs": "https://CRAN.R-project.org/package=elastic"
       },
       {
         "@type": "SoftwareApplication",
@@ -52934,7 +52934,7 @@
     "codeRepository": "https://github.com/ropensci/opencv",
     "issueTracker": "https://github.com/ropensci/opencv/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -75365,7 +75365,7 @@
     "codeRepository": "https://github.com/ropensci/RSelenium",
     "issueTracker": "https://github.com/ropensci/RSelenium/issues",
     "license": "https://spdx.org/licenses/AGPL-3.0",
-    "version": "1.7.10",
+    "version": "1.7.10.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -77260,7 +77260,7 @@
     "codeRepository": "https://github.com/ropensci/sasquatch",
     "issueTracker": "https://github.com/ropensci/sasquatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0.9003",
+    "version": "0.1.1.9003",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

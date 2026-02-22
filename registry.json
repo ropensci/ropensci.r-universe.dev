@@ -3648,8 +3648,8 @@
     },
     {
       "name": "nodbi",
-      "description": "'NoSQL' Database Interface",
-      "details": "R database interface for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
+      "description": "Document 'NoSQL' Database DBI Connector",
+      "details": "R database connector for creating, reading (querying and listing fields), updating and deleting of individual or many JSON documents, providing a common API across supported databases ('SQLite', 'PostgreSQL', 'DuckDB' and 'NoSQL' databases 'MongoDB', 'CouchDB' and 'Elasticsearch').",
       "maintainer": "Ralf Herold",
       "keywords": "couchdb, database, documents, duckdb, elasticsearch, json, mongodb, nosql, postgresql, sqlite",
       "github": "https://github.com/ropensci/nodbi",
@@ -3661,7 +3661,7 @@
       "url": "https://github.com/ropensci/nodbi",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-17 14:32:40",
+      "date_last_commit": "2026-02-21 15:03:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3763,7 +3763,7 @@
       "ropenscilabs": false,
       "date_last_commit": "2025-09-29 09:40:12",
       "github_archived": false,
-      "cran_archived": false,
+      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -3841,7 +3841,7 @@
       "url": "https://github.com/ropensci/opencv",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-03-31 11:09:45",
+      "date_last_commit": "2026-02-21 14:45:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3881,7 +3881,7 @@
       "url": "https://github.com/ropensci/osfr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 14:26:24",
+      "date_last_commit": "2026-02-21 18:32:59",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5521,7 +5521,7 @@
       "url": "https://github.com/ropensci/RSelenium",
       "ropensci_category": "http-tools",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-20 06:30:26",
+      "date_last_commit": "2026-02-21 11:09:12",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5681,7 +5681,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-18 15:56:52",
+      "date_last_commit": "2026-02-22 05:45:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-21 08:03 UTC"
+  "date": "2026-02-22 08:03 UTC"
 }
