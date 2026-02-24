@@ -3375,15 +3375,27 @@
       },
       "10": {
         "@type": "SoftwareApplication",
+        "identifier": "spelling",
+        "name": "spelling",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=spelling"
+      },
+      "11": {
+        "@type": "SoftwareApplication",
         "identifier": "tools",
         "name": "tools"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "12": {
+      "13": {
         "@type": "SoftwareApplication",
         "identifier": "whoami",
         "name": "whoami",
@@ -3395,7 +3407,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=whoami"
       },
-      "13": {
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -58025,6 +58037,12 @@
         "@type": "SoftwareApplication",
         "identifier": "ips",
         "name": "ips",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
         "sameAs": "https://github.com/cran/ips"
       },
       "7": {
