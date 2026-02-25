@@ -6292,7 +6292,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.1.57",
+    "version": "0.1.1.58",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -25542,7 +25542,7 @@
     "codeRepository": "https://github.com/ropensci/dittodb",
     "issueTracker": "https://github.com/ropensci/dittodb/issues",
     "license": "https://spdx.org/licenses/Apache-2.0",
-    "version": "0.1.10",
+    "version": "0.1.11.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -92695,7 +92695,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "applicable",
-        "name": "applicable"
+        "name": "applicable",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=applicable"
       },
       {
         "@type": "SoftwareApplication",

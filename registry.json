@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-09 19:39:11",
+      "date_last_commit": "2026-02-24 15:09:32",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-24 08:01:17",
+      "date_last_commit": "2026-02-24 09:53:16",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 14:46:53",
+      "date_last_commit": "2026-02-24 11:30:02",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1881,7 +1881,7 @@
       "url": "https://github.com/ropensci/dittodb",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-11 15:31:25",
+      "date_last_commit": "2026-02-24 17:05:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-24 08:36 UTC"
+  "date": "2026-02-25 08:38 UTC"
 }
