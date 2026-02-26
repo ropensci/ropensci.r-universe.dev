@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 14:43:58",
+      "date_last_commit": "2026-02-25 13:22:45",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -376,7 +376,7 @@
       "url": "https://github.com/ropensci-org/promoutils",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-26 18:38:06",
+      "date_last_commit": "2026-02-25 16:13:47",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -490,7 +490,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 12:05:27",
+      "date_last_commit": "2026-02-26 08:03:27",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2769,11 +2769,11 @@
     {
       "name": "GSODR",
       "description": "Global Surface Summary of the Day ('GSOD') Weather Data Client",
-      "details": "Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day ('GSOD') weather data from the from the USA National Centers for Environmental Information ('NCEI'). Units are converted from from United States Customary System ('USCS') units to International System of Units ('SI'). Stations may be individually checked for number of missing days defined by the user, where stations with too many missing observations are omitted. Only stations with valid reported latitude and longitude values are permitted in the final data. Additional useful elements, saturation vapour pressure ('es'), actual vapour pressure ('ea') and relative humidity ('RH') are calculated from the original data using the improved August-Roche-Magnus approximation (Alduchov & Eskridge 1996) and included in the final data set. The resulting metadata include station identification information, country, state, latitude, longitude, elevation, weather observations and associated flags. For information on the 'GSOD' data from 'NCEI', please see the 'GSOD' 'readme.txt' file available from, <https://www1.ncdc.noaa.gov/pub/data/gsod/readme.txt>.",
+      "details": "Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day ('GSOD') weather data from the from the USA National Centers for Environmental Information ('NCEI'). The data were retired on 2025-08-29 and are no longer updated. Units are converted from from United States Customary System ('USCS') units to International System of Units ('SI'). Stations may be individually checked for number of missing days defined by the user, where stations with too many missing observations are omitted. Only stations with valid reported latitude and longitude values are permitted in the final data. Additional useful elements, saturation vapour pressure ('es'), actual vapour pressure ('ea') and relative humidity ('RH') are calculated from the original data using the improved August-Roche-Magnus approximation (Alduchov & Eskridge 1996) and included in the final data set. The resulting metadata include station identification information, country, state, latitude, longitude, elevation, weather observations and associated flags. For information on the 'GSOD' data from 'NCEI', please see the 'GSOD' 'readme.txt' file available from, <https://www1.ncdc.noaa.gov/pub/data/gsod/readme.txt>.",
       "maintainer": "Adam H. Sparks",
       "keywords": "daily-data, daily-weather, data-access, global-data, global-weather, gsod, historical-data, historical-weather, meteorological-data, meteorology, ncdc, ncei, station-data, surface-weather, us-ncdc, us-ncei, weather, weather-data, weather-information, weather-stations",
       "github": "https://github.com/ropensci/GSODR",
-      "status": "https://www.repostatus.org#active",
+      "status": "https://www.repostatus.org#inactive",
       "onboarding": "https://github.com/ropensci/software-review/issues/79",
       "on_cran": true,
       "on_bioc": false,
@@ -2781,7 +2781,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-15 12:39:55",
+      "date_last_commit": "2026-02-26 06:40:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-25 08:38 UTC"
+  "date": "2026-02-26 08:36 UTC"
 }
