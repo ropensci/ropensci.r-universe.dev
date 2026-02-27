@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 11:27:13",
+      "date_last_commit": "2026-02-26 10:21:58",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -684,7 +684,7 @@
       "url": "https://github.com/ropensci/antiword",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-02 14:43:42",
+      "date_last_commit": "2026-02-26 18:39:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1261,7 +1261,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 13:34:30",
+      "date_last_commit": "2026-02-27 08:24:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2781,7 +2781,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-26 06:40:31",
+      "date_last_commit": "2026-02-26 08:37:52",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4101,7 +4101,7 @@
       "url": "https://github.com/ropensci/patentsview",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-25 18:39:34",
+      "date_last_commit": "2026-02-27 00:02:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4901,7 +4901,7 @@
       "url": "https://github.com/ropensci/rerddap",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-15 15:36:54",
+      "date_last_commit": "2026-02-27 03:50:29",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6641,7 +6641,7 @@
       "url": "https://github.com/ropensci/unrtf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-26 11:46:50",
+      "date_last_commit": "2026-02-26 17:03:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -6821,7 +6821,7 @@
       "url": "https://github.com/ropensci/weathercan",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-27 15:38:12",
+      "date_last_commit": "2026-02-26 14:31:38",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-26 08:36 UTC"
+  "date": "2026-02-27 08:31 UTC"
 }
