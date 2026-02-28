@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-24 09:53:16",
+      "date_last_commit": "2026-02-27 09:44:38",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -395,7 +395,7 @@
       "url": "https://github.com/ropensci-review-tools/repometrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 15:23:18",
+      "date_last_commit": "2026-02-27 12:13:18",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -684,7 +684,7 @@
       "url": "https://github.com/ropensci/antiword",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-26 18:39:51",
+      "date_last_commit": "2026-02-27 12:58:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -1301,7 +1301,7 @@
       "url": "https://github.com/ropensci/chirps",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-24 09:33:13",
+      "date_last_commit": "2026-02-27 13:00:07",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2769,7 +2769,7 @@
     {
       "name": "GSODR",
       "description": "Global Surface Summary of the Day ('GSOD') Weather Data Client",
-      "details": "Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day ('GSOD') weather data from the from the USA National Centers for Environmental Information ('NCEI'). The data were retired on 2025-08-29 and are no longer updated. Units are converted from from United States Customary System ('USCS') units to International System of Units ('SI'). Stations may be individually checked for number of missing days defined by the user, where stations with too many missing observations are omitted. Only stations with valid reported latitude and longitude values are permitted in the final data. Additional useful elements, saturation vapour pressure ('es'), actual vapour pressure ('ea') and relative humidity ('RH') are calculated from the original data using the improved August-Roche-Magnus approximation (Alduchov & Eskridge 1996) and included in the final data set. The resulting metadata include station identification information, country, state, latitude, longitude, elevation, weather observations and associated flags. For information on the 'GSOD' data from 'NCEI', please see the 'GSOD' 'readme.txt' file available from, <https://www1.ncdc.noaa.gov/pub/data/gsod/readme.txt>.",
+      "details": "Provides automated downloading, parsing, cleaning, unit conversion and formatting of Global Surface Summary of the Day ('GSOD') weather data from the from the USA National Centers for Environmental Information ('NCEI'). The data were retired on 2025-08-29 and are no longer updated. Units are converted from from United States Customary System ('USCS') units to International System of Units ('SI'). Stations may be individually checked for number of missing days defined by the user, where stations with too many missing observations are omitted. Only stations with valid reported latitude and longitude values are permitted in the final data. Additional useful elements, saturation vapour pressure ('es'), actual vapour pressure ('ea') and relative humidity ('RH') are calculated from the original data using the improved August-Roche-Magnus approximation (Alduchov & Eskridge 1996) and included in the final data set. The resulting metadata include station identification information, country, state, latitude, longitude, elevation, weather observations and associated flags. For information on the 'GSOD' data from 'NCEI', please see the 'GSOD' 'readme.txt' file available from, <https://www.ncei.noaa.gov/pub/data/gsod/readme.txt>.",
       "maintainer": "Adam H. Sparks",
       "keywords": "daily-data, daily-weather, data-access, global-data, global-weather, gsod, historical-data, historical-weather, meteorological-data, meteorology, ncdc, ncei, station-data, surface-weather, us-ncdc, us-ncei, weather, weather-data, weather-information, weather-stations",
       "github": "https://github.com/ropensci/GSODR",
@@ -2781,7 +2781,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-26 08:37:52",
+      "date_last_commit": "2026-02-27 23:58:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3281,7 +3281,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-27 12:41:54",
+      "date_last_commit": "2026-02-27 10:57:46",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3561,7 +3561,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-07-29 07:35:42",
+      "date_last_commit": "2026-02-28 07:34:25",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5669,19 +5669,19 @@
     {
       "name": "sasquatch",
       "description": "Use 'SAS', R, and 'quarto' Together",
-      "details": "Use R and 'SAS' within reproducible multilingual 'quarto' documents. Run 'SAS' code blocks interactively, send data back and forth between 'SAS' and R, and render 'SAS' output within quarto documents. 'SAS' connections are established through a combination of 'SASPy' and 'reticulate'.",
+      "details": "Use R and 'SAS' within reproducible multilingual 'quarto' documents. Run 'SAS' code blocks interactively, send data back and forth between 'SAS' and R, and render 'SAS' output within 'quarto' documents. 'SAS' connections are established through a combination of 'SASPy' and 'reticulate'.",
       "maintainer": "Ryan Zomorrodi",
       "keywords": "",
       "github": "https://github.com/ropensci/sasquatch",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/673",
-      "on_cran": false,
+      "on_cran": true,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-22 05:45:24",
+      "date_last_commit": "2026-02-27 20:25:36",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6861,7 +6861,7 @@
       "url": "https://github.com/ropensci/webchem",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-23 18:09:11",
+      "date_last_commit": "2026-02-27 12:32:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-27 08:31 UTC"
+  "date": "2026-02-28 08:00 UTC"
 }
