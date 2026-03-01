@@ -3632,6 +3632,13 @@
     "url": "https://github.com/ropensci-training/saperlipopette/",
     "branch": "main",
     "metadata": {
+      "review": {
+        "id": 754,
+        "status": "unknown",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/754"
+      },
       "ropensci_category": "scalereprod"
     }
   },
