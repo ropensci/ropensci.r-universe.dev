@@ -48390,11 +48390,6 @@
         "givenName": "Gergely",
         "familyName": "Daróczi",
         "email": "daroczig@rapporter.net"
-      },
-      {
-        "@type": "Person",
-        "givenName": "James J.",
-        "familyName": "Balamuta"
       }
     ],
     "copyrightHolder": [
@@ -48413,11 +48408,12 @@
       {
         "@type": "Organization",
         "name": "Curtin University"
-      },
+      }
+    ],
+    "funder": [
       {
-        "@type": "Person",
-        "givenName": "James J.",
-        "familyName": "Balamuta"
+        "@type": "Organization",
+        "name": "Curtin University"
       }
     ],
     "maintainer": [
@@ -48538,6 +48534,18 @@
       },
       "4": {
         "@type": "SoftwareApplication",
+        "identifier": "data.table",
+        "name": "data.table",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=data.table"
+      },
+      "5": {
+        "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
         "provider": {
@@ -48548,7 +48556,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -48560,7 +48568,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -48572,7 +48580,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -48585,7 +48593,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "yyjsonr",
         "name": "yyjsonr",
@@ -64896,9 +64904,9 @@
     "identifier": "read.abares",
     "description": "Downloads and imports agricultural data from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) <https://www.agriculture.gov.au/abares> and the Australian Bureau of Statistics (ABS) <https://www.abs.gov.au>. Supports multiple data formats including spreadsheets, comma‑separated value (CSV) files, and geospatial data such as shapefiles and GeoTIFFs. Covers topics such as broadacre crops, livestock, soils, commodities and related agricultural information. The package standardises field names and data formats to improve interoperability and simplify analysis. It also streamlines the import of geospatial data and corrects common issues found in these data sources upon loading.",
     "name": "read.abares: Read Australian Agricultural Data from Government Agencies",
-    "relatedLink": ["https://github.com/ropensci/read.abares", "https://docs.ropensci.org/read.abares/"],
+    "relatedLink": ["https://docs.ropensci.org/read.abares/", "https://codeberg.org/ropensci/read.abares"],
     "codeRepository": "https://github.com/ropensci/read.abares",
-    "issueTracker": "https://github.com/ropensci/read.abares/issues",
+    "issueTracker": "https://codeberg.org/ropensci/read.abares/issues",
     "license": "https://spdx.org/licenses/MIT",
     "version": "2.0.1",
     "programmingLanguage": {
@@ -64935,20 +64943,12 @@
       {
         "@type": "Organization",
         "name": "Curtin University"
-      },
-      {
-        "@type": "Organization",
-        "name": "Grains Research and Development Corporation"
       }
     ],
     "funder": [
       {
         "@type": "Organization",
         "name": "Curtin University"
-      },
-      {
-        "@type": "Organization",
-        "name": "Grains Research and Development Corporation"
       }
     ],
     "maintainer": [
@@ -88269,7 +88269,7 @@
     "codeRepository": "https://github.com/ropensci/tracerer",
     "issueTracker": "https://github.com/ropensci/tracerer/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -88287,8 +88287,15 @@
         "@type": "Person",
         "givenName": "Richèl J.C.",
         "familyName": "Bilderbeek",
-        "email": "richel@richelbilderbeek.nl",
+        "email": "rjcbilderbeek@gmail.com",
         "@id": "https://orcid.org/0000-0003-1107-7049"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "givenName": "Roberto",
+        "familyName": "Villegas-Diaz"
       }
     ],
     "maintainer": [
@@ -88296,7 +88303,7 @@
         "@type": "Person",
         "givenName": "Richèl J.C.",
         "familyName": "Bilderbeek",
-        "email": "richel@richelbilderbeek.nl",
+        "email": "rjcbilderbeek@gmail.com",
         "@id": "https://orcid.org/0000-0003-1107-7049"
       }
     ],
@@ -88327,18 +88334,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "hunspell",
-        "name": "hunspell",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=hunspell"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "knitr",
         "name": "knitr",
         "provider": {
@@ -88348,18 +88343,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "markdown",
-        "name": "markdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=markdown"
       },
       {
         "@type": "SoftwareApplication",
@@ -88387,30 +88370,6 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "rbenchmark",
-        "name": "rbenchmark",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rbenchmark"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "reshape2",
-        "name": "reshape2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=reshape2"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "rmarkdown",
         "name": "rmarkdown",
         "provider": {
@@ -88435,21 +88394,9 @@
       },
       {
         "@type": "SoftwareApplication",
-        "identifier": "stringr",
-        "name": "stringr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=stringr"
-      },
-      {
-        "@type": "SoftwareApplication",
         "identifier": "testthat",
         "name": "testthat",
-        "version": ">= 2.1.0",
+        "version": ">= 3.0.0",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
@@ -88484,18 +88431,6 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "testit",
-        "name": "testit",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testit"
-      },
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
@@ -88516,7 +88451,9 @@
           }
         ],
         "name": "babette: BEAUti 2, BEAST 2 and Tracer for R",
-        "url": "https://doi.org/10.1111/2041-210X.13032",
+        "identifier": "10.1111/2041-210X.13032",
+        "@id": "https://doi.org/10.1111/2041-210X.13032",
+        "sameAs": "https://doi.org/10.1111/2041-210X.13032",
         "isPartOf": {
           "@type": "PublicationIssue",
           "datePublished": "2008",

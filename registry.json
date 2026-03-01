@@ -2781,7 +2781,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-27 23:58:56",
+      "date_last_commit": "2026-02-28 11:41:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3281,7 +3281,7 @@
       "url": "https://github.com/ropensci/magick",
       "ropensci_category": "image-processing",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-27 10:57:46",
+      "date_last_commit": "2026-02-28 14:21:19",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -3561,7 +3561,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-28 07:34:25",
+      "date_last_commit": "2026-02-28 11:56:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4761,7 +4761,7 @@
       "url": "https://github.com/ropensci/read.abares",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-23 06:57:18",
+      "date_last_commit": "2026-02-28 11:51:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6421,7 +6421,7 @@
       "url": "https://github.com/ropensci/tracerer",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2023-09-25 16:50:43",
+      "date_last_commit": "2026-02-28 20:40:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-02-28 08:00 UTC"
+  "date": "2026-03-01 08:02 UTC"
 }
