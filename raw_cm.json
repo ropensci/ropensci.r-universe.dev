@@ -3289,6 +3289,18 @@
       },
       "3": {
         "@type": "SoftwareApplication",
+        "identifier": "curl",
+        "name": "curl",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=curl"
+      },
+      "4": {
+        "@type": "SoftwareApplication",
         "identifier": "cyclocomp",
         "name": "cyclocomp",
         "version": ">= 1.1.0",
@@ -3300,7 +3312,7 @@
         },
         "sameAs": "https://github.com/gaborcsardi/cyclocomp"
       },
-      "4": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "desc",
         "name": "desc",
@@ -3312,7 +3324,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=desc"
       },
-      "5": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -3324,7 +3336,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
       },
-      "6": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "lintr",
         "name": "lintr",
@@ -3337,7 +3349,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lintr"
       },
-      "7": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "praise",
         "name": "praise",
@@ -3349,7 +3361,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=praise"
       },
-      "8": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "rcmdcheck",
         "name": "rcmdcheck",
@@ -3361,7 +3373,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rcmdcheck"
       },
-      "9": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "rstudioapi",
         "name": "rstudioapi",
@@ -3373,7 +3385,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rstudioapi"
       },
-      "10": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "spelling",
         "name": "spelling",
@@ -3385,17 +3397,29 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=spelling"
       },
-      "11": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "tools",
         "name": "tools"
       },
-      "12": {
+      "13": {
+        "@type": "SoftwareApplication",
+        "identifier": "urlchecker",
+        "name": "urlchecker",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=urlchecker"
+      },
+      "14": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "13": {
+      "15": {
         "@type": "SoftwareApplication",
         "identifier": "whoami",
         "name": "whoami",
@@ -3407,7 +3431,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=whoami"
       },
-      "14": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -31210,13 +31234,13 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "identifier": "fastMatMR",
-    "description": "An interface to the 'fast_matrix_market' 'C++' library, this package offers efficient read and write operations for Matrix Market files in R. It supports both sparse and dense matrix formats. Peer-reviewed at ROpenSci (<https://github.com/ropensci/software-review/issues/606>).",
+    "description": "An interface to the 'fast_matrix_market' 'C++' library, this package offers efficient read and write operations for Matrix Market files in R. It supports both sparse and dense matrix formats. Peer-reviewed at 'rOpenSci' (<https://github.com/ropensci/software-review/issues/606>).",
     "name": "fastMatMR: High-Performance Matrix Market File Operations",
     "relatedLink": "https://github.com/ropensci/fastMatMR",
     "codeRepository": "https://github.com/ropensci/fastMatMR",
     "issueTracker": "https://github.com/ropensci/fastMatMR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "1.2.5",
+    "version": "1.2.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -31289,6 +31313,11 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "methods",
+        "name": "methods"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "microbenchmark",
         "name": "microbenchmark",
         "provider": {
@@ -31310,6 +31339,30 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "spam",
+        "name": "spam",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=spam"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "SparseM",
+        "name": "SparseM",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=SparseM"
       },
       {
         "@type": "SoftwareApplication",

@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-27 09:44:38",
+      "date_last_commit": "2026-03-01 16:11:58",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-26 10:21:58",
+      "date_last_commit": "2026-03-01 10:47:32",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2269,7 +2269,7 @@
     {
       "name": "fastMatMR",
       "description": "High-Performance Matrix Market File Operations",
-      "details": "An interface to the 'fast_matrix_market' 'C++' library, this package offers efficient read and write operations for Matrix Market files in R. It supports both sparse and dense matrix formats. Peer-reviewed at ROpenSci (<https://github.com/ropensci/software-review/issues/606>).",
+      "details": "An interface to the 'fast_matrix_market' 'C++' library, this package offers efficient read and write operations for Matrix Market files in R. It supports both sparse and dense matrix formats. Peer-reviewed at 'rOpenSci' (<https://github.com/ropensci/software-review/issues/606>).",
       "maintainer": "Rohit Goswami",
       "keywords": "cpp, cpp17, matrix-market, matrix-market-format, r-cpp11",
       "github": "https://github.com/ropensci/fastMatMR",
@@ -2281,7 +2281,7 @@
       "url": "https://github.com/ropensci/fastMatMR",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2023-11-03 16:55:21",
+      "date_last_commit": "2026-03-01 16:40:13",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -3561,7 +3561,7 @@
       "url": "https://github.com/ropensci/nasapower",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-28 11:56:31",
+      "date_last_commit": "2026-03-02 03:38:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-01 08:02 UTC"
+  "date": "2026-03-02 08:33 UTC"
 }
