@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-24 15:09:32",
+      "date_last_commit": "2026-03-03 17:14:37",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-03 08:30 UTC"
+  "date": "2026-03-04 08:12 UTC"
 }
