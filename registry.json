@@ -309,7 +309,7 @@
       "description": "Find R Packages Matching Either Descriptions or Other R Packages",
       "details": "Find R packages matching either descriptions or other R packages.",
       "maintainer": "Mark Padgham",
-      "keywords": "cpp, embeddings, llms, natural-language-processing",
+      "keywords": "bm25, cpp, natural-language-processing",
       "github": "https://github.com/ropensci-review-tools/pkgmatch",
       "status": "https://www.repostatus.org#active",
       "onboarding": "https://github.com/ropensci/software-review/issues/671",
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 15:16:13",
+      "date_last_commit": "2026-03-04 14:52:01",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1081,7 +1081,7 @@
       "url": "https://github.com/ropensci/bowerbird",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-29 21:06:49",
+      "date_last_commit": "2026-03-05 00:01:31",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5941,7 +5941,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-19 14:43:36",
+      "date_last_commit": "2026-03-05 00:40:21",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-04 08:12 UTC"
+  "date": "2026-03-05 08:10 UTC"
 }
