@@ -4238,7 +4238,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1.42",
+    "version": "0.5.1.50",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -7196,7 +7196,7 @@
     "codeRepository": "https://github.com/ropensci-training/saperlipopette",
     "issueTracker": "https://github.com/ropensci-training/saperlipopette/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0.9000",
+    "version": "0.1.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -15164,7 +15164,7 @@
     "codeRepository": "https://github.com/ropensci/bowerbird",
     "issueTracker": "https://github.com/ropensci/bowerbird/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.18.6",
+    "version": "0.18.7",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
