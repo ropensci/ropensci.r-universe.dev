@@ -4238,7 +4238,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.1.50",
+    "version": "0.5.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4862,7 +4862,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.13",
+    "version": "0.2.2.14",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -11897,6 +11897,11 @@
       },
       {
         "@type": "Person",
+        "givenName": "Tanmay",
+        "familyName": "Dimri"
+      },
+      {
+        "@type": "Person",
         "givenName": "Giovanni",
         "familyName": "Laudanno",
         "email": "glaudanno@gmail.com"
@@ -12021,6 +12026,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "readr",
+        "name": "readr",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=readr"
       }
     ],
     "softwareRequirements": {
@@ -48084,7 +48101,7 @@
     "codeRepository": "https://github.com/ropensci/naijR",
     "issueTracker": "https://github.com/ropensci/naijR/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.6.3",
+    "version": "0.6.3.9006",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -48174,6 +48191,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "lifecycle",
+        "name": "lifecycle",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "purrr",
         "name": "purrr",
         "provider": {
@@ -48183,18 +48212,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=purrr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "readxl",
-        "name": "readxl",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=readxl"
       },
       {
         "@type": "SoftwareApplication",
@@ -48223,6 +48240,18 @@
       },
       {
         "@type": "SoftwareApplication",
+        "identifier": "tibble",
+        "name": "tibble",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=tibble"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "usethis",
         "name": "usethis",
         "provider": {
@@ -48232,11 +48261,6 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=usethis"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "WikidataR",
-        "name": "WikidataR"
       }
     ],
     "softwareRequirements": {
@@ -48294,19 +48318,6 @@
       },
       "8": {
         "@type": "SoftwareApplication",
-        "identifier": "lifecycle",
-        "name": "lifecycle",
-        "version": ">= 0.2.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lifecycle"
-      },
-      "9": {
-        "@type": "SoftwareApplication",
         "identifier": "mapdata",
         "name": "mapdata",
         "version": ">= 2.3.0",
@@ -48318,7 +48329,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=mapdata"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "maps",
         "name": "maps",
@@ -48331,7 +48342,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=maps"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -48344,7 +48355,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
@@ -48357,7 +48368,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "stringi",
         "name": "stringi",
@@ -78941,7 +78952,7 @@
     "codeRepository": "https://github.com/ropensci/spatsoc",
     "issueTracker": "https://github.com/ropensci/spatsoc/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.12.9009",
+    "version": "0.2.12.9010",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

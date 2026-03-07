@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-03 17:14:37",
+      "date_last_commit": "2026-03-06 19:03:54",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -281,7 +281,7 @@
       "url": "https://github.com/ropensci-review-tools/orgmetrics",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-02 16:22:56",
+      "date_last_commit": "2026-03-06 10:27:54",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-05 15:37:51",
+      "date_last_commit": "2026-03-06 09:00:17",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 15:14:25",
+      "date_last_commit": "2026-03-06 10:26:56",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -822,7 +822,7 @@
       "url": "https://github.com/ropensci/babette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2025-12-17 08:17:55",
+      "date_last_commit": "2026-03-06 11:56:13",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3541,7 +3541,7 @@
       "url": "https://github.com/ropensci/naijR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-08-31 15:04:12",
+      "date_last_commit": "2026-03-06 19:24:37",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5681,7 +5681,7 @@
       "url": "https://github.com/ropensci/sasquatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-27 20:25:36",
+      "date_last_commit": "2026-03-06 15:32:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5801,7 +5801,7 @@
       "url": "https://github.com/ropensci/spatsoc",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-05 18:58:28",
+      "date_last_commit": "2026-03-06 15:06:33",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7001,7 +7001,7 @@
       "url": "https://github.com/ropensci/yfR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-02 12:28:02",
+      "date_last_commit": "2026-03-06 18:20:39",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-06 08:08 UTC"
+  "date": "2026-03-07 08:04 UTC"
 }
