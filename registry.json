@@ -3541,7 +3541,7 @@
       "url": "https://github.com/ropensci/naijR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-06 19:24:37",
+      "date_last_commit": "2026-03-08 07:20:23",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3881,7 +3881,7 @@
       "url": "https://github.com/ropensci/osfr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-22 16:16:55",
+      "date_last_commit": "2026-03-07 17:13:24",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7127,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-07 08:04 UTC"
+  "date": "2026-03-08 08:02 UTC"
 }
