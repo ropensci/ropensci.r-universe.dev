@@ -3582,21 +3582,6 @@
     }
   },
   {
-    "package": "rusda",
-    "url": "https://github.com/ropensci/rusda",
-    "branch": "master",
-    "metadata": {
-      "review": {
-        "id": 18,
-        "status": "reviewed",
-        "version": "1.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/18"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "rvertnet",
     "url": "https://github.com/ropensci/rvertnet",
     "branch": "main",
