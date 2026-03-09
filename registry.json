@@ -483,14 +483,14 @@
       "keywords": "git, quarto",
       "github": "https://github.com/ropensci-training/saperlipopette",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/754",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-05 13:38:00",
+      "date_last_commit": "2026-03-09 07:15:53",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -4201,8 +4201,7 @@
       "url": "https://github.com/ropensci/photosearcher",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2025-05-08 15:09:57",
-      "github_archived": false,
+      "date_last_commit": "2026-03-09 08:20:51",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -5941,7 +5940,7 @@
       "url": "https://github.com/ropensci/stats19",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-05 00:40:21",
+      "date_last_commit": "2026-03-08 23:08:47",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7101,7 +7100,7 @@
       "url": "https://github.com/ropenscilabs/quartificate",
       "ropensci_category": "scalereprod",
       "ropenscilabs": true,
-      "date_last_commit": "2026-02-19 08:34:24",
+      "date_last_commit": "2026-03-09 07:56:27",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7127,5 +7126,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-08 08:02 UTC"
+  "date": "2026-03-09 08:31 UTC"
 }
