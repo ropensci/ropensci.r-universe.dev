@@ -2762,7 +2762,7 @@
     "codeRepository": "https://github.com/r-lib/gert",
     "issueTracker": "https://github.com/r-lib/gert/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "2.3.1",
+    "version": "2.3.1.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -3809,7 +3809,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.273",
+    "version": "0.1.2.274",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -4862,7 +4862,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.14",
+    "version": "0.2.2.15",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -8416,7 +8416,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/srr",
     "issueTracker": "https://github.com/ropensci-review-tools/srr/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.4.38",
+    "version": "0.1.4.42",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -8442,6 +8442,18 @@
       }
     ],
     "softwareSuggestions": [
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "jsonlite",
+        "name": "jsonlite",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=jsonlite"
+      },
       {
         "@type": "SoftwareApplication",
         "identifier": "knitr",
@@ -8490,6 +8502,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=testthat"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "toml",
+        "name": "toml",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=toml"
       }
     ],
     "softwareRequirements": {
@@ -13944,7 +13968,7 @@
     "codeRepository": "https://github.com/ropensci/bikedata",
     "issueTracker": "https://github.com/ropensci/bikedata/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.5.46",
+    "version": "0.2.5.68",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -14122,11 +14146,6 @@
       },
       "7": {
         "@type": "SoftwareApplication",
-        "identifier": "methods",
-        "name": "methods"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
         "identifier": "Rcpp",
         "name": "Rcpp",
         "provider": {
@@ -14137,7 +14156,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=Rcpp"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "readxl",
         "name": "readxl",
@@ -14149,7 +14168,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readxl"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "reshape2",
         "name": "reshape2",
@@ -14161,7 +14180,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=reshape2"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "RSQLite",
         "name": "RSQLite",
@@ -14173,7 +14192,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=RSQLite"
       },
-      "12": {
+      "11": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -14185,7 +14204,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "13": {
+      "12": {
         "@type": "SoftwareApplication",
         "identifier": "xml2",
         "name": "xml2",
@@ -14197,7 +14216,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=xml2"
       },
-      "SystemRequirements": "C++11"
+      "SystemRequirements": null
     },
     "applicationCategory": "DataAccess",
     "isPartOf": "https://ropensci.org",
@@ -57625,334 +57644,6 @@
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
-    "identifier": "photosearcher",
-    "description": "Queries the Flick API (https://www.flickr.com/services/api/) to return photograph metadata as well as the ability to download the images as jpegs.",
-    "name": "photosearcher: Photo Searcher",
-    "relatedLink": "https://docs.ropensci.org/photosearcher",
-    "codeRepository": "https://github.com/ropensci/photosearcher",
-    "issueTracker": "https://github.com/ropensci/photosearcher/issues",
-    "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "1.0",
-    "programmingLanguage": {
-      "@type": "ComputerLanguage",
-      "name": "R",
-      "url": "https://r-project.org"
-    },
-    "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "author": [
-      {
-        "@type": "Person",
-        "givenName": "Nathan",
-        "familyName": "Fox"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Francesca",
-        "familyName": "Mancini"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Laura",
-        "familyName": "Graham"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Louis",
-        "familyName": "Sutter"
-      },
-      {
-        "@type": "Person",
-        "givenName": "Tom",
-        "familyName": "August"
-      }
-    ],
-    "maintainer": [
-      {
-        "@type": "Person",
-        "givenName": "Isaac",
-        "familyName": "Bravo",
-        "email": "isaac.bravo@tum.de"
-      }
-    ],
-    "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "httptest",
-        "name": "httptest",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httptest"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "knitr",
-        "name": "knitr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "roxygen2",
-        "name": "roxygen2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=roxygen2"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
-        "version": ">= 2.1.0",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "covr",
-        "name": "covr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=covr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rplos",
-        "name": "rplos"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "wordcloud",
-        "name": "wordcloud",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=wordcloud"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "tidyverse",
-        "name": "tidyverse",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=tidyverse"
-      }
-    ],
-    "softwareRequirements": {
-      "1": {
-        "@type": "SoftwareApplication",
-        "identifier": "R",
-        "name": "R",
-        "version": ">= 3.5.0"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "xml2",
-        "name": "xml2",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=xml2"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "glue",
-        "name": "glue",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=glue"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "clisymbols",
-        "name": "clisymbols",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=clisymbols"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "crayon",
-        "name": "crayon",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=crayon"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
-        "identifier": "sf",
-        "name": "sf",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=sf"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
-        "identifier": "lubridate",
-        "name": "lubridate",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=lubridate"
-      },
-      "9": {
-        "@type": "SoftwareApplication",
-        "identifier": "dplyr",
-        "name": "dplyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=dplyr"
-      },
-      "SystemRequirements": null
-    },
-    "fileSize": "NAKB",
-    "citation": [
-      {
-        "@type": "ScholarlyArticle",
-        "datePublished": "2020",
-        "author": [
-          {
-            "@type": "Person",
-            "givenName": "Nathan",
-            "familyName": "Fox"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Tom",
-            "familyName": "August"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Francesca",
-            "familyName": "Mancini"
-          },
-          {
-            "@type": "Person",
-            "givenName": ["Katherine", "E."],
-            "familyName": "Parks"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Felix",
-            "familyName": "Eigenbrod"
-          },
-          {
-            "@type": "Person",
-            "givenName": ["James", "M."],
-            "familyName": "Bullock"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Louis",
-            "familyName": "Sutter"
-          },
-          {
-            "@type": "Person",
-            "givenName": ["Laura", "J."],
-            "familyName": "Graham"
-          }
-        ],
-        "name": "'photosearcher' package in R: An accessible and reproducible method for harvesting large datasets from Flickr",
-        "identifier": "10.1016/j.softx.2020.100624",
-        "url": "https://doi.org/10.1016/j.softx.2020.100624",
-        "pagination": "100624",
-        "@id": "https://doi.org/10.1016/j.softx.2020.100624",
-        "sameAs": "https://doi.org/10.1016/j.softx.2020.100624",
-        "isPartOf": {
-          "@type": "PublicationIssue",
-          "issueNumber": "1",
-          "datePublished": "2020",
-          "isPartOf": {
-            "@type": ["PublicationVolume", "Periodical"],
-            "volumeNumber": "12",
-            "name": "SoftwareX"
-          }
-        }
-      }
-    ],
-    "readme": "https://github.com/ropensci/photosearcher/blob/HEAD/README.md"
-  },
-  {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
     "identifier": "phruta",
     "description": "The phruta R package is designed to simplify the basic phylogenetic pipeline. Specifically, all code is run within the same program and data from intermediate steps are saved in independent folders. Furthermore, all code is run within the same environment which increases the reproducibility of your analysis. phruta retrieves gene sequences, combines newly downloaded and local gene sequences, and performs sequence alignments.",
     "name": "phruta: Phylogenetic Reconstruction and Time-dating",
@@ -76862,210 +76553,6 @@
     ],
     "readme": "https://github.com/ropensci/ruODK/blob/HEAD/README.md",
     "developmentStatus": "https://www.repostatus.org/#active"
-  },
-  {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
-    "identifier": "rusda",
-    "description": "An interface to the web service methods provided by the United States Department of Agriculture (USDA). The Agricultural Research Service (ARS) provides a large set of databases. The current version of the package holds interfaces to the Systematic Mycology and Microbiology Laboratory (SMML), which consists of four databases: Fungus-Host Distributions, Specimens, Literature and the Nomenclature database. It provides functions for querying these databases. The main function is \\codeassociations, which allows searching for fungus-host combinations. ",
-    "name": "rusda: Interface to USDA Databases",
-    "relatedLink": ["https://docs.ropensci.org/rusda", "http://www.usda.gov/wps/portal/usda/usdahome", "http://nt.ars-grin.gov/fungaldatabases/index.cfm", "https://github.com/ropensci/rusda"],
-    "codeRepository": "https://github.com/ropensci/rusda",
-    "issueTracker": "https://github.com/ropensci/rusda/issues",
-    "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "1.0.8",
-    "programmingLanguage": {
-      "@type": "ComputerLanguage",
-      "name": "R",
-      "url": "https://r-project.org"
-    },
-    "runtimePlatform": "R version 4.5.2 (2025-10-31)",
-    "maintainer": [
-      {
-        "@type": "Person",
-        "givenName": "Franz-Sebastian",
-        "familyName": "Krah",
-        "email": "f.krah@mailbox.org"
-      }
-    ],
-    "softwareSuggestions": [
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "knitr",
-        "name": "knitr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=knitr"
-      },
-      {
-        "@type": "SoftwareApplication",
-        "identifier": "rmarkdown",
-        "name": "rmarkdown",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=rmarkdown"
-      }
-    ],
-    "softwareRequirements": {
-      "1": {
-        "@type": "SoftwareApplication",
-        "identifier": "XML",
-        "name": "XML",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=XML"
-      },
-      "2": {
-        "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
-        "version": ">= 0.6.1",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
-        "identifier": "plyr",
-        "name": "plyr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=plyr"
-      },
-      "4": {
-        "@type": "SoftwareApplication",
-        "identifier": "foreach",
-        "name": "foreach",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=foreach"
-      },
-      "5": {
-        "@type": "SoftwareApplication",
-        "identifier": "stringr",
-        "name": "stringr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=stringr"
-      },
-      "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "testthat",
-        "name": "testthat",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=testthat"
-      },
-      "7": {
-        "@type": "SoftwareApplication",
-        "identifier": "taxize",
-        "name": "taxize",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=taxize"
-      },
-      "8": {
-        "@type": "SoftwareApplication",
-        "identifier": "RCurl",
-        "name": "RCurl",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=RCurl"
-      },
-      "SystemRequirements": null
-    },
-    "fileSize": "NAKB",
-    "citation": [
-      {
-        "@type": "ScholarlyArticle",
-        "datePublished": "2018",
-        "author": [
-          {
-            "@type": "Person",
-            "givenName": "Franz-Sebastian",
-            "familyName": "Krah"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Hanno",
-            "familyName": "Schaefer"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Christoph",
-            "familyName": "Heibl"
-          },
-          {
-            "@type": "Person",
-            "givenName": "Claus",
-            "familyName": "B{\"{a}}ssler"
-          },
-          {
-            "@type": "Person",
-            "givenName": "John",
-            "familyName": "Soghigian"
-          },
-          {
-            "@type": "Person",
-            "givenName": "David",
-            "familyName": "Hibbett"
-          }
-        ],
-        "name": "Evolutionary dynamics of host specialization in wood-decay fungi",
-        "pagination": "119-132",
-        "isPartOf": {
-          "@type": "PublicationIssue",
-          "datePublished": "2018",
-          "isPartOf": {
-            "@type": ["PublicationVolume", "Periodical"],
-            "volumeNumber": "18",
-            "name": "BMC Evolutionary Biology"
-          }
-        }
-      }
-    ],
-    "readme": "https://github.com/ropensci/rusda/blob/HEAD/README.md",
-    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",

@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-06 19:03:54",
+      "date_last_commit": "2026-03-09 15:46:29",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-02 09:18:32",
+      "date_last_commit": "2026-03-09 12:37:34",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-06 10:26:56",
+      "date_last_commit": "2026-03-09 17:20:09",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -547,7 +547,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 15:15:51",
+      "date_last_commit": "2026-03-09 17:24:15",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -981,7 +981,7 @@
       "url": "https://github.com/ropensci/bikedata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-02-06 11:25:54",
+      "date_last_commit": "2026-03-09 12:22:01",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -4187,25 +4187,6 @@
       "staff_maintained": false
     },
     {
-      "name": "photosearcher",
-      "description": "Photo Searcher",
-      "details": "Queries the Flick API (https://www.flickr.com/services/api/) to return photograph metadata as well as the ability to download the images as jpegs.",
-      "maintainer": "Isaac Bravo",
-      "keywords": "",
-      "github": "https://github.com/ropensci/photosearcher",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/photosearcher",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 08:20:51",
-      "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
       "name": "phruta",
       "description": "Phylogenetic Reconstruction and Time-dating",
       "details": "The phruta R package is designed to simplify the basic phylogenetic pipeline. Specifically, all code is run within the same program and data from intermediate steps are saved in independent folders. Furthermore, all code is run within the same environment which increases the reproducibility of your analysis. phruta retrieves gene sequences, combines newly downloaded and local gene sequences, and performs sequence alignments.",
@@ -5140,7 +5121,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-02 15:53:37",
+      "date_last_commit": "2026-03-09 15:07:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5603,26 +5584,6 @@
       "date_last_commit": "2025-09-07 12:20:44",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": false
-    },
-    {
-      "name": "rusda",
-      "description": "Interface to USDA Databases",
-      "details": "An interface to the web service methods provided by the United States Department of Agriculture (USDA). The Agricultural Research Service (ARS) provides a large set of databases. The current version of the package holds interfaces to the Systematic Mycology and Microbiology Laboratory (SMML), which consists of four databases: Fungus-Host Distributions, Specimens, Literature and the Nomenclature database. It provides functions for querying these databases. The main function is \\codeassociations, which allows searching for fungus-host combinations. ",
-      "maintainer": "Franz-Sebastian Krah",
-      "keywords": "",
-      "github": "https://github.com/ropensci/rusda",
-      "status": "https://www.repostatus.org#active",
-      "onboarding": "",
-      "on_cran": false,
-      "on_bioc": false,
-      "type": "active",
-      "url": "https://github.com/ropensci/rusda",
-      "ropensci_category": "data-access",
-      "ropenscilabs": false,
-      "date_last_commit": "2021-01-28 13:31:15",
-      "github_archived": false,
-      "cran_archived": true,
       "staff_maintained": false
     },
     {
@@ -7126,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-09 08:31 UTC"
+  "date": "2026-03-10 08:27 UTC"
 }
