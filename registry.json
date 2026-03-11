@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-06 09:00:17",
+      "date_last_commit": "2026-03-10 09:59:51",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-24 11:30:02",
+      "date_last_commit": "2026-03-10 16:35:54",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -547,7 +547,7 @@
       "url": "https://github.com/ropensci-review-tools/srr",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 17:24:15",
+      "date_last_commit": "2026-03-10 15:48:24",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -981,7 +981,7 @@
       "url": "https://github.com/ropensci/bikedata",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 12:22:01",
+      "date_last_commit": "2026-03-10 09:14:18",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-10 08:27 UTC"
+  "date": "2026-03-11 08:27 UTC"
 }
