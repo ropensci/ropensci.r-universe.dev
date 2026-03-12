@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-10 09:59:51",
+      "date_last_commit": "2026-03-11 10:52:37",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-10 16:35:54",
+      "date_last_commit": "2026-03-11 13:34:00",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -5121,7 +5121,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 15:07:28",
+      "date_last_commit": "2026-03-11 14:13:49",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-11 08:27 UTC"
+  "date": "2026-03-12 08:39 UTC"
 }
