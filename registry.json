@@ -72,7 +72,7 @@
       "url": "https://github.com/ropensci-review-tools/babeldown",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-20 10:38:18",
+      "date_last_commit": "2026-03-13 07:24:33",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -490,7 +490,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 07:15:53",
+      "date_last_commit": "2026-03-12 14:35:20",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -822,7 +822,7 @@
       "url": "https://github.com/ropensci/babette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-06 11:56:13",
+      "date_last_commit": "2026-03-13 06:22:44",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -1261,7 +1261,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-02 13:34:19",
+      "date_last_commit": "2026-03-12 17:46:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4441,7 +4441,7 @@
       "url": "https://github.com/ropensci/qpdf",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-06-30 09:38:10",
+      "date_last_commit": "2026-03-12 22:26:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -5341,7 +5341,7 @@
       "url": "https://github.com/ropensci/rOPTRAM",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-03 14:51:26",
+      "date_last_commit": "2026-03-12 13:57:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-12 08:39 UTC"
+  "date": "2026-03-13 08:27 UTC"
 }
