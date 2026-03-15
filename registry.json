@@ -3941,7 +3941,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-13 17:39:53",
+      "date_last_commit": "2026-03-14 16:19:00",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-14 08:07 UTC"
+  "date": "2026-03-15 08:11 UTC"
 }
