@@ -3809,7 +3809,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgcheck",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgcheck/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.1.2.275",
+    "version": "0.1.2.276",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -38781,7 +38781,7 @@
     "codeRepository": "https://github.com/ropensci/gutenbergr",
     "issueTracker": "https://github.com/ropensci/gutenbergr/issues",
     "license": "https://spdx.org/licenses/GPL-2.0",
-    "version": "0.4.1.9000",
+    "version": "0.5.0.9000",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",

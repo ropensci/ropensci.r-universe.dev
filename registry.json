@@ -300,7 +300,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgcheck",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-13 08:56:45",
+      "date_last_commit": "2026-03-16 07:36:02",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -2821,7 +2821,7 @@
       "url": "https://github.com/ropensci/gutenbergr",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-18 20:27:38",
+      "date_last_commit": "2026-03-15 14:55:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4141,7 +4141,7 @@
       "url": "https://github.com/ropensci/pdftools",
       "ropensci_category": "literature",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-10 17:23:04",
+      "date_last_commit": "2026-03-15 21:36:28",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7087,5 +7087,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-15 08:11 UTC"
+  "date": "2026-03-16 08:44 UTC"
 }
