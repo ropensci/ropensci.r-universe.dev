@@ -9,6 +9,7 @@ aorsf,stat,FALSE
 arkdb,databases,FALSE
 aRxiv,literature,FALSE
 assertr,scalereprod,FALSE
+Athlytics,data-extraction,FALSE
 auk,data-access,FALSE
 autotest,scalereprod,FALSE
 av,image-processing,FALSE
@@ -196,7 +197,6 @@ pathviewr,data-extraction,FALSE
 pdftools,literature,FALSE
 PFW,data-access,FALSE
 phonfieldwork,data-extraction,FALSE
-photosearcher,data-access,FALSE
 phruta,data-extraction,FALSE
 phylocomr,data-extraction,FALSE
 phylogram,data-extraction,FALSE
@@ -280,7 +280,6 @@ rsnps,data-access,FALSE
 rsvg,image-processing,FALSE
 rtika,literature,FALSE
 ruODK,scalereprod,FALSE
-rusda,data-access,FALSE
 rvertnet,data-access,FALSE
 rzmq,scalereprod,FALSE
 saperlipopette,scalereprod,FALSE
