@@ -10,7 +10,8 @@
         "version": "1.0.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/728"
-      }
+      },
+      "ropensci_category": "data-extraction"
     }
   },
   {
