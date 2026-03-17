@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-12 21:08:01",
+      "date_last_commit": "2026-03-16 16:19:42",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-13 15:15:55",
+      "date_last_commit": "2026-03-16 13:55:21",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -762,6 +762,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/Athlytics",
+      "ropensci_category": "data-extraction",
+      "ropenscilabs": false,
       "date_last_commit": "2026-02-20 12:31:00",
       "github_archived": false,
       "cran_archived": false,
@@ -3921,7 +3923,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-14 11:48:15",
+      "date_last_commit": "2026-03-16 18:31:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5121,7 +5123,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-11 14:13:49",
+      "date_last_commit": "2026-03-16 15:33:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5334,14 +5336,14 @@
       "keywords": "",
       "github": "https://github.com/ropensci/rOPTRAM",
       "status": "https://www.repostatus.org#active",
-      "onboarding": "",
+      "onboarding": "https://github.com/ropensci/software-review/issues/612",
       "on_cran": false,
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/rOPTRAM",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-12 13:57:58",
+      "date_last_commit": "2026-03-16 14:59:18",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5741,7 +5743,7 @@
       "url": "https://github.com/ropensci/sofa",
       "ropensci_category": "databases",
       "ropenscilabs": false,
-      "date_last_commit": "2025-02-04 14:23:46",
+      "date_last_commit": "2026-03-16 18:20:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6501,7 +6503,7 @@
       "url": "https://github.com/ropensci/trud",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-01-14 15:48:15",
+      "date_last_commit": "2026-03-16 22:17:06",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7087,5 +7089,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-16 08:44 UTC"
+  "date": "2026-03-17 08:41 UTC"
 }
