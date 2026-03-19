@@ -2005,18 +2005,6 @@
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "ellipsis",
-        "name": "ellipsis",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=ellipsis"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
         "provider": {
@@ -2027,12 +2015,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "4": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "stats",
         "name": "stats"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "vctrs",
         "name": "vctrs",
@@ -2044,7 +2032,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=vctrs"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "R",
         "name": "R",
@@ -4238,7 +4226,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgmatch",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgmatch/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.5.2.59",
+    "version": "0.5.2.79",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -80347,6 +80335,30 @@
     "softwareSuggestions": [
       {
         "@type": "SoftwareApplication",
+        "identifier": "duckdb",
+        "name": "duckdb",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=duckdb"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "DBI",
+        "name": "DBI",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=DBI"
+      },
+      {
+        "@type": "SoftwareApplication",
         "identifier": "ggplot2",
         "name": "ggplot2",
         "provider": {
@@ -80573,6 +80585,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=clock"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "identifier": "waldo",
+        "name": "waldo",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=waldo"
       }
     ],
     "softwareRequirements": {
@@ -80584,11 +80608,6 @@
       },
       "2": {
         "@type": "SoftwareApplication",
-        "identifier": "methods",
-        "name": "methods"
-      },
-      "3": {
-        "@type": "SoftwareApplication",
         "identifier": "sf",
         "name": "sf",
         "provider": {
@@ -80599,7 +80618,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=sf"
       },
-      "4": {
+      "3": {
         "@type": "SoftwareApplication",
         "identifier": "curl",
         "name": "curl",
@@ -80612,7 +80631,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=curl"
       },
-      "5": {
+      "4": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -80624,7 +80643,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "6": {
+      "5": {
         "@type": "SoftwareApplication",
         "identifier": "tibble",
         "name": "tibble",
@@ -80636,7 +80655,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=tibble"
       },
-      "7": {
+      "6": {
         "@type": "SoftwareApplication",
         "identifier": "dplyr",
         "name": "dplyr",
@@ -80648,7 +80667,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=dplyr"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "lubridate",
         "name": "lubridate",
@@ -80660,7 +80679,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=lubridate"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "jsonlite",
         "name": "jsonlite",
@@ -80671,6 +80690,18 @@
           "url": "https://cran.r-project.org"
         },
         "sameAs": "https://CRAN.R-project.org/package=jsonlite"
+      },
+      "9": {
+        "@type": "SoftwareApplication",
+        "identifier": "glue",
+        "name": "glue",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=glue"
       },
       "SystemRequirements": null
     },
