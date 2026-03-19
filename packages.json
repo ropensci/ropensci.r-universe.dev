@@ -3857,6 +3857,20 @@
     }
   },
   {
+    "package": "suwo",
+    "url": "https://github.com/ropensci/suwo",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 729,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/729"
+      }
+    }
+  },
+  {
     "package": "tabulapdf",
     "url": "https://github.com/ropensci/tabulapdf",
     "branch": "main",
