@@ -34,7 +34,7 @@
       "url": "https://github.com/CornellLabofOrnithology/auk",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-16 16:19:42",
+      "date_last_commit": "2026-03-20 04:10:49",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-18 11:03:22",
+      "date_last_commit": "2026-03-19 18:22:57",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -357,7 +357,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgstats",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-09 17:20:09",
+      "date_last_commit": "2026-03-19 15:54:00",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -490,7 +490,7 @@
       "url": "https://github.com/ropensci-training/saperlipopette",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-12 14:35:20",
+      "date_last_commit": "2026-03-19 14:28:30",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -4263,7 +4263,7 @@
       "url": "https://github.com/ropensci/phylotaR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2024-10-23 10:11:07",
+      "date_last_commit": "2026-03-20 03:14:09",
       "github_archived": false,
       "cran_archived": true,
       "staff_maintained": false
@@ -5623,7 +5623,7 @@
       "url": "https://github.com/ropensci/rzmq",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2024-12-16 14:48:22",
+      "date_last_commit": "2026-03-19 20:44:45",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": true
@@ -7089,5 +7089,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-19 08:30 UTC"
+  "date": "2026-03-20 08:31 UTC"
 }

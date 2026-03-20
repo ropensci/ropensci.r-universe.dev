@@ -195,7 +195,7 @@
     "codeRepository": "https://github.com/CornellLabofOrnithology/auk",
     "issueTracker": "\n    https://github.com/CornellLabofOrnithology/auk/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -375,29 +375,17 @@
       },
       "5": {
         "@type": "SoftwareApplication",
-        "identifier": "httr",
-        "name": "httr",
+        "identifier": "httr2",
+        "name": "httr2",
         "provider": {
           "@id": "https://cran.r-project.org",
           "@type": "Organization",
           "name": "Comprehensive R Archive Network (CRAN)",
           "url": "https://cran.r-project.org"
         },
-        "sameAs": "https://CRAN.R-project.org/package=httr"
+        "sameAs": "https://CRAN.R-project.org/package=httr2"
       },
       "6": {
-        "@type": "SoftwareApplication",
-        "identifier": "magrittr",
-        "name": "magrittr",
-        "provider": {
-          "@id": "https://cran.r-project.org",
-          "@type": "Organization",
-          "name": "Comprehensive R Archive Network (CRAN)",
-          "url": "https://cran.r-project.org"
-        },
-        "sameAs": "https://CRAN.R-project.org/package=magrittr"
-      },
-      "7": {
         "@type": "SoftwareApplication",
         "identifier": "readr",
         "name": "readr",
@@ -410,7 +398,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=readr"
       },
-      "8": {
+      "7": {
         "@type": "SoftwareApplication",
         "identifier": "rlang",
         "name": "rlang",
@@ -423,7 +411,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=rlang"
       },
-      "9": {
+      "8": {
         "@type": "SoftwareApplication",
         "identifier": "stringi",
         "name": "stringi",
@@ -435,7 +423,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringi"
       },
-      "10": {
+      "9": {
         "@type": "SoftwareApplication",
         "identifier": "stringr",
         "name": "stringr",
@@ -447,7 +435,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=stringr"
       },
-      "11": {
+      "10": {
         "@type": "SoftwareApplication",
         "identifier": "tidyr",
         "name": "tidyr",
@@ -3392,6 +3380,30 @@
       },
       "13": {
         "@type": "SoftwareApplication",
+        "identifier": "treesitter",
+        "name": "treesitter",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=treesitter"
+      },
+      "14": {
+        "@type": "SoftwareApplication",
+        "identifier": "treesitter.r",
+        "name": "treesitter.r",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=treesitter.r"
+      },
+      "15": {
+        "@type": "SoftwareApplication",
         "identifier": "urlchecker",
         "name": "urlchecker",
         "provider": {
@@ -3402,12 +3414,12 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=urlchecker"
       },
-      "14": {
+      "16": {
         "@type": "SoftwareApplication",
         "identifier": "utils",
         "name": "utils"
       },
-      "15": {
+      "17": {
         "@type": "SoftwareApplication",
         "identifier": "whoami",
         "name": "whoami",
@@ -3419,7 +3431,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=whoami"
       },
-      "16": {
+      "18": {
         "@type": "SoftwareApplication",
         "identifier": "withr",
         "name": "withr",
@@ -4850,7 +4862,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/pkgstats",
     "issueTracker": "https://github.com/ropensci-review-tools/pkgstats/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.2.15",
+    "version": "0.2.2.20",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -81460,6 +81472,7 @@
     "developmentStatus": "http://www.repostatus.org/#active",
     "keywords": "peer-reviewed"
   },
+  {},
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
