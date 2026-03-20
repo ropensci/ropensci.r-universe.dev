@@ -2043,21 +2043,6 @@
     }
   },
   {
-    "package": "jstor",
-    "url": "https://github.com/ropensci/jstor",
-    "branch": "main",
-    "metadata": {
-      "review": {
-        "id": 189,
-        "status": "reviewed",
-        "version": "0.2.6",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/189"
-      },
-      "ropensci_category": "literature"
-    }
-  },
-  {
     "package": "karel",
     "url": "https://github.com/ropensci/karel",
     "branch": "master",
