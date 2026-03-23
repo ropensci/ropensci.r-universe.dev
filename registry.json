@@ -1263,7 +1263,7 @@
       "url": "https://github.com/ropensci/cffr",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-12 17:46:45",
+      "date_last_commit": "2026-03-22 16:06:09",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7069,5 +7069,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-22 08:09 UTC"
+  "date": "2026-03-23 08:40 UTC"
 }
