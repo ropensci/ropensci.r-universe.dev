@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-20 22:25:06",
+      "date_last_commit": "2026-03-23 10:46:29",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-20 16:59:15",
+      "date_last_commit": "2026-03-23 19:05:52",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -307,7 +307,7 @@
     {
       "name": "pkgmatch",
       "description": "Find R Packages Matching Either Descriptions or Other R Packages",
-      "details": "Find R packages matching either descriptions or other R packages.",
+      "details": "Find R packages from 'CRAN', 'rOpenSci', or 'Bioconductor' corpora. Packages can be matched to general text descriptions, to names of installed packages, or to local paths to entire source repositories. The package is used to list the most similar packages for each new submission to 'rOpenSci's software peer-review program <doi:10.5281/zenodo.18885936>.",
       "maintainer": "Mark Padgham",
       "keywords": "bm25, cpp, natural-language-processing",
       "github": "https://github.com/ropensci-review-tools/pkgmatch",
@@ -319,7 +319,7 @@
       "url": "https://github.com/ropensci-review-tools/pkgmatch",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-20 12:11:10",
+      "date_last_commit": "2026-03-23 16:45:04",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-11 13:34:00",
+      "date_last_commit": "2026-03-23 16:52:50",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3883,7 +3883,7 @@
       "url": "https://github.com/ropensci/osmapiR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-15 22:08:30",
+      "date_last_commit": "2026-03-23 17:21:20",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3903,7 +3903,7 @@
       "url": "https://github.com/ropensci/osmdata",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-17 20:02:51",
+      "date_last_commit": "2026-03-23 17:40:43",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4963,7 +4963,7 @@
       "url": "https://github.com/ropensci/rgbif",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-20 10:50:05",
+      "date_last_commit": "2026-03-23 09:24:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5103,7 +5103,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-16 15:33:22",
+      "date_last_commit": "2026-03-23 20:34:42",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6003,7 +6003,7 @@
       "url": "https://github.com/ropensci/tarchetypes",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-02-09 17:58:10",
+      "date_last_commit": "2026-03-23 20:03:08",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7069,5 +7069,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-23 08:40 UTC"
+  "date": "2026-03-24 08:41 UTC"
 }
