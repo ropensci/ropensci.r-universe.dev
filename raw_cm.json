@@ -2055,6 +2055,12 @@
       "url": "https://r-project.org"
     },
     "runtimePlatform": "R version 4.5.3 (2026-03-11)",
+    "provider": {
+      "@id": "https://cran.r-project.org",
+      "@type": "Organization",
+      "name": "Comprehensive R Archive Network (CRAN)",
+      "url": "https://cran.r-project.org"
+    },
     "author": [
       {
         "@type": "Person",
@@ -2373,7 +2379,7 @@
         },
         "sameAs": "https://CRAN.R-project.org/package=whoami"
       },
-      "SystemRequirements": "C++11, GDAL (>= 2.0.1), GEOS (>= 3.4.0), PROJ (>=\n    4.8.0)"
+      "SystemRequirements": null
     },
     "fileSize": "NAKB",
     "citation": [
@@ -68771,6 +68777,7 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rgnparser/blob/HEAD/README.md",
+    "developmentStatus": "https://www.repostatus.org/#active",
     "keywords": "taxonomy"
   },
   {
@@ -69777,6 +69784,12 @@
     },
     "fileSize": "NAKB",
     "readme": "https://github.com/ropensci/rix/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/625",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": [],
     "keywords": ["nix", "peer-reviewed", "reproducibility", "reproducible-research"]
   },
   {
@@ -70660,7 +70673,13 @@
         "description": "R package version 0.6.4"
       }
     ],
-    "readme": "https://github.com/ropensci/rnassqs/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/rnassqs/blob/HEAD/README.md",
+    "review": {
+      "@type": "Review",
+      "url": "https://github.com/ropensci/software-review/issues/298",
+      "provider": "https://ropensci.org"
+    },
+    "developmentStatus": ["https://www.repostatus.org/#active", "https://lifecycle.r-lib.org/articles/stages.html#maturing"]
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
@@ -71065,7 +71084,8 @@
       "SystemRequirements": null
     },
     "fileSize": "NAKB",
-    "readme": "https://github.com/ropensci/rnaturalearthdata/blob/HEAD/README.md"
+    "readme": "https://github.com/ropensci/rnaturalearthdata/blob/HEAD/README.md",
+    "developmentStatus": []
   },
   {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
