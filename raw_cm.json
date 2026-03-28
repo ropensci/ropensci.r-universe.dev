@@ -6353,7 +6353,7 @@
     "codeRepository": "https://github.com/ropensci-review-tools/roreviewapi",
     "issueTracker": "https://github.com/ropensci-review-tools/roreviewapi/issues",
     "license": "https://spdx.org/licenses/GPL-3.0",
-    "version": "0.2.0.1",
+    "version": "0.2.0.5",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
