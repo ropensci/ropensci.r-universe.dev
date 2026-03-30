@@ -5941,6 +5941,8 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/suwo",
+      "ropensci_category": "data-access",
+      "ropenscilabs": false,
       "date_last_commit": "2026-03-26 17:24:35",
       "github_archived": false,
       "cran_archived": false,
@@ -7087,5 +7089,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-29 08:29 UTC"
+  "date": "2026-03-30 09:05 UTC"
 }

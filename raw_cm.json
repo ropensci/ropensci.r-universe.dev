@@ -66212,7 +66212,14 @@
       {
         "@type": "SoftwareApplication",
         "identifier": "leaflet.extras",
-        "name": "leaflet.extras"
+        "name": "leaflet.extras",
+        "provider": {
+          "@id": "https://cran.r-project.org",
+          "@type": "Organization",
+          "name": "Comprehensive R Archive Network (CRAN)",
+          "url": "https://cran.r-project.org"
+        },
+        "sameAs": "https://CRAN.R-project.org/package=leaflet.extras"
       },
       {
         "@type": "SoftwareApplication",
