@@ -144,7 +144,6 @@ jenkins,scalereprod,FALSE
 jqr,data-extraction,FALSE
 jsonld,data-extraction,FALSE
 jsonvalidate,scalereprod,FALSE
-jstor,literature,FALSE
 karel,scalereprod,FALSE
 katex,literature,FALSE
 landscapetools,geospatial,FALSE
@@ -302,6 +301,7 @@ stantargets,scalereprod,FALSE
 stats19,data-access,FALSE
 stplanr,data-access,FALSE
 suppdata,data-access,FALSE
+suwo,data-access,FALSE
 SymbiotaR2,SymbiotaR2,FALSE
 tabulapdf,data-extraction,FALSE
 tacmagic,data-extraction,FALSE
