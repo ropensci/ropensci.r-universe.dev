@@ -3170,6 +3170,20 @@
     }
   },
   {
+    "package": "reviser",
+    "url": "https://github.com/ropensci/reviser",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 709,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/709"
+      }
+    }
+  },
+  {
     "package": "rfema",
     "url": "https://github.com/ropensci/rfema",
     "branch": "main",
