@@ -2403,7 +2403,7 @@
       "url": "https://github.com/ropensci/forcis",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-02 13:01:40",
+      "date_last_commit": "2026-03-31 04:54:32",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4889,6 +4889,24 @@
       "staff_maintained": false
     },
     {
+      "name": "reviser",
+      "description": "Analyzing Revisions in Real-Time Time Series Vintages",
+      "details": "Analyzes revisions in real-time time series vintages. The package converts between wide revision triangles and tidy long vintages, extracts selected releases, computes revision series, visualizes vintage paths, and summarizes revision properties such as bias, dispersion, autocorrelation, and news-noise diagnostics. It also identifies efficient releases and estimates state-space models for revision nowcasting. Methods are based on Howrey (1978) <doi:10.2307/1924972>, Jacobs and Van Norden (2011) <doi:10.1016/j.jeconom.2010.04.010>, and Kishor and Koenig (2012) <doi:10.1198/jbes.2010.08169>.",
+      "maintainer": "Marc Burri",
+      "keywords": "forecasting, macroeconomics, nowcasting, revisions, time-series",
+      "github": "https://github.com/ropensci/reviser",
+      "status": "https://www.repostatus.org#active",
+      "onboarding": "",
+      "on_cran": true,
+      "on_bioc": false,
+      "type": "active",
+      "url": "https://github.com/ropensci/reviser",
+      "date_last_commit": "2026-03-31 07:44:35",
+      "github_archived": false,
+      "cran_archived": false,
+      "staff_maintained": false
+    },
+    {
       "name": "rfema",
       "description": "Access the openFEMA API",
       "details": "`rfema` allows users to access The Federal Emergency Management Agency's (FEMA) publicly available data through their API. The package provides a set of functions to easily navigate and access data from the National Flood Insurance Program along with FEMA's various disaster aid programs, including the Hazard Mitigation Grant Program, the Public Assistance Grant Program, and the Individual Assistance Grant Program.",
@@ -5103,7 +5121,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-23 20:34:42",
+      "date_last_commit": "2026-03-30 18:32:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7089,5 +7107,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-30 09:05 UTC"
+  "date": "2026-03-31 08:57 UTC"
 }
