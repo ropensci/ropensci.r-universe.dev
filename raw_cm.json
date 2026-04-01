@@ -45038,7 +45038,7 @@
     "codeRepository": "https://github.com/ropensci/mbquartR",
     "issueTracker": "https://github.com/ropensci/mbquartR/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67413,11 +67413,11 @@
     "identifier": "reviser",
     "description": "Analyzes revisions in real-time time series vintages. The package converts between wide revision triangles and tidy long vintages, extracts selected releases, computes revision series, visualizes vintage paths, and summarizes revision properties such as bias, dispersion, autocorrelation, and news-noise diagnostics. It also identifies efficient releases and estimates state-space models for revision nowcasting. Methods are based on Howrey (1978) <doi:10.2307/1924972>, Jacobs and Van Norden (2011) <doi:10.1016/j.jeconom.2010.04.010>, and Kishor and Koenig (2012) <doi:10.1198/jbes.2010.08169>.",
     "name": "reviser: Analyzing Revisions in Real-Time Time Series Vintages",
-    "relatedLink": ["https://docs.ropensci.org/reviser", "https://github.com/ropensci/reviser"],
+    "relatedLink": ["https://docs.ropensci.org/reviser/", "https://github.com/ropensci/reviser"],
     "codeRepository": "https://github.com/ropensci/reviser",
     "issueTracker": "https://github.com/ropensci/reviser/issues",
     "license": "https://spdx.org/licenses/MIT",
-    "version": "0.1.0.9001",
+    "version": "0.1.1",
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "R",
@@ -67739,7 +67739,7 @@
           }
         ],
         "name": "reviser: Tools for Studying Revision Properties in Real-Time Time Series Vintages",
-        "url": "https://docs.ropensci.org/reviser"
+        "url": "https://docs.ropensci.org/reviser/"
       }
     ],
     "readme": "https://github.com/ropensci/reviser/blob/HEAD/README.md",

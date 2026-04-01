@@ -205,7 +205,7 @@
       "url": "https://github.com/frictionlessdata/frictionless-r",
       "ropensci_category": "data-publication",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-05 15:09:39",
+      "date_last_commit": "2026-03-31 09:13:39",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -3363,7 +3363,7 @@
       "url": "https://github.com/ropensci/mbquartR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-04-29 19:15:17",
+      "date_last_commit": "2026-04-01 01:53:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3923,7 +3923,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-14 16:19:00",
+      "date_last_commit": "2026-03-31 16:37:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4901,7 +4901,7 @@
       "on_bioc": false,
       "type": "active",
       "url": "https://github.com/ropensci/reviser",
-      "date_last_commit": "2026-03-31 07:44:35",
+      "date_last_commit": "2026-04-01 08:08:26",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7107,5 +7107,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-03-31 08:57 UTC"
+  "date": "2026-04-01 08:53 UTC"
 }
