@@ -1343,7 +1343,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2025-09-10 11:49:20",
+      "date_last_commit": "2026-04-02 03:41:58",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3363,7 +3363,7 @@
       "url": "https://github.com/ropensci/mbquartR",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-01 01:53:50",
+      "date_last_commit": "2026-04-01 20:14:05",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3923,7 +3923,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-31 16:37:22",
+      "date_last_commit": "2026-04-01 09:09:22",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -4743,7 +4743,7 @@
       "url": "https://github.com/ropensci/readODS",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-21 10:01:18",
+      "date_last_commit": "2026-04-01 10:27:16",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7107,5 +7107,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-04-01 08:53 UTC"
+  "date": "2026-04-02 08:44 UTC"
 }
