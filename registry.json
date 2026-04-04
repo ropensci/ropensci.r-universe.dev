@@ -224,7 +224,7 @@
       "url": "https://github.com/r-lib/gert",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-02 13:55:13",
+      "date_last_commit": "2026-04-03 13:58:23",
       "cran_archived": false,
       "staff_maintained": true
     },
@@ -262,7 +262,7 @@
       "url": "https://github.com/ropensci-review-tools/goodpractice",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-02 12:49:02",
+      "date_last_commit": "2026-04-03 14:34:50",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -1343,7 +1343,7 @@
       "url": "https://github.com/ropensci/chopin",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-02 03:41:58",
+      "date_last_commit": "2026-04-03 12:01:51",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -2783,7 +2783,7 @@
       "url": "https://github.com/ropensci/GSODR",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-18 08:51:25",
+      "date_last_commit": "2026-04-04 03:23:53",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -3923,7 +3923,7 @@
       "url": "https://github.com/ropensci/osmextract",
       "ropensci_category": "geospatial",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-02 14:20:07",
+      "date_last_commit": "2026-04-03 13:12:56",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -7107,5 +7107,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-04-03 08:42 UTC"
+  "date": "2026-04-04 08:30 UTC"
 }
