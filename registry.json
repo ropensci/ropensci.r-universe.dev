@@ -433,7 +433,7 @@
       "url": "https://github.com/ropensci-review-tools/roreviewapi",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-27 10:36:45",
+      "date_last_commit": "2026-04-06 14:06:26",
       "cran_archived": false,
       "staff_maintained": false
     },
@@ -4941,7 +4941,7 @@
       "url": "https://github.com/ropensci/rfishbase",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-05 23:13:31",
+      "date_last_commit": "2026-04-06 15:53:50",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -5121,7 +5121,7 @@
       "url": "https://github.com/ropensci/rix",
       "ropensci_category": "scalereprod",
       "ropenscilabs": false,
-      "date_last_commit": "2026-03-30 18:32:51",
+      "date_last_commit": "2026-04-06 15:07:48",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6821,7 +6821,7 @@
       "url": "https://github.com/ropensci/weatherOz",
       "ropensci_category": "data-access",
       "ropenscilabs": false,
-      "date_last_commit": "2026-04-05 09:45:30",
+      "date_last_commit": "2026-04-07 04:27:38",
       "github_archived": false,
       "cran_archived": false,
       "staff_maintained": false
@@ -6930,7 +6930,7 @@
       "name": "writexl",
       "description": "Export Data Frames to Excel 'xlsx' Format",
       "details": "Zero-dependency data frame to xlsx exporter based on 'libxlsxwriter' <https://libxlsxwriter.github.io>. Fast and no Java or Excel required.",
-      "maintainer": "Jeroen Ooms",
+      "maintainer": "Bill Denney",
       "keywords": "excel, libxlsxwriter, xlsx, zlib",
       "github": "https://github.com/ropensci/writexl",
       "status": "https://www.repostatus.org#active",
@@ -6941,10 +6941,10 @@
       "url": "https://github.com/ropensci/writexl",
       "ropensci_category": "data-extraction",
       "ropenscilabs": false,
-      "date_last_commit": "2025-11-27 10:42:34",
+      "date_last_commit": "2026-04-07 01:21:29",
       "github_archived": false,
       "cran_archived": false,
-      "staff_maintained": true
+      "staff_maintained": false
     },
     {
       "name": "xslt",
@@ -7107,5 +7107,5 @@
       "staff_maintained": false
     }
   ],
-  "date": "2026-04-06 09:07 UTC"
+  "date": "2026-04-07 08:58 UTC"
 }
