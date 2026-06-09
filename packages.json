@@ -1432,6 +1432,20 @@
     }
   },
   {
+    "package": "ernest",
+    "url": "https://github.com/ropensci/ernest",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 730,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/730"
+      }
+    }
+  },
+  {
     "package": "essurvey",
     "url": "https://github.com/ropensci/essurvey",
     "branch": "master",
