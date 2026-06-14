@@ -2877,6 +2877,20 @@
     }
   },
   {
+    "package": "pvEBayes",
+    "url": "https://github.com/ropensci/pvEBayes",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 760,
+        "status": "reviewed",
+        "version": "0.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/760"
+      }
+    }
+  },
+  {
     "package": "qcoder",
     "url": "https://github.com/ropenscilabs/qcoder",
     "branch": "main",
