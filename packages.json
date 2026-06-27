@@ -2383,6 +2383,20 @@
     }
   },
   {
+    "package": "nycOpenData",
+    "url": "https://github.com/ropensci/nycOpenData",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 750,
+        "status": "reviewed",
+        "version": "0.1.6",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/750"
+      }
+    }
+  },
+  {
     "package": "oai",
     "url": "https://github.com/ropensci/oai",
     "branch": "master",
