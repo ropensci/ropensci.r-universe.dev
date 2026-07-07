@@ -1902,21 +1902,6 @@
     }
   },
   {
-    "package": "hddtools",
-    "url": "https://github.com/ropensci/hddtools",
-    "branch": "master",
-    "metadata": {
-      "review": {
-        "id": 73,
-        "status": "reviewed",
-        "version": "0.3.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/73"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "helminthR",
     "url": "https://github.com/ropensci/helminthR",
     "branch": "master",
