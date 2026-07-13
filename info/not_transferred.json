@@ -132,5 +132,9 @@
   {
    "package": "distionary",
     "url": "https://github.com/probaverse/distionary/"
+  },
+  {
+   "package": "hdcuremodels",
+   "url": "https://github.com/kelliejarcher/hdcuremodels"
   }
 ]
