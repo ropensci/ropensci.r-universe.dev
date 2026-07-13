@@ -1888,7 +1888,7 @@
   },
   {
     "package": "hdcuremodels",
-    "url": "https://github.com/ropensci/hdcuremodels",
+    "url": "https://github.com/kelliejarcher/hdcuremodels",
     "branch": "main",
     "metadata": {
       "review": {
