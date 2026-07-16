@@ -408,14 +408,6 @@
     }
   },
   {
-    "package": "aeolus",
-    "url": "https://github.com/ropenscilabs/aeolus",
-    "branch": "main",
-    "metadata": {
-      "ropensci_category": "scalereprod"
-    }
-  },
-  {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
     "branch": "main",
