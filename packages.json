@@ -2057,6 +2057,20 @@
     }
   },
   {
+    "package": "lakefetch",
+    "url": "https://github.com/ropensci/lakefetch",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 762,
+        "status": "reviewed",
+        "version": "0.1.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/762"
+      }
+    }
+  },
+  {
     "package": "landscapetools",
     "url": "https://github.com/ropensci/landscapetools",
     "branch": "master",
