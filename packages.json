@@ -1611,6 +1611,20 @@
     }
   },
   {
+    "package": "galamm",
+    "url": "https://github.com/ropensci/galamm",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 615,
+        "status": "reviewed",
+        "version": "0.1.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/615"
+      }
+    }
+  },
+  {
     "package": "gbifdb",
     "url": "https://github.com/ropensci/gbifdb",
     "branch": "main",
