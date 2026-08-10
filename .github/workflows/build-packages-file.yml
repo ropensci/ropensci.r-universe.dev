@@ -27,6 +27,7 @@ jobs:
         git config --global user.email "accounts+ropenscibot@ropensci.org"
         git config --global user.name "ropenscibot"
         git config --global --add safe.directory /__w/roregistry/roregistry
+        git config --global --add safe.directory /__w/ropensci.r-universe.dev/ropensci.r-universe.dev
         git add packages.json
         git commit -m 'packages.json updated' || exit 0
         git pull --rebase

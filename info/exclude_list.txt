@@ -99,6 +99,7 @@ ropensci_citations
 ropensci_intro
 ropenscibin
 rOpenSciEd
+ropensci.r-universe.dev
 roregistry
 rostats
 rotwmentions
