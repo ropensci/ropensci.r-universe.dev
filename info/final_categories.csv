@@ -1,5 +1,4 @@
 name,ropensci_category,ropenscilabs
-aeolus,scalereprod,TRUE
 agroclimatico,scalereprod,FALSE
 allcontributors,scalereprod,FALSE
 allodb,data-extraction,FALSE
@@ -90,6 +89,7 @@ EndoMineR,data-access,FALSE
 epair,data-access,FALSE
 eph,data-access,FALSE
 epubr,data-access,FALSE
+ernest,stat,FALSE
 essurvey,data-access,FALSE
 europepmc,literature,FALSE
 excluder,data-extraction,FALSE
@@ -103,6 +103,7 @@ fireexposuR,scalereprod,FALSE
 fluidsynth,image-processing,FALSE
 forcis,data-access,FALSE
 frictionless,data-publication,FALSE
+galamm,stat,FALSE
 gbifdb,data-access,FALSE
 gendercoder,data-extraction,FALSE
 geojson,geospatial,FALSE
@@ -129,7 +130,6 @@ gtexr,data-access,FALSE
 gutenbergr,data-access,FALSE
 handlr,literature,FALSE
 hdcuremodels,stat,FALSE
-hddtools,data-access,FALSE
 helminthR,data-access,FALSE
 historydata,data-access,FALSE
 hoardr,scalereprod,FALSE
@@ -146,6 +146,7 @@ jsonld,data-extraction,FALSE
 jsonvalidate,scalereprod,FALSE
 karel,scalereprod,FALSE
 katex,literature,FALSE
+lakefetch,geospatial,FALSE
 landscapetools,geospatial,FALSE
 lightr,data-extraction,FALSE
 lingtypology,literature,FALSE
@@ -172,6 +173,7 @@ nodbi,databases,FALSE
 nomisr,data-access,FALSE
 npi,data-access,FALSE
 nuts,data-extraction,FALSE
+nycOpenData,data-access,FALSE
 oai,literature,FALSE
 occCite,data-access,FALSE
 ohun,data-extraction,FALSE
@@ -213,6 +215,7 @@ predictNMB,stat,FALSE
 prism,data-access,FALSE
 prismjs,scalereprod,FALSE
 promoutils,scalereprod,FALSE
+pvEBayes,stat,FALSE
 qcoder,data-extraction,TRUE
 qpdf,literature,FALSE
 quadkeyr,geospatial,FALSE
@@ -241,6 +244,7 @@ rentrez,data-access,FALSE
 repometrics,scalereprod,FALSE
 rerddap,data-access,FALSE
 restez,data-extraction,FALSE
+reviser,stat,FALSE
 rfema,data-access,FALSE
 rfishbase,data-access,FALSE
 rfisheries,data-access,FALSE
