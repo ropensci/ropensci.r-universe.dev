@@ -126,6 +126,10 @@
     "url": "https://github.com/ropensci-org/promoutils/"
   },
   {
+   "package": "monarch",
+    "url": "https://github.com/ropensci-org/monarch/"
+  },
+  {
    "package": "sits",
     "url": "https://github.com/e-sensing/sits/"
   },
