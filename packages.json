@@ -165,6 +165,20 @@
     }
   },
   {
+    "package": "EpiStrainDynamics",
+    "url": "https://github.com/ropensci/EpiStrainDynamics",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 763,
+        "status": "reviewed",
+        "version": "0.0.1.0000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/763"
+      }
+    }
+  },
+  {
     "package": "FedData",
     "url": "https://github.com/ropensci/FedData",
     "branch": "main",
