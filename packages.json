@@ -1613,7 +1613,7 @@
   {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r",
-    "branch": "main",
+    "branch": "v2",
     "metadata": {
       "review": {
         "id": 495,
