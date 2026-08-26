@@ -314,6 +314,20 @@
     }
   },
   {
+    "package": "RAMEN",
+    "url": "https://github.com/ropensci/RAMEN",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 743,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/743"
+      }
+    }
+  },
+  {
     "package": "RNeXML",
     "url": "https://github.com/ropensci/RNeXML",
     "branch": "master",
