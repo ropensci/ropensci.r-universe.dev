@@ -777,7 +777,7 @@
     "metadata": {
       "review": {
         "id": 792,
-        "status": "pending",
+        "status": "reviewed",
         "version": "0.1.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/792"
