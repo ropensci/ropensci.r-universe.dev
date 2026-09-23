@@ -771,6 +771,20 @@
     }
   },
   {
+    "package": "brapiR2",
+    "url": "https://github.com/ropensci/brapiR2",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 792,
+        "status": "pending",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/792"
+      }
+    }
+  },
+  {
     "package": "brranching",
     "url": "https://github.com/ropensci/brranching",
     "branch": "master",
