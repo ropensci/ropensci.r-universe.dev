@@ -175,7 +175,8 @@
         "version": "0.0.1.0000",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/763"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
@@ -324,7 +325,8 @@
         "version": "2.0.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/743"
-      }
+      },
+      "ropensci_category": "scalereprod"
     }
   },
   {
@@ -781,7 +783,8 @@
         "version": "0.1.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/792"
-      }
+      },
+      "ropensci_category": "data-access"
     }
   },
   {
@@ -991,7 +994,8 @@
         "version": "0.9.6",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/765"
-      }
+      },
+      "ropensci_category": "data-extraction"
     }
   },
   {
@@ -2320,7 +2324,10 @@
   {
     "package": "monarch",
     "url": "https://github.com/ropensci-org/monarch/",
-    "branch": "main"
+    "branch": "main",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "mregions2",
