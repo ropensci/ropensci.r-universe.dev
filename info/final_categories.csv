@@ -29,6 +29,7 @@ biomartr,data-access,FALSE
 birdsize,scalereprod,FALSE
 bold,data-access,FALSE
 bowerbird,scalereprod,FALSE
+brapiR2,data-access,FALSE
 brranching,data-access,FALSE
 butterfly,data-extraction,FALSE
 c14bazAAR,data-access,FALSE
@@ -43,6 +44,7 @@ chirps,data-access,FALSE
 chlorpromazineR,scalereprod,FALSE
 chopin,geospatial,FALSE
 chromer,data-access,FALSE
+ciecl,data-extraction,FALSE
 circle,scalereprod,FALSE
 citecorp,literature,FALSE
 ckanr,databases,FALSE
@@ -88,6 +90,7 @@ emodnet.wfs,data-access,FALSE
 EndoMineR,data-access,FALSE
 epair,data-access,FALSE
 eph,data-access,FALSE
+EpiStrainDynamics,stat,FALSE
 epubr,data-access,FALSE
 ernest,stat,FALSE
 essurvey,data-access,FALSE
@@ -161,6 +164,7 @@ mctq,data-extraction,FALSE
 medrxivr,literature,FALSE
 melt,stat,FALSE
 MODIStsp,data-access,FALSE
+monarch,data-access,FALSE
 mregions2,data-access,FALSE
 MtreeRing,image-processing,FALSE
 naijR,data-access,FALSE
@@ -223,6 +227,7 @@ QuadratiK,stat,FALSE
 qualR,data-access,FALSE
 qualtRics,data-access,FALSE
 quartificate,scalereprod,TRUE
+RAMEN,scalereprod,FALSE
 ramlegacy,data-access,FALSE
 rangr,stat,FALSE
 rb3,data-access,FALSE
