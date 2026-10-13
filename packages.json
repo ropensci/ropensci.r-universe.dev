@@ -2002,6 +2002,20 @@
     }
   },
   {
+    "package": "ibger",
+    "url": "https://github.com/ropensci/ibger",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 787,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/787"
+      }
+    }
+  },
+  {
     "package": "icepalace",
     "url": "https://github.com/ropenscilabs/icepalace",
     "branch": "main",
