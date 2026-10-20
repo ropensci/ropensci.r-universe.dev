@@ -3140,6 +3140,20 @@
     }
   },
   {
+    "package": "rcrisp",
+    "url": "https://github.com/CityRiverSpaces/rcrisp",
+    "branch": "main",
+    "metadata": {
+      "review": {
+        "id": 718,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/718"
+      }
+    }
+  },
+  {
     "package": "rcrossref",
     "url": "https://github.com/ropensci/rcrossref",
     "branch": "main",
