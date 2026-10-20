@@ -140,5 +140,9 @@
   {
    "package": "hdcuremodels",
    "url": "https://github.com/kelliejarcher/hdcuremodels"
+  },
+  {
+   "package": "rcrisp",
+   "url": "https://github.com/CityRiverSpaces/rcrisp"
   }
 ]
