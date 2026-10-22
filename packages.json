@@ -1086,7 +1086,8 @@
         "version": "0.1.0.9005",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/717"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
@@ -2026,7 +2027,8 @@
         "version": "0.2.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/787"
-      }
+      },
+      "ropensci_category": "data-access"
     }
   },
   {
@@ -3150,7 +3152,8 @@
         "version": "0.1.4",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/718"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
