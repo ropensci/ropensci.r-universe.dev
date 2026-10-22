@@ -52,6 +52,7 @@ cld2,literature,FALSE
 cld3,literature,FALSE
 codemetar,data-publication,FALSE
 coder,data-extraction,FALSE
+coevolve,stat,FALSE
 colocr,data-extraction,FALSE
 commonmark,data-extraction,FALSE
 commonmetar,scalereprod,FALSE
@@ -126,7 +127,6 @@ GLMMcosinor,stat,FALSE
 goodpractice,scalereprod,FALSE
 googleLanguageR,literature,FALSE
 gpg,security,FALSE
-grainchanger,geospatial,FALSE
 graphql,http-tools,FALSE
 GSODR,data-access,FALSE
 gtexr,data-access,FALSE
@@ -138,6 +138,7 @@ historydata,data-access,FALSE
 hoardr,scalereprod,FALSE
 hunspell,literature,FALSE
 hydroscoper,data-access,FALSE
+ibger,data-access,FALSE
 icepalace,scalereprod,TRUE
 iheatmapr,data-visualization,FALSE
 ijtiff,image-processing,FALSE
@@ -232,6 +233,7 @@ ramlegacy,data-access,FALSE
 rangr,stat,FALSE
 rb3,data-access,FALSE
 rcites,data-access,FALSE
+rcrisp,stat,FALSE
 rcrossref,literature,FALSE
 rdatacite,literature,FALSE
 rdataretriever,data-access,FALSE
@@ -276,7 +278,6 @@ rOPTRAM,geospatial,FALSE
 roreviewapi,scalereprod,FALSE
 rotemplate,scalereprod,FALSE
 rotl,data-access,FALSE
-rperseus,data-access,FALSE
 Rpolyhedra,data-extraction,FALSE
 rredlist,data-access,FALSE
 rrricanes,data-access,FALSE
