@@ -44,10 +44,6 @@
     "url": "https://github.com/EMODnet/emodnet.wfs"
   },
   {
-    "package": "EndoMineR",
-    "url": "https://github.com/sebastiz/EndoMineR"
-  },
-  {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r"
   },
