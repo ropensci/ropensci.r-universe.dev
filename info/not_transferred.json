@@ -1,93 +1,15 @@
 [
   {
+    "package": "assertr",
+    "url": "https://github.com/tonyfischetti/assertr"
+  },
+  {
     "package": "auk",
     "url": "https://github.com/CornellLabofOrnithology/auk"
-  },
-
-  {
-    "package": "treeio",
-    "url": "https://github.com/YuLab-SMU/treeio"
-  },
-  {
-    "package": "gert",
-    "url": "https://github.com/r-lib/gert"
-  },
-  {
-    "package": "credentials",
-    "url": "https://github.com/r-lib/credentials"
-  },
-  {
-    "package": "redland",
-    "subdir": "R/redland",
-    "url": "https://github.com/ropensci/redland-bindings"
-  },
-  {
-    "package": "baRcodeR",
-    "url": "https://github.com/ropensci/baRcodeR"
-  },
-  {
-    "package": "roblog",
-    "url": "https://github.com/ropensci-org/roblog"
-  },
-  {
-    "package": "pkgreviewr",
-    "url": "https://github.com/ropensci-org/pkgreviewr"
-  },
-  {
-    "package": "rotemplate",
-    "url": "https://github.com/ropensci-org/rotemplate"
   },
   {
     "package": "autotest",
     "url": "https://github.com/ropensci-review-tools/autotest"
-  },
-  {
-    "package": "goodpractice",
-    "url": "https://github.com/ropensci-review-tools/goodpractice"
-  },
-  {
-    "package": "pkgstats",
-    "url": "https://github.com/ropensci-review-tools/pkgstats"
-  },
-  {
-    "package": "pkgcheck",
-    "url": "https://github.com/ropensci-review-tools/pkgcheck"
-  },
-  {
-    "package": "pkgmatch",
-    "url": "https://github.com/ropensci-review-tools/pkgmatch"
-  },
-  {
-    "package": "srr",
-    "url": "https://github.com/ropensci-review-tools/srr"
-  },
-  {
-    "package": "roreviewapi",
-    "url": "https://github.com/ropensci-review-tools/roreviewapi"
-  },
-  {
-    "package": "repometrics",
-    "url": "https://github.com/ropensci-review-tools/repometrics"
-  },
-  {
-    "package": "orgmetrics",
-    "url": "https://github.com/ropensci-review-tools/orgmetrics"
-  },
-  {
-    "package": "frictionless",
-    "url": "https://github.com/frictionlessdata/frictionless-r"
-  },
-  {
-    "package": "commonmark",
-    "url": "https://github.com/r-lib/commonmark"
-  },
-  {
-    "package": "gitcellar",
-    "url": "https://github.com/ropensci-org/gitcellar"
-  },
-  {
-    "package": "sodium",
-    "url": "https://github.com/r-lib/sodium"
   },
   {
     "package": "babeldown",
@@ -98,51 +20,132 @@
     "url": "https://github.com/ropensci-review-tools/babelquarto"
   },
   {
-   "package": "wmm",
+    "package": "baRcodeR",
+    "url": "https://github.com/ropensci/baRcodeR"
+  },
+  {
+    "package": "commonmark",
+    "url": "https://github.com/r-lib/commonmark"
+  },
+  {
+    "package": "commonmetar",
+    "url": "https://github.com/ropensci-org/commonmetar"
+  },
+  {
+    "package": "credentials",
+    "url": "https://github.com/r-lib/credentials"
+  },
+  {
+    "package": "distionary",
+    "url": "https://github.com/probaverse/distionary"
+  },
+  {
+    "package": "emodnet.wfs",
+    "url": "https://github.com/EMODnet/emodnet.wfs"
+  },
+  {
+    "package": "EndoMineR",
+    "url": "https://github.com/sebastiz/EndoMineR"
+  },
+  {
+    "package": "frictionless",
+    "url": "https://github.com/frictionlessdata/frictionless-r"
+  },
+  {
+    "package": "gert",
+    "url": "https://github.com/r-lib/gert"
+  },
+  {
+    "package": "gitcellar",
+    "url": "https://github.com/ropensci-org/gitcellar"
+  },
+  {
+    "package": "goodpractice",
+    "url": "https://github.com/ropensci-review-tools/goodpractice"
+  },
+  {
+    "package": "hdcuremodels",
+    "url": "https://github.com/kelliejarcher/hdcuremodels"
+  },
+  {
+    "package": "monarch",
+    "url": "https://github.com/ropensci-org/monarch"
+  },
+  {
+    "package": "orgmetrics",
+    "url": "https://github.com/ropensci-review-tools/orgmetrics"
+  },
+  {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck"
+  },
+  {
+    "package": "pkgmatch",
+    "url": "https://github.com/ropensci-review-tools/pkgmatch"
+  },
+  {
+    "package": "pkgreviewr",
+    "url": "https://github.com/ropensci-org/pkgreviewr"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats"
+  },
+  {
+    "package": "promoutils",
+    "url": "https://github.com/ropensci-org/promoutils"
+  },
+  {
+    "package": "rcrisp",
+    "url": "https://github.com/CityRiverSpaces/rcrisp"
+  },
+  {
+    "package": "redland",
+    "url": "https://github.com/ropensci/redland-bindings",
+    "subdir": "R/redland"
+  },
+  {
+    "package": "repometrics",
+    "url": "https://github.com/ropensci-review-tools/repometrics"
+  },
+  {
+    "package": "roblog",
+    "url": "https://github.com/ropensci-org/roblog"
+  },
+  {
+    "package": "roreviewapi",
+    "url": "https://github.com/ropensci-review-tools/roreviewapi"
+  },
+  {
+    "package": "rotemplate",
+    "url": "https://github.com/ropensci-org/rotemplate"
+  },
+  {
+    "package": "rsi",
+    "url": "https://github.com/Permian-Global-Research/rsi"
+  },
+  {
+    "package": "saperlipopette",
+    "url": "https://github.com/ropensci-training/saperlipopette"
+  },
+  {
+    "package": "sits",
+    "url": "https://github.com/e-sensing/sits"
+  },
+  {
+    "package": "sodium",
+    "url": "https://github.com/r-lib/sodium"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr"
+  },
+  {
+    "package": "treeio",
+    "url": "https://github.com/YuLab-SMU/treeio"
+  },
+  {
+    "package": "wmm",
     "url": "https://github.com/wfrierson/wmm"
-  },
-  {
-   "package": "assertr",
-    "url": "https://github.com/tonyfischetti/assertr"
-  },
-  {
-   "package": "rsi",
-    "url": "https://github.com/Permian-Global-Research/rsi/"
-  },
-  {
-   "package": "emodnet.wfs",
-    "url": "https://github.com/EMODnet/emodnet.wfs/"
-  },
-  {
-   "package": "commonmetar",
-    "url": "https://github.com/ropensci-org/commonmetar/"
-  },
-  {
-   "package": "saperlipopette",
-    "url": "https://github.com/ropensci-training/saperlipopette/"
-  },
-  {
-   "package": "promoutils",
-    "url": "https://github.com/ropensci-org/promoutils/"
-  },
-  {
-   "package": "monarch",
-    "url": "https://github.com/ropensci-org/monarch/"
-  },
-  {
-   "package": "sits",
-    "url": "https://github.com/e-sensing/sits/"
-  },
-  {
-   "package": "distionary",
-    "url": "https://github.com/probaverse/distionary/"
-  },
-  {
-   "package": "hdcuremodels",
-   "url": "https://github.com/kelliejarcher/hdcuremodels"
-  },
-  {
-   "package": "rcrisp",
-   "url": "https://github.com/CityRiverSpaces/rcrisp"
   }
 ]
