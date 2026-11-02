@@ -392,6 +392,10 @@
     }
   },
   {
+    "package": "abitools",
+    "url": "https://github.com/r-universe-org/abitools"
+  },
+  {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
     "metadata": {
