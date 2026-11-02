@@ -1,5 +1,9 @@
 [
   {
+    "package": "abitools",
+    "url": "https://github.com/r-universe-org/abitools"
+  },
+  {
     "package": "assertr",
     "url": "https://github.com/tonyfischetti/assertr"
   },
