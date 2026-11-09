@@ -147,5 +147,9 @@
   {
     "package": "wmm",
     "url": "https://github.com/wfrierson/wmm"
+  },
+    {
+    "package": "camtrapReport",
+    "url": "https://github.com/spatialecology/camtrapReport"
   }
 ]
