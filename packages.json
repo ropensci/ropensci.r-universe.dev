@@ -781,6 +781,19 @@
     }
   },
   {
+    "package": "camtrapReport",
+    "url": "https://github.com/spatialecology/camtrapReport",
+    "metadata": {
+      "review": {
+        "id": 799,
+        "status": "pending",
+        "version": "1.0.47",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/799"
+      }
+    }
+  },
+  {
     "package": "canaper",
     "url": "https://github.com/ropensci/canaper",
     "metadata": {
