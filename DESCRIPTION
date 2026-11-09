@@ -1,0 +1,32 @@
+Package: roregistry
+Type: Package
+Title: Build the rOpenSci R-universe Registry
+Version: 0.1.0.6
+Description: Builds packages.json, the registry file defining the rOpenSci package suite on R-universe.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Authors@R: 
+    c(person(given = "Maëlle",
+             family = "Salmon",
+             role = c("cre", "aut"),
+             email = "maelle.salmon@yahoo.se",
+             comment = c(ORCID = "0000-0002-2815-0399")),
+      person(given = "rOpenSci",
+             role = "fnd",
+             comment = "https://ropensci.org/"))
+Imports: 
+    curl,
+    memoise,
+    jsonlite (>= 1.6),
+    purrr,
+    readr,
+    remotes,
+    gh
+URL: https://github.com/ropensci/ropensci.r-universe.dev
+BugReports: https://github.com/ropensci/ropensci.r-universe.dev/issues
+Suggests: 
+    testthat (>= 2.99.0.9000)
+Config/testthat/edition: 3
+Config/ropensci/maintainer: staff
+Config/roxygen2/version: 8.1.1.9000
