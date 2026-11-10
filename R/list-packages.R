@@ -52,24 +52,8 @@ build_ropensci_packages_json <- function(out_file = "packages.json") {
     return(pkg)
   })
 
-  # Add rOpenSci category
-  packages <- lapply(packages, function(pkg) {
-    categories <- ropensci_categories()
-    category <- categories[["ropensci_category"]][
-      categories[["name"]] == pkg[["package"]]
-    ]
-    if (length(category)) {
-      if (!is.null(pkg$metadata)) {
-        pkg$metadata <- c(
-          pkg$metadata,
-          ropensci_category = category
-      )
-      } else {
-        pkg$metadata <- list(ropensci_category = category)
-      }
-    }
-    return(pkg)
-  })
+  # Add rOpenSci categories
+  packages <- add_categories(packages, ropensci_categories())
 
   jsonlite::write_json(
     packages,
@@ -142,15 +126,27 @@ get_reviewed_packages <- function() {
   jsonlite::read_json('https://badges.ropensci.org/json/onboarded.json')
 }
 
-.ropensci_categories <- function() {
-  readr::read_csv(
-    info_file("final_categories.csv"),
-    show_col_types = FALSE
-  )
+# named list: package name -> character vector of categories
+ropensci_categories <- function() {
+  categories <- jsonlite::read_json(info_file("categories.json"))
+  lapply(categories, as.character)
 }
 
-#' @importFrom memoise memoise
-ropensci_categories <- memoise::memoise(.ropensci_categories)
+add_categories <- function(packages, categories) {
+  lapply(packages, function(pkg) {
+    pkg_categories <- categories[[pkg[["package"]]]]
+    if (length(pkg_categories) == 0) {
+      return(pkg)
+    }
+    metadata <- if (is.null(pkg$metadata)) list() else pkg$metadata
+    # TODO: remove ropensci_category once consumers use ropensci_categories
+    metadata$ropensci_category <- pkg_categories[[1]]
+    # I() so a single category is still written as a JSON array
+    metadata$ropensci_categories <- I(pkg_categories)
+    pkg$metadata <- metadata
+    pkg
+  })
+}
 
 # hand-maintained files in inst/info
 info_file <- function(name) {

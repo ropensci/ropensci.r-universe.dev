@@ -1,0 +1,1104 @@
+{
+  "Athlytics": [
+    "data-extraction"
+  ],
+  "BaseSet": [
+    "scalereprod"
+  ],
+  "CRediTas": [
+    "data-publication"
+  ],
+  "CoordinateCleaner": [
+    "data-extraction"
+  ],
+  "DataPackageR": [
+    "scalereprod"
+  ],
+  "DataSpaceR": [
+    "data-access"
+  ],
+  "DoOR.data": [
+    "data-access"
+  ],
+  "DoOR.functions": [
+    "data-access"
+  ],
+  "EDIutils": [
+    "data-access"
+  ],
+  "EML": [
+    "data-publication"
+  ],
+  "EpiStrainDynamics": [
+    "stat"
+  ],
+  "FedData": [
+    "data-access"
+  ],
+  "GLMMcosinor": [
+    "stat"
+  ],
+  "GSODR": [
+    "data-access"
+  ],
+  "MODIStsp": [
+    "data-access",
+    "geospatial"
+  ],
+  "MtreeRing": [
+    "image-processing"
+  ],
+  "NLMR": [
+    "geospatial"
+  ],
+  "PFW": [
+    "data-access"
+  ],
+  "PostcodesioR": [
+    "geospatial"
+  ],
+  "QuadratiK": [
+    "stat"
+  ],
+  "RAMEN": [
+    "scalereprod"
+  ],
+  "RNeXML": [
+    "data-publication"
+  ],
+  "RSelenium": [
+    "http-tools"
+  ],
+  "ReLTER": [
+    "data-access"
+  ],
+  "RefManageR": [
+    "scalereprod"
+  ],
+  "Rpolyhedra": [
+    "data-extraction"
+  ],
+  "SymbiotaR2": [
+    "data-access"
+  ],
+  "UCSCXenaTools": [
+    "data-access"
+  ],
+  "USAboundaries": [
+    "data-access"
+  ],
+  "USAboundariesData": [
+    "data-access"
+  ],
+  "aRxiv": [
+    "literature"
+  ],
+  "abitools": [],
+  "agroclimatico": [
+    "scalereprod"
+  ],
+  "allcontributors": [
+    "scalereprod"
+  ],
+  "allodb": [
+    "data-extraction"
+  ],
+  "antanym": [
+    "data-access"
+  ],
+  "antiword": [
+    "literature"
+  ],
+  "aorsf": [
+    "stat"
+  ],
+  "arkdb": [
+    "databases"
+  ],
+  "assertr": [
+    "scalereprod"
+  ],
+  "auk": [
+    "data-access"
+  ],
+  "autotest": [
+    "scalereprod"
+  ],
+  "av": [
+    "image-processing"
+  ],
+  "awardFindR": [
+    "data-access"
+  ],
+  "baRcodeR": [
+    "scalereprod"
+  ],
+  "baRulho": [
+    "data-extraction"
+  ],
+  "babeldown": [
+    "scalereprod"
+  ],
+  "babelquarto": [
+    "scalereprod"
+  ],
+  "babette": [
+    "scalereprod"
+  ],
+  "beastier": [
+    "scalereprod"
+  ],
+  "beautier": [
+    "scalereprod"
+  ],
+  "bib2df": [
+    "data-extraction"
+  ],
+  "bibtex": [
+    "literature"
+  ],
+  "bikedata": [
+    "data-access"
+  ],
+  "binman": [
+    "http-tools"
+  ],
+  "biomartr": [
+    "data-access"
+  ],
+  "birdsize": [
+    "scalereprod"
+  ],
+  "bold": [
+    "data-access"
+  ],
+  "bowerbird": [
+    "scalereprod"
+  ],
+  "brapiR2": [
+    "data-access"
+  ],
+  "brranching": [
+    "data-access"
+  ],
+  "butterfly": [
+    "data-extraction"
+  ],
+  "c14bazAAR": [
+    "data-access"
+  ],
+  "c3dr": [
+    "data-extraction"
+  ],
+  "camsRad": [
+    "data-access"
+  ],
+  "camtrapReport": [],
+  "canaper": [
+    "stat"
+  ],
+  "cde": [
+    "data-access"
+  ],
+  "censo2017": [
+    "data-access"
+  ],
+  "cffr": [
+    "data-publication"
+  ],
+  "charlatan": [
+    "scalereprod"
+  ],
+  "chirps": [
+    "data-access"
+  ],
+  "chlorpromazineR": [
+    "scalereprod"
+  ],
+  "chopin": [
+    "geospatial"
+  ],
+  "chromer": [
+    "data-access"
+  ],
+  "ciecl": [
+    "data-extraction"
+  ],
+  "circle": [
+    "scalereprod"
+  ],
+  "citecorp": [
+    "literature"
+  ],
+  "ckanr": [
+    "databases"
+  ],
+  "cld2": [
+    "literature"
+  ],
+  "cld3": [
+    "literature"
+  ],
+  "codemetar": [
+    "data-publication"
+  ],
+  "coder": [
+    "data-extraction"
+  ],
+  "coevolve": [
+    "stat"
+  ],
+  "colocr": [
+    "data-extraction"
+  ],
+  "commonmark": [
+    "data-extraction"
+  ],
+  "commonmetar": [
+    "scalereprod"
+  ],
+  "comtradr": [
+    "data-access"
+  ],
+  "concstats": [
+    "stat"
+  ],
+  "credentials": [
+    "scalereprod"
+  ],
+  "crul": [
+    "http-tools"
+  ],
+  "cyphr": [
+    "security"
+  ],
+  "daiquiri": [
+    "data-extraction"
+  ],
+  "dataaimsr": [
+    "data-access"
+  ],
+  "datapack": [
+    "scalereprod"
+  ],
+  "dataset": [
+    "data-publication"
+  ],
+  "dataspice": [
+    "data-publication"
+  ],
+  "datefixR": [
+    "data-extraction"
+  ],
+  "dbparser": [
+    "data-access"
+  ],
+  "dendroNetwork": [
+    "scalereprod"
+  ],
+  "deposits": [
+    "data-publication"
+  ],
+  "dfms": [
+    "stat"
+  ],
+  "distionary": [
+    "stat"
+  ],
+  "dittodb": [
+    "databases"
+  ],
+  "drake": [
+    "scalereprod"
+  ],
+  "dwctaxon": [
+    "taxonomy"
+  ],
+  "dynamite": [
+    "stat"
+  ],
+  "eDNAjoint": [
+    "stat"
+  ],
+  "eia": [
+    "data-access"
+  ],
+  "emld": [
+    "data-extraction"
+  ],
+  "emodnet.wfs": [
+    "data-access"
+  ],
+  "epair": [
+    "data-access"
+  ],
+  "eph": [
+    "data-access"
+  ],
+  "epubr": [
+    "data-access"
+  ],
+  "ernest": [
+    "stat"
+  ],
+  "essurvey": [
+    "data-access"
+  ],
+  "europepmc": [
+    "literature"
+  ],
+  "excluder": [
+    "data-extraction"
+  ],
+  "exoplanets": [
+    "data-access"
+  ],
+  "ezknitr": [
+    "scalereprod"
+  ],
+  "fastMatMR": [
+    "data-extraction"
+  ],
+  "fellingdater": [
+    "scalereprod"
+  ],
+  "fingertipsR": [
+    "data-access"
+  ],
+  "fireexposuR": [
+    "scalereprod"
+  ],
+  "fluidsynth": [
+    "image-processing"
+  ],
+  "forcis": [
+    "data-access"
+  ],
+  "frictionless": [
+    "data-publication"
+  ],
+  "galamm": [
+    "stat"
+  ],
+  "gbifdb": [
+    "data-access"
+  ],
+  "gendercoder": [
+    "data-extraction"
+  ],
+  "geojson": [
+    "geospatial"
+  ],
+  "geojsonio": [
+    "geospatial"
+  ],
+  "geonames": [
+    "geospatial"
+  ],
+  "geotargets": [
+    "geospatial"
+  ],
+  "gert": [
+    "scalereprod"
+  ],
+  "getCRUCLdata": [
+    "data-access"
+  ],
+  "ghql": [
+    "http-tools"
+  ],
+  "gigs": [
+    "scalereprod"
+  ],
+  "git2r": [
+    "scalereprod"
+  ],
+  "git2rdata": [
+    "data-extraction"
+  ],
+  "gitcellar": [
+    "scalereprod"
+  ],
+  "gitignore": [
+    "scalereprod"
+  ],
+  "gittargets": [
+    "scalereprod"
+  ],
+  "goodpractice": [
+    "scalereprod"
+  ],
+  "googleLanguageR": [
+    "literature"
+  ],
+  "gpg": [
+    "security"
+  ],
+  "graphql": [
+    "http-tools"
+  ],
+  "gtexr": [
+    "data-access"
+  ],
+  "gutenbergr": [
+    "data-access"
+  ],
+  "handlr": [
+    "literature"
+  ],
+  "hdcuremodels": [
+    "stat"
+  ],
+  "helminthR": [
+    "data-access"
+  ],
+  "historydata": [
+    "data-access"
+  ],
+  "hoardr": [
+    "scalereprod"
+  ],
+  "hunspell": [
+    "literature"
+  ],
+  "hydroscoper": [
+    "data-access"
+  ],
+  "ibger": [
+    "data-access"
+  ],
+  "icepalace": [
+    "scalereprod"
+  ],
+  "iheatmapr": [
+    "data-visualization"
+  ],
+  "ijtiff": [
+    "image-processing"
+  ],
+  "internetarchive": [
+    "data-access"
+  ],
+  "jagstargets": [
+    "scalereprod"
+  ],
+  "jenkins": [
+    "scalereprod"
+  ],
+  "jqr": [
+    "data-extraction"
+  ],
+  "jsonld": [
+    "data-extraction"
+  ],
+  "jsonvalidate": [
+    "scalereprod"
+  ],
+  "karel": [
+    "scalereprod"
+  ],
+  "katex": [
+    "literature"
+  ],
+  "lakefetch": [
+    "geospatial"
+  ],
+  "landscapetools": [
+    "geospatial"
+  ],
+  "lightr": [
+    "data-extraction"
+  ],
+  "lingtypology": [
+    "literature"
+  ],
+  "magick": [
+    "image-processing"
+  ],
+  "mantis": [
+    "data-extraction"
+  ],
+  "mapmetadata": [
+    "data-extraction"
+  ],
+  "mapscanner": [
+    "geospatial"
+  ],
+  "mauricer": [
+    "scalereprod"
+  ],
+  "mbquartR": [
+    "geospatial"
+  ],
+  "mcbette": [
+    "scalereprod"
+  ],
+  "mctq": [
+    "data-extraction"
+  ],
+  "medrxivr": [
+    "literature"
+  ],
+  "melt": [
+    "stat"
+  ],
+  "monarch": [
+    "data-access"
+  ],
+  "mregions2": [
+    "data-access"
+  ],
+  "naijR": [
+    "data-access"
+  ],
+  "nasapower": [
+    "data-access"
+  ],
+  "natserv": [
+    "data-access"
+  ],
+  "neotoma": [
+    "data-access"
+  ],
+  "nert": [],
+  "nlrx": [
+    "scalereprod"
+  ],
+  "nodbi": [
+    "databases"
+  ],
+  "nomisr": [
+    "data-access"
+  ],
+  "npi": [
+    "data-access"
+  ],
+  "nuts": [
+    "data-extraction"
+  ],
+  "nycOpenData": [
+    "data-access"
+  ],
+  "oai": [
+    "literature"
+  ],
+  "occCite": [
+    "data-access"
+  ],
+  "ohun": [
+    "data-extraction"
+  ],
+  "openalexR": [
+    "literature"
+  ],
+  "opencage": [
+    "geospatial"
+  ],
+  "opencv": [
+    "image-processing"
+  ],
+  "opentripplanner": [
+    "geospatial"
+  ],
+  "orgmetrics": [
+    "scalereprod"
+  ],
+  "osfr": [
+    "scalereprod"
+  ],
+  "osmapiR": [
+    "geospatial"
+  ],
+  "osmdata": [
+    "geospatial"
+  ],
+  "osmextract": [
+    "geospatial"
+  ],
+  "osmplotr": [
+    "geospatial"
+  ],
+  "outcomerate": [
+    "scalereprod"
+  ],
+  "paleobioDB": [
+    "data-access"
+  ],
+  "pangaear": [
+    "data-access"
+  ],
+  "pangoling": [
+    "scalereprod"
+  ],
+  "partialling.out": [
+    "stat"
+  ],
+  "parzer": [
+    "geospatial"
+  ],
+  "patentsview": [
+    "literature"
+  ],
+  "pathviewr": [
+    "data-extraction"
+  ],
+  "pdftools": [
+    "literature"
+  ],
+  "phonfieldwork": [
+    "data-extraction"
+  ],
+  "phruta": [
+    "data-extraction"
+  ],
+  "phylocomr": [
+    "data-extraction"
+  ],
+  "phylogram": [
+    "data-extraction"
+  ],
+  "phylotaR": [
+    "data-access"
+  ],
+  "piggyback": [
+    "data-publication"
+  ],
+  "pixelclasser": [
+    "image-processing"
+  ],
+  "pkgcheck": [
+    "scalereprod"
+  ],
+  "pkgmatch": [
+    "scalereprod"
+  ],
+  "pkgreviewr": [
+    "scalereprod"
+  ],
+  "pkgstats": [
+    "scalereprod"
+  ],
+  "plater": [
+    "scalereprod"
+  ],
+  "postdoc": [
+    "scalereprod"
+  ],
+  "predictNMB": [
+    "stat"
+  ],
+  "prism": [
+    "data-access"
+  ],
+  "prismjs": [
+    "scalereprod"
+  ],
+  "promoutils": [
+    "scalereprod"
+  ],
+  "pvEBayes": [
+    "stat"
+  ],
+  "qcoder": [
+    "data-extraction"
+  ],
+  "qpdf": [
+    "literature"
+  ],
+  "quadkeyr": [
+    "geospatial"
+  ],
+  "qualR": [
+    "data-access"
+  ],
+  "qualtRics": [
+    "data-access"
+  ],
+  "quartificate": [
+    "scalereprod"
+  ],
+  "rOPTRAM": [
+    "geospatial"
+  ],
+  "ramlegacy": [
+    "data-access"
+  ],
+  "rangr": [
+    "stat"
+  ],
+  "rb3": [
+    "data-access"
+  ],
+  "rcites": [
+    "data-access"
+  ],
+  "rcrisp": [
+    "stat"
+  ],
+  "rcrossref": [
+    "literature"
+  ],
+  "rdatacite": [
+    "literature"
+  ],
+  "rdataretriever": [
+    "data-access"
+  ],
+  "rdflib": [
+    "data-extraction"
+  ],
+  "rdhs": [
+    "data-access"
+  ],
+  "rdryad": [
+    "data-access"
+  ],
+  "read.abares": [
+    "data-access"
+  ],
+  "readODS": [
+    "data-extraction"
+  ],
+  "rebird": [
+    "data-access"
+  ],
+  "redland": [
+    "data-extraction"
+  ],
+  "refsplitr": [
+    "literature"
+  ],
+  "rentrez": [
+    "data-access"
+  ],
+  "repometrics": [
+    "scalereprod"
+  ],
+  "rerddap": [
+    "data-access"
+  ],
+  "restez": [
+    "data-extraction"
+  ],
+  "reviser": [
+    "stat"
+  ],
+  "rfema": [
+    "data-access"
+  ],
+  "rfishbase": [
+    "data-access"
+  ],
+  "rfisheries": [
+    "data-access"
+  ],
+  "rgbif": [
+    "data-access"
+  ],
+  "rglobi": [
+    "data-access"
+  ],
+  "rgnparser": [
+    "taxonomy"
+  ],
+  "rgpdd": [
+    "data-access"
+  ],
+  "riem": [
+    "data-access"
+  ],
+  "rinat": [
+    "data-access"
+  ],
+  "ritis": [
+    "taxonomy"
+  ],
+  "rix": [
+    "scalereprod"
+  ],
+  "rixpress": [
+    "scalereprod"
+  ],
+  "rmangal": [
+    "data-access"
+  ],
+  "rnassqs": [
+    "data-access"
+  ],
+  "rnaturalearth": [
+    "geospatial"
+  ],
+  "rnaturalearthdata": [
+    "geospatial"
+  ],
+  "rnaturalearthhires": [
+    "data-access"
+  ],
+  "rnoaa": [
+    "data-access"
+  ],
+  "roadoi": [
+    "literature"
+  ],
+  "roblog": [
+    "scalereprod"
+  ],
+  "robotstxt": [
+    "http-tools"
+  ],
+  "roreviewapi": [
+    "scalereprod"
+  ],
+  "rotemplate": [
+    "scalereprod"
+  ],
+  "rotl": [
+    "data-access"
+  ],
+  "rredlist": [
+    "data-access"
+  ],
+  "rrricanes": [
+    "data-access"
+  ],
+  "rrricanesdata": [
+    "data-access"
+  ],
+  "rsat": [
+    "geospatial"
+  ],
+  "rsi": [
+    "geospatial"
+  ],
+  "rsnps": [
+    "data-access"
+  ],
+  "rsvg": [
+    "image-processing"
+  ],
+  "rtika": [
+    "literature"
+  ],
+  "ruODK": [
+    "scalereprod"
+  ],
+  "rvertnet": [
+    "data-access"
+  ],
+  "rzmq": [
+    "scalereprod"
+  ],
+  "saperlipopette": [
+    "scalereprod"
+  ],
+  "sasquatch": [
+    "scalereprod"
+  ],
+  "sits": [
+    "geospatial"
+  ],
+  "skimr": [
+    "scalereprod"
+  ],
+  "skynet": [
+    "data-access"
+  ],
+  "slopes": [
+    "geospatial"
+  ],
+  "smapr": [
+    "data-access"
+  ],
+  "sodium": [
+    "scalereprod"
+  ],
+  "sofa": [
+    "databases"
+  ],
+  "spatsoc": [
+    "geospatial"
+  ],
+  "spelling": [
+    "data-extraction"
+  ],
+  "spiro": [
+    "data-extraction"
+  ],
+  "spocc": [
+    "data-access"
+  ],
+  "srr": [
+    "scalereprod"
+  ],
+  "ssarp": [
+    "scalereprod"
+  ],
+  "ssh": [
+    "security"
+  ],
+  "stantargets": [
+    "scalereprod"
+  ],
+  "stats19": [
+    "data-access"
+  ],
+  "stplanr": [
+    "data-access"
+  ],
+  "suppdata": [
+    "data-access"
+  ],
+  "suwo": [
+    "data-access"
+  ],
+  "tabulapdf": [
+    "data-extraction"
+  ],
+  "tacmagic": [
+    "data-extraction"
+  ],
+  "tarchetypes": [
+    "scalereprod"
+  ],
+  "targets": [
+    "scalereprod"
+  ],
+  "taxa": [
+    "taxonomy"
+  ],
+  "taxadb": [
+    "taxonomy"
+  ],
+  "taxize": [
+    "taxonomy"
+  ],
+  "taxizedb": [
+    "taxonomy"
+  ],
+  "taxlist": [
+    "taxonomy"
+  ],
+  "terrainr": [
+    "geospatial"
+  ],
+  "tesseract": [
+    "image-processing"
+  ],
+  "textreuse": [
+    "literature"
+  ],
+  "tic": [
+    "scalereprod"
+  ],
+  "tidyhydat": [
+    "data-access"
+  ],
+  "tidync": [
+    "geospatial"
+  ],
+  "tidypmc": [
+    "literature"
+  ],
+  "tidyqpcr": [
+    "data-extraction"
+  ],
+  "tif": [
+    "literature"
+  ],
+  "tiler": [
+    "geospatial"
+  ],
+  "tinkr": [
+    "scalereprod"
+  ],
+  "tokenizers": [
+    "scalereprod"
+  ],
+  "tracerer": [
+    "scalereprod"
+  ],
+  "tradestatistics": [
+    "data-access"
+  ],
+  "traits": [
+    "data-access"
+  ],
+  "treebase": [
+    "data-access"
+  ],
+  "treedata.table": [
+    "data-extraction"
+  ],
+  "treeio": [
+    "data-extraction"
+  ],
+  "treestartr": [
+    "data-extraction"
+  ],
+  "trud": [
+    "data-access"
+  ],
+  "tsbox": [
+    "stat"
+  ],
+  "unifir": [
+    "geospatial"
+  ],
+  "universe": [
+    "scalereprod"
+  ],
+  "unrtf": [
+    "literature"
+  ],
+  "vcr": [
+    "http-tools"
+  ],
+  "virtuoso": [
+    "databases"
+  ],
+  "visdat": [
+    "data-visualization"
+  ],
+  "wateRinfo": [
+    "data-access"
+  ],
+  "waywiser": [
+    "geospatial"
+  ],
+  "wdman": [
+    "http-tools"
+  ],
+  "weatherOz": [
+    "data-access"
+  ],
+  "weathercan": [
+    "data-access"
+  ],
+  "webchem": [
+    "data-access"
+  ],
+  "webmockr": [
+    "http-tools"
+  ],
+  "wikitaxa": [
+    "taxonomy"
+  ],
+  "wmm": [
+    "data-extraction"
+  ],
+  "workloopR": [
+    "data-extraction"
+  ],
+  "worrms": [
+    "taxonomy"
+  ],
+  "writexl": [
+    "data-extraction"
+  ],
+  "xslt": [
+    "data-extraction"
+  ],
+  "yfR": [
+    "data-access"
+  ]
+}

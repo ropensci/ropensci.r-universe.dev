@@ -17,15 +17,13 @@ Authors@R:
              comment = "https://ropensci.org/"))
 Imports: 
     curl,
-    memoise,
     jsonlite (>= 1.6),
     purrr,
-    readr,
     gh
 URL: https://github.com/ropensci/ropensci.r-universe.dev
 BugReports: https://github.com/ropensci/ropensci.r-universe.dev/issues
 Suggests: 
-    testthat (>= 2.99.0.9000)
+    testthat (>= 3.3.0)
 Config/testthat/edition: 3
 Config/ropensci/maintainer: staff
 Config/roxygen2/version: 8.1.1.9000
