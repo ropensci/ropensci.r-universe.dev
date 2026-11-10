@@ -9,7 +9,8 @@
     "data-publication"
   ],
   "CoordinateCleaner": [
-    "data-extraction"
+    "data-extraction",
+    "geospatial"
   ],
   "DataPackageR": [
     "scalereprod"
@@ -24,7 +25,8 @@
     "data-access"
   ],
   "EDIutils": [
-    "data-access"
+    "data-access",
+    "data-publication"
   ],
   "EML": [
     "data-publication"
@@ -33,7 +35,8 @@
     "stat"
   ],
   "FedData": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "GLMMcosinor": [
     "stat"
@@ -55,7 +58,8 @@
     "data-access"
   ],
   "PostcodesioR": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "QuadratiK": [
     "stat"
@@ -73,7 +77,8 @@
     "data-access"
   ],
   "RefManageR": [
-    "scalereprod"
+    "scalereprod",
+    "literature"
   ],
   "Rpolyhedra": [
     "data-extraction"
@@ -85,15 +90,19 @@
     "data-access"
   ],
   "USAboundaries": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "USAboundariesData": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "aRxiv": [
     "literature"
   ],
-  "abitools": [],
+  "abitools": [
+    "scalereprod"
+  ],
   "agroclimatico": [
     "scalereprod"
   ],
@@ -104,7 +113,8 @@
     "data-extraction"
   ],
   "antanym": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "antiword": [
     "literature"
@@ -152,7 +162,8 @@
     "scalereprod"
   ],
   "bib2df": [
-    "data-extraction"
+    "data-extraction",
+    "literature"
   ],
   "bibtex": [
     "literature"
@@ -173,7 +184,8 @@
     "data-access"
   ],
   "bowerbird": [
-    "scalereprod"
+    "scalereprod",
+    "data-access"
   ],
   "brapiR2": [
     "data-access"
@@ -193,9 +205,13 @@
   "camsRad": [
     "data-access"
   ],
-  "camtrapReport": [],
+  "camtrapReport": [
+    "scalereprod",
+    "data-visualization"
+  ],
   "canaper": [
-    "stat"
+    "stat",
+    "geospatial"
   ],
   "cde": [
     "data-access"
@@ -210,7 +226,8 @@
     "scalereprod"
   ],
   "chirps": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "chlorpromazineR": [
     "scalereprod"
@@ -231,7 +248,8 @@
     "literature"
   ],
   "ckanr": [
-    "databases"
+    "databases",
+    "data-access"
   ],
   "cld2": [
     "literature"
@@ -249,7 +267,8 @@
     "stat"
   ],
   "colocr": [
-    "data-extraction"
+    "data-extraction",
+    "image-processing"
   ],
   "commonmark": [
     "data-extraction"
@@ -264,7 +283,8 @@
     "stat"
   ],
   "credentials": [
-    "scalereprod"
+    "scalereprod",
+    "security"
   ],
   "crul": [
     "http-tools"
@@ -273,13 +293,15 @@
     "security"
   ],
   "daiquiri": [
-    "data-extraction"
+    "data-extraction",
+    "data-visualization"
   ],
   "dataaimsr": [
     "data-access"
   ],
   "datapack": [
-    "scalereprod"
+    "scalereprod",
+    "data-publication"
   ],
   "dataset": [
     "data-publication"
@@ -297,7 +319,8 @@
     "scalereprod"
   ],
   "deposits": [
-    "data-publication"
+    "data-publication",
+    "data-access"
   ],
   "dfms": [
     "stat"
@@ -324,10 +347,12 @@
     "data-access"
   ],
   "emld": [
-    "data-extraction"
+    "data-extraction",
+    "data-publication"
   ],
   "emodnet.wfs": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "epair": [
     "data-access"
@@ -336,7 +361,8 @@
     "data-access"
   ],
   "epubr": [
-    "data-access"
+    "data-access",
+    "literature"
   ],
   "ernest": [
     "stat"
@@ -366,7 +392,8 @@
     "data-access"
   ],
   "fireexposuR": [
-    "scalereprod"
+    "scalereprod",
+    "geospatial"
   ],
   "fluidsynth": [
     "image-processing"
@@ -393,10 +420,12 @@
     "geospatial"
   ],
   "geonames": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "geotargets": [
-    "geospatial"
+    "geospatial",
+    "scalereprod"
   ],
   "gert": [
     "scalereprod"
@@ -414,7 +443,8 @@
     "scalereprod"
   ],
   "git2rdata": [
-    "data-extraction"
+    "data-extraction",
+    "scalereprod"
   ],
   "gitcellar": [
     "scalereprod"
@@ -441,7 +471,8 @@
     "data-access"
   ],
   "gutenbergr": [
-    "data-access"
+    "data-access",
+    "literature"
   ],
   "handlr": [
     "literature"
@@ -510,19 +541,22 @@
     "data-extraction"
   ],
   "lingtypology": [
-    "literature"
+    "literature",
+    "geospatial"
   ],
   "magick": [
     "image-processing"
   ],
   "mantis": [
-    "data-extraction"
+    "data-extraction",
+    "data-visualization"
   ],
   "mapmetadata": [
     "data-extraction"
   ],
   "mapscanner": [
-    "geospatial"
+    "geospatial",
+    "image-processing"
   ],
   "mauricer": [
     "scalereprod"
@@ -546,10 +580,12 @@
     "data-access"
   ],
   "mregions2": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "naijR": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "nasapower": [
     "data-access"
@@ -560,7 +596,10 @@
   "neotoma": [
     "data-access"
   ],
-  "nert": [],
+  "nert": [
+    "data-access",
+    "geospatial"
+  ],
   "nlrx": [
     "scalereprod"
   ],
@@ -574,7 +613,8 @@
     "data-access"
   ],
   "nuts": [
-    "data-extraction"
+    "data-extraction",
+    "geospatial"
   ],
   "nycOpenData": [
     "data-access"
@@ -604,19 +644,25 @@
     "scalereprod"
   ],
   "osfr": [
-    "scalereprod"
+    "scalereprod",
+    "data-publication",
+    "data-access"
   ],
   "osmapiR": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "osmdata": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "osmextract": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "osmplotr": [
-    "geospatial"
+    "geospatial",
+    "data-visualization"
   ],
   "outcomerate": [
     "scalereprod"
@@ -628,7 +674,8 @@
     "data-access"
   ],
   "pangoling": [
-    "scalereprod"
+    "scalereprod",
+    "literature"
   ],
   "partialling.out": [
     "stat"
@@ -679,7 +726,8 @@
     "scalereprod"
   ],
   "plater": [
-    "scalereprod"
+    "scalereprod",
+    "data-extraction"
   ],
   "postdoc": [
     "scalereprod"
@@ -688,7 +736,8 @@
     "stat"
   ],
   "prism": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "prismjs": [
     "scalereprod"
@@ -733,7 +782,8 @@
     "data-access"
   ],
   "rcrisp": [
-    "stat"
+    "stat",
+    "geospatial"
   ],
   "rcrossref": [
     "literature"
@@ -742,7 +792,8 @@
     "literature"
   ],
   "rdataretriever": [
-    "data-access"
+    "data-access",
+    "databases"
   ],
   "rdflib": [
     "data-extraction"
@@ -769,7 +820,8 @@
     "literature"
   ],
   "rentrez": [
-    "data-access"
+    "data-access",
+    "literature"
   ],
   "repometrics": [
     "scalereprod"
@@ -778,7 +830,8 @@
     "data-access"
   ],
   "restez": [
-    "data-extraction"
+    "data-extraction",
+    "databases"
   ],
   "reviser": [
     "stat"
@@ -826,13 +879,16 @@
     "data-access"
   ],
   "rnaturalearth": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "rnaturalearthdata": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "rnaturalearthhires": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "rnoaa": [
     "data-access"
@@ -853,7 +909,8 @@
     "scalereprod"
   ],
   "rotl": [
-    "data-access"
+    "data-access",
+    "taxonomy"
   ],
   "rredlist": [
     "data-access"
@@ -865,10 +922,12 @@
     "data-access"
   ],
   "rsat": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "rsi": [
-    "geospatial"
+    "geospatial",
+    "data-access"
   ],
   "rsnps": [
     "data-access"
@@ -880,7 +939,8 @@
     "literature"
   ],
   "ruODK": [
-    "scalereprod"
+    "scalereprod",
+    "data-access"
   ],
   "rvertnet": [
     "data-access"
@@ -907,10 +967,12 @@
     "geospatial"
   ],
   "smapr": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "sodium": [
-    "scalereprod"
+    "scalereprod",
+    "security"
   ],
   "sofa": [
     "databases"
@@ -919,7 +981,7 @@
     "geospatial"
   ],
   "spelling": [
-    "data-extraction"
+    "scalereprod"
   ],
   "spiro": [
     "data-extraction"
@@ -943,7 +1005,8 @@
     "data-access"
   ],
   "stplanr": [
-    "data-access"
+    "data-access",
+    "geospatial"
   ],
   "suppdata": [
     "data-access"
@@ -967,19 +1030,22 @@
     "taxonomy"
   ],
   "taxadb": [
-    "taxonomy"
+    "taxonomy",
+    "databases"
   ],
   "taxize": [
     "taxonomy"
   ],
   "taxizedb": [
-    "taxonomy"
+    "taxonomy",
+    "databases"
   ],
   "taxlist": [
     "taxonomy"
   ],
   "terrainr": [
-    "geospatial"
+    "geospatial",
+    "data-visualization"
   ],
   "tesseract": [
     "image-processing"
@@ -1012,7 +1078,8 @@
     "scalereprod"
   ],
   "tokenizers": [
-    "scalereprod"
+    "scalereprod",
+    "literature"
   ],
   "tracerer": [
     "scalereprod"
@@ -1063,7 +1130,8 @@
     "data-access"
   ],
   "waywiser": [
-    "geospatial"
+    "geospatial",
+    "stat"
   ],
   "wdman": [
     "http-tools"
