@@ -21,7 +21,6 @@ Imports:
     jsonlite (>= 1.6),
     purrr,
     readr,
-    remotes,
     gh
 URL: https://github.com/ropensci/ropensci.r-universe.dev
 BugReports: https://github.com/ropensci/ropensci.r-universe.dev/issues

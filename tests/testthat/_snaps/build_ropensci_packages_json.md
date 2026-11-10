@@ -4,6 +4,6 @@
       unique(lapply(pkgs, names))
     Output
       [[1]]
-      [1] "package" "url"     "branch" 
+      [1] "package" "url"    
       
 

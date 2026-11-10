@@ -12,7 +12,10 @@ build_ropensci_packages_json <- function(out_file = "packages.json") {
 
   # merge all --------------------------------------------------------------------
   packages <- c(hosted_packages, other_packages)
-  packages <- packages[order(purrr::map_chr(packages, "package"))]
+  # radix = C-locale order, so the output does not depend on the runner's locale
+  packages <- packages[
+    order(purrr::map_chr(packages, "package"), method = "radix")
+  ]
 
   # Verify new packages
   if (file.exists(out_file)) {
@@ -120,8 +123,7 @@ get_hosted_packages <- function() {
       function(repo) {
         list(
           package = repo[["name"]],
-          url = repo[["html_url"]],
-          branch = repo[["default_branch"]]
+          url = repo[["html_url"]]
         )
       }
     )
@@ -133,35 +135,7 @@ get_hosted_packages <- function() {
 }
 
 get_other_packages <- function() {
-  others <- jsonlite::read_json(info_file("not_transferred.json"))
-
-  format_other_repo <- function(repo) {
-    if (grepl("github\\.com", repo[["url"]])) {
-      github_info <- remotes::parse_github_url(repo[["url"]])
-      gh_repo <- gh::gh(
-        "/repos/{owner}/{repo}",
-        owner = github_info$username,
-        repo = github_info$repo
-      )
-      default_branch <- gh_repo[["default_branch"]]
-    } else {
-      default_branch <- NULL
-    }
-
-    out <- list(
-      package = repo[["package"]],
-      url = repo[["url"]]
-    )
-    if (length(default_branch)) {
-      out$branch = default_branch
-    }
-    if (length(repo$subdir)) {
-      out$subdir = repo$subdir
-    }
-    return(out)
-  }
-
-  purrr::map(others, format_other_repo)
+  jsonlite::read_json(info_file("not_transferred.json"))
 }
 
 get_reviewed_packages <- function() {
