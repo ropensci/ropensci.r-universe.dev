@@ -1,7 +1,10 @@
 on:
   push:
     branches:
-      gh-pages
+      - gh-pages
+    paths:
+      - packages.json
+      - inst/info/**
       
 name: Rebuild website
 

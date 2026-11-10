@@ -1,2 +1,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^\.github$
+^Makefile$
+^\.nojekyll$
+^packages\.json$
+^scripts$
+^README\.md$
