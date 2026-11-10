@@ -18,7 +18,7 @@ The code to re-generate packages.json is the R package in this repository (`R/`)
  1. It queries the GitHub API for all repositories in `ropensci` and `ropenscilabs`.
  2. It removes entries from the [exclude list](inst/info/exclude_list.txt) 
  3. It adds packages listed in [not_transferred.json](inst/info/not_transferred.json)
- 4. It adds categories from [final_categories.csv](inst/info/final_categories.csv)
+ 4. It adds categories from [categories.json](inst/info/categories.json) as `metadata.ropensci_categories` (an array). 
  5. Saves the final list in `packages.json`
 
 To run it locally from the root of this repository:
@@ -31,6 +31,16 @@ roregistry::build_ropensci_packages_json()
 The info files are read from the installed package, so reinstall after editing anything in `inst/info/`.
 
 This function should take less then a minute to complete, be very reliable, and we run it frequently.
+
+## Categories
+
+[categories.json](inst/info/categories.json) maps each package to one or more categories:
+
+```json
+"allodb": ["data-extraction", "data-access"],
+```
+
+To add new packages and drop removed ones, run `Rscript scripts/update_categories.R` from the root of this repository, then fill in the empty arrays by hand.
 
 ## More metadata on rOpenSci packages
 
