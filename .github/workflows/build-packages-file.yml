@@ -20,12 +20,14 @@ jobs:
 
     - uses: r-lib/actions/setup-r-dependencies@v2
       with:
-        extra-packages: local::.
         needs: build
+
+    - name: Install roregistry from the checkout
+      run: R CMD INSTALL .
 
     - name: Build packages.json
       run: |
-        roregistry::build_ropensci_packages_json(info_dir = "inst/info")
+        roregistry::build_ropensci_packages_json()
       shell: Rscript {0}
 
     - name: push

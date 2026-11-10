@@ -25,8 +25,10 @@ To run it locally from the root of this repository:
 
 ```r
 pak::local_install()
-roregistry::build_ropensci_packages_json(info_dir = "inst/info")
+roregistry::build_ropensci_packages_json()
 ```
+
+The info files are read from the installed package, so reinstall after editing anything in `inst/info/`.
 
 This function should take less then a minute to complete, be very reliable, and we run it frequently.
 

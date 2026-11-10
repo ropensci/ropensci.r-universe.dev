@@ -4,17 +4,10 @@
 \alias{build_ropensci_packages_json}
 \title{Build rOpenSci packages.json}
 \usage{
-build_ropensci_packages_json(
-  out_file = "packages.json",
-  info_dir = system.file("info", package = "roregistry")
-)
+build_ropensci_packages_json(out_file = "packages.json")
 }
 \arguments{
 \item{out_file}{where to save the JSON file}
-
-\item{info_dir}{where to find the hand-maintained files
-(exclude list, not transferred packages, categories).
-Defaults to the copy installed with the package (`inst/info`).}
 }
 \description{
 Build rOpenSci packages.json

@@ -1,20 +1,14 @@
 #' Build rOpenSci packages.json
 #'
 #' @param out_file where to save the JSON file
-#' @param info_dir where to find the hand-maintained files
-#'   (exclude list, not transferred packages, categories).
-#'   Defaults to the copy installed with the package (`inst/info`).
 #'
 #' @export
-build_ropensci_packages_json <- function(
-  out_file = "packages.json",
-  info_dir = system.file("info", package = "roregistry")
-) {
+build_ropensci_packages_json <- function(out_file = "packages.json") {
   # packages from our organizations
-  hosted_packages <- get_hosted_packages(info_dir)
+  hosted_packages <- get_hosted_packages()
 
   # packages from elsewhere or with not standard repo structure
-  other_packages <- get_other_packages(info_dir)
+  other_packages <- get_other_packages()
 
   # merge all --------------------------------------------------------------------
   packages <- c(hosted_packages, other_packages)
@@ -57,7 +51,7 @@ build_ropensci_packages_json <- function(
 
   # Add rOpenSci category
   packages <- lapply(packages, function(pkg) {
-    categories <- ropensci_categories(info_dir)
+    categories <- ropensci_categories()
     category <- categories[["ropensci_category"]][
       categories[["name"]] == pkg[["package"]]
     ]
@@ -105,10 +99,10 @@ verify_new_packages <- function(previous, packages) {
   })
 }
 
-get_hosted_packages <- function(info_dir) {
+get_hosted_packages <- function() {
   github_organizations <- c("ropensci", "ropenscilabs")
 
-  excludes <- readLines(file.path(info_dir, "exclude_list.txt"))
+  excludes <- readLines(info_file("exclude_list.txt"))
 
   list_organization_repos <- function(github_organization, excludes) {
     repos <- gh::gh(
@@ -138,8 +132,8 @@ get_hosted_packages <- function(info_dir) {
     unlist(recursive = FALSE)
 }
 
-get_other_packages <- function(info_dir) {
-  others <- jsonlite::read_json(file.path(info_dir, "not_transferred.json"))
+get_other_packages <- function() {
+  others <- jsonlite::read_json(info_file("not_transferred.json"))
 
   format_other_repo <- function(repo) {
     if (grepl("github\\.com", repo[["url"]])) {
@@ -174,12 +168,17 @@ get_reviewed_packages <- function() {
   jsonlite::read_json('https://badges.ropensci.org/json/onboarded.json')
 }
 
-.ropensci_categories <- function(info_dir) {
+.ropensci_categories <- function() {
   readr::read_csv(
-    file.path(info_dir, "final_categories.csv"),
+    info_file("final_categories.csv"),
     show_col_types = FALSE
   )
 }
 
 #' @importFrom memoise memoise
 ropensci_categories <- memoise::memoise(.ropensci_categories)
+
+# hand-maintained files in inst/info
+info_file <- function(name) {
+  system.file("info", name, package = "roregistry", mustWork = TRUE)
+}
