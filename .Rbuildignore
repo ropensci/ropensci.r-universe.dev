@@ -5,6 +5,5 @@
 ^Makefile$
 ^\.nojekyll$
 ^packages\.json$
-^info$
 ^scripts$
 ^README\.md$

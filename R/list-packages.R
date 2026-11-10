@@ -2,13 +2,13 @@
 #'
 #' @param out_file where to save the JSON file
 #' @param info_dir where to find the hand-maintained files
-#'   (exclude list, not transferred packages, categories):
-#'   a local directory or a URL.
+#'   (exclude list, not transferred packages, categories).
+#'   Defaults to the copy installed with the package (`inst/info`).
 #'
 #' @export
 build_ropensci_packages_json <- function(
   out_file = "packages.json",
-  info_dir = default_info_dir()
+  info_dir = system.file("info", package = "roregistry")
 ) {
   # packages from our organizations
   hosted_packages <- get_hosted_packages(info_dir)
@@ -105,11 +105,7 @@ verify_new_packages <- function(previous, packages) {
   })
 }
 
-default_info_dir <- function() {
-  "https://ropensci.github.io/ropensci.r-universe.dev/info"
-}
-
-get_hosted_packages <- function(info_dir = default_info_dir()) {
+get_hosted_packages <- function(info_dir) {
   github_organizations <- c("ropensci", "ropenscilabs")
 
   excludes <- readLines(file.path(info_dir, "exclude_list.txt"))
@@ -142,7 +138,7 @@ get_hosted_packages <- function(info_dir = default_info_dir()) {
     unlist(recursive = FALSE)
 }
 
-get_other_packages <- function(info_dir = default_info_dir()) {
+get_other_packages <- function(info_dir) {
   others <- jsonlite::read_json(file.path(info_dir, "not_transferred.json"))
 
   format_other_repo <- function(repo) {
@@ -178,7 +174,7 @@ get_reviewed_packages <- function() {
   jsonlite::read_json('https://badges.ropensci.org/json/onboarded.json')
 }
 
-.ropensci_categories <- function(info_dir = default_info_dir()) {
+.ropensci_categories <- function(info_dir) {
   readr::read_csv(
     file.path(info_dir, "final_categories.csv"),
     show_col_types = FALSE

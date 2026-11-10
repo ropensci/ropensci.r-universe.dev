@@ -2,7 +2,7 @@
 categories <- readr::read_csv(
   here::here(
     file.path(
-      "info",
+      "inst", "info",
       "final_categories.csv"
     )
   )
@@ -30,7 +30,7 @@ readr::write_csv(
   categories,
   here::here(
     file.path(
-      "info",
+      "inst", "info",
       "final_categories.csv"
     )
   )

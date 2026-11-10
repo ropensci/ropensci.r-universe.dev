@@ -4,7 +4,7 @@ on:
       - gh-pages
     paths:
       - packages.json
-      - info/**
+      - inst/info/**
       
 name: Rebuild website
 

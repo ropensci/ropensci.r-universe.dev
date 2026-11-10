@@ -25,7 +25,7 @@ jobs:
 
     - name: Build packages.json
       run: |
-        roregistry::build_ropensci_packages_json(info_dir = "info")
+        roregistry::build_ropensci_packages_json(info_dir = "inst/info")
       shell: Rscript {0}
 
     - name: push
