@@ -2,7 +2,6 @@
   {
     "package": "Athlytics",
     "url": "https://github.com/ropensci/Athlytics",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 728,
@@ -17,7 +16,6 @@
   {
     "package": "BaseSet",
     "url": "https://github.com/ropensci/BaseSet",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 359,
@@ -32,7 +30,6 @@
   {
     "package": "CRediTas",
     "url": "https://github.com/ropensci/CRediTas",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 576,
@@ -47,7 +44,6 @@
   {
     "package": "CoordinateCleaner",
     "url": "https://github.com/ropensci/CoordinateCleaner",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 210,
@@ -62,7 +58,6 @@
   {
     "package": "DataPackageR",
     "url": "https://github.com/ropensci/DataPackageR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 230,
@@ -77,7 +72,6 @@
   {
     "package": "DataSpaceR",
     "url": "https://github.com/ropensci/DataSpaceR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 261,
@@ -92,7 +86,6 @@
   {
     "package": "DoOR.data",
     "url": "https://github.com/ropensci/DoOR.data",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 35,
@@ -107,7 +100,6 @@
   {
     "package": "DoOR.functions",
     "url": "https://github.com/ropensci/DoOR.functions",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 34,
@@ -122,7 +114,6 @@
   {
     "package": "EDIutils",
     "url": "https://github.com/ropensci/EDIutils",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 498,
@@ -137,7 +128,6 @@
   {
     "package": "EML",
     "url": "https://github.com/ropensci/EML",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 80,
@@ -150,24 +140,8 @@
     }
   },
   {
-    "package": "EndoMineR",
-    "url": "https://github.com/ropensci/EndoMineR",
-    "branch": "master",
-    "metadata": {
-      "review": {
-        "id": 153,
-        "status": "reviewed",
-        "version": "0.0.0.9000",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/153"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "EpiStrainDynamics",
     "url": "https://github.com/ropensci/EpiStrainDynamics",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 763,
@@ -182,7 +156,6 @@
   {
     "package": "FedData",
     "url": "https://github.com/ropensci/FedData",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 13,
@@ -197,7 +170,6 @@
   {
     "package": "GLMMcosinor",
     "url": "https://github.com/ropensci/GLMMcosinor",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 603,
@@ -212,7 +184,6 @@
   {
     "package": "GSODR",
     "url": "https://github.com/ropensci/GSODR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 79,
@@ -227,7 +198,6 @@
   {
     "package": "MODIStsp",
     "url": "https://github.com/ropensci/MODIStsp",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 184,
@@ -242,7 +212,6 @@
   {
     "package": "MtreeRing",
     "url": "https://github.com/ropensci/MtreeRing",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 287,
@@ -257,7 +226,6 @@
   {
     "package": "NLMR",
     "url": "https://github.com/ropensci/NLMR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 188,
@@ -272,7 +240,6 @@
   {
     "package": "PFW",
     "url": "https://github.com/ropensci/PFW",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 698,
@@ -287,7 +254,6 @@
   {
     "package": "PostcodesioR",
     "url": "https://github.com/ropensci/PostcodesioR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 176,
@@ -302,7 +268,6 @@
   {
     "package": "QuadratiK",
     "url": "https://github.com/ropensci/QuadratiK",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 632,
@@ -317,7 +282,6 @@
   {
     "package": "RAMEN",
     "url": "https://github.com/ropensci/RAMEN",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 743,
@@ -332,7 +296,6 @@
   {
     "package": "RNeXML",
     "url": "https://github.com/ropensci/RNeXML",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-publication"
     }
@@ -340,7 +303,6 @@
   {
     "package": "RSelenium",
     "url": "https://github.com/ropensci/RSelenium",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -348,7 +310,6 @@
   {
     "package": "ReLTER",
     "url": "https://github.com/ropensci/ReLTER",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -356,7 +317,6 @@
   {
     "package": "RefManageR",
     "url": "https://github.com/ropensci/RefManageR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 119,
@@ -371,7 +331,6 @@
   {
     "package": "Rpolyhedra",
     "url": "https://github.com/ropensci/Rpolyhedra",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 157,
@@ -386,7 +345,6 @@
   {
     "package": "SymbiotaR2",
     "url": "https://github.com/ropensci/SymbiotaR2",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 373,
@@ -401,7 +359,6 @@
   {
     "package": "UCSCXenaTools",
     "url": "https://github.com/ropensci/UCSCXenaTools",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 315,
@@ -416,7 +373,6 @@
   {
     "package": "USAboundaries",
     "url": "https://github.com/ropensci/USAboundaries",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -424,7 +380,6 @@
   {
     "package": "USAboundariesData",
     "url": "https://github.com/ropensci/USAboundariesData",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -432,15 +387,17 @@
   {
     "package": "aRxiv",
     "url": "https://github.com/ropensci/aRxiv",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
   },
   {
+    "package": "abitools",
+    "url": "https://github.com/r-universe-org/abitools"
+  },
+  {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 599,
@@ -455,7 +412,6 @@
   {
     "package": "allcontributors",
     "url": "https://github.com/ropensci/allcontributors",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -463,7 +419,6 @@
   {
     "package": "allodb",
     "url": "https://github.com/ropensci/allodb",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 436,
@@ -478,7 +433,6 @@
   {
     "package": "antanym",
     "url": "https://github.com/ropensci/antanym",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 198,
@@ -493,7 +447,6 @@
   {
     "package": "antiword",
     "url": "https://github.com/ropensci/antiword",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -501,7 +454,6 @@
   {
     "package": "aorsf",
     "url": "https://github.com/ropensci/aorsf",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 532,
@@ -516,7 +468,6 @@
   {
     "package": "arkdb",
     "url": "https://github.com/ropensci/arkdb",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 224,
@@ -531,7 +482,6 @@
   {
     "package": "assertr",
     "url": "https://github.com/tonyfischetti/assertr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 23,
@@ -546,7 +496,6 @@
   {
     "package": "auk",
     "url": "https://github.com/CornellLabofOrnithology/auk",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 136,
@@ -561,7 +510,6 @@
   {
     "package": "autotest",
     "url": "https://github.com/ropensci-review-tools/autotest",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -569,7 +517,6 @@
   {
     "package": "av",
     "url": "https://github.com/ropensci/av",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -577,7 +524,6 @@
   {
     "package": "awardFindR",
     "url": "https://github.com/ropensci/awardFindR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 432,
@@ -592,7 +538,6 @@
   {
     "package": "baRcodeR",
     "url": "https://github.com/ropensci/baRcodeR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 338,
@@ -607,7 +552,6 @@
   {
     "package": "baRulho",
     "url": "https://github.com/ropensci/baRulho",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 609,
@@ -622,7 +566,6 @@
   {
     "package": "babeldown",
     "url": "https://github.com/ropensci-review-tools/babeldown",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -630,7 +573,6 @@
   {
     "package": "babelquarto",
     "url": "https://github.com/ropensci-review-tools/babelquarto",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 720,
@@ -645,7 +587,6 @@
   {
     "package": "babette",
     "url": "https://github.com/ropensci/babette",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 209,
@@ -660,7 +601,6 @@
   {
     "package": "beastier",
     "url": "https://github.com/ropensci/beastier",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -668,7 +608,6 @@
   {
     "package": "beautier",
     "url": "https://github.com/ropensci/beautier",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -676,7 +615,6 @@
   {
     "package": "bib2df",
     "url": "https://github.com/ropensci/bib2df",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 124,
@@ -691,7 +629,6 @@
   {
     "package": "bibtex",
     "url": "https://github.com/ropensci/bibtex",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -699,7 +636,6 @@
   {
     "package": "bikedata",
     "url": "https://github.com/ropensci/bikedata",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 116,
@@ -714,7 +650,6 @@
   {
     "package": "binman",
     "url": "https://github.com/ropensci/binman",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -722,7 +657,6 @@
   {
     "package": "biomartr",
     "url": "https://github.com/ropensci/biomartr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 93,
@@ -737,7 +671,6 @@
   {
     "package": "birdsize",
     "url": "https://github.com/ropensci/birdsize",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 577,
@@ -752,7 +685,6 @@
   {
     "package": "bold",
     "url": "https://github.com/ropensci/bold",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -760,7 +692,6 @@
   {
     "package": "bowerbird",
     "url": "https://github.com/ropensci/bowerbird",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 139,
@@ -775,7 +706,6 @@
   {
     "package": "brapiR2",
     "url": "https://github.com/ropensci/brapiR2",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 792,
@@ -790,7 +720,6 @@
   {
     "package": "brranching",
     "url": "https://github.com/ropensci/brranching",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -798,7 +727,6 @@
   {
     "package": "butterfly",
     "url": "https://github.com/ropensci/butterfly",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 676,
@@ -813,7 +741,6 @@
   {
     "package": "c14bazAAR",
     "url": "https://github.com/ropensci/c14bazAAR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 333,
@@ -828,7 +755,6 @@
   {
     "package": "c3dr",
     "url": "https://github.com/ropensci/c3dr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 686,
@@ -843,7 +769,6 @@
   {
     "package": "camsRad",
     "url": "https://github.com/ropensci/camsRad",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 72,
@@ -856,9 +781,21 @@
     }
   },
   {
+    "package": "camtrapReport",
+    "url": "https://github.com/spatialecology/camtrapReport",
+    "metadata": {
+      "review": {
+        "id": 799,
+        "status": "pending",
+        "version": "1.0.47",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/799"
+      }
+    }
+  },
+  {
     "package": "canaper",
     "url": "https://github.com/ropensci/canaper",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 475,
@@ -873,7 +810,6 @@
   {
     "package": "cde",
     "url": "https://github.com/ropensci/cde",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 284,
@@ -888,7 +824,6 @@
   {
     "package": "censo2017",
     "url": "https://github.com/ropensci/censo2017",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 414,
@@ -903,7 +838,6 @@
   {
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 463,
@@ -918,7 +852,6 @@
   {
     "package": "charlatan",
     "url": "https://github.com/ropensci/charlatan",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 94,
@@ -933,7 +866,6 @@
   {
     "package": "chirps",
     "url": "https://github.com/ropensci/chirps",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 357,
@@ -948,7 +880,6 @@
   {
     "package": "chlorpromazineR",
     "url": "https://github.com/ropensci/chlorpromazineR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 307,
@@ -963,7 +894,6 @@
   {
     "package": "chopin",
     "url": "https://github.com/ropensci/chopin",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 638,
@@ -978,7 +908,6 @@
   {
     "package": "chromer",
     "url": "https://github.com/ropensci/chromer",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -986,7 +915,6 @@
   {
     "package": "ciecl",
     "url": "https://github.com/ropensci/ciecl",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 765,
@@ -1001,7 +929,6 @@
   {
     "package": "circle",
     "url": "https://github.com/ropensci/circle",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 356,
@@ -1016,7 +943,6 @@
   {
     "package": "citecorp",
     "url": "https://github.com/ropensci/citecorp",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -1024,7 +950,6 @@
   {
     "package": "ckanr",
     "url": "https://github.com/ropensci/ckanr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "databases"
     }
@@ -1032,7 +957,6 @@
   {
     "package": "cld2",
     "url": "https://github.com/ropensci/cld2",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -1040,7 +964,6 @@
   {
     "package": "cld3",
     "url": "https://github.com/ropensci/cld3",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -1048,7 +971,6 @@
   {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 130,
@@ -1063,7 +985,6 @@
   {
     "package": "coder",
     "url": "https://github.com/ropensci/coder",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 381,
@@ -1078,7 +999,6 @@
   {
     "package": "coevolve",
     "url": "https://github.com/ropensci/coevolve",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 717,
@@ -1086,13 +1006,13 @@
         "version": "0.1.0.9005",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/717"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
     "package": "colocr",
     "url": "https://github.com/ropensci/colocr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 243,
@@ -1107,15 +1027,13 @@
   {
     "package": "commonmark",
     "url": "https://github.com/r-lib/commonmark",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
   },
   {
     "package": "commonmetar",
-    "url": "https://github.com/ropensci-org/commonmetar/",
-    "branch": "main",
+    "url": "https://github.com/ropensci-org/commonmetar",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1123,7 +1041,6 @@
   {
     "package": "comtradr",
     "url": "https://github.com/ropensci/comtradr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 613,
@@ -1138,7 +1055,6 @@
   {
     "package": "concstats",
     "url": "https://github.com/ropensci/concstats",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 559,
@@ -1153,7 +1069,6 @@
   {
     "package": "credentials",
     "url": "https://github.com/r-lib/credentials",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1161,7 +1076,6 @@
   {
     "package": "crul",
     "url": "https://github.com/ropensci/crul",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -1169,7 +1083,6 @@
   {
     "package": "cyphr",
     "url": "https://github.com/ropensci/cyphr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 114,
@@ -1184,7 +1097,6 @@
   {
     "package": "daiquiri",
     "url": "https://github.com/ropensci/daiquiri",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 535,
@@ -1199,7 +1111,6 @@
   {
     "package": "dataaimsr",
     "url": "https://github.com/ropensci/dataaimsr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 428,
@@ -1214,7 +1125,6 @@
   {
     "package": "datapack",
     "url": "https://github.com/ropensci/datapack",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1222,7 +1132,6 @@
   {
     "package": "dataset",
     "url": "https://github.com/ropensci/dataset",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 681,
@@ -1237,7 +1146,6 @@
   {
     "package": "dataspice",
     "url": "https://github.com/ropensci/dataspice",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 426,
@@ -1252,7 +1160,6 @@
   {
     "package": "datefixR",
     "url": "https://github.com/ropensci/datefixR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 533,
@@ -1267,7 +1174,6 @@
   {
     "package": "dbparser",
     "url": "https://github.com/ropensci/dbparser",
-    "branch": "cran",
     "metadata": {
       "review": {
         "id": 347,
@@ -1282,7 +1188,6 @@
   {
     "package": "dendroNetwork",
     "url": "https://github.com/ropensci/dendroNetwork",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 627,
@@ -1297,7 +1202,6 @@
   {
     "package": "deposits",
     "url": "https://github.com/ropenscilabs/deposits",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-publication"
     }
@@ -1305,7 +1209,6 @@
   {
     "package": "dfms",
     "url": "https://github.com/ropensci/dfms",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 556,
@@ -1319,8 +1222,7 @@
   },
   {
     "package": "distionary",
-    "url": "https://github.com/probaverse/distionary/",
-    "branch": "main",
+    "url": "https://github.com/probaverse/distionary",
     "metadata": {
       "review": {
         "id": 688,
@@ -1335,7 +1237,6 @@
   {
     "package": "dittodb",
     "url": "https://github.com/ropensci/dittodb",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 366,
@@ -1350,7 +1251,6 @@
   {
     "package": "drake",
     "url": "https://github.com/ropensci/drake",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 156,
@@ -1365,7 +1265,6 @@
   {
     "package": "dwctaxon",
     "url": "https://github.com/ropensci/dwctaxon",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 574,
@@ -1380,7 +1279,6 @@
   {
     "package": "dynamite",
     "url": "https://github.com/ropensci/dynamite",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 554,
@@ -1395,7 +1293,6 @@
   {
     "package": "eDNAjoint",
     "url": "https://github.com/ropensci/eDNAjoint",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 642,
@@ -1410,7 +1307,6 @@
   {
     "package": "eia",
     "url": "https://github.com/ropensci/eia",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 342,
@@ -1425,7 +1321,6 @@
   {
     "package": "emld",
     "url": "https://github.com/ropensci/emld",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 269,
@@ -1439,8 +1334,7 @@
   },
   {
     "package": "emodnet.wfs",
-    "url": "https://github.com/EMODnet/emodnet.wfs/",
-    "branch": "main",
+    "url": "https://github.com/EMODnet/emodnet.wfs",
     "metadata": {
       "review": {
         "id": 653,
@@ -1455,7 +1349,6 @@
   {
     "package": "epair",
     "url": "https://github.com/ropensci/epair",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 418,
@@ -1470,7 +1363,6 @@
   {
     "package": "eph",
     "url": "https://github.com/ropensci/eph",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 593,
@@ -1485,7 +1377,6 @@
   {
     "package": "epubr",
     "url": "https://github.com/ropensci/epubr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 222,
@@ -1500,7 +1391,6 @@
   {
     "package": "ernest",
     "url": "https://github.com/ropensci/ernest",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 730,
@@ -1515,7 +1405,6 @@
   {
     "package": "essurvey",
     "url": "https://github.com/ropensci/essurvey",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 201,
@@ -1530,7 +1419,6 @@
   {
     "package": "europepmc",
     "url": "https://github.com/ropensci/europepmc",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 29,
@@ -1545,7 +1433,6 @@
   {
     "package": "excluder",
     "url": "https://github.com/ropensci/excluder",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 455,
@@ -1560,7 +1447,6 @@
   {
     "package": "exoplanets",
     "url": "https://github.com/ropensci/exoplanets",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 309,
@@ -1575,7 +1461,6 @@
   {
     "package": "ezknitr",
     "url": "https://github.com/ropensci/ezknitr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 56,
@@ -1590,7 +1475,6 @@
   {
     "package": "fastMatMR",
     "url": "https://github.com/ropensci/fastMatMR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 606,
@@ -1605,7 +1489,6 @@
   {
     "package": "fellingdater",
     "url": "https://github.com/ropensci/fellingdater",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 618,
@@ -1620,7 +1503,6 @@
   {
     "package": "fingertipsR",
     "url": "https://github.com/ropensci/fingertipsR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 168,
@@ -1635,7 +1517,6 @@
   {
     "package": "fireexposuR",
     "url": "https://github.com/ropensci/fireexposuR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 659,
@@ -1650,7 +1531,6 @@
   {
     "package": "fluidsynth",
     "url": "https://github.com/ropensci/fluidsynth",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -1658,7 +1538,6 @@
   {
     "package": "forcis",
     "url": "https://github.com/ropensci/forcis",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 660,
@@ -1673,7 +1552,6 @@
   {
     "package": "frictionless",
     "url": "https://github.com/frictionlessdata/frictionless-r",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 495,
@@ -1688,7 +1566,6 @@
   {
     "package": "galamm",
     "url": "https://github.com/ropensci/galamm",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 615,
@@ -1703,7 +1580,6 @@
   {
     "package": "gbifdb",
     "url": "https://github.com/ropensci/gbifdb",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 492,
@@ -1718,7 +1594,6 @@
   {
     "package": "gendercoder",
     "url": "https://github.com/ropensci/gendercoder",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 435,
@@ -1733,7 +1608,6 @@
   {
     "package": "geojson",
     "url": "https://github.com/ropensci/geojson",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "geospatial"
     }
@@ -1741,7 +1615,6 @@
   {
     "package": "geojsonio",
     "url": "https://github.com/ropensci/geojsonio",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "geospatial"
     }
@@ -1749,7 +1622,6 @@
   {
     "package": "geonames",
     "url": "https://github.com/ropensci/geonames",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "geospatial"
     }
@@ -1757,7 +1629,6 @@
   {
     "package": "geotargets",
     "url": "https://github.com/ropensci/geotargets",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 675,
@@ -1772,7 +1643,6 @@
   {
     "package": "gert",
     "url": "https://github.com/r-lib/gert",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1780,7 +1650,6 @@
   {
     "package": "getCRUCLdata",
     "url": "https://github.com/ropensci/getCRUCLdata",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 96,
@@ -1795,7 +1664,6 @@
   {
     "package": "ghql",
     "url": "https://github.com/ropensci/ghql",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -1803,7 +1671,6 @@
   {
     "package": "gigs",
     "url": "https://github.com/ropensci/gigs",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 626,
@@ -1818,7 +1685,6 @@
   {
     "package": "git2r",
     "url": "https://github.com/ropensci/git2r",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1826,7 +1692,6 @@
   {
     "package": "git2rdata",
     "url": "https://github.com/ropensci/git2rdata",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 263,
@@ -1841,7 +1706,6 @@
   {
     "package": "gitcellar",
     "url": "https://github.com/ropensci-org/gitcellar",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1849,7 +1713,6 @@
   {
     "package": "gitignore",
     "url": "https://github.com/ropensci/gitignore",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 303,
@@ -1864,7 +1727,6 @@
   {
     "package": "gittargets",
     "url": "https://github.com/ropensci/gittargets",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 486,
@@ -1879,7 +1741,6 @@
   {
     "package": "goodpractice",
     "url": "https://github.com/ropensci-review-tools/goodpractice",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1887,7 +1748,6 @@
   {
     "package": "googleLanguageR",
     "url": "https://github.com/ropensci/googleLanguageR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 127,
@@ -1902,7 +1762,6 @@
   {
     "package": "gpg",
     "url": "https://github.com/ropensci/gpg",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "security"
     }
@@ -1910,7 +1769,6 @@
   {
     "package": "graphql",
     "url": "https://github.com/ropensci/graphql",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -1918,7 +1776,6 @@
   {
     "package": "gtexr",
     "url": "https://github.com/ropensci/gtexr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 684,
@@ -1933,7 +1790,6 @@
   {
     "package": "gutenbergr",
     "url": "https://github.com/ropensci/gutenbergr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 41,
@@ -1948,7 +1804,6 @@
   {
     "package": "handlr",
     "url": "https://github.com/ropensci/handlr",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -1956,7 +1811,6 @@
   {
     "package": "hdcuremodels",
     "url": "https://github.com/kelliejarcher/hdcuremodels",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 692,
@@ -1971,7 +1825,6 @@
   {
     "package": "helminthR",
     "url": "https://github.com/ropensci/helminthR",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -1979,7 +1832,6 @@
   {
     "package": "historydata",
     "url": "https://github.com/ropensci/historydata",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -1987,7 +1839,6 @@
   {
     "package": "hoardr",
     "url": "https://github.com/ropensci/hoardr",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -1995,7 +1846,6 @@
   {
     "package": "hunspell",
     "url": "https://github.com/ropensci/hunspell",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -2003,7 +1853,6 @@
   {
     "package": "hydroscoper",
     "url": "https://github.com/ropensci/hydroscoper",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 185,
@@ -2018,7 +1867,6 @@
   {
     "package": "ibger",
     "url": "https://github.com/ropensci/ibger",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 787,
@@ -2026,13 +1874,13 @@
         "version": "0.2.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/787"
-      }
+      },
+      "ropensci_category": "data-access"
     }
   },
   {
     "package": "icepalace",
     "url": "https://github.com/ropenscilabs/icepalace",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2040,7 +1888,6 @@
   {
     "package": "iheatmapr",
     "url": "https://github.com/ropensci/iheatmapr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 107,
@@ -2055,7 +1902,6 @@
   {
     "package": "ijtiff",
     "url": "https://github.com/ropensci/ijtiff",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 164,
@@ -2070,7 +1916,6 @@
   {
     "package": "internetarchive",
     "url": "https://github.com/ropensci/internetarchive",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2078,7 +1923,6 @@
   {
     "package": "jagstargets",
     "url": "https://github.com/ropensci/jagstargets",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 425,
@@ -2093,7 +1937,6 @@
   {
     "package": "jenkins",
     "url": "https://github.com/ropensci/jenkins",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2101,7 +1944,6 @@
   {
     "package": "jqr",
     "url": "https://github.com/ropensci/jqr",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -2109,7 +1951,6 @@
   {
     "package": "jsonld",
     "url": "https://github.com/ropensci/jsonld",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -2117,7 +1958,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2125,7 +1965,6 @@
   {
     "package": "karel",
     "url": "https://github.com/ropensci/karel",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 620,
@@ -2140,7 +1979,6 @@
   {
     "package": "katex",
     "url": "https://github.com/ropensci/katex",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -2148,7 +1986,6 @@
   {
     "package": "lakefetch",
     "url": "https://github.com/ropensci/lakefetch",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 762,
@@ -2163,7 +2000,6 @@
   {
     "package": "landscapetools",
     "url": "https://github.com/ropensci/landscapetools",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "geospatial"
     }
@@ -2171,7 +2007,6 @@
   {
     "package": "lightr",
     "url": "https://github.com/ropensci/lightr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 267,
@@ -2186,7 +2021,6 @@
   {
     "package": "lingtypology",
     "url": "https://github.com/ropensci/lingtypology",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 95,
@@ -2201,7 +2035,6 @@
   {
     "package": "magick",
     "url": "https://github.com/ropensci/magick",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -2209,7 +2042,6 @@
   {
     "package": "mantis",
     "url": "https://github.com/ropensci/mantis",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 710,
@@ -2224,7 +2056,6 @@
   {
     "package": "mapmetadata",
     "url": "https://github.com/ropensci/mapmetadata",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 674,
@@ -2239,7 +2070,6 @@
   {
     "package": "mapscanner",
     "url": "https://github.com/ropensci/mapscanner",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 330,
@@ -2254,7 +2084,6 @@
   {
     "package": "mauricer",
     "url": "https://github.com/ropensci/mauricer",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2262,7 +2091,6 @@
   {
     "package": "mbquartR",
     "url": "https://github.com/ropensci/mbquartR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 658,
@@ -2277,7 +2105,6 @@
   {
     "package": "mcbette",
     "url": "https://github.com/ropensci/mcbette",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 360,
@@ -2292,7 +2119,6 @@
   {
     "package": "mctq",
     "url": "https://github.com/ropensci/mctq",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 434,
@@ -2307,7 +2133,6 @@
   {
     "package": "medrxivr",
     "url": "https://github.com/ropensci/medrxivr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 380,
@@ -2322,7 +2147,6 @@
   {
     "package": "melt",
     "url": "https://github.com/ropensci/melt",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 550,
@@ -2336,8 +2160,7 @@
   },
   {
     "package": "monarch",
-    "url": "https://github.com/ropensci-org/monarch/",
-    "branch": "main",
+    "url": "https://github.com/ropensci-org/monarch",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2345,7 +2168,6 @@
   {
     "package": "mregions2",
     "url": "https://github.com/ropensci/mregions2",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 590,
@@ -2360,7 +2182,6 @@
   {
     "package": "naijR",
     "url": "https://github.com/ropensci/naijR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 600,
@@ -2375,7 +2196,6 @@
   {
     "package": "nasapower",
     "url": "https://github.com/ropensci/nasapower",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 155,
@@ -2390,7 +2210,6 @@
   {
     "package": "natserv",
     "url": "https://github.com/ropensci/natserv",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2398,15 +2217,26 @@
   {
     "package": "neotoma",
     "url": "https://github.com/ropensci/neotoma",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
   },
   {
+    "package": "nert",
+    "url": "https://github.com/ropensci/nert",
+    "metadata": {
+      "review": {
+        "id": 785,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/785"
+      }
+    }
+  },
+  {
     "package": "nlrx",
     "url": "https://github.com/ropensci/nlrx",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 262,
@@ -2421,7 +2251,6 @@
   {
     "package": "nodbi",
     "url": "https://github.com/ropensci/nodbi",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "databases"
     }
@@ -2429,7 +2258,6 @@
   {
     "package": "nomisr",
     "url": "https://github.com/ropensci/nomisr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 190,
@@ -2444,7 +2272,6 @@
   {
     "package": "npi",
     "url": "https://github.com/ropensci/npi",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 505,
@@ -2459,7 +2286,6 @@
   {
     "package": "nuts",
     "url": "https://github.com/ropensci/nuts",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 623,
@@ -2474,7 +2300,6 @@
   {
     "package": "nycOpenData",
     "url": "https://github.com/ropensci/nycOpenData",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 750,
@@ -2489,7 +2314,6 @@
   {
     "package": "oai",
     "url": "https://github.com/ropensci/oai",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 19,
@@ -2504,7 +2328,6 @@
   {
     "package": "occCite",
     "url": "https://github.com/ropensci/occCite",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 407,
@@ -2519,7 +2342,6 @@
   {
     "package": "ohun",
     "url": "https://github.com/ropensci/ohun",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 568,
@@ -2534,7 +2356,6 @@
   {
     "package": "openalexR",
     "url": "https://github.com/ropensci/openalexR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 560,
@@ -2549,7 +2370,6 @@
   {
     "package": "opencage",
     "url": "https://github.com/ropensci/opencage",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 36,
@@ -2564,7 +2384,6 @@
   {
     "package": "opencv",
     "url": "https://github.com/ropensci/opencv",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -2572,7 +2391,6 @@
   {
     "package": "opentripplanner",
     "url": "https://github.com/ropensci/opentripplanner",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 295,
@@ -2587,7 +2405,6 @@
   {
     "package": "orgmetrics",
     "url": "https://github.com/ropensci-review-tools/orgmetrics",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2595,7 +2412,6 @@
   {
     "package": "osfr",
     "url": "https://github.com/ropensci/osfr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 279,
@@ -2610,7 +2426,6 @@
   {
     "package": "osmapiR",
     "url": "https://github.com/ropensci/osmapiR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 633,
@@ -2625,7 +2440,6 @@
   {
     "package": "osmdata",
     "url": "https://github.com/ropensci/osmdata",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 103,
@@ -2640,7 +2454,6 @@
   {
     "package": "osmextract",
     "url": "https://github.com/ropensci/osmextract",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 395,
@@ -2655,7 +2468,6 @@
   {
     "package": "osmplotr",
     "url": "https://github.com/ropensci/osmplotr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 27,
@@ -2670,7 +2482,6 @@
   {
     "package": "outcomerate",
     "url": "https://github.com/ropensci/outcomerate",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 213,
@@ -2685,7 +2496,6 @@
   {
     "package": "paleobioDB",
     "url": "https://github.com/ropensci/paleobioDB",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2693,7 +2503,6 @@
   {
     "package": "pangaear",
     "url": "https://github.com/ropensci/pangaear",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2701,7 +2510,6 @@
   {
     "package": "pangoling",
     "url": "https://github.com/ropensci/pangoling",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 575,
@@ -2716,7 +2524,6 @@
   {
     "package": "partialling.out",
     "url": "https://github.com/ropensci/partialling.out",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 703,
@@ -2731,7 +2538,6 @@
   {
     "package": "parzer",
     "url": "https://github.com/ropensci/parzer",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 341,
@@ -2746,7 +2552,6 @@
   {
     "package": "patentsview",
     "url": "https://github.com/ropensci/patentsview",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 112,
@@ -2761,7 +2566,6 @@
   {
     "package": "pathviewr",
     "url": "https://github.com/ropensci/pathviewr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 409,
@@ -2776,7 +2580,6 @@
   {
     "package": "pdftools",
     "url": "https://github.com/ropensci/pdftools",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -2784,7 +2587,6 @@
   {
     "package": "phonfieldwork",
     "url": "https://github.com/ropensci/phonfieldwork",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 385,
@@ -2799,7 +2601,6 @@
   {
     "package": "phruta",
     "url": "https://github.com/ropensci/phruta",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 458,
@@ -2814,7 +2615,6 @@
   {
     "package": "phylocomr",
     "url": "https://github.com/ropensci/phylocomr",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -2822,7 +2622,6 @@
   {
     "package": "phylogram",
     "url": "https://github.com/ropensci/phylogram",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 212,
@@ -2837,7 +2636,6 @@
   {
     "package": "phylotaR",
     "url": "https://github.com/ropensci/phylotaR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 187,
@@ -2852,7 +2650,6 @@
   {
     "package": "piggyback",
     "url": "https://github.com/ropensci/piggyback",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 220,
@@ -2867,7 +2664,6 @@
   {
     "package": "pixelclasser",
     "url": "https://github.com/ropensci/pixelclasser",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 406,
@@ -2882,7 +2678,6 @@
   {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2890,7 +2685,6 @@
   {
     "package": "pkgmatch",
     "url": "https://github.com/ropensci-review-tools/pkgmatch",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 671,
@@ -2905,7 +2699,6 @@
   {
     "package": "pkgreviewr",
     "url": "https://github.com/ropensci-org/pkgreviewr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2913,7 +2706,6 @@
   {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2921,7 +2713,6 @@
   {
     "package": "plater",
     "url": "https://github.com/ropensci/plater",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 60,
@@ -2936,7 +2727,6 @@
   {
     "package": "postdoc",
     "url": "https://github.com/ropensci/postdoc",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2944,7 +2734,6 @@
   {
     "package": "predictNMB",
     "url": "https://github.com/ropensci/predictNMB",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 566,
@@ -2959,7 +2748,6 @@
   {
     "package": "prism",
     "url": "https://github.com/ropensci/prism",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -2967,15 +2755,13 @@
   {
     "package": "prismjs",
     "url": "https://github.com/ropensci/prismjs",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
   },
   {
     "package": "promoutils",
-    "url": "https://github.com/ropensci-org/promoutils/",
-    "branch": "main",
+    "url": "https://github.com/ropensci-org/promoutils",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -2983,7 +2769,6 @@
   {
     "package": "pvEBayes",
     "url": "https://github.com/ropensci/pvEBayes",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 760,
@@ -2998,7 +2783,6 @@
   {
     "package": "qcoder",
     "url": "https://github.com/ropenscilabs/qcoder",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -3006,7 +2790,6 @@
   {
     "package": "qpdf",
     "url": "https://github.com/ropensci/qpdf",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -3014,7 +2797,6 @@
   {
     "package": "quadkeyr",
     "url": "https://github.com/ropensci/quadkeyr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 619,
@@ -3029,7 +2811,6 @@
   {
     "package": "qualR",
     "url": "https://github.com/ropensci/qualR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 474,
@@ -3044,7 +2825,6 @@
   {
     "package": "qualtRics",
     "url": "https://github.com/ropensci/qualtRics",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 192,
@@ -3059,7 +2839,6 @@
   {
     "package": "quartificate",
     "url": "https://github.com/ropenscilabs/quartificate",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3067,7 +2846,6 @@
   {
     "package": "rOPTRAM",
     "url": "https://github.com/ropensci/rOPTRAM",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 612,
@@ -3082,7 +2860,6 @@
   {
     "package": "ramlegacy",
     "url": "https://github.com/ropensci/ramlegacy",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 264,
@@ -3097,7 +2874,6 @@
   {
     "package": "rangr",
     "url": "https://github.com/ropensci/rangr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 595,
@@ -3112,7 +2888,6 @@
   {
     "package": "rb3",
     "url": "https://github.com/ropensci/rb3",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 534,
@@ -3127,7 +2902,6 @@
   {
     "package": "rcites",
     "url": "https://github.com/ropensci/rcites",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 244,
@@ -3142,7 +2916,6 @@
   {
     "package": "rcrisp",
     "url": "https://github.com/CityRiverSpaces/rcrisp",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 718,
@@ -3150,13 +2923,13 @@
         "version": "0.1.4",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/718"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
     "package": "rcrossref",
     "url": "https://github.com/ropensci/rcrossref",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -3164,7 +2937,6 @@
   {
     "package": "rdatacite",
     "url": "https://github.com/ropensci/rdatacite",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -3172,7 +2944,6 @@
   {
     "package": "rdataretriever",
     "url": "https://github.com/ropensci/rdataretriever",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3180,7 +2951,6 @@
   {
     "package": "rdflib",
     "url": "https://github.com/ropensci/rdflib",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 169,
@@ -3195,7 +2965,6 @@
   {
     "package": "rdhs",
     "url": "https://github.com/ropensci/rdhs",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 238,
@@ -3210,7 +2979,6 @@
   {
     "package": "rdryad",
     "url": "https://github.com/ropensci/rdryad",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3218,7 +2986,6 @@
   {
     "package": "read.abares",
     "url": "https://github.com/ropensci/read.abares",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 667,
@@ -3233,7 +3000,6 @@
   {
     "package": "readODS",
     "url": "https://github.com/ropensci/readODS",
-    "branch": "v2.4",
     "metadata": {
       "review": {
         "id": 386,
@@ -3248,7 +3014,6 @@
   {
     "package": "rebird",
     "url": "https://github.com/ropensci/rebird",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3256,7 +3021,6 @@
   {
     "package": "redland",
     "url": "https://github.com/ropensci/redland-bindings",
-    "branch": "master",
     "subdir": "R/redland",
     "metadata": {
       "ropensci_category": "data-extraction"
@@ -3265,7 +3029,6 @@
   {
     "package": "refsplitr",
     "url": "https://github.com/ropensci/refsplitr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 256,
@@ -3280,7 +3043,6 @@
   {
     "package": "rentrez",
     "url": "https://github.com/ropensci/rentrez",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3288,7 +3050,6 @@
   {
     "package": "repometrics",
     "url": "https://github.com/ropensci-review-tools/repometrics",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3296,7 +3057,6 @@
   {
     "package": "rerddap",
     "url": "https://github.com/ropensci/rerddap",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3304,7 +3064,6 @@
   {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 232,
@@ -3319,7 +3078,6 @@
   {
     "package": "reviser",
     "url": "https://github.com/ropensci/reviser",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 709,
@@ -3334,7 +3092,6 @@
   {
     "package": "rfema",
     "url": "https://github.com/ropensci/rfema",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 484,
@@ -3349,7 +3106,6 @@
   {
     "package": "rfishbase",
     "url": "https://github.com/ropensci/rfishbase",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 137,
@@ -3364,7 +3120,6 @@
   {
     "package": "rfisheries",
     "url": "https://github.com/ropensci/rfisheries",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3372,7 +3127,6 @@
   {
     "package": "rgbif",
     "url": "https://github.com/ropensci/rgbif",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3380,7 +3134,6 @@
   {
     "package": "rglobi",
     "url": "https://github.com/ropensci/rglobi",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3388,7 +3141,6 @@
   {
     "package": "rgnparser",
     "url": "https://github.com/ropensci/rgnparser",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -3396,7 +3148,6 @@
   {
     "package": "rgpdd",
     "url": "https://github.com/ropensci/rgpdd",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3404,7 +3155,6 @@
   {
     "package": "riem",
     "url": "https://github.com/ropensci/riem",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 39,
@@ -3419,7 +3169,6 @@
   {
     "package": "rinat",
     "url": "https://github.com/ropensci/rinat",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3427,7 +3176,6 @@
   {
     "package": "ritis",
     "url": "https://github.com/ropensci/ritis",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -3435,7 +3183,6 @@
   {
     "package": "rix",
     "url": "https://github.com/ropensci/rix",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 625,
@@ -3450,7 +3197,6 @@
   {
     "package": "rixpress",
     "url": "https://github.com/ropensci/rixpress",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 706,
@@ -3465,7 +3211,6 @@
   {
     "package": "rmangal",
     "url": "https://github.com/ropensci/rmangal",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 332,
@@ -3480,7 +3225,6 @@
   {
     "package": "rnassqs",
     "url": "https://github.com/ropensci/rnassqs",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 298,
@@ -3495,7 +3239,6 @@
   {
     "package": "rnaturalearth",
     "url": "https://github.com/ropensci/rnaturalearth",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 22,
@@ -3510,7 +3253,6 @@
   {
     "package": "rnaturalearthdata",
     "url": "https://github.com/ropensci/rnaturalearthdata",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "geospatial"
     }
@@ -3518,7 +3260,6 @@
   {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3526,7 +3267,6 @@
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3534,7 +3274,6 @@
   {
     "package": "roadoi",
     "url": "https://github.com/ropensci/roadoi",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 115,
@@ -3549,7 +3288,6 @@
   {
     "package": "roblog",
     "url": "https://github.com/ropensci-org/roblog",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3557,7 +3295,6 @@
   {
     "package": "robotstxt",
     "url": "https://github.com/ropensci/robotstxt",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 25,
@@ -3572,7 +3309,6 @@
   {
     "package": "roreviewapi",
     "url": "https://github.com/ropensci-review-tools/roreviewapi",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3580,7 +3316,6 @@
   {
     "package": "rotemplate",
     "url": "https://github.com/ropensci-org/rotemplate",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3588,7 +3323,6 @@
   {
     "package": "rotl",
     "url": "https://github.com/ropensci/rotl",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 17,
@@ -3603,7 +3337,6 @@
   {
     "package": "rredlist",
     "url": "https://github.com/ropensci/rredlist",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 663,
@@ -3618,7 +3351,6 @@
   {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 118,
@@ -3633,7 +3365,6 @@
   {
     "package": "rrricanesdata",
     "url": "https://github.com/ropensci/rrricanesdata",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3641,7 +3372,6 @@
   {
     "package": "rsat",
     "url": "https://github.com/ropensci/rsat",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 437,
@@ -3655,8 +3385,7 @@
   },
   {
     "package": "rsi",
-    "url": "https://github.com/Permian-Global-Research/rsi/",
-    "branch": "main",
+    "url": "https://github.com/Permian-Global-Research/rsi",
     "metadata": {
       "review": {
         "id": 636,
@@ -3671,7 +3400,6 @@
   {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3679,7 +3407,6 @@
   {
     "package": "rsvg",
     "url": "https://github.com/ropensci/rsvg",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -3687,7 +3414,6 @@
   {
     "package": "rtika",
     "url": "https://github.com/ropensci/rtika",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 191,
@@ -3702,7 +3428,6 @@
   {
     "package": "ruODK",
     "url": "https://github.com/ropensci/ruODK",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 335,
@@ -3717,7 +3442,6 @@
   {
     "package": "rvertnet",
     "url": "https://github.com/ropensci/rvertnet",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3725,15 +3449,13 @@
   {
     "package": "rzmq",
     "url": "https://github.com/ropensci/rzmq",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
   },
   {
     "package": "saperlipopette",
-    "url": "https://github.com/ropensci-training/saperlipopette/",
-    "branch": "main",
+    "url": "https://github.com/ropensci-training/saperlipopette",
     "metadata": {
       "review": {
         "id": 754,
@@ -3748,7 +3470,6 @@
   {
     "package": "sasquatch",
     "url": "https://github.com/ropensci/sasquatch",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 673,
@@ -3762,8 +3483,7 @@
   },
   {
     "package": "sits",
-    "url": "https://github.com/e-sensing/sits/",
-    "branch": "master",
+    "url": "https://github.com/e-sensing/sits",
     "metadata": {
       "review": {
         "id": 596,
@@ -3778,7 +3498,6 @@
   {
     "package": "skimr",
     "url": "https://github.com/ropensci/skimr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 175,
@@ -3793,7 +3512,6 @@
   {
     "package": "skynet",
     "url": "https://github.com/ropensci/skynet",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 214,
@@ -3808,7 +3526,6 @@
   {
     "package": "slopes",
     "url": "https://github.com/ropensci/slopes",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 420,
@@ -3823,7 +3540,6 @@
   {
     "package": "smapr",
     "url": "https://github.com/ropensci/smapr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 231,
@@ -3838,7 +3554,6 @@
   {
     "package": "sodium",
     "url": "https://github.com/r-lib/sodium",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3846,7 +3561,6 @@
   {
     "package": "sofa",
     "url": "https://github.com/ropensci/sofa",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "databases"
     }
@@ -3854,7 +3568,6 @@
   {
     "package": "spatsoc",
     "url": "https://github.com/ropensci/spatsoc",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 237,
@@ -3869,7 +3582,6 @@
   {
     "package": "spelling",
     "url": "https://github.com/ropensci/spelling",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -3877,7 +3589,6 @@
   {
     "package": "spiro",
     "url": "https://github.com/ropensci/spiro",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 541,
@@ -3892,7 +3603,6 @@
   {
     "package": "spocc",
     "url": "https://github.com/ropensci/spocc",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -3900,7 +3610,6 @@
   {
     "package": "srr",
     "url": "https://github.com/ropensci-review-tools/srr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -3908,7 +3617,6 @@
   {
     "package": "ssarp",
     "url": "https://github.com/ropensci/ssarp",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 685,
@@ -3923,7 +3631,6 @@
   {
     "package": "ssh",
     "url": "https://github.com/ropensci/ssh",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "security"
     }
@@ -3931,7 +3638,6 @@
   {
     "package": "stantargets",
     "url": "https://github.com/ropensci/stantargets",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 430,
@@ -3946,7 +3652,6 @@
   {
     "package": "stats19",
     "url": "https://github.com/ropensci/stats19",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 266,
@@ -3961,7 +3666,6 @@
   {
     "package": "stplanr",
     "url": "https://github.com/ropensci/stplanr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 10,
@@ -3976,7 +3680,6 @@
   {
     "package": "suppdata",
     "url": "https://github.com/ropensci/suppdata",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 195,
@@ -3991,7 +3694,6 @@
   {
     "package": "suwo",
     "url": "https://github.com/ropensci/suwo",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 729,
@@ -4006,7 +3708,6 @@
   {
     "package": "tabulapdf",
     "url": "https://github.com/ropensci/tabulapdf",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 42,
@@ -4021,7 +3722,6 @@
   {
     "package": "tacmagic",
     "url": "https://github.com/ropensci/tacmagic",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 280,
@@ -4036,7 +3736,6 @@
   {
     "package": "tarchetypes",
     "url": "https://github.com/ropensci/tarchetypes",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -4044,7 +3743,6 @@
   {
     "package": "targets",
     "url": "https://github.com/ropensci/targets",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 401,
@@ -4059,7 +3757,6 @@
   {
     "package": "taxa",
     "url": "https://github.com/ropensci/taxa",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -4067,7 +3764,6 @@
   {
     "package": "taxadb",
     "url": "https://github.com/ropensci/taxadb",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 344,
@@ -4082,7 +3778,6 @@
   {
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -4090,7 +3785,6 @@
   {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -4098,7 +3792,6 @@
   {
     "package": "taxlist",
     "url": "https://github.com/ropensci/taxlist",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 233,
@@ -4113,7 +3806,6 @@
   {
     "package": "terrainr",
     "url": "https://github.com/ropensci/terrainr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 416,
@@ -4128,7 +3820,6 @@
   {
     "package": "tesseract",
     "url": "https://github.com/ropensci/tesseract",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "image-processing"
     }
@@ -4136,7 +3827,6 @@
   {
     "package": "textreuse",
     "url": "https://github.com/ropensci/textreuse",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 20,
@@ -4151,7 +3841,6 @@
   {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 305,
@@ -4166,7 +3855,6 @@
   {
     "package": "tidyhydat",
     "url": "https://github.com/ropensci/tidyhydat",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 152,
@@ -4181,7 +3869,6 @@
   {
     "package": "tidync",
     "url": "https://github.com/ropensci/tidync",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 174,
@@ -4196,7 +3883,6 @@
   {
     "package": "tidypmc",
     "url": "https://github.com/ropensci/tidypmc",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 290,
@@ -4211,7 +3897,6 @@
   {
     "package": "tidyqpcr",
     "url": "https://github.com/ropensci/tidyqpcr",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 470,
@@ -4226,7 +3911,6 @@
   {
     "package": "tif",
     "url": "https://github.com/ropenscilabs/tif",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -4234,7 +3918,6 @@
   {
     "package": "tiler",
     "url": "https://github.com/ropensci/tiler",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 226,
@@ -4249,7 +3932,6 @@
   {
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -4257,7 +3939,6 @@
   {
     "package": "tokenizers",
     "url": "https://github.com/ropensci/tokenizers",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 33,
@@ -4272,7 +3953,6 @@
   {
     "package": "tracerer",
     "url": "https://github.com/ropensci/tracerer",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -4280,7 +3960,6 @@
   {
     "package": "tradestatistics",
     "url": "https://github.com/ropensci/tradestatistics",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 274,
@@ -4295,7 +3974,6 @@
   {
     "package": "traits",
     "url": "https://github.com/ropensci/traits",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -4303,7 +3981,6 @@
   {
     "package": "treebase",
     "url": "https://github.com/ropensci/treebase",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -4311,7 +3988,6 @@
   {
     "package": "treedata.table",
     "url": "https://github.com/ropensci/treedata.table",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 367,
@@ -4326,7 +4002,6 @@
   {
     "package": "treeio",
     "url": "https://github.com/YuLab-SMU/treeio",
-    "branch": "devel",
     "metadata": {
       "review": {
         "id": 179,
@@ -4341,7 +4016,6 @@
   {
     "package": "treestartr",
     "url": "https://github.com/ropensci/treestartr",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 239,
@@ -4356,7 +4030,6 @@
   {
     "package": "trud",
     "url": "https://github.com/ropensci/trud",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 705,
@@ -4371,7 +4044,6 @@
   {
     "package": "tsbox",
     "url": "https://github.com/ropensci/tsbox",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 464,
@@ -4386,7 +4058,6 @@
   {
     "package": "unifir",
     "url": "https://github.com/ropensci/unifir",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 521,
@@ -4401,7 +4072,6 @@
   {
     "package": "universe",
     "url": "https://github.com/ropensci/universe",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "scalereprod"
     }
@@ -4409,7 +4079,6 @@
   {
     "package": "unrtf",
     "url": "https://github.com/ropensci/unrtf",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "literature"
     }
@@ -4417,7 +4086,6 @@
   {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -4425,7 +4093,6 @@
   {
     "package": "virtuoso",
     "url": "https://github.com/ropensci/virtuoso",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 271,
@@ -4440,7 +4107,6 @@
   {
     "package": "visdat",
     "url": "https://github.com/ropensci/visdat",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 87,
@@ -4455,7 +4121,6 @@
   {
     "package": "wateRinfo",
     "url": "https://github.com/ropensci/wateRinfo",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 255,
@@ -4470,7 +4135,6 @@
   {
     "package": "waywiser",
     "url": "https://github.com/ropensci/waywiser",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 571,
@@ -4485,7 +4149,6 @@
   {
     "package": "wdman",
     "url": "https://github.com/ropensci/wdman",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -4493,7 +4156,6 @@
   {
     "package": "weatherOz",
     "url": "https://github.com/ropensci/weatherOz",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 598,
@@ -4508,7 +4170,6 @@
   {
     "package": "weathercan",
     "url": "https://github.com/ropensci/weathercan",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 160,
@@ -4523,7 +4184,6 @@
   {
     "package": "webchem",
     "url": "https://github.com/ropensci/webchem",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-access"
     }
@@ -4531,7 +4191,6 @@
   {
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
-    "branch": "main",
     "metadata": {
       "ropensci_category": "http-tools"
     }
@@ -4539,7 +4198,6 @@
   {
     "package": "wikitaxa",
     "url": "https://github.com/ropensci/wikitaxa",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -4547,7 +4205,6 @@
   {
     "package": "wmm",
     "url": "https://github.com/wfrierson/wmm",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 522,
@@ -4562,7 +4219,6 @@
   {
     "package": "workloopR",
     "url": "https://github.com/ropensci/workloopR",
-    "branch": "master",
     "metadata": {
       "review": {
         "id": 326,
@@ -4577,7 +4233,6 @@
   {
     "package": "worrms",
     "url": "https://github.com/ropensci/worrms",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "taxonomy"
     }
@@ -4585,7 +4240,6 @@
   {
     "package": "writexl",
     "url": "https://github.com/ropensci/writexl",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -4593,7 +4247,6 @@
   {
     "package": "xslt",
     "url": "https://github.com/ropensci/xslt",
-    "branch": "master",
     "metadata": {
       "ropensci_category": "data-extraction"
     }
@@ -4601,7 +4254,6 @@
   {
     "package": "yfR",
     "url": "https://github.com/ropensci/yfR",
-    "branch": "main",
     "metadata": {
       "review": {
         "id": 523,
