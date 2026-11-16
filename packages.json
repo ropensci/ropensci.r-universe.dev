@@ -423,14 +423,6 @@
     }
   },
   {
-    "package": "abitools",
-    "url": "https://github.com/r-universe-org/abitools",
-    "metadata": {
-      "ropensci_category": "scalereprod",
-      "ropensci_categories": ["scalereprod"]
-    }
-  },
-  {
     "package": "agroclimatico",
     "url": "https://github.com/ropensci/agroclimatico",
     "metadata": {
